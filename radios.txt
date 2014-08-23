@@ -1,8 +1,14 @@
 100003 Radio Board Tech
+100020 Radio Board Tech
 100022 FIRST 8105
 100023 State Patrol 224
+100026 Radio Board Tech
+100028 Radio Board Tech
+100038 Radio Board Tech
 100039 Radio Board Tech
 100063 State Patrol K351
+100075 Afton 892
+100078 Afton 893
 100127 State Patrol 926
 100128 State Patrol 4601
 100137 State Patrol 435
@@ -11,6 +17,7 @@
 100148 State Patrol 425
 100151 State Patrol 106
 100152 State Patrol 385
+100155 State Patrol 272
 100156 State Patrol 113
 100159 State Patrol 114
 100162 State Patrol 230
@@ -20,6 +27,7 @@
 100168 State Patrol 12
 100170 State Patrol 583
 100176 Capitol Security
+100181 State Patrol 19
 100182 State Patrol 146
 100184 State Patrol 187
 100185 State Patrol 129
@@ -49,26 +57,33 @@
 100252 State Patrol 215
 100254 State Patrol 147
 100256 State Patrol K374
+100257 State Patrol 80
 100263 State Patrol 483
 100270 State Patrol 405
 100271 State Patrol 17
 100272 State Patrol 304
+100275 State Patrol 292
+100277 State Patrol ???
 100280 State Patrol 330
 100281 State Patrol 71
 100282 State Patrol 131
 100284 State Patrol 570
 100286 State Patrol 191
 100287 State Patrol 333
+100291 State Patrol ???
 100294 State Patrol 416
 100298 State Patrol 2400
+100299 State Patrol ?04
 100304 State Patrol 2401
 100306 State Patrol 304
 100324 State Patrol 227
 100326 State Patrol 100
+100327 State Patrol 156
 100330 State Patrol 355
 100331 State Patrol 549
 100334 State Patrol 274
 100337 State Patrol 275
+100338 State Patrol 156
 100340 State Patrol 106
 100341 State Patrol 256
 100342 State Patrol 337 (mobile)
@@ -82,7 +97,7 @@
 100359 State Patrol 324
 100362 State Patrol 515
 100363 State Patrol 330
-100364 State Patrol 333
+100364 State Patrol 333/198
 100366 State Patrol 398
 100368 State Patrol 142
 100373 State Patrol 187
@@ -114,11 +129,14 @@
 100427 State Patrol 479
 100432 State Patrol 149
 100433 State Patrol 147
+100434 State Patrol 292
+100435 State Patrol 466
 100442 State Patrol 4713
 100443 State Patrol 1652
 100448 State Patrol 59
 100451 State Patrol 243
 100453 State Patrol 191
+100454 State Patrol 2403
 100455 State Patrol 73
 100461 State Patrol 502
 100462 State Patrol 198
@@ -128,6 +146,7 @@
 100468 State Patrol 2500
 100470 State Patrol 55
 100471 State Patrol 196
+100473 State Patrol 4701
 100475 State Patrol 346
 100476 State Patrol 209
 100477 State Patrol 458
@@ -149,7 +168,7 @@
 100501 State Patrol 559
 100504 State Patrol 4
 100505 State Patrol 4
-100514 State Patrol 5213 ???
+100514 State Patrol 573
 100518 State Patrol 61
 100520 State Patrol 430
 100521 State Patrol 430
@@ -159,6 +178,7 @@
 100536 State Patrol 241
 100543 State Patrol 922
 100544 State Patrol 2504
+100545 State Patrol 924
 100546 State Patrol 4701
 100549 State Patrol 82
 100552 State Patrol 71
@@ -204,9 +224,11 @@
 100812 FIRST 810x
 100818 State Patrol 337/123
 100835 State Patrol 'car 20'
+100836 Radio Board Tech
 100838 State Patrol 4712
 100876 HSEM State 77
 100884 HSEM Operations
+100906 State Patrol 551
 100913 State Patrol 346
 100947 State Patrol 1764
 100975 State Patrol 925
@@ -218,7 +240,9 @@
 101015 State Patrol 473
 101022 State Patrol 227
 101038 State Patrol 442
+101044 State Patrol 312
 101045 State Patrol 221
+101072 Radio Board Tech
 101213 State Patrol 513
 101214 State Patrol 211
 101215 State Patrol 215
@@ -234,6 +258,7 @@
 101226 State Patrol 357
 101227 State Patrol 161
 101233 State Patrol 282
+101235 State Patrol 502
 101239 State Patrol 360 (223?)
 101244 State Patrol 477
 101249 State Patrol 221
@@ -270,7 +295,7 @@
 101688 State Patrol 269
 101691 State Patrol 318
 101693 State Patrol 466
-101694 State Patrol 80 (mobile)
+101694 State Patrol ???
 101697 State Patrol 77
 101718 State Patrol K352
 101728 State Patrol 334
@@ -286,8 +311,9 @@
 101804 State Patrol 596
 101805 State Patrol 120
 101807 State Patrol 929
-101808 State Patrol 73
+101808 State Patrol 73/264
 101810 State Patrol 193
+101811 State Patrol ???
 101812 State Patrol 393
 101813 State Patrol 72
 101816 State Patrol 233 ??
@@ -301,9 +327,11 @@
 102235 Trooper 9
 102236 Trooper 9
 102265 William O'Brien 491
+102266 William O'Brien 495
 102269 William O'Brien Base
 102270 William O'Brien
 102317 State Patrol 176
+102318 William O'Brien 492
 102325 Trooper 7
 102328 William O'Brien
 102330 William O'Brien 493
@@ -316,10 +344,12 @@
 103031 State Patrol 55
 103035 State Patrol 491
 103037 State Patrol 513
+103091 State Patrol 98
 103633 State Patrol 161
 103645 State Patrol 211
-103646 State Patrol 509
+103646 State Patrol 509/511?
 103647 State Patrol 479
+103648 State Patrol 543
 103650 State Patrol 98
 103664 State Patrol 931
 103665 State Patrol 924
@@ -327,7 +357,7 @@
 103674 State Patrol 1790
 103985 State Patrol 594
 103993 State Patrol 23
-103994 State Patrol 385
+103994 State Patrol 385/227
 103996 State Patrol 128
 104004 Radio Board Tech
 104016 State Patrol Dispatch
@@ -342,14 +372,20 @@
 105060 Air Care 5
 105066 Air Care 4
 105068 North 701
+105080 North 705
+105086 North 707
+105089 North 708
 105101 North 710
+105105 North 711
 105106 North 711
+105107 North 712
 105110 North 713
 105111 North 713
 105113 North 714
 105114 North 714
 105116 North 711
 105118 North 715
+105122 North 717
 105125 North 718
 105127 North 718
 105128 North 719
@@ -363,22 +399,25 @@
 105137 North 722
 105138 North 722
 105139 North 722
+105140 North 723
 105143 North 724
 105144 North 74
 105146 North 725
 105148 North 725
-105149 ??? 720
+105149 North 720
 105151 North 726
 105152 North 727
 105153 North 727
 105158 North 729
+105161 North 731
+105163 North 731
 105164 North 732
 105165 North 732
 105167 North 733
 105167 North 733
 105168 North 733
 105171 North 734
-105172 ??? 734
+105172 North 734
 105191 North 721
 105210 North Memorial Medical Center
 105226 North 301
@@ -460,6 +499,7 @@
 106065 Allina 987
 106072 Allina 639
 106074 Allina 634
+106301 Allina Dispatch
 106302 Allina Dispatch
 106303 Allina Dispatch
 106305 Allina Dispatch
@@ -528,55 +568,151 @@
 108169 Metro Mobility 668
 109464 Metrotransit RCC
 109796 Transit Police Dispatch
+113057 Minneapolis PD (962)
+113074 Minneapolis PD (850)
 113086 Minneapolis PD
+113172 Minneapolis PD (120)
 113177 Minneapolis Engine 11
 113180 Minneapolis Engine 17
 113183 Minneapolis Engine 8
 113184 Minneapolis Engine 14
+113185 Minneapolis PD (410)
 113186 Minneapolis Engine 4
+113191 Minneapolis (495)
 113200 Minneapolis Engine 5
 113206 Minneapolis PD
+113211 Minneapolis PD (959)
 113214 Minneapolis Fire Salvage
 113240 Minneapolis Ladder 10
-113279 Minneapolis PD
+113279 Minneapolis PD (212)
 113293 Minneapolis Engine 7
 113395 Minneapolis Engine 15
 113410 Minneapolis Chief 3
 113441 Minneapolis Rescue 1
+113451 Minneapolis PD (208)
+113461 Minneapolis PD (866)
 113499 Minneapolis Chief 4
 113510 Minneapolis Fire Deputy
+113543 ??? 9248
 113605 Minneapolis PD
+113621 Minneapolis PD (424)
+113630 MPLS SCH ("Thomas")
+113662 Minneapolis PD (110)
+113664 HCSO ... 8513
+113677 Minneapolis PD (110)
+113683 Minneapolis PD (530)
+113693 Minneapolis PD (110)
+113711 Minneapolis PD (210)
+113737 Minneapolis PD (961)
+113757 Minneapolis PD (311)
+113758 Minneapolis PD (341)
 113761 Minneapolis Fire Medic 1 (?)
+113774 Minneapolis PD (112)
+113780 Minneapolis PD (420)
+113837 ??? 8320
+113858 Minneapolis PD
+113871 Minneapolis PD (462)
 113908 Minneapolis PD
+113939 HCSO ... 8511
+113945 Minneapolis PD (866)
+113972 Minneapolis PD (106)
+113988 Minneapolis PD (510)
+113990 Minneapolis PD (222)
 114008 Minneapolis Fire Deputy
-114019 Minneapolis PD
+114009 Minneapolis PD (965)
+114012 Minneapolis PD (110)
+114019 Minneapolis PD (321)
 114079 Minneapolis PD
+114087 Minneapolis PD (304)
+114092 Minneapolis PD (321)
+114103 Minneapolis PD (406)
+114109 ??? 8310 ?
+114142 Minneapolis PD (404)
 114164 Minneapolis PD
+114192 Minneapolis PD (462)
+114194 Minneapolis PD (207)
+114205 Minneapolis PD (506)
+114212 ??? 1220
+114217 Minneapolis PD (304)
 114256 Minneapolis Engine 27
-114295 Minneapolis PD
+114265 Minneapolis PD (961?)
+114274 Minneapolis PD (363)
+114280 HCSO ... (8519)
+114281 Minneapolis PD (261)
+114285 Minneapolis PD (510)
+114295 ??? 8310 ?
+114298 Minneapolis PD (220)
+114300 Minneapolis PD (311)
+114312 Minneapolis PD (382)
+114328 Minneapolis PD (404)
+114338 Minneapolis PD (108)
+114339 Minneapolis PD (222)
+114356 Minneapolis PD (408)
 114381 Minneapolis PD
+114391 Minneapolis PD
 114401 Minneapolis PD
 114421 Minneapolis PD
+114423 Minneapolis PD (330)
+114434 Minneapolis PD (220)
+114451 Minneapolis PD (120)
+114458 MPLS SCH ("Jackie/Bob")
+114520 Minneapolis PD (310)
+114533 Minneapolis PD (8??)
+114534 Minneapolis PD (311)
+114723 Minneapolis PD
+114739 ??? 8320 Minneapolis?
+114764 Minneapolis PD (510)
 114775 Minneapolis Animal Control 30
-114833 Minneapolis PD
-114890 Minneapolis PD
+114777 Minneapolis PD (211)
+114811 Minneapolis PD (320)
+114818 Minneapolis PD (581)
+114833 Minneapolis PD (310)
+114865 Minneapolis PD (293)
+114890 Minneapolis PD (361)
+114895 Minneapolis PD (952)
+114915 Minneapolis PD (320)
 114918 Minneapolis PD
-114925 Minneapolis PD
-114939 Minneapolis PD
+114925 Minneapolis PD (340)
+114927 Minneapolis PD (850)
+114929 Minneapolis PD (120)
+114938 Minneapolis PD (293)
+114939 Minneapolis PD (8320)
+114941 Minneapolis PD (302)
+114944 Minneapolis PD (955)
 114945 Minneapolis PD
+114960 ??? 6149
+114962 Minneapolis PD (510A)
 114977 Minneapolis Engine 1
-115061 Minneapolis PD
+114988 Minneapolis PD (530)
+115001 Minneapolis PD (408)
+115015 Minneapolis PD
+115017 Minneapolis PD 962
+115019 Minneapolis PD (212)
+115026 HCSO ... 8513
+115037 Minneapolis PD (404)
+115041 Minneapolis PD (210)
+115046 Minneapolis PD (211)
+115057 Minneapolis PD (310)
+115061 Minneapolis PD (830)
 115071 Minneapolis Chief 4
 115074 Minneapolis Ladder 11
-115077 Minneapolis PD
+115077 Minneapolis PD (320)
+115081 Minneapolis PD (112)
+115085 Minneapolis PD (3..)
+115096 Minneapolis PD (106)
+115098 Minneapolis PD (520)
 115100 Minneapolis Chief 1
 115101 Minneapolis Engine 22
 115102 Minneapolis PD
 115103 Minneapolis Engine 16
+115110 Minneapolis PD (430)
+115113 Minneapolis PD (514)
 115120 Minneapolis Engine 6
+115121 Minneapolis PD (420)
 115125 Minneapolis Engine 2
 115127 Minneapolis Chief 5
 115127 Minneapolis Fire Chief 5
+115141 Minneapolis Fire Chief 2
 115145 Minneapolis Engine 7
 115146 Minneapolis Engine 12
 115150 Minneapolis Engine 19
@@ -621,12 +757,18 @@
 115350 Minneapolis Engine 17
 115352 Minneapolis Engine 12
 115372 Minneapolis Fire Deputy(?)
+115376 Minneapolis PD (410)
+115379 Minneapolis PD (506)
+115380 Minneapolis PD
+115382 Minneapolis PD (311/341)
 115384 Minneapolis Engine 7
-115385 Minneapolis PD
+115385 Minneapolis PD (331)
+115496 Minneapolis PD (394)
 115500 Minneapolis Ladder 4
 115526 Minneapolis Animal Control 12
 115581 Minneapolis Animal Control Dispatch
 115632 Minneapolis Fire ???
+115694 Minneapolis PD (420)
 115758 Command Post
 115787 Minneapolis Boat 22
 115790 Minneapolis Engine 1
@@ -634,11 +776,15 @@
 115848 Minneapolis Ladder 3
 115849 Minneapolis Engine 1
 115856 Minneapolis Engine 2
+115871 Minneapolis PD 852
+115908 Minneapolis PD (212)
 116869 Minneapolis Dispatch
 117145 Minneapolis Police Dispatch
+117148 Minneapolis Police Dispatch
 117195 Minneapolis Police Dispatch
 117245 Minneapolis Police Dispatch
 117247 Minneapolis Police Dispatch
+117250 Minneapolis Police Dispatch
 117296 Minneapolis Police Dispatch
 117298 Minneapolis Police Dispatch
 117899 Minneapolis Fire Dispatch
@@ -683,9 +829,12 @@
 120798 HCMC Dispatch
 120799 HCMC Dispatch
 120820 HCMC Dispatch
+120821 HCMC Dispatch
+120823 HCMC Dispatch
 121780 FBI
 121790 FBI
 122174 UMN Security Dispatch
+122202 Radio Board Tech
 122276 Fridley PD
 122546 Blaine PD
 122568 Blaine PD
@@ -967,6 +1116,7 @@
 131469 Burnsville PD
 131470 Burnsville PD
 131471 Burnsville PD
+131472 Lakeville PD
 131476 Burnsville PD
 131477 Burnsville PD
 131481 Burnsville PD
@@ -1284,6 +1434,7 @@
 133215 Lakeville PD
 133219 Lakeville PD
 133223 Lakeville PD
+133225 Lakeville PD
 133226 Lakeville PD
 133231 Lakeville PD
 133232 Lakeville PD
@@ -1302,6 +1453,7 @@
 133252 Lakeville PD
 133253 Lakeville PD
 133255 Lakeville PD 4871
+133262 Lakeville PD
 133265 Lakeville PD
 133266 Lakeville PD
 133267 Lakeville PD
@@ -1329,16 +1481,17 @@
 133902 Rosemount PD
 133903 Rosemount PD
 133904 Rosemount PD 3537
+133906 Rosemount PD
 133907 Rosemount PD (35S26)
 133909 Rosemount PD
 133911 Rosemount PD
 133920 Rosemount PD
 133921 Rosemount PD
-133922 Rosemount PD (JP?)
+133922 Rosemount PD
 133925 Rosemount PD (35S??)
 133926 Rosemount PD
 133927 Rosemount PD (Mike)
-133928 Rosemount PD 3535
+133928 Rosemount PD
 133929 Rosemount PD
 133930 Rosemount PD
 133931 Rosemount PD (Joe)
@@ -1346,6 +1499,7 @@
 133933 Rosemount PD
 133934 Rosemount PD
 133935 Rosemount PD
+133942 Rosemount PD
 133945 Rosemount PD
 134009 South Metro Fire ???
 134014 South Metro Ambulance 1
@@ -1396,7 +1550,7 @@
 134220 West St Paul PD
 134224 West St Paul PD (2146?)
 134225 West St Paul PD
-134228 West St Paul 2641
+134228 West St Paul PD 2641
 134229 West St Paul PD
 134231 West St. Paul PD 2636
 134233 West St Paul PD
@@ -1436,6 +1590,7 @@
 141101 Chisago County
 141102 Chisago County Dispatch
 141245 DOT Chisago ???
+142923 Radio Board Tech
 146615 Isanti County Dispatch
 151209 UMN Police Dispatch
 151609 Dakota County Dispatch
@@ -2523,10 +2678,11 @@
 153465 Dakota County Dispatch
 154048 Metro Mobility Dispatch
 154049 Metro Mobility 922
+154107 Minneapolis PD (473)
 158535 Air Care 2
 158544 Air Care 4
 158546 Air Care 4
-158568 North Ambulance 737
+158568 North 737
 158569 North 737
 158570 North Ambulance 737
 158573 North 736
@@ -2534,6 +2690,7 @@
 158575 North 736
 158590 Air Care 1
 158591 Air Care 5
+158838 North BEEP
 159144 J6
 159219 One-Zero-November
 159247 Golf 12
@@ -2567,10 +2724,11 @@
 160711 DOC Shakopee Transport
 160850 DOC ("Doug?")
 160851 DOC ("Bruce")
-160854 DOC ("Terry")
+160854 DOC ("Terry/Nutter")
 160857 DOC ("??")
 160859 DOC ("Doc")
 160860 DOC ("Caroline")
+160861 DOC ("Doc")
 160862 DOC ("Joyce")
 160863 DOC ("Mike")
 160864 DOC ("Joyce")
@@ -2579,16 +2737,23 @@
 160869 DOC ("Dave")
 160873 DOC ("Mike")
 160874 DOC ("Doc")
+160876 DOC 2315
+160878 DOC ("Doc")
 160882 DOC ("Bruce")
 160883 DOC ("Nate")
 160886 DOC ("")
+299952 Radio Board Tech
+299961 Radio Board Tech
 299992 Radio Board MOTO Tech
 299998 Radio Board MOTO Tech
 300274 HCMC 431
 300326 HCMC 429
 300327 HCMC 432
+300328 HCMC 415
+300331 Minnetrista PD
 300332 Brooklyn Park PD
 300334 Brooklyn Park PD
+300335 Plymouth PD 6717?
 300340 HCMC 411
 300345 Brooklyn Park PD
 300354 HCMC 418
@@ -2596,8 +2761,17 @@
 300804 HCMC 423
 300809 HCMC 437
 300830 Hennepin (???)1742
+301021 Minnetrista PD
+301024 Minnetrista PD
+301025 Minnetrista PD
+301026 Minnetrista PD
+301032 Minnetrista PD
+301100 Minnetrista PD
+301103 Minnetrista PD
+301107 Minnetrista PD
 301156 Plymouth PD 6713
 301158 Plymouth PD 6718
+301173 Orono PD 6538
 301178 Orono PD 6524
 301195 St Anthony Fire Engine 12
 301436 ??? 407
@@ -2615,38 +2789,67 @@
 301452 HCMC 433
 301459 HCMC CP1
 301461 HCMC 409 (???)
+301499 Orono PD 6539
+301706 Brooklyn Park PD
 301818 Wayzata PD 7215
 301837 Minneapolis Fire Medic 1
+301874 Edina PD
 302064 Brooklyn Park PD
 302089 Brooklyn Park PD
 302109 Brooklyn Park PD
 302121 Brooklyn Park PD
+302127 Brooklyn Park PD
+302133 Brooklyn Park PD
 302145 Brooklyn Park PD
 302153 Brooklyn Park PD
 302154 Brooklyn Park PD
 302155 Brooklyn Park PD
+302163 Brooklyn Park PD
+302166 Brooklyn Park PD
 302168 Brooklyn Park PD
+302170 Brooklyn Park PD
 302172 Brooklyn Park PD
+302177 Brooklyn Park PD
+302179 Brooklyn Park PD
 302314 Brooklyn Park PD
 302429 Plymouth Fire Engine 21
 302538 Plymouth Fire
 302552 Plymouth Fire Engine 21
 302664 Brooklyn Park Fire Battalion 1
+302715 Orono PD
 302717 Dayton Fire Rescue 11 (boat)
 302720 Dayton Fire Grass 21
 302724 Dayton Fire Chief 1
 302728 Dayton Fire Captain 21
+302904 Brooklyn Park PD
+302906 Brooklyn Park PD
+302908 Minnetrista PD
+302957 Minnetrista PD
+302959 Minnetrista PD
+303140 Edina PD
+303159 Edina PD
 303164 Edina PD
+303173 Edina PD
+303189 Edina PD
+303192 Edina PD
 303209 Edina Medic 1
 303217 Edina Medic 2
 303230 Edina Medic 1
+303261 Edina PD
+303559 Brooklyn Park PD
 303646 Airport PD
 303680 Airport PD
+303700 Minnetrista PD
 303727 Airport PD
 303742 Airport PD
 303804 Hopkins Fire Chief 3
 303862 Hopkins Fire Chief 3
 303902 Brooklyn Park PD
+303905 Brooklyn Park PD
+303911 Brooklyn Park PD
+303922 Brooklyn Park PD
+303930 Brooklyn Park PD
+303936 Brooklyn Park PD
 304337 Brooklyn Center PD
 304365 Brooklyn Center PD
 304369 Brooklyn Center PD
@@ -2654,11 +2857,44 @@
 304384 Brooklyn Center PD
 304390 Brooklyn Center PD
 304402 Brooklyn Center Rescue 5
+304545 Edina PD (145)
+304895 Edina PD
+304914 Edina PD (3508)
+305090 Golden Valley PD 3551?
+305092 Golden Valley PD (3513)
+305100 Golden Valley PD (3523)
+305270 Radio Board Tech
 305303 Hennepin 1760 (?)
 305326 Hennepin 1701 (?)
 305333 Edina PD Dispatch
+305346 HCSO Water Patrol
+305356 Richfield PD
+305369 Edina PD
+305378 Richfield PD
+305381 Richfield PD (2511)
+305382 Richfield PD
+305384 Richfield PD (2514)
+305385 Richfield PD (2510)
+305421 Edina Dispatch
+305423 Edina Dispatch
+305570 Minnetrista PD? ... 8171
+305628 Hennepin Co SO ???
+305738 Richfield PD (2513)
+305740 Richfield PD (2510)
+305741 Richfield PD (2514)
+305749 Richfield PD
+305751 Richfield PD
 305761 HCMC 427 (or spare?)
 305766 HCMC 431?
+305777 Richfield PD (2546)
+305783 Edina Dispatch
+305784 Edina PD
+305800 Edina PD
+305802 Edina PD
+305803 Richfield PD (2511)
+305807 Richfield PD
+305808 Richfield PD (2563)
+306083 Edina Dispatch
 306158 HCMC CP1
 306221 HCMC 411
 306222 HCMC 411
@@ -2699,8 +2935,7 @@
 306518 HCMC 434
 306519 HCMC 435
 306520 HCMC 435
-306522 ??? 408
-306522 HCMC 408
+306522 HCMC 408 (Doc?)
 306545 HCS Sys Tech ???
 306566 HCMC 424
 306626 HCMC 424
@@ -2721,8 +2956,14 @@
 306716 HCMC 410 (Sup)
 306818 Brooklyn Park PD
 306917 Brooklyn Park PD
+306929 Minnetrista PD
+306930 Minnetrista PD
+306958 Brooklyn Park PD
+306959 Brooklyn Park PD
+306961 Brooklyn Park PD
 306964 Brooklyn Park PD
 306965 Brooklyn Park PD
+306971 Brooklyn Park PD
 307007 Brooklyn Park PD
 307107 Brooklyn Park PD
 307540 Airport Police Dispatch
@@ -2733,6 +2974,7 @@
 308671 Airport PD
 308727 HCMC 432
 308728 HCMC Spare Radio?
+308798 Brooklyn Park PD
 308801 Brooklyn Park PD
 308823 Dayton Fire Utility 21
 308881 Airport PD
@@ -2756,13 +2998,30 @@
 309080 Brooklyn Park PD
 309081 Brooklyn Park PD
 309342 HCMC 410 (Sup)
+309357 Brooklyn Park PD
+309367 Minnetrista PD
 309384 Brooklyn Park PD
+309386 Brooklyn Park PD
+309387 Brooklyn Park PD
+309388 Brooklyn Park PD
 309512 Hopkins Fire Rescue 8
+309515 Minnetrista PD
+309516 Minnetrista PD
+309518 Minnetrista PD
+309521 Minnetrista PD 8116
 309544 Brooklyn Center PD
 309783 Brooklyn Park PD
 309784 Brooklyn Park PD
 309786 Brooklyn Park PD
+309788 Brooklyn Park PD
+309790 Brooklyn Park PD
+309792 Brooklyn Park PD
+309794 Brooklyn Park PD
 309801 Brooklyn Park PD
+309802 Brooklyn Park PD
+309808 Brooklyn Park PD
+309809 Brooklyn Park PD
+309811 Brooklyn Park PD
 309814 Brooklyn Park PD
 310035 HCMC 436
 310036 HCMC 436
@@ -2785,6 +3044,8 @@
 310114 Hennepin County Dispatch
 310119 Hennepin County Dispatch
 310564 St Paul Dispatch
+310665 St Paul Dispatch
+312057 St Paul Dispatch
 312371 East MRCC
 312407 Statewide MRCC
 312471 East MRCC
@@ -2793,6 +3054,9 @@
 314654 Roseville PD
 314703 Roseville PD
 314704 Roseville PD
+315059 Radio Board Tech
+315246 Radio Board Tech
+316921 State Fair Dispatch
 317108 Maplewood Medic 331
 317145 Maplewood Medic 321
 317163 Maplewood Medic 331
@@ -2815,10 +3079,15 @@
 322203 St Paul Medic 9
 322204 St Paul Medic 9
 322206 Medic 17 (St Paul?)
+322219 State Fair Ranger 1/2
+322221 State Fair Ranger 1
+322222 State Fair Ranger 2
 322243 St Paul Medic 8
 322248 St Paul Medic 23
+322257 St Paul Fire Reserve Medic 62
 322264 St Paul Medic 6
 322265 St Paul Medic 22
+322269 State Fair Ranger 1/2
 322309 St Paul Medic 4
 322310 St Paul Medic 17
 322326 St Paul Medic 24
@@ -2826,6 +3095,10 @@
 328501 Bloomington PD Dispatch
 328502 Bloomington PD Dispatch
 328503 Bloomington PD Dispatch
+328505 Bloomington PD Dispatch
+328506 Bloomington PD Dispatch
+328507 Bloomington PD Dispatch
+328550 Bloomington Animal Dispatch
 328551 Bloomington Animal Dispatch
 328552 Bloomington Animal Dispatch
 328553 Bloomington Animal Dispatch
@@ -2847,10 +3120,12 @@
 329293 Bloomington PD
 329296 Bloomington PD
 329301 Bloomington PD
+329304 Bloomington PD
 329309 Bloomington PD
 329317 Bloomington PD
 329319 Bloomington PD
 329320 Bloomington PD
+329323 Bloomington PD
 329327 Bloomington PD
 329833 Bloomington PD
 329834 Bloomington PD
@@ -2864,6 +3139,7 @@
 329847 Bloomington PD
 329848 Bloomington PD
 329851 Bloomington PD
+329858 Bloomington PD
 329902 Bloomington Animal 4957
 329907 Bloomington Animal 4957
 329913 Bloomington PD
@@ -2872,7 +3148,13 @@
 330254 Eden Prairie PD
 500002 State Patrol Dispatch
 500003 State Patrol Dispatch
+500010 Radio Board Tech
+500015 Radio Board Tech
 500016 State Patrol Dispatch
+500024 Radio Board Tech
+500027 Radio Board Tech
+500028 Radio Board Tech
+500030 Radio Board Tech
 500103 State Patrol 470
 500104 State Patrol 245
 500108 State Patrol 105
@@ -2908,6 +3190,7 @@
 500195 State Patrol 182
 500197 State Patrol 406
 500203 State Patrol ???
+500216 Radio Board Tech
 500217 State Patrol 2103
 500219 State Patrol 2102
 500224 State Patrol 378
@@ -3047,6 +3330,7 @@
 515503 Red Wing PD
 515504 Red Wing PD
 515521 Pine Island First Responders
+515527 State Patrol ???
 515630 Goodhue County Dispatch
 515645 Cannon Falls Ambulance 1
 515718 Goodhue County?
@@ -3114,6 +3398,7 @@
 557057 McLeod County Dispatch
 557414 McLeod 1217
 581082 Blue Earth County Dispatch
+600009 Radio Board Tech
 600029 State Patrol Dispatch
 600036 State Patrol Dispatch (2600)
 600099 Radio Board Tech
@@ -3138,6 +3423,7 @@
 600333 State Patrol 278
 600530 State Patrol 517
 600532 State Patrol 132
+600649 Radio Board Tech
 600988 State Patrol 290
 620003 Wright County Dispatch
 620004 Wright Dispatch
@@ -3147,6 +3433,7 @@
 656025 New River Ambulance 5705
 656027 ??? 3706
 656030 New River Ambulance 5706
+700151 State Patrol 71
 700190 State Patrol 460
 700235 State Patrol 511
 700236 State Patrol 1621
