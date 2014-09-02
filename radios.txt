@@ -450,6 +450,7 @@
 105241 North 717
 105248 North Memorial Medical Center
 105260 North 103
+105279 Air Care Dispatch
 105297 Air Care 700 (Dispatch)
 105298 Air Care Dispatch
 105335 North Dispatch
@@ -624,6 +625,17 @@
 109782 Metro Transit Dispatch
 109796 Transit Police Dispatch
 111370 National Weather Service
+111404 Chaska PD
+111405 Chaska PD
+111411 Chaska PD
+111415 Chaska PD
+111420 Chaska PD
+111423 Chaska PD
+111440 Chaska PD
+111445 Chaska PD
+111449 Chaska PD
+111456 Chaska PD
+111457 Chaska PD
 112163 Carver County Dispatch
 113057 Minneapolis PD (962)
 113074 Minneapolis PD (850)
@@ -992,10 +1004,12 @@
 122596 Blaine PD
 122597 Blaine PD
 122603 Blaine PD
+122604 Blaine PD
 122607 Anoka PD
 122610 Anoka PD
 122611 Anoka PD
 122613 Anoka PD
+122616 Anoka PD
 122620 Anoka PD
 122624 Anoka PD
 122628 Anoka PD
@@ -1012,6 +1026,8 @@
 122725 Ramsey PD
 122728 Ramsey PD
 122730 Ramsey PD
+122743 Anoka County SO
+122754 Anoka County SO
 122764 Lino Lakes PD
 122770 Lino Lakes PD
 122772 Lino Lakes PD
@@ -1025,6 +1041,7 @@
 122800 Coon Rapids PD
 122803 Coon Rapids PD
 122804 Coon Rapids PD
+122807 Coon Rapids PD
 122810 Coon Rapids PD
 122817 Coon Rapids PD
 122826 Coon Rapids PD
@@ -1046,6 +1063,7 @@
 122871 Columbia Heights PD
 122873 Columbia Heights PD
 122877 Columbia Heights PD
+122887 St Francis PD
 122892 Coon Rapids PD
 122897 Blaine PD
 122980 Oak Grove Fire Lieutenant 2
@@ -1073,8 +1091,10 @@
 123173 Andover PD
 123179 Anoka County SO
 123187 Anoka County SO
+123202 Andover PD
 123218 Blaine PD
 123222 Centennial PD
+123225 Coon Rapids PD?
 123228 Coon Rapids PD
 123230 Fridley PD
 123232 Fridley PD
@@ -1093,6 +1113,7 @@
 123333 Blaine PD
 123335 Blaine PD
 123336 Blaine PD
+123337 Blaine PD
 123339 Blaine PD
 123342 Blaine PD
 123344 Blaine PD
@@ -1114,6 +1135,7 @@
 123383 Coon Rapids PD
 123384 Coon Rapids PD
 123387 Coon Rapids PD
+123388 Coon Rapids PD
 123389 Coon Rapids PD
 123390 Coon Rapids PD
 123391 Coon Rapids PD
@@ -1123,14 +1145,20 @@
 123396 Coon Rapids PD
 123407 Andover PD
 123408 Anoka County SO
+123409 Anoka County SO
 123411 Anoka County SO
+123417 Anoka County SO
 123419 Andover PD
+123420 Andover PD
 123421 Anoka County SO
 123423 Anoka County SO
 123428 Anoka County SO
+123431 Anoka County SO
+123433 Anoka County SO
 123434 Anoka County SO
 123493 Centennial PD
 123494 Centennial PD
+123495 Centennial PD
 123496 Centennial PD
 123498 Centennial PD
 123502 Spring Lake Park PD
@@ -1157,6 +1185,7 @@
 123552 Oak Grove Fire Engine 21
 123559 Oak Grove Fire Station 1
 123564 St Francis PD
+123630 Andover PD
 123668 Blaine PD
 123670 Blaine PD
 123672 Blaine PD
@@ -1164,9 +1193,11 @@
 123698 Ramsey PD
 123726 Lino Lakes PD
 123742 Coon Rapids PD
+123748 Anoka County SO
 123755 Columbia Heights PD
 123793 Columbia Heights PD
 123804 Lino Lakes PD
+123815 Anoka County SO
 123848 Coon Rapids PD
 123878 Blaine PD
 123879 Blaine PD
@@ -1174,6 +1205,7 @@
 123885 Centennial PD
 123999 Ramsey PD
 124032 Anoka County SO
+124034 Anoka County SO
 124036 Anoka County SO
 124038 Andover PD
 124042 Blaine PD
@@ -1200,6 +1232,7 @@
 125676 Anoka County Dispatch
 125735 Anoka County Dispatch
 125778 Anoka County Dispatch
+125782 Anoka County Dispatch
 126020 Polk County Dispatch
 126036 Washington Co SO
 126037 Wash Co SO
@@ -3904,6 +3937,7 @@
 600649 Radio Board Tech
 600988 State Patrol 290
 616376 Big Lake Fire Captain 2
+616750 Elk River Fire Chief 1
 620003 Wright County Dispatch
 620004 Wright Dispatch
 620030 Monticello 5704
