@@ -454,7 +454,6 @@
 105165 North 732
 105166 North 732
 105167 North 733
-105167 North 733
 105168 North 733
 105169 North 733
 105171 North 734
@@ -746,29 +745,29 @@
 113131 Minneapolis PD
 113135 Minneapolis PD
 113172 Minneapolis PD (120)
-113177 Minneapolis Engine 11
+113177 Minneapolis Fire Engine 11
 113178 Minneapolis Fire Mobile Command
-113180 Minneapolis Engine 17
-113183 Minneapolis Engine 8
-113184 Minneapolis Engine 14
+113180 Minneapolis Fire Engine 17
+113183 Minneapolis Fire Engine 8
+113184 Minneapolis Fire Engine 14
 113185 Minneapolis PD
-113186 Minneapolis Engine 4
-113191 Minneapolis (495)
-113200 Minneapolis Engine 5
+113186 Minneapolis Fire Engine 4
+113191 Minneapolis PD (495)
+113200 Minneapolis Fire Engine 5
 113202 Minneapolis PD (Badge 6090)
 113206 Minneapolis PD
 113211 Minneapolis PD (959)
 113214 Minneapolis Fire Salvage
-113240 Minneapolis Ladder 10/3?
+113240 Minneapolis Fire Ladder 10/3?
 113279 Minneapolis PD
-113293 Minneapolis Engine 7
-113395 Minneapolis Engine 15
-113410 Minneapolis Chief 3
-113441 Minneapolis Rescue 1
-113448 Minneapolis Rescue 9
+113293 Minneapolis Fire Engine 7
+113395 Minneapolis Fire Engine 15
+113410 Minneapolis Fire Chief 3
+113441 Minneapolis Fire Rescue 1
+113448 Minneapolis Fire Rescue 9
 113451 Minneapolis PD (208)
 113461 Minneapolis PD (866)
-113499 Minneapolis Chief 4
+113499 Minneapolis Fire Chief 4
 113501 Minneapolis Fire Chief 2
 113510 Minneapolis Fire Deputy
 113512 Minneapolis PD 9253?
@@ -850,7 +849,7 @@
 114232 Minneapolis PD (Badge 4521)
 114247 Minneapolis PD
 114254 Minneapolis Fire 1050
-114256 Minneapolis Engine 27
+114256 Minneapolis Fire Engine 27
 114265 Minneapolis PD (961?)
 114274 Minneapolis PD (363)
 114280 HCSO ... (8519)
@@ -937,113 +936,110 @@
 115046 Minneapolis PD (211)
 115057 Minneapolis PD
 115061 Minneapolis PD (830)
-115071 Minneapolis Chief 4
-115074 Minneapolis Ladder 11
+115071 Minneapolis Fire Chief 4
+115074 Minneapolis Fire Ladder 11
 115077 Minneapolis PD
 115081 Minneapolis PD (112)
 115085 Minneapolis PD (3..)
 115095 Minneapolis PD (Squad 120)
 115096 Minneapolis PD (106)
 115098 Minneapolis PD
-115100 Minneapolis Chief 1
-115101 Minneapolis Engine 22
+115100 Minneapolis Fire Chief 1
+115101 Minneapolis Fire Engine 22
 115102 Minneapolis PD
-115103 Minneapolis Engine 16
+115103 Minneapolis Fire Engine 16
 115108 Minneapolis PD
 115110 Minneapolis PD (430)
 115113 Minneapolis PD
 115117 Minneapolis PD
 115118 Minneapolis PD
-115120 Minneapolis Engine 6
+115120 Minneapolis Fire Engine 6
 115121 Minneapolis PD (420)
-115125 Minneapolis Engine 2
-115126 Minneapolis Ladder 3
-115127 Minneapolis Chief 5
+115125 Minneapolis Fire Engine 2
+115126 Minneapolis Fire Ladder 3
 115127 Minneapolis Fire Chief 5
 115141 Minneapolis Fire Chief 2
-115145 Minneapolis Engine 7
-115146 Minneapolis Engine 12
-115150 Minneapolis Engine 19
-115151 Minneapolis Engine 14
-115152 Minneapolis Ladder 4
-115165 Minneapolis Engine 17
-115172 Minneapolis Ladder 2
-115173 Minneapolis Engine 28
-115176 Minneapolis Ladder 5
+115145 Minneapolis Fire Engine 7
+115146 Minneapolis Fire Engine 12
+115150 Minneapolis Fire Engine 19
+115151 Minneapolis Fire Engine 14
+115152 Minneapolis Fire Ladder 4
+115165 Minneapolis Fire Engine 17
+115172 Minneapolis Fire Ladder 2
+115173 Minneapolis Fire Engine 28
+115176 Minneapolis Fire Ladder 5
 115203 Minneapolis PD
-115206 Minneapolis Engine 21
-115212 Minneapolis Ladder 3
-115217 Minneapolis Ladder 10
-115225 Minneapolis Engine 20
+115206 Minneapolis Fire Engine 21
+115212 Minneapolis Fire Ladder 3
+115217 Minneapolis Fire Ladder 10
+115225 Minneapolis Fire Engine 20
 115229 Minneapolis PD
 115244 Minneapolis Fire ?
-115245 Minneapolis Engine 2
-115246 Minneapolis Engine 4
-115247 Minneapolis Engine 5
-115248 Minneapolis Engine 6
-115250 Minneapolis Engine 7
-115252 Minneapolis Engine 11
+115245 Minneapolis Fire Engine 2
+115246 Minneapolis Fire Engine 4
+115247 Minneapolis Fire Engine 5
+115248 Minneapolis Fire Engine 6
+115250 Minneapolis Fire Engine 7
+115252 Minneapolis Fire Engine 11
 115253 Minneapolis Fire Salvage?
-115254 Minneapolis Engine 14
-115255 Minneapolis Engine 15
-115256 Minneapolis Engine 16
-115258 Minneapolis Engine 19
-115259 Minneapolis Engine 20
-115260 Minneapolis Engine 21
-115262 Minneapolis Engine 27
-115264 Minneapolis Rescue 1
+115254 Minneapolis Fire Engine 14
+115255 Minneapolis Fire Engine 15
+115256 Minneapolis Fire Engine 16
+115258 Minneapolis Fire Engine 19
+115259 Minneapolis Fire Engine 20
+115260 Minneapolis Fire Engine 21
+115262 Minneapolis Fire Engine 27
+115264 Minneapolis Fire Rescue 1
 115269 Minneapolis Fire Chief 1
-115274 Minneapolis Ladder 11
-115276 Minneapolis Ladder 3
-115279 Minneapolis Ladder 5
-115281 Minneapolis Ladder 10
-115281 Minneapolis Ladder 10
-115284 Minneapolis Ladder 10
-115286 Minneapolis Engine 12
-115291 Minneapolis Rescue 9
-115292 Minneapolis Rescue 9
+115274 Minneapolis Fire Ladder 11
+115276 Minneapolis Fire Ladder 3
+115279 Minneapolis Fire Ladder 5
+115281 Minneapolis Fire Ladder 10
+115284 Minneapolis Fire  Ladder 10
+115286 Minneapolis Fire Engine 12
+115291 Minneapolis Fire Rescue 9
+115292 Minneapolis Fire Rescue 9
 115300 Minneapolis Fire 1050?
-115307 Minneapolis Engine 8
-115307 Minneapolis Engine 8
+115307 Minneapolis Fire Engine 8
 115308 Minneapolis Fire Chief 1
-115309 Minneapolis Engine 14?
-115314 Minneapolis Ladder 11
-115317 Minneapolis Ladder 2
-115318 Minneapolis Engine 1
-115319 Minneapolis Ladder 4
+115309 Minneapolis Fire Engine 14?
+115314 Minneapolis Fire Ladder 11
+115317 Minneapolis Fire Ladder 2
+115318 Minneapolis Fire Engine 1
+115319 Minneapolis Fire Ladder 4
 115320 Minneapolis Fire ???
-115325 Minneapolis Engine 14
-115331 Minneapolis Engine 4
-115348 Minneapolis Ladder 2
-115350 Minneapolis Engine 17
-115352 Minneapolis Engine 12
-115355 Minneapolis Engine 16
-115367 Minneapolis Chief 3
+115325 Minneapolis Fire Engine 14
+115331 Minneapolis Fire Engine 4
+115348 Minneapolis Fire Ladder 2
+115350 Minneapolis Fire Engine 17
+115352 Minneapolis Fire Engine 12
+115355 Minneapolis Fire Engine 16
+115367 Minneapolis Fire Chief 3
 115372 Minneapolis Fire Deputy
 115376 Minneapolis PD (410)
 115379 Minneapolis PD
 115380 Minneapolis PD
 115382 Minneapolis PD (311/341)
-115384 Minneapolis Engine 7
+115384 Minneapolis Fire Engine 7
 115385 Minneapolis PD
 115386 Minneapolis PD
 115492 Minneapolis PD
 115496 Minneapolis PD (394)
-115500 Minneapolis Ladder 4
+115500 Minneapolis Fire Ladder 4
 115526 Minneapolis Animal Control 12
 115581 Minneapolis Animal Control Dispatch
-115631 Minneapolis Ladder 11
+115631 Minneapolis Fire Ladder 11
 115632 Minneapolis Fire ???
 115638 Minneapolis PD
 115694 Minneapolis PD (420)
 115706 Minneapolis PD
 115758 Command Post
-115787 Minneapolis Boat 22
-115790 Minneapolis Engine 1
-115810 Minneapolis Chief 5
-115848 Minneapolis Ladder 3
-115849 Minneapolis Engine 1
-115856 Minneapolis Engine 2
+115787 Minneapolis Fire Boat 22
+115790 Minneapolis Fire Engine 1
+115810 Minneapolis Fire Chief 5
+115848 Minneapolis Fire Ladder 3
+115849 Minneapolis Fire Engine 1
+115856 Minneapolis Fire Engine 2
 115871 Minneapolis PD 852
 115875 Minneapolis PD? 1103
 115884 Minneapolis PD
@@ -1082,7 +1078,6 @@
 117899 Minneapolis Fire Dispatch
 117932 Minneapolis Dispatch
 117947 Minneapolis Dispatch
-117947 Minneapolis Fire Dispatch
 117949 Minneapolis Fire Dispatch
 117997 Minneapolis Fire Dispatch
 117999 Minneapolis Fire Dispatch
@@ -1095,10 +1090,8 @@
 120422 HCMC Dispatch
 120423 HCMC Dispatch
 120428 HCMC Dispatch
-120428 HCMC Dispatch
 120429 HCMC Dispatch
 120430 HCMC Dispatch
-120431 HCMC Dispatch
 120431 HCMC Dispatch
 120432 HCMC Dispatch
 120433 HCMC Dispatch
@@ -1106,7 +1099,6 @@
 120435 HCMC Dispatch
 120436 HCMC Dispatch
 120437 West MRCC
-120438 West MRCC
 120438 West MRCC
 120439 West MRCC
 120494 HCMC Dispatch
