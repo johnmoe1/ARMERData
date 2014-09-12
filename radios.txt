@@ -115,6 +115,7 @@
 100375 State Patrol 349
 100377 State Patrol 442
 100378 State Patrol 358
+100379 State Patrol 358
 100380 State Patrol 204
 100383 State Patrol 592
 100386 State Patrol 235
@@ -461,6 +462,7 @@
 105210 North Memorial Medical Center
 105226 North 301
 105229 North 304
+105232 North 302
 105233 North 302
 105240 North 306
 105241 North 717
@@ -469,6 +471,7 @@
 105279 Air Care Dispatch
 105297 Air Care 700 (Dispatch)
 105298 Air Care Dispatch
+105332 North Dispatch
 105335 North Dispatch
 105337 North Memorial
 105346 Air Care 700 (Dispatch)
@@ -483,7 +486,7 @@
 105511 Ridgeview 851
 105522 Ridgeview 856
 105523 Ridgeview Ambulance 854
-105528 ??? 834
+105528 Ridgeview 834
 105531 Ridgeview 854
 105535 Ridgeview Ambulance 856
 105537 Ridgeview 854
@@ -512,6 +515,7 @@
 105631 Allina 535
 105632 Allina
 105633 Allina 534
+105634 Allina 571
 105638 Allina 535
 105641 Allina ???
 105651 Allina
@@ -529,6 +533,7 @@
 105679 Allina 514
 105680 Allina 905
 105683 Allina 536
+105687 Allina 571
 105697 Allina 202
 105698 Allina 203
 105699 Allina 204
@@ -557,6 +562,7 @@
 105817 Allina 595
 105818 Allina 595
 105819 Allina
+105820 Allina 596
 105821 Allina 597
 105822 Allina 597
 105826 Allina 172
@@ -597,11 +603,13 @@
 106065 Allina 987
 106072 Allina 639
 106074 Allina 634
+106078 Allina 571
 106082 Allina 201
 106084 Allina Supervisor 4..
 106088 Allina 511
 106093 Allina 610
 106099 Allina 518
+106100 Allina 997
 106102 Allina ???
 106105 Allina 994
 106300 Allina Dispatch
@@ -684,6 +692,7 @@
 107990 Metro Mobility
 108109 Metro Mobility Dispatch
 108169 Metro Mobility 668
+108501 Metro Transit (259A)
 108511 Radio Board Tech
 108740 Bus 3370
 108915 Metro Transit
@@ -772,8 +781,9 @@
 113630 MPLS SCH ("Thomas")
 113639 Minneapolis PD (Beat 8212)
 113648 Minneapolis PD (322)
+113661 Minneapolis PD
 113662 Minneapolis PD (110)
-113664 HCSO ... 8513
+113664 Minneapolis PD
 113674 Minneapolis School Dispatch
 113677 Minneapolis PD (110)
 113683 Minneapolis PD (530)
@@ -821,6 +831,7 @@
 114079 Minneapolis PD
 114087 Minneapolis PD (304)
 114092 Minneapolis PD (321)
+114097 Minneapolis PD
 114098 Minneapolis PD (Badge 2785)
 114103 Minneapolis PD (406)
 114109 Minneapolis PD 8310
@@ -847,7 +858,7 @@
 114287 Minneapolis PD
 114295 Minneapolis PD
 114298 Minneapolis PD
-114300 Minneapolis PD (311)
+114300 Minneapolis PD (3..)
 114312 Minneapolis PD (382)
 114313 Minneapolis PD
 114318 Minneapolis PD
@@ -893,6 +904,7 @@
 114895 Minneapolis PD (952)
 114915 Minneapolis PD
 114918 Minneapolis PD
+114921 Minneapolis PD
 114925 Minneapolis PD
 114927 Minneapolis PD (850)
 114929 Minneapolis PD (120)
@@ -910,6 +922,7 @@
 114977 Minneapolis Engine 1
 114988 Minneapolis PD
 115001 Minneapolis PD (408)
+115012 Minneapolis PD
 115015 Minneapolis PD (Squad 310)
 115017 Minneapolis PD 962
 115019 Minneapolis PD (212)
@@ -956,6 +969,7 @@
 115172 Minneapolis Ladder 2
 115173 Minneapolis Engine 28
 115176 Minneapolis Ladder 5
+115203 Minneapolis PD
 115206 Minneapolis Engine 21
 115212 Minneapolis Ladder 3
 115217 Minneapolis Ladder 10
@@ -1034,6 +1048,7 @@
 115884 Minneapolis PD
 115893 Minneapolis PD (Car 1439)
 115908 Minneapolis PD (212)
+115910 Minneapolis PD (3..)
 115912 Minneapolis PD
 115913 Minneapolis PD
 115914 Minneapolis PD (Badge 7891)
@@ -1045,6 +1060,7 @@
 116867 Minneapolis Dispatch
 116868 Minneapolis Dispatch
 116869 Minneapolis Dispatch
+116871 Minneapolis Dispatch
 117137 Minneapolis Dispatch
 117139 Minneapolis Police Dispatch
 117145 Minneapolis Police Dispatch
@@ -1117,6 +1133,11 @@
 121179 TSA Operations?
 121186 TSA?
 121487 Minneapolis PD
+121533 US Marshals
+121544 US Marshals
+121572 US Marshals
+121590 US Marshals
+121591 US Marshals
 121780 FBI
 121790 FBI
 122003 UMN PD 1811
@@ -1498,7 +1519,9 @@
 126755 Washington County Dispatch
 126756 Washington County Dispatch
 126757 Washington County Dispatch
+126759 Washington County Dispatch
 126760 Washington County Fire Dispatch
+126761 Washington County Dispatch
 126776 Bayport PD
 126779 Bayport PD
 126786 Bayport PD
@@ -3405,7 +3428,9 @@
 154048 Metro Mobility Dispatch
 154049 Metro Mobility 922
 154107 Minneapolis PD (473)
-154289 Metro Transit Dispatch
+154287 Metro Transit RCC
+154288 Metro Transit RCC
+154289 Metro Transit RCC
 156498 Pine County Dispatch
 158535 Air Care 2
 158540 Air Care 5
@@ -3467,7 +3492,7 @@
 160871 DOC ("Carrie?")
 160873 DOC ("Mike")
 160874 DOC ("Doc")
-160876 DOC ("Terry/Nutter")
+160876 DOC ("Caroline")
 160878 DOC ("Bruce was Doc")
 160882 DOC ("Bruce-old?/Mike")
 160883 DOC ("Nate")
@@ -3587,6 +3612,7 @@
 303189 Edina PD
 303192 Edina PD
 303203 Edina Medic 1
+303204 Edina Medic 2
 303205 Edina Medic 2
 303208 Edina Medic 2
 303209 Edina Medic 1
@@ -3701,6 +3727,7 @@
 305807 Richfield PD
 305808 Richfield PD (2563)
 305883 St Louis Park Dispatch
+306033 St Louis Park Dispatch
 306083 Edina Dispatch
 306136 Minnetonka Dispatch
 306158 HCMC CP1
@@ -3816,7 +3843,7 @@
 308969 HCMC 411? 437?
 308971 HCMC 434d
 308972 HCMC (spare?)
-308973 HCMC 424 (or spare?)
+308973 HCMC Spare ???
 308974 HCMC Spare Radio 8
 308975 HCMC CP1
 308976 HCMC 432/411/421 (Spare 10?)
@@ -3898,6 +3925,7 @@
 311105 Ramsey County Dispatch
 311305 Ramsey County Dispatch
 311379 Ramsey Fire Dispatch
+311505 (radio service test)
 312057 St Paul Dispatch
 312371 East MRCC
 312407 Statewide MRCC
@@ -3912,6 +3940,8 @@
 315067 Radio Board Tech
 315246 Radio Board Tech
 315247 Radio Board Tech
+315956 US Marshals
+315966 US Marshals
 316921 State Fair Dispatch
 316982 East MRCC?
 317108 Maplewood Medic 331
@@ -3926,6 +3956,7 @@
 317566 White Bear Medic 44
 317570 White Bear Lake Medic 42
 317571 White Bear Lake Ambulance 3
+317619 White Bear Amulance ???
 317686 White Bear Lake Ambulance 1
 317856 White Bear Twp Pub Works
 317858 White Bear Twp Pub Works
@@ -3933,6 +3964,7 @@
 317861 White Bear Twp Pub Works
 317863 White Bear Twp Pub Works
 317947 ??? Fire Engine 811
+320023 US Marshals
 320024 St Paul PD (862)
 322057 St Paul Fire ???
 322151 St Paul Medic 8
@@ -3945,6 +3977,7 @@
 322194 St Paul Fire Medic 23
 322195 St Paul Medic 6
 322197 St Paul Medic 18
+322200 St Paul Fire Medic 22
 322201 St Paul Fire Medic 4
 322203 St Paul Fire Medic 9
 322204 St Paul Fire Medic 9
@@ -3964,7 +3997,7 @@
 322306 St Paul Fire Medic 8
 322309 St Paul Fire Medic 4
 322310 St Paul Medic 17
-322326 St Paul Medic 24
+322326 St Paul Fire Medic 24
 322340 St Paul Fire Ladder 20
 322374 St Paul Fire Medic 24
 328500 Bloomington PD Dispatch
@@ -3978,39 +4011,63 @@
 328551 Bloomington Animal Dispatch
 328552 Bloomington Animal Dispatch
 328553 Bloomington Animal Dispatch
+328560 Bloomington Dispatch
+328562 Bloomington Dispatch
 328965 Bloomington Dispatch
 328967 Bloomington Dispatch
 329001 Bloomington PD
 329074 Bloomington PD
 329083 Bloomington PD
 329159 Bloomington PD
+329170 Bloomington PD
 329171 Bloomington PD
 329187 Bloomington PD
+329220 Bloomington PD
+329221 Bloomington PD
 329225 Bloomington PD
 329228 Bloomington PD
 329229 Bloomington PD
 329235 Bloomington PD
 329239 Bloomington PD
+329240 Bloomington PD
 329250 Bloomington PD
 329253 Bloomington PD
 329254 Bloomington PD
 329260 Bloomington PD
 329261 Bloomington PD
+329269 Bloomington PD
 329290 Bloomington PD
 329293 Bloomington PD
 329296 Bloomington PD
+329298 Bloomington PD
 329299 Bloomington PD
 329301 Bloomington PD
 329304 Bloomington PD
 329309 Bloomington PD
 329317 Bloomington PD
+329318 Bloomington PD
 329319 Bloomington PD
 329320 Bloomington PD
 329323 Bloomington PD
 329327 Bloomington PD
+329601 Bloomington Fire Chief 1
+329602 Bloomington Fire Chief 2
+329604 Bloomington Fire Chief 4
+329605 Bloomington Fire Chief 5
+329611 Bloomington Fire Engine 1
+329614 Bloomington Fire Ladder 1
+329621 Bloomington Fire Station 2
+329631 Bloomington Fire Engine 3
+329634 Bloomington Fire Ladder 3
+329641 Bloomington Fire Engine 4
+329644 Bloomington Fire Ladder 4
+329672 Bloomington Fire Chief 2
+329682 Bloomington Fire Chief 2
+329832 Bloomington PD
 329833 Bloomington PD
 329834 Bloomington PD
 329835 Bloomington PD
+329836 Bloomington PD
 329840 Bloomington PD
 329841 Bloomington PD
 329842 Bloomington PD
@@ -4021,10 +4078,15 @@
 329848 Bloomington PD
 329851 Bloomington PD
 329858 Bloomington PD
+329859 Bloomington PD
+329861 Bloomington PD
+329870 Bloomington PD
 329902 Bloomington Animal 4957
 329907 Bloomington Animal 4957
 329913 Bloomington PD
+329914 Bloomington PD
 329928 Bloomington PD
+329988 Bloomington PD
 330001 Eden Prairie Dispatch
 330003 Eden Prairie Dispatch
 330005 Eden Prairie PD Dispatch
@@ -4204,11 +4266,15 @@
 515311 Red Wing Fire
 515318 Red Wing Fire
 515320 Red Wing Engine 11
+515321 Red Wing Medic 3
+515330 Red Wing Fire Engine 11
+515331 Red Wing Fire "900"
 515334 Red Wing Fire
 515336 Red Wing Medic 1
 515338 Red Wing Medic 3
 515339 Red Wing Medic 4
 515343 Red Wing Engine 11
+515344 Red Wing Fire ?
 515363 Goodhue County?
 515371 Goodhue County?
 515372 Goodhue County?
@@ -4345,6 +4411,7 @@
 620041 New River Ambulance 5706
 620293 Wright 5440
 624002 Meeker County Dispatch
+629066 Willmar Ambulance 7251
 629068 ??? 7253 [Kandiyohi County]
 629081 Benson Ambulance
 629992 Big Stone County Dispatch
