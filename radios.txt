@@ -353,6 +353,7 @@
 102266 William O'Brien 495
 102269 William O'Brien Base
 102270 William O'Brien
+102290 Hopkins Fire Rescue 8
 102317 State Patrol 176
 102318 William O'Brien 492
 102320 State Patrol K277
@@ -2003,12 +2004,12 @@
 132758 Hastings PD
 132759 Hastings PD
 132761 Hastings PD
-132763 Hastings PD 1422
-132764 Hastings PD 1424
+132763 Hastings PD
+132764 Hastings PD
 132765 Hastings PD
 132766 Hastings PD
 132767 Hastings PD
-132768 Hastings City Hall(?)
+132768 Hastings City Hall
 132770 Hastings PD
 132771 Hastings PD 1428
 132772 Hastings PD
@@ -2018,17 +2019,17 @@
 132777 Hastings PD
 132778 Hastings PD
 132779 Hastings PD
-132780 Hastings PD 14R11
+132780 Hastings PD
 132781 Hastings PD
 132782 Hastings PD
 132783 Hastings PD
 132785 Hastings PD
 132786 Hastings PD
-132787 Hastings PD 14S7
+132787 Hastings PD
 132788 Hastings PD (14S8)
 132789 Hastings PD
 132790 Hastings PD
-132791 Hastings PD 1422
+132791 Hastings PD
 132793 Hastings PD
 132794 Hastings PD
 132796 Hastings PD
@@ -2044,6 +2045,7 @@
 132815 Hastings PD
 132816 Hastings PD
 132817 Hastings PD
+132818 Hastings PD
 132819 Hastings PD
 132854 Inver Grove Heights Fire Chief 1
 132862 Inver Grove Heights Fire Squad 1 ???
@@ -2061,6 +2063,7 @@
 132907 Inver Grove Heights Fire Station 1
 132908 Inver Grove Fire Station 3
 132951 Inver Grove Heights PD
+132954 Inver Grove Heights PD
 132955 Inver Grove Height PD
 132956 Inver Grove Heights PD
 132958 Inver Grove Heights PD
@@ -2090,7 +2093,7 @@
 132994 Inver Grove Heights PD
 132995 Inver Grove Height PD
 132996 Inver Grove Heights PD
-132997 Inver Grove Height PD
+132997 Inver Grove Heights PD
 132998 Inver Grove Heights PD
 132999 Inver Grove Heights PD
 133000 Inver Grove Heights PD
@@ -2101,6 +2104,7 @@
 133005 Inver Grove Heights PD
 133006 Inver Grove Height PD 3634
 133007 Inver Grove Heights PD
+133008 Inver Grove Heights PD
 133010 Inver Grove Heights PD
 133058 Lakeville Fire Station 4
 133064 Lakeville Fire Station 1
@@ -2120,6 +2124,7 @@
 133132 Lakeville Fire Ladder 1
 133134 Lakeville Fire Chief 1
 133154 Lakeville PD
+133155 Lakeville PD
 133159 Lakeville PD
 133164 Lakeville PD
 133166 Lakeville PD
@@ -2135,6 +2140,8 @@
 133184 Lakeville PD
 133185 Lakeville PD
 133186 Lakeville PD
+133189 Lakeville PD
+133191 Lakeville PD
 133193 Lakeville PD
 133194 Lakeville PD
 133195 Lakeville PD (48S53)
@@ -2205,16 +2212,17 @@
 133903 Rosemount PD
 133904 Rosemount PD 3537
 133906 Rosemount PD
-133907 Rosemount PD (35S26)
+133907 Rosemount PD
 133909 Rosemount PD
 133911 Rosemount PD
 133912 Rosemount PD
+133917 Rosemount PD
 133920 Rosemount PD
 133921 Rosemount PD
 133922 Rosemount PD
 133925 Rosemount PD
 133926 Rosemount PD
-133927 Rosemount PD (Mike)
+133927 Rosemount PD
 133928 Rosemount PD
 133929 Rosemount PD
 133930 Rosemount PD
@@ -2223,6 +2231,7 @@
 133933 Rosemount PD
 133934 Rosemount PD
 133935 Rosemount PD
+133940 Rosemount PD
 133942 Rosemount PD
 133945 Rosemount PD
 133992 Alarm
@@ -3513,6 +3522,8 @@
 300340 HCMC 411
 300345 Brooklyn Park PD
 300354 HCMC 418
+300440 West Metro Fire Marshal 2
+300445 West Metro Fire Chief 2
 300480 Hennepin 1750
 300804 HCMC 423
 300809 HCMC 437
@@ -3535,6 +3546,7 @@
 301173 Orono PD 6538
 301178 Orono PD 6524
 301195 St Anthony Fire Engine 12
+301198 St Anthony Fire Rescue 11
 301236 Champlin PD
 301310 Plymouth PD
 301324 Plymouth PD
@@ -3591,10 +3603,23 @@
 302314 Brooklyn Park PD
 302363 Maple Grove PD
 302429 Plymouth Fire Engine 21
+302441 Maple Grove Fire Engine 22
+302444 Maple Grove Fire Captain 52
+302448 Maple Grove Fire ???
+302470 Maple Grove Fire Station 3
+302484 Maple Grove Fire Engine 51
 302538 Plymouth Fire
 302552 Plymouth Fire Engine 21
+302614 Brooklyn Park Fire Chief 2
+302616 Brooklyn Park Fire Battalion 3
 302617 Brooklyn Park Engine 21
+302660 West Metro Fire Inspector 4
+302662 West Metro Fire Station 2
 302664 Brooklyn Park Fire Battalion 1
+302665 Brooklyn Park Fire Chief 2
+302667 Brooklyn Park Fire Chief 1
+302670 Brooklyn Park Fire Battalion 3
+302705 Excelsior Fire Rescue 12
 302715 Orono PD
 302717 Dayton Fire Rescue 11 (boat)
 302720 Dayton Fire Grass 21
@@ -3623,7 +3648,7 @@
 303261 Edina PD
 303437 Richfield Engine 1
 303448 Plymouth PD
-303559 Brooklyn Park PD
+303559 Brooklyn Park Fire Rescue 31
 303646 Airport PD
 303680 Airport PD
 303700 Minnetrista PD
@@ -3685,6 +3710,7 @@
 304391 Brooklyn Center PD
 304402 Brooklyn Center Rescue 5
 304424 Minnetonka PD
+304489 Dayton Fire Rescue 21
 304545 Edina PD (145)
 304824 Brooklyn Center PD
 304895 Edina PD
@@ -3692,9 +3718,12 @@
 305090 Golden Valley PD 3551?
 305092 Golden Valley PD (3513)
 305100 Golden Valley PD (3523)
+305233 Maple Grove Fire Engine 22
 305253 Hennepin County SO Warrant
 305270 Radio Board Tech
 305303 Hennepin 1760 (?)
+305312 Brooklyn Park Fire Rescue 31
+305313 Brooklyn Park Fire Rescue 11
 305326 Hennepin 1701 (?)
 305333 Edina PD Dispatch
 305346 HCSO Water Patrol
@@ -3709,6 +3738,7 @@
 305423 Edina Dispatch
 305452 Rogers PD
 305570 Minnetrista PD? ... 8171
+305577 Brooklyn Park Fire Engine 21
 305628 Hennepin Co SO ???
 305649 Brooklyn Center PD
 305738 Richfield PD (2513)
@@ -3726,8 +3756,11 @@
 305803 Richfield PD (2511)
 305807 Richfield PD
 305808 Richfield PD (2563)
+305859 Maple Grove Fire Engine 51
+305872 Maple Grove Fire Inspector 2/3
 305883 St Louis Park Dispatch
 306033 St Louis Park Dispatch
+306068 West Metro Fire Engine 31
 306083 Edina Dispatch
 306136 Minnetonka Dispatch
 306158 HCMC CP1
@@ -3822,6 +3855,7 @@
 307652 Minnetonka Dispatch
 307744 Edina/Golden Valley Dispatch
 307778 Brooklyn Park Fire Rescue 31
+307797 Brooklyn Park Fire Rescue 31
 307894 Golden Valley Dispatch
 308595 Hopkins Fire Chief 1
 308671 Airport PD
@@ -3835,6 +3869,7 @@
 308881 Airport PD
 308884 Airport PD
 308887 Airport PD
+308937 Maple Grove Fire Captain 1
 308963 HCMC 424
 308964 HCMC 425
 308965 HCMC 426
@@ -3855,7 +3890,7 @@
 309080 Brooklyn Park PD
 309081 Brooklyn Park PD
 309342 HCMC 410 (Sup)
-309353 Brooklyn Park PD
+309353 Brooklyn Park Fire Chief 1
 309356 Brooklyn Park PD
 309357 Brooklyn Park PD
 309367 Minnetrista PD
@@ -3872,6 +3907,8 @@
 309544 Brooklyn Center PD
 309545 Brooklyn Center PD
 309549 Corcoran PD
+309732 West Metro Fire Captain 1
+309739 West Metro Fire Chief 2
 309783 Brooklyn Park PD
 309784 Brooklyn Park PD
 309786 Brooklyn Park PD
@@ -4410,6 +4447,7 @@
 620030 Monticello 5704
 620041 New River Ambulance 5706
 620293 Wright 5440
+620473 Hanover Fire Rescue 11
 624002 Meeker County Dispatch
 629066 Willmar Ambulance 7251
 629068 ??? 7253 [Kandiyohi County]
