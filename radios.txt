@@ -633,20 +633,29 @@
 106905 Southdale (Doc)
 106964 Fairview Lakes Medical Center
 107100 HealthEast
-107102 HealthEast ???
+107101 HealthEast 63
+107102 HealthEast 1843
+107103 HealthEast 1831
 107105 HealthEast
 107110 HealthEast Dispatch
 107111 Healtheast 1822
 107112 HealthEast
-107113 HealthEast
-107114 HealthEast
+107113 HealthEast 1824
+107114 HealthEast 1822
 107115 HealthEast 1163
-107116 HealthEast
-107117 HealthEast
-107118 HealthEast
-107119 HealthEast
+107116 HealthEast 1823
+107117 HealthEast 1827
+107118 HealthEast 1829
+107119 HealthEast 1825
+107121 HealthEast 71
+107122 HealthEast 72
+107123 HealthEast 1851
+107126 HealthEast 62
+107127 HealthEast 61
+107128 HealthEast 61
+107130 HealthEast 71
 107138 HealthEast
-107139 HealthEast
+107139 HealthEast 1821
 107141 Lakeview Ambulance
 107142 Lakeview 802
 107147 Lakeview 805
@@ -657,25 +666,26 @@
 107164 Lakeview 565
 107290 HealthEast
 107292 HealthEast
-107293 HealthEast
-107294 HealthEast 1848
-107295 HealthEast 1833
+107293 HealthEast 1831
+107294 HealthEast 1821
+107295 HealthEast 1825
 107297 Allina
 107316 Lakeview Ambulance 802
 107331 Lakeview Medic ?
-107340 HealthEast
-107343 HealthEast 1834
-107344 HealthEast
-107345 Health East 1831
+107340 HealthEast 1827?
+107343 HealthEast 1829
+107344 HealthEast 1824
+107345 HealthEast 65
+107347 HealthEast 1828
 107348 HealthEast 23
 107349 Healtheast 1853
-107351 HealthEast
+107351 HealthEast 1823
 107352 HealthEast
 107353 HealthEast
-107371 HealthEast
-107372 HealthEast
+107371 HealthEast 63
+107372 HealthEast 1851
 107373 HealthEast 41
-107375 HealthEast
+107375 HealthEast 1843
 107376 HealthEast
 107377 HealthEast 1845
 107378 HealthEast Dispatch
@@ -683,8 +693,10 @@
 107404 Life Link 6
 107407 Life Link 5
 107428 Life Link 4
-107486 HealthEast ???
-107487 HealthEast 62
+107481 HealthEast Dispatch
+107482 HealthEast Dispatch
+107486 HealthEast 72
+107487 HealthEast 64
 107580 Transit Police
 107652 Shop Truck
 107730 Transit Police
