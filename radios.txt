@@ -474,6 +474,7 @@
 105332 North Dispatch
 105335 North Dispatch
 105337 North Memorial
+105338 North Dispatch
 105346 Air Care 700 (Dispatch)
 105347 Air Care Dispatch
 105349 Air Care Dispatch
@@ -715,6 +716,7 @@
 109363 Transit Control
 109448 East Metro Bus Maint Truck 350
 109464 Metrotransit RCC
+109478 Metro Transit Dispatch
 109483 Transit Control
 109597 Transit Control
 109625 Transit Control
@@ -1885,8 +1887,10 @@
 132174 Eagan PD
 132175 Eagan PD
 132178 Eagan PD
+132179 Eagan PD
 132180 Eagan PD
 132184 Eagan PD
+132187 Eagan PD
 132188 Eagan PD
 132191 Eagan PD
 132192 Eagan PD
@@ -1896,6 +1900,8 @@
 132196 Eagan PD
 132197 Eagan PD 33S3
 132198 Eagan PD
+132199 Eagan PD
+132200 Eagan PD
 132201 Eagan PD
 132204 Eagan PD
 132205 Eagan PD
@@ -1915,7 +1921,7 @@
 132226 Eagan PD
 132229 Eagan PD
 132230 Eagan PD
-132232 Eagan PD 33S2
+132232 Eagan PD
 132233 Eagan PD
 132234 Eagan PD
 132235 Eagan PD
@@ -1975,6 +1981,7 @@
 132409 Farmington PD
 132411 Farmington PD
 132412 Farmington PD
+132413 Farmington PD
 132415 Farmington PD
 132416 Farmington PD
 132419 Farmington PD
@@ -2319,6 +2326,7 @@
 134259 West St Paul PD
 134727 Dakota County Probation 9903
 134731 Dakota County Probation 9905 (Amanda)
+135003 Farmington PD
 135018 Hastings PD
 135020 Burnsville PD
 135601 Hampton Randolph Fire Captain 4
