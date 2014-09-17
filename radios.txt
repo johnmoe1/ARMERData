@@ -434,6 +434,7 @@
 105133 North 720
 105134 North 721
 105135 North 721
+105136 North 721
 105137 North 722
 105138 North 722
 105139 North 722
@@ -442,7 +443,7 @@
 105142 North 723
 105143 North 724
 105144 North 724
-105145 North 744?
+105145 North 724
 105146 North 725
 105148 North 725
 105149 North 720
@@ -3554,6 +3555,7 @@
 158590 Air Care 1
 158591 Air Care 5
 158783 North 738
+158803 North 738
 158838 North BEEP
 158993 North Air Dispatch
 159144 J6
@@ -3747,6 +3749,7 @@
 303205 Edina Medic 2
 303208 Edina Medic 2
 303209 Edina Medic 1
+303210 Edina Medic 2
 303217 Edina Medic 2
 303230 Edina Medic 1
 303234 Edina Medic 2
@@ -4608,6 +4611,7 @@
 620003 Wright County Dispatch
 620004 Wright Dispatch
 620030 Monticello 5704
+620035 ??? 5706
 620041 New River Ambulance 5706
 620293 Wright 5440
 620473 Hanover Fire Rescue 11
