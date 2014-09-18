@@ -361,6 +361,7 @@
 102318 William O'Brien 492
 102320 State Patrol K277
 102325 Trooper 7
+102326 Trooper 7
 102328 William O'Brien
 102330 William O'Brien 493
 103006 FIRST 810x
@@ -1185,7 +1186,9 @@
 121553 US Marshals
 121562 US Marshals
 121572 US Marshals
+121578 US Marshals
 121585 US Marshals
+121589 US Marshals
 121590 US Marshals
 121591 US Marshals
 121780 FBI
@@ -1326,12 +1329,14 @@
 122900 Columbia Heights PD
 122980 Oak Grove Fire Lieutenant 2
 123002 Coon Rapids PD
+123004 Coon Rapids PD
 123005 Coon Rapids PD
 123007 Coon Rapids PD
 123008 Coon Rapids PD
 123009 Coon Rapids PD
 123011 Coon Rapids PD
 123013 Coon Rapids PD
+123014 Coon Rapids PD
 123018 Coon Rapids PD
 123019 Coon Rapids PD
 123022 Fridley Fire
@@ -1418,6 +1423,7 @@
 123369 Fridley PD
 123373 Fridley PD
 123374 Fridley PD
+123376 Coon Rapids PD
 123377 Coon Rapids PD
 123378 Coon Rapids PD
 123379 Coon Rapids PD
@@ -1689,6 +1695,7 @@
 131105 Apple Valley PD
 131106 Apple Valley PD
 131107 Apple Valley PD
+131108 Apple Valley PD
 131110 Dakota 1909
 131111 Apple Valley PD
 131112 Apple Valley PD
@@ -1717,6 +1724,7 @@
 131147 Apple Valley PD
 131149 Apple Valley PD
 131150 Apple Valley PD
+131151 Apple Valley PD
 131152 Apple Valley PD
 131153 Apple Valley PD
 131155 Apple Valley PD
@@ -1857,6 +1865,7 @@
 131661 Dakota County SO
 131663 DCSO
 131665 Dakota County SO
+131668 Inver Grove Heights PD
 131671 DCSO
 131674 Dakota County SO
 131680 Dakota County SO 1186
@@ -1876,6 +1885,7 @@
 131733 Dakota County SO 1912
 131749 Dakota County SO
 131751 DCSO
+131753 Dakota County SO
 131757 Dakota County SO
 131758 Dakota County SO (11S11)
 131759 Hastings PD
@@ -1892,6 +1902,7 @@
 131776 Dakota County SO
 131778 Dakota County SO
 131779 18R15
+131782 Dakota County SO
 131784 DCSO
 131786 Dakota County SO
 131787 Dakota County SO
@@ -2143,7 +2154,7 @@
 132908 Inver Grove Fire Station 3
 132951 Inver Grove Heights PD
 132954 Inver Grove Heights PD
-132955 Inver Grove Height PD
+132955 Inver Grove Heights PD
 132956 Inver Grove Heights PD
 132958 Inver Grove Heights PD
 132959 Inver Grove Heights PD
@@ -2161,6 +2172,7 @@
 132977 Inver Grove Heights PD
 132978 Inver Grove Heights PD
 132979 Inver Grove Heights PD
+132980 Inver Grove Heights PD (Sentinel Radio Alarm)
 132982 Inver Grove Heights PD
 132983 Inver Grove Heights PD
 132986 Inver Grove Heights PD
@@ -2169,8 +2181,9 @@
 132989 Inver Grove Heights PD
 132991 Inver Grove Heights PD
 132992 Inver Grove Height PD
+132993 Inver Grove Heights PD
 132994 Inver Grove Heights PD
-132995 Inver Grove Height PD
+132995 Inver Grove Heights PD
 132996 Inver Grove Heights PD
 132997 Inver Grove Heights PD
 132998 Inver Grove Heights PD
@@ -2193,8 +2206,11 @@
 133076 Lakeville Fire Chief 1
 133077 Lakeville Fire Chief 4
 133080 Lakeville Fire Station 1
+133081 Lakeville Fire
+133082 Lakeville Fire
 133095 Lakeville Fire Captain 3
 133100 Lakeville Fire Ladder 2
+133110 Lakeville Fire Engine 2
 133111 Lakeville Fire Chief 3
 133112 Lakeville Fire Captain 3
 133113 Lakeville Fire Station 4
@@ -2206,7 +2222,9 @@
 133127 Lakeville Fire Engine 22
 133130 Lakeville Fire Rescue 1
 133132 Lakeville Fire Ladder 1
+133133 Lakeville Fire
 133134 Lakeville Fire Chief 1
+133151 Lakeville PD
 133154 Lakeville PD
 133155 Lakeville PD
 133159 Lakeville PD
@@ -2237,14 +2255,17 @@
 133202 Lakeville PD
 133205 Lakeville PD
 133206 Lakeville PD 48C5
-133207 Lakveville PD
+133207 Lakeville PD
 133208 Lakeville PD
 133209 Lakeville PD
 133210 Lakeville PD
+133212 Lakeville PD
 133214 Lakeville PD
 133215 Lakeville PD
+133218 Lakeville PD
 133219 Lakeville PD
 133220 Lakeville PD
+133222 Lakeville PD
 133223 Lakeville PD
 133225 Lakeville PD
 133226 Lakeville PD
@@ -2261,6 +2282,7 @@
 133246 Lakeville PD
 133247 Lakeville PD
 133248 Lakeville PD
+133250 Lakeville PD
 133251 Lakeville PD
 133252 Lakeville PD
 133253 Lakeville PD
@@ -2273,6 +2295,7 @@
 133268 Lakeville PD
 133269 Lakeville PD
 133270 Lakeville PD
+133271 Lakeville PD
 133274 Lakeville PD
 133275 Dakota 1903
 133352 Inver Grove Heights Public Works
@@ -2283,15 +2306,20 @@
 133476 Mendota Heights Fire Chief 1
 133478 Mendota Heights Fire Chief 2
 133479 Mendota Heights Fire Engine 11
+133551 Mendota Heights PD
 133552 Mendota Heights PD 2234
 133553 Mendota Heights PD
 133554 Mendota Heights PD
 133555 Mendota Heights PD
 133556 Mendota Heights PD
 133557 Mendota Heights PD [test 1,2,3]
+133560 Mendota Heights PD
+133561 Mendota Heights PD
 133568 Mendota Heights PD
 133570 Mendota Heights PD
 133573 Mendota Heights PD
+133577 Mendota Heights PD
+133578 Mendota Heights PD
 133829 Rosemount Fire Captain 3
 133830 Rosemount Fire Chief 2
 133842 Rosemount FD Chief 1
@@ -2303,6 +2331,7 @@
 133909 Rosemount PD
 133911 Rosemount PD
 133912 Rosemount PD
+133915 Rosemount PD
 133917 Rosemount PD
 133920 Rosemount PD
 133921 Rosemount PD
@@ -2334,30 +2363,33 @@
 134048 South Metro Chief 1
 134050 South Metro Ambulance 1
 134053 South Metro Engine 2
-134101 South St. Paul PD
+134101 South St Paul PD
 134102 South St Paul PD
 134103 South St Paul PD
-134106 South St. Paul PD 2125
+134106 South St. Paul PD
 134107 South St Paul PD (2130?)
 134109 South St. Paul PD
 134110 South St Paul PD
 134112 South St Paul PD
-134113 South St Paul PD (21S8)
+134113 South St Paul PD
 134115 South St Paul PD
 134117 South St Paul PD
 134119 South St Paul PD (2934?)
 134120 South St Paul PD
+134123 South St Paul PD
 134125 South St Paul PD
 134127 South St Paul PD
 134129 South St Paul PD
 134130 South St Paul PD
 134136 South St Paul PD
+134137 South St Paul PD
 134138 South St Paul PD
 134139 South St. Paul PD 21S7
 134140 South St Paul PD
 134141 South St Paul PD
 134142 South St. Paul PD 2142
 134144 South St Paul PD
+134145 South St Paul PD
 134146 South St Paul PD
 134147 South St Paul PD
 134148 South St Paul PD
@@ -2369,15 +2401,16 @@
 134206 West St Paul PD
 134209 West St Paul PD
 134211 West St. Paul PD
-134212 West St. Paul PD
+134212 West St Paul PD
 134215 West St Paul PD
 134216 West St Paul PD
 134217 West St. Paul PD
 134218 West St Paul PD
 134220 West St Paul PD
+134221 West St Paul PD
 134224 West St Paul PD
 134225 West St Paul PD
-134228 West St Paul PD 2641
+134228 West St Paul PD
 134229 West St Paul PD
 134231 West St. Paul PD 2636
 134233 West St Paul PD
@@ -2395,12 +2428,16 @@
 134248 West St Paul PD
 134249 West St Paul PD
 134253 West St Paul PD
-134254 West St Paul PD (2648?)
+134254 West St Paul PD
 134255 West St Paul PD
 134256 West St Paul PD
 134257 West St Paul PD
 134258 Dakota 1906
 134259 West St Paul PD
+134403 Dakota County Highway
+134427 Dakota County Highway
+134449 Dakota County Highway
+134726 Dakota County Probation 9911
 134727 Dakota County Probation 9903
 134731 Dakota County Probation 9905 (Amanda)
 135003 Farmington PD
@@ -3532,6 +3569,7 @@
 153463 Dakota County Dispatch
 153464 Dakota County Dispatch
 153465 Dakota County Dispatch
+153547 Dakota County Dispatch
 153550 Burnsville PD
 154048 Metro Mobility Dispatch
 154049 Metro Mobility 922
@@ -3594,7 +3632,7 @@
 160854 DOC ("Terry/Nutter")
 160857 DOC ("??")
 160859 DOC ("Doc")
-160860 DOC ("Caroline")
+160860 DOC ("Caroline/Joyce")
 160861 DOC ("Doc")
 160862 DOC ("Joyce")
 160863 DOC ("Mike/Smith")
@@ -3670,7 +3708,7 @@
 301450 HCMC 435
 301451 HCMC 434
 301452 HCMC 433
-301457 HCMC 408 (?)
+301457 HCMC 408
 301459 HCMC CP1
 301461 HCMC 409 (Doc)
 301499 Orono PD 6539
@@ -4068,6 +4106,7 @@
 310564 St Paul Dispatch
 310605 Ramsey County Dispatch
 310665 St Paul Dispatch
+310765 Saint Paul Dispatch
 310766 St Paul Dispatch
 310805 Ramsey County Dispatch
 310905 Ramsey County Dispatch
@@ -4120,6 +4159,7 @@
 317947 ??? Fire Engine 811
 320023 US Marshals
 320024 St Paul PD (862)
+320783 ????
 321401 US Marshals
 322057 St Paul Fire ???
 322151 St Paul Medic 8
