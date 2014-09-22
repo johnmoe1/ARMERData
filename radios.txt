@@ -367,6 +367,7 @@
 102325 Trooper 7
 102326 Trooper 7
 102328 William O'Brien
+102329 William O'Brien 493
 102330 William O'Brien 493
 103006 FIRST 810x
 103014 FIRST 810x
@@ -2193,6 +2194,7 @@
 132954 Inver Grove Heights PD
 132955 Inver Grove Heights PD
 132956 Inver Grove Heights PD
+132957 Inver Grove Heights PD
 132958 Inver Grove Heights PD
 132959 Inver Grove Heights PD
 132960 Inver Grove Heights PD
@@ -2355,6 +2357,7 @@
 133560 Mendota Heights PD
 133561 Mendota Heights PD
 133565 Mendota Heights PD
+133566 Mendota Heights PD
 133568 Mendota Heights PD
 133570 Mendota Heights PD
 133573 Mendota Heights PD
@@ -3611,6 +3614,8 @@
 153465 Dakota County Dispatch
 153547 Dakota County Dispatch
 153550 Burnsville PD
+153715 Dakota County Dispatch
+153816 Dakota County Dispatch
 154048 Metro Mobility Dispatch
 154049 Metro Mobility 922
 154107 Minneapolis PD (473)
@@ -3845,6 +3850,7 @@
 303437 Richfield Engine 1
 303448 Plymouth PD
 303559 Brooklyn Park Fire Rescue 31
+303609 Airport SWAT
 303646 Airport PD
 303680 Airport PD
 303700 Minnetrista PD
@@ -4170,6 +4176,7 @@
 310116 Hennepin County Dispatch
 310119 Hennepin County Dispatch
 310163 Hennepin County SO
+310172 Hennepin 1291
 310505 Ramsey County Dispatch
 310537 Minneapolis Dispatch
 310564 St Paul Dispatch
@@ -4282,38 +4289,50 @@
 328966 Bloomington Dispatch
 328967 Bloomington Dispatch
 329001 Bloomington PD
+329031 Bloomington Dispatch
 329074 Bloomington PD
 329083 Bloomington PD
 329159 Bloomington PD
 329170 Bloomington PD
 329171 Bloomington PD
+329186 Bloomington PD
 329187 Bloomington PD
+329196 Bloomington PD
+329217 Bloomington PD
 329220 Bloomington PD
 329221 Bloomington PD
 329225 Bloomington PD
+329227 Bloomington PD
 329228 Bloomington PD
 329229 Bloomington PD
+329231 Bloomington PD
 329235 Bloomington PD
 329239 Bloomington PD
 329240 Bloomington PD
+329247 Bloomington PD
 329250 Bloomington PD
 329253 Bloomington PD
 329254 Bloomington PD
 329260 Bloomington PD
 329261 Bloomington PD
+329267 Bloomington PD
 329269 Bloomington PD
+329275 Bloomington PD
 329290 Bloomington PD
+329292 Bloomington PD
 329293 Bloomington PD
 329296 Bloomington PD
 329298 Bloomington PD
 329299 Bloomington PD
 329301 Bloomington PD
-329304 Bloomington PD
+329304 Three Rivers Park PD?
 329309 Bloomington PD
+329313 Bloomington PD
 329317 Bloomington PD
 329318 Bloomington PD
 329319 Bloomington PD
 329320 Bloomington PD
+329322 Three Rivers Park PD?
 329323 Bloomington PD
 329327 Bloomington PD
 329601 Bloomington Fire Chief 1
@@ -4352,6 +4371,8 @@
 329913 Bloomington PD
 329914 Bloomington PD
 329928 Bloomington PD
+329941 Bloomington PD
+329942 Bloomington PD
 329988 Bloomington PD
 330001 Eden Prairie Dispatch
 330003 Eden Prairie Dispatch
