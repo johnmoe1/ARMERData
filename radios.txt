@@ -4,7 +4,9 @@
 100022 FIRST 8105
 100023 State Patrol 224
 100026 Radio Board Tech
+100027 Radio Board Tech
 100028 Radio Board Tech
+100029 Radio Board Tech
 100034 Radio Board Tech
 100035 Radio Board Tech
 100038 Radio Board Tech
@@ -502,6 +504,7 @@
 105485 North Dispatch
 105505 ??? (Ambulance) 857
 105511 Ridgeview 851
+105517 Ridgeview 52?
 105522 Ridgeview 856
 105523 Ridgeview Ambulance 854
 105528 Ridgeview 834
@@ -660,6 +663,7 @@
 106900 Abbott Northwestern Hospital
 106904 HCMC (Doc)
 106905 Southdale (Doc)
+106913 University of MN Medical Center
 106964 Fairview Lakes Medical Center
 107100 HealthEast
 107101 HealthEast 63
@@ -775,6 +779,7 @@
 112163 Carver County Dispatch
 113040 Radio Board Tech
 113042 Radio Board Tech
+113043 Radio Board Tech
 113049 Radio Board Tech
 113056 Minneapolis PD
 113057 Minneapolis PD (962)
@@ -1157,6 +1162,7 @@
 120437 West MRCC
 120438 West MRCC
 120439 West MRCC
+120464 West MRCC
 120494 HCMC Dispatch
 120732 MRCC
 120733 MRCC
@@ -1190,18 +1196,23 @@
 121524 Red Cross EOC
 121525 Red Cross IC
 121526 Red Cross
+121527 US Marshals
 121533 US Marshals
+121534 US Marshals
 121542 US Marshals
 121543 US Marshals
 121544 US Marshals
 121553 US Marshals
 121562 US Marshals
+121563 US Marshals
 121572 US Marshals
 121578 US Marshals
 121585 US Marshals
+121587 US Marshals
 121589 US Marshals
 121590 US Marshals
 121591 US Marshals
+121593 US Marshals
 121780 FBI
 121790 FBI
 122003 UMN PD 1811
@@ -1246,15 +1257,20 @@
 122601 Blaine PD
 122603 Blaine PD
 122604 Blaine PD
+122606 Anoka PD
 122607 Anoka PD
+122608 Anoka PD
+122609 Anoka PD
 122610 Anoka PD
 122611 Anoka PD
+122612 Anoka PD
 122613 Anoka PD
 122615 Anoka PD
 122616 Anoka PD
 122620 Anoka PD
 122623 Anoka PD
 122624 Anoka PD
+122625 Anoka PD
 122628 Anoka PD
 122636 Anoka PD
 122637 Anoka PD
@@ -1534,6 +1550,7 @@
 123767 Ramsey Fire
 123793 Columbia Heights PD
 123804 Lino Lakes PD
+123805 Anoka PD
 123815 Anoka County SO
 123844 Ramsey Fire Station 1
 123848 Coon Rapids PD
@@ -1542,6 +1559,7 @@
 123879 Blaine PD
 123884 Centennial PD
 123885 Centennial PD
+123897 Anoka PD
 123999 Ramsey PD
 124032 Anoka County SO
 124034 Anoka County SO
@@ -1654,6 +1672,7 @@
 129107 Stillwater Fire 6107
 129132 Stillwater Fire 6107
 129144 Stillwater Fire
+129184 Radio Board Tech
 129301 St. Paul Park PD
 129304 St Paul Park PD
 129319 St Paul Park PD
@@ -1811,6 +1830,7 @@
 131315 Burnsville Medic 1
 131351 Burnsville PD
 131352 Burnsville PD
+131353 Burnsville PD
 131354 Burnsville PD
 131355 Burnsville PD
 131356 Burnsville PD
@@ -1824,6 +1844,7 @@
 131366 Burnsville PD
 131369 Burnsville PD
 131371 Burnsville PD
+131374 Burnsville PD
 131376 Burnsville PD
 131377 Burnsville PD
 131379 Burnsville PD
@@ -1856,6 +1877,8 @@
 131421 Burnsville PD
 131423 Burnsville PD
 131424 Burnsville PD
+131426 Burnsville PD
+131427 Burnsville PD
 131429 Burnsville PD
 131432 Burnsville PD
 131433 Burnsville PD (45I94)
@@ -1863,13 +1886,15 @@
 131435 Burnsville PD
 131436 Burnsville PD
 131441 Burnsville PD
+131448 Burnsville PD
+131449 Dakota County 1913
 131450 Burnsville PD
 131451 Burnsville PD
 131452 Burnsville PD
 131453 Burnsville PD
 131455 Burnsville PD
 131456 Burnsville PD
-131459 Burnsville PD (45142)
+131459 Burnsville PD
 131460 Burnsville PD
 131461 Burnsville PD
 131462 Burnsville PD (45I63)
@@ -1893,6 +1918,7 @@
 131596 Dakota County SO
 131603 18R23
 131608 Dakota County SO
+131659 Dakota County SO
 131660 Dakota County SO
 131661 Dakota County SO
 131663 DCSO
@@ -1915,6 +1941,7 @@
 131728 Dakota County SO
 131730 Dakota County SO
 131733 Dakota County SO 1912
+131737 Dakota County SO
 131749 Dakota County SO
 131751 DCSO
 131753 Dakota County SO
@@ -2363,18 +2390,22 @@
 133573 Mendota Heights PD
 133577 Mendota Heights PD
 133578 Mendota Heights PD
+133582 Mendota Heights PD
 133829 Rosemount Fire Captain 3
 133830 Rosemount Fire Chief 2
 133842 Rosemount FD Chief 1
 133902 Rosemount PD
 133903 Rosemount PD
 133904 Rosemount PD 3537
+133905 Rosemount PD
 133906 Rosemount PD
 133907 Rosemount PD
+133908 Rosemount PD
 133909 Rosemount PD
 133911 Rosemount PD
 133912 Rosemount PD
 133915 Rosemount PD
+133916 Rosemount PD
 133917 Rosemount PD
 133920 Rosemount PD
 133921 Rosemount PD
@@ -2391,6 +2422,7 @@
 133934 Rosemount PD
 133935 Rosemount PD
 133940 Rosemount PD
+133941 Rosemount PD
 133942 Rosemount PD
 133945 Rosemount PD
 133992 Alarm
@@ -2459,7 +2491,7 @@
 134233 West St Paul PD
 134235 West St. Paul PD
 134236 West St Paul PD
-134237 West St. Paul PD
+134237 West St Paul PD
 134238 West St Paul PD
 134240 West St Paul PD
 134241 West St Paul PD
@@ -3696,7 +3728,9 @@
 160885 DOC ("Carrie?")
 160886 DOC ("")
 299952 Radio Board Tech
+299959 Radio Board Tech
 299961 Radio Board Tech
+299978 Radio Board Tech
 299992 Radio Board MOTO Tech
 299998 Radio Board MOTO Tech
 300274 HCMC 431
@@ -3977,6 +4011,7 @@
 306083 Edina Dispatch
 306136 Minnetonka Dispatch
 306158 HCMC CP1
+306168 HCMC 441
 306170 HCMC 441 (?)
 306221 HCMC 411
 306222 HCMC 411
@@ -4003,7 +4038,7 @@
 306416 HCMC 422
 306476 HCMC 423
 306480 HCMC 423
-306494 Radio Service Testing?
+306494 Radio Board Tech
 306501 HCS Sys Tech ???
 306507 HCMC 428
 306508 HCMC 428
@@ -4211,6 +4246,7 @@
 315745 US Marshals
 315956 US Marshals
 315966 US Marshals
+315983 US Marshals
 316007 Ramsey County
 316921 State Fair Dispatch
 316982 East MRCC?
@@ -4388,6 +4424,7 @@
 330485 Eden Prairie Engine 41
 500002 State Patrol Dispatch
 500003 State Patrol Dispatch
+500006 Radio Board Tech
 500007 Radio Board Tech
 500010 Radio Board Tech
 500015 Radio Board Tech
@@ -4536,6 +4573,7 @@
 504178 Rochester PD
 504188 Rochester PD
 504242 Olmsted County SO
+504297 Radio Board Tech
 504299 Rochester PD
 504309 Rochester PD
 504310 Rochester PD
@@ -4707,8 +4745,11 @@
 561021 Sibley County Dispatch
 561087 Sibley ? 301
 561088 Sibley ? 201
+581073 Radio Board Tech
 581082 Blue Earth County Dispatch
+600005 Radio Board Tech
 600009 Radio Board Tech
+600016 Radio Board Tech
 600029 State Patrol Dispatch
 600036 State Patrol Dispatch (2600)
 600099 Radio Board Tech
@@ -4760,6 +4801,7 @@
 656030 New River Ambulance 5706
 665901 Mille Lacs County Dispatch
 684004 Douglas County Dispatch
+700120 Radio Board Tech
 700151 State Patrol 71
 700190 State Patrol 460
 700235 State Patrol 511
@@ -4767,9 +4809,16 @@
 701600 State Patrol Dispatch
 701602 State Patrol Dispatch
 701603 State Patrol Dispatch
+770002 Radio Board Tech
 770003 Radio Board Tech
 770004 Radio Board Tech
+770005 Radio Board Tech
+770006 Radio Board Tech
+770007 Radio Board Tech
 770009 Radio Board Tech
+770011 Radio Board Tech
+770012 Radio Board Tech
+770014 Radio Board Tech
 770232 "227"
 770259 State Patrol 2801
 770293 State Patrol 585?
@@ -4790,6 +4839,7 @@
 770405 State Patrol 231
 770963 Trooper 924
 770970 State Patrol Dispatch (2800)
+771001 Radio Board Tech
 771097 Radio Board Tech
 771137 Radio Board Tech
 772858 HCMC ???
@@ -4800,6 +4850,8 @@
 830002 Radio Board Tech
 830005 Radio Board Tech
 830011 Radio Board Tech
+830013 Radio Board Tech
+830014 Radio Board Tech
 830021 State Patrol Dispatch
 830022 State Patrol Dispatch
 831109 State Patrol 4707
