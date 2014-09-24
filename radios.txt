@@ -1900,6 +1900,7 @@
 131462 Burnsville PD (45I63)
 131463 Burnsville PD
 131465 Burnsville PD
+131466 Burnsville PD
 131467 Burnsville PD (45S43)
 131468 Burnsville PD
 131469 Burnsville PD
@@ -1918,20 +1919,21 @@
 131596 Dakota County SO
 131603 18R23
 131608 Dakota County SO
+131655 Dakota County SO
 131659 Dakota County SO
 131660 Dakota County SO
 131661 Dakota County SO
 131663 DCSO
 131665 Dakota County SO
-131668 Inver Grove Heights PD
+131668 Dakota County SO
 131671 DCSO
-131674 Dakota County SO
+131674 Hastings PD
 131680 Dakota County SO 1186
 131682 Dakota County SO
 131689 Dakota County SO
 131691 DCSO
 131698 Dakota County SO
-131699 DCSO (11S63)
+131699 Dakota County SO
 131701 Dakota County SO
 131703 DCSO
 131704 DCSO (1141)
@@ -1958,7 +1960,7 @@
 131770 Dakota County SO
 131771 Dakota County SO 1143
 131773 Dakota County SO
-131774 DCSO (1141)
+131774 Dakota County SO
 131775 Dakota County SO
 131776 Dakota County SO
 131778 Dakota County SO
@@ -1969,12 +1971,12 @@
 131784 DCSO
 131786 Dakota County SO
 131787 Dakota County SO
-131790 Dakota County SO 11S51
-131792 Dakota County SO
+131790 Dakota County SO
+131792 Hastings PD
 131794 Dakota County SO
 131797 Dakota County SO
 131798 Dakota ??? 18R22
-131799 Hastings PD
+131799 Dakota County SO
 131800 Dakota County SO
 131801 Dakota County SO
 131953 Dakota County Dispatch
@@ -2053,11 +2055,13 @@
 132213 Eagan PD
 132214 Eagan PD
 132215 Eagan PD
+132216 Eagan PD
 132218 Eagan PD
 132219 Eagan PD
 132221 Eagan PD
 132222 Eagan PD
 132226 Eagan PD
+132228 Eagan PD
 132229 Eagan PD
 132230 Eagan PD
 132232 Eagan PD
@@ -2125,6 +2129,7 @@
 132413 Farmington PD
 132415 Farmington PD
 132416 Farmington PD
+132417 Farmington PD
 132419 Farmington PD
 132420 Farmington PD
 132421 Farmington PD
@@ -2143,6 +2148,7 @@
 132441 Farmington PD
 132444 Farmington PD
 132668 Hastings Fire FM 2
+132677 Hastings Fire Base
 132678 Hastings PD
 132688 Hastings Medic 2
 132689 Hastings Medic
@@ -2177,6 +2183,7 @@
 132781 Hastings PD
 132782 Hastings PD
 132783 Hastings PD
+132784 Hastings PD
 132785 Hastings PD
 132786 Hastings PD
 132787 Hastings PD
@@ -2188,8 +2195,10 @@
 132794 Hastings PD
 132796 Hastings PD
 132797 Hastings PD (14R22)
+132798 Hastings PD
 132799 Hastings PD
 132800 Hastings PD
+132803 Hastings PD
 132805 Hastings PD 14R1
 132807 Hastings PD
 132809 Hastings PD
@@ -2441,6 +2450,7 @@
 134101 South St Paul PD
 134102 South St Paul PD
 134103 South St Paul PD
+134104 South St Paul
 134106 South St. Paul PD
 134107 South St Paul PD (2130?)
 134109 South St. Paul PD
