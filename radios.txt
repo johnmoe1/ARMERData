@@ -1875,6 +1875,7 @@
 131418 Burnsville PD (45S40)
 131420 Burnsville PD (45S43)
 131421 Burnsville PD
+131422 Burnsville PD
 131423 Burnsville PD
 131424 Burnsville PD
 131426 Burnsville PD
@@ -2269,7 +2270,7 @@
 133003 Inver Grove Heights PD
 133004 Inver Grove Heights PD
 133005 Inver Grove Heights PD
-133006 Inver Grove Height PD 3634
+133006 Inver Grove Heights PD
 133007 Inver Grove Heights PD
 133008 Inver Grove Heights PD
 133010 Inver Grove Heights PD
@@ -2450,7 +2451,7 @@
 134101 South St Paul PD
 134102 South St Paul PD
 134103 South St Paul PD
-134104 South St Paul
+134104 South St Paul PD
 134106 South St. Paul PD
 134107 South St Paul PD (2130?)
 134109 South St. Paul PD
@@ -2459,7 +2460,7 @@
 134113 South St Paul PD
 134115 South St Paul PD
 134117 South St Paul PD
-134119 South St Paul PD (2934?)
+134119 South St Paul PD
 134120 South St Paul PD
 134123 South St Paul PD
 134125 South St Paul PD
@@ -3816,6 +3817,7 @@
 302011 Crystal PD
 302017 Crystal PD
 302020 Crystal PD
+302061 Brooklyn Park PD
 302064 Brooklyn Park PD
 302089 Brooklyn Park PD
 302103 Brooklyn Park PD
@@ -3829,6 +3831,7 @@
 302153 Brooklyn Park PD
 302154 Brooklyn Park PD
 302155 Brooklyn Park PD
+302161 Brooklyn Park PD
 302163 Brooklyn Park PD
 302166 Brooklyn Park PD
 302168 Brooklyn Park PD
@@ -3920,6 +3923,7 @@
 303921 Brooklyn Park PD
 303922 Brooklyn Park PD
 303923 Brooklyn Park PD
+303929 Brooklyn Park PD
 303930 Brooklyn Park PD
 303936 Brooklyn Park PD
 303937 Brooklyn Park PD
@@ -3938,18 +3942,27 @@
 304230 Control
 304288 Brooklyn Center PD
 304292 Brooklyn Center PD
+304293 Brooklyn Center PD
 304294 Brooklyn Center PD
 304295 Brooklyn Center PD
+304296 Brooklyn Center PD
 304297 Brooklyn Center PD
+304298 Brooklyn Center PD
 304299 Brooklyn Center PD
+304305 Brooklyn Center PD
 304306 Brooklyn Center PD
+304309 Brooklyn Center PD
 304311 Brooklyn Center PD
 304315 Brooklyn Center PD
 304319 Brooklyn Center PD
 304322 Brooklyn Center PD
+304324 Brooklyn Center PD
+304326 Brooklyn Center PD
 304331 Brooklyn Center PD
 304332 Brooklyn Center PD
+304334 Brooklyn Center PD
 304337 Brooklyn Center PD
+304338 Brooklyn Center PD
 304363 Brroklyn Center Fire Engine 2
 304365 Brooklyn Center PD
 304366 Brooklyn Center PD
@@ -4191,6 +4204,7 @@
 309809 Brooklyn Park PD
 309810 Brooklyn Park PD
 309811 Brooklyn Park PD
+309813 Brooklyn Park PD
 309814 Brooklyn Park PD
 310035 HCMC 436
 310036 HCMC 436
@@ -4325,6 +4339,7 @@
 328505 Bloomington PD Dispatch
 328506 Bloomington PD Dispatch
 328507 Bloomington PD Dispatch
+328508 Bloomington PD Dispatch
 328550 Bloomington Animal Dispatch
 328551 Bloomington Animal Dispatch
 328552 Bloomington Animal Dispatch
@@ -4341,6 +4356,7 @@
 329159 Bloomington PD
 329170 Bloomington PD
 329171 Bloomington PD
+329185 Bloomington PD
 329186 Bloomington PD
 329187 Bloomington PD
 329196 Bloomington PD
@@ -4364,6 +4380,7 @@
 329267 Bloomington PD
 329269 Bloomington PD
 329275 Bloomington PD
+329289 Bloomington PD
 329290 Bloomington PD
 329292 Bloomington PD
 329293 Bloomington PD
@@ -4372,6 +4389,8 @@
 329299 Bloomington PD
 329301 Bloomington PD
 329304 Three Rivers Park PD?
+329305 Bloomington PD
+329306 Bloomington PD
 329309 Bloomington PD
 329313 Bloomington PD
 329317 Bloomington PD
@@ -4412,8 +4431,10 @@
 329859 Bloomington PD
 329861 Bloomington PD
 329870 Bloomington PD
+329898 Bloomington PD
 329902 Bloomington Animal 4957
 329907 Bloomington Animal 4957
+329908 Bloomington PD
 329913 Bloomington PD
 329914 Bloomington PD
 329928 Bloomington PD
@@ -4422,7 +4443,11 @@
 329988 Bloomington PD
 330001 Eden Prairie Dispatch
 330003 Eden Prairie Dispatch
-330005 Eden Prairie PD Dispatch
+330005 Eden Prairie Dispatch
+330012 Eden Prairie PD
+330040 Eden Prairie PD
+330223 Eden Prairie PD
+330227 Eden Prairie PD
 330254 Eden Prairie PD
 330321 Eden Prairie Engine 21
 330341 Eden Prairie Engine 41
@@ -4432,6 +4457,7 @@
 330410 Eden Prairie Chief 2
 330447 Eden Prairie Engine 21
 330485 Eden Prairie Engine 41
+331297 Eden Prairie PD
 500002 State Patrol Dispatch
 500003 State Patrol Dispatch
 500006 Radio Board Tech
