@@ -4310,6 +4310,7 @@
 312705 White Bear Lake Dispatch
 312772 White Bear Lake Dispatch
 312773 White Bear Lake Dispatch
+312774 White Bear Lake Dispatch
 312872 White Bear Lake Dispatch
 312873 White Bear Lake Dispatch
 312874 White Bear Lake Dispatch
@@ -4343,6 +4344,7 @@
 317251 Maplewood Medic 321
 317500 White Bear Lake PD
 317502 White Bear Lake PD
+317505 White Bear Lake PD
 317514 White Bear Lake PD
 317516 White Bear Lake PD
 317517 White Bear Lake PD
