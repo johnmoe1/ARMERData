@@ -3945,10 +3945,13 @@
 302959 Minnetrista PD
 303118 Crystal PD
 303140 Edina PD
-303159 Edina PD
+303151 ? 139
+303155 ? 185
+303159 Edina PD 132
 303164 Edina PD
 303173 Edina PD
-303189 Edina PD
+303189 Edina PD?
+303191 ? 239
 303192 Edina PD
 303201 Edina Medic 1
 303203 Edina Medic 1
@@ -3962,6 +3965,8 @@
 303234 Edina Medic 2
 303242 Edina Medic 1
 303261 Edina PD
+303270 ? 185
+303295 Edina Medic 2
 303436 IDT5???? (HCMC)
 303437 Richfield Engine 1
 303448 Plymouth PD
@@ -4051,10 +4056,14 @@
 304489 Dayton Fire Rescue 21
 304545 Edina PD (145)
 304824 Brooklyn Center PD
+304888 Golden Valley PD 3515
 304895 Edina PD
-304914 Edina PD (3508)
+304907 Golden Valley PD 3521
+304914 Golden Valley PD (3508)
 305090 Golden Valley PD 3551?
 305092 Golden Valley PD (3513)
+305096 3508
+305097 Golden Valley PD 3521
 305100 Golden Valley PD (3523)
 305233 Maple Grove Fire Engine 22
 305253 Hennepin County SO Warrant
@@ -4066,16 +4075,20 @@
 305333 Edina PD Dispatch
 305346 HCSO Water Patrol
 305356 Richfield PD
+305363 Richfield PD 2512
 305369 Edina PD
+305370 Richfield PD 2515
 305378 Richfield PD
 305381 Richfield PD (2511)
 305382 Richfield PD
-305384 Richfield PD (2514)
+305383 Richfield PD 2565
+305384 Richfield PD 2514
 305385 Richfield PD (2510)
 305421 Edina Dispatch
 305423 Edina Dispatch
 305452 Rogers PD
 305466 Brooklyn Park Fire Rescue 11
+305483 Edina PD Dispatch
 305570 Minnetrista PD? ... 8171
 305577 Brooklyn Park Fire Engine 21
 305628 Hennepin County SO
@@ -4088,12 +4101,14 @@
 305761 HCMC 427 (or spare?)
 305766 HCMC 431?
 305777 Richfield PD (2546)
+305781 Richfield PD 2512
 305783 Edina Dispatch
 305784 Edina PD
 305800 Edina PD
 305802 Edina PD
 305803 Richfield PD (2511)
-305807 Richfield PD
+305805 ? 2511
+305807 Richfield PD 2565
 305808 Richfield PD (2563)
 305859 Maple Grove Fire Engine 51
 305872 Maple Grove Fire Inspector 2/3
@@ -4188,6 +4203,7 @@
 307011 Brooklyn Park PD
 307018 Brooklyn Park PD
 307107 Brooklyn Park PD
+307138 Edina PD Dispatch
 307186 Minnetonka Dispatch
 307336 Minnetonka Dispatch
 307352 Minnetonka Dispatch
