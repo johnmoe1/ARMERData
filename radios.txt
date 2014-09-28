@@ -681,7 +681,7 @@
 107101 HealthEast 63
 107102 HealthEast 1843
 107103 HealthEast 1831
-107105 HealthEast
+107105 HealthEast 1851
 107110 HealthEast Dispatch
 107111 Healtheast 1822
 107112 HealthEast
@@ -717,6 +717,7 @@
 107295 HealthEast 1825
 107297 Allina 565
 107316 Lakeview Ambulance 802
+107323 Lakeview 802
 107331 Lakeview Medic ?
 107340 HealthEast 1827?
 107343 HealthEast 1829
@@ -741,7 +742,7 @@
 107428 Life Link 4
 107481 HealthEast Dispatch
 107482 HealthEast Dispatch
-107486 HealthEast 72
+107486 HealthEast 1841
 107487 HealthEast 64
 107580 Transit Police
 107652 Shop Truck
@@ -1741,6 +1742,7 @@
 129598 Woodbury PD
 129607 Woodbury PD
 129620 Woodbury PD
+129769 Woodbury Medic 4
 129803 Woodbury PD
 129805 Woodbury PD
 131000 Hastings Fire ???
@@ -4395,6 +4397,7 @@
 317947 ??? Fire Engine 811
 320023 US Marshals
 320024 St Paul PD (862)
+320309 Saint Paul PD
 320783 ????
 321401 US Marshals
 322057 St Paul Fire ???
@@ -4402,7 +4405,7 @@
 322187 St Paul Fire Medic 10
 322188 St Paul Medic 10
 322190 St Paul Fire Medic 14
-322191 St Paul Medic 19
+322191 St Paul Fire Medic 19
 322192 St Paul Fire Medic 19
 322193 Saint Paul Medic 23
 322194 St Paul Fire Medic 23
@@ -4411,9 +4414,11 @@
 322198 St Paul Fire Medic 18
 322200 St Paul Fire Medic 22
 322201 St Paul Fire Medic 4
+322202 St Paul Fire Medic 4
 322203 St Paul Fire Medic 9
 322204 St Paul Fire Medic 9
 322206 St Paul Fire Medic 17
+322208 St Paul Fire Medic 24
 322219 State Fair Ranger 1/2
 322221 State Fair Ranger 1
 322222 State Fair Ranger 2
