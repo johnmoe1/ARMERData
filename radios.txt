@@ -52,7 +52,7 @@
 100195 State Patrol 1601 (CVI)
 100196 State Patrol 2406
 100197 State Patrol 487
-100199 State Patrol 491
+100199 State Patrol 491/506
 100205 State Patrol 1650
 100208 State Patrol 1759
 100211 FIRST 8100
@@ -121,6 +121,7 @@
 100378 State Patrol 358
 100379 State Patrol 358
 100380 State Patrol 204
+100381 State Patrol 36
 100383 State Patrol 592
 100386 State Patrol 235
 100388 State Patrol 362
@@ -167,6 +168,7 @@
 100475 State Patrol 346
 100476 State Patrol 209
 100477 State Patrol 458
+100480 State Patrol 4601
 100482 State Patrol 417
 100483 State Patrol 543
 100484 State Patrol 151
@@ -214,6 +216,7 @@
 100602 State Patrol 567
 100605 State Patrol 329
 100606 State Patrol 328
+100607 State Patrol 4601
 100619 State Patrol 2404
 100623 State Patrol 58
 100627 State Patrol 251
@@ -318,7 +321,7 @@
 101601 FIRST 810x
 101602 FIRST 810x
 101648 State Patrol 297
-101655 State Patrol 479/82
+101655 State Patrol 479/82/251
 101665 BCA
 101685 Capitol Security
 101688 State Patrol 269
@@ -394,7 +397,7 @@
 103674 State Patrol 1790
 103985 State Patrol 594
 103993 State Patrol 23
-103994 State Patrol 385/227
+103994 State Patrol 385/227/139
 103996 State Patrol 128
 104004 Radio Board Tech
 104016 State Patrol Dispatch
@@ -1242,9 +1245,15 @@
 121593 US Marshals
 121780 FBI
 121790 FBI
-122003 UMN PD 1811
+122003 UMN PD
+122035 UMN PD
+122045 UMN PD
+122080 UMN PD
+122084 UMN PD
+122123 UMN PD
 122162 UMN Canine 1850
 122174 UMN Security Dispatch
+122181 UMN PD
 122200 Radio Board Tech
 122201 Radio Board Tech
 122202 Radio Board Tech
@@ -1726,6 +1735,7 @@
 129564 Woodbury PD (32)
 129565 Woodbury PD
 129566 Woodbury PD
+129568 Woodbury PD
 129570 Woodbury PD
 129583 Woodbury PD
 129598 Woodbury PD
@@ -2082,6 +2092,7 @@
 132199 Eagan PD
 132200 Eagan PD
 132201 Eagan PD
+132203 Eagan PD
 132204 Eagan PD
 132205 Eagan PD
 132206 Eagan PD
@@ -2619,6 +2630,7 @@
 146470 Cambridge Hospital
 146615 Isanti County Dispatch
 146616 Isanti County Dispatch
+151001 UMN Dispatch
 151002 UMN Dispatch
 151005 UMN Dispatch
 151209 UMN Police Dispatch
@@ -3764,6 +3776,9 @@
 159655 DOC OPH
 159674 DOC OPH
 159679 DOC OPH
+160339 DOC Base
+160345 DOC Transport
+160558 DOC Transport
 160708 DOC Shakopee Transport
 160711 DOC Shakopee Transport
 160850 DOC ("Doug?")
@@ -4299,6 +4314,7 @@
 310905 Ramsey County Dispatch
 310931 Ramsey County Dispatch
 311105 Ramsey County Dispatch
+311113 St Paul Fire
 311305 Ramsey County Dispatch
 311379 Ramsey County Fire Dispatch
 311434 Ramsey County Fire Dispatch
@@ -4815,6 +4831,7 @@
 519046 Wabasha County SO
 519073 Wabasha County SO (canine)
 519074 Wabasha County SO
+519076 Winona County SO 512
 519081 Wabasha County SO
 519222 Lake City PD
 519228 Lake City PD
@@ -4823,10 +4840,19 @@
 519276 ??? (Ambulance?) 271
 519583 Elgin PD
 519593 Elgin PD
-519596 Elgin PD
+519596 ??? Wabasha County
+519780 Wabasha ??? 903
 519797 Plainview PD
+523082 Winona County SO 557
+523167 Winona County SO 514
+523190 Winona County SO 525
+523223 Winona County SO 512 (canine)
+523226 Winona County SO 557
 523365 Winona Ambulance?
-523716 Winona Police Dispatch
+523701 Winona County SO (525)
+523703 Winona County SO 512 (canine)
+523715 Winona County LEC
+523716 Winona County LEC
 523778 Winona PD ?
 527012 ??? Dispatch
 539012 Rice County Dispatch
@@ -4870,11 +4896,19 @@
 549503 Gold Cross Dispatch
 549504 Gold Cross Dispatch
 549509 Mayo Dispatch
+549510 St Mary's
+549511 St Mary's Hospital (Rochester)
 549560 Gold Cross 603
 549565 Gold Cross 661
+549570 Mayo 2
+549581 Mayo 3
+549583 Mayo 3
+549586 Mayo Dispatch
 549592 Mayo 2
 549593 Mayo 3
 549594 Mayo 3
+549595 Mayo 1
+549615 Gold Cross ???
 549635 Gold Cross 643
 549673 Gold Cross 601
 549692 Gold Cross 651
