@@ -20,6 +20,7 @@
 100080 Afton 899
 100127 State Patrol 926
 100128 State Patrol 4601
+100132 Capitol Security
 100137 State Patrol 435
 100139 State Patrol 922
 100141 State Patrol 2404
@@ -89,6 +90,7 @@
 100304 State Patrol 2401
 100306 State Patrol 304
 100316 State Patrol 2405?
+100317 Capitol Security
 100324 State Patrol 227
 100325 State Patrol 149
 100326 State Patrol 100
@@ -197,6 +199,7 @@
 100528 State Patrol 85
 100534 State Patrol 91
 100536 State Patrol 241
+100537 Capitol Security
 100543 State Patrol 922
 100544 State Patrol 2504
 100545 State Patrol 924
@@ -238,9 +241,13 @@
 100704 State Patrol 588
 100705 State Patrol 379
 100706 State Patrol 29 ???
+100710 Capitol Security
+100728 Capitol Security
+100729 Capitol Security
 100742 State Patrol 243
 100755 State Patrol 156
 100762 State Patrol 598
+100794 Capitol Security
 100799 State Patrol 547
 100800 State Patrol 925 (air?)
 100812 FIRST 810x
@@ -265,6 +272,8 @@
 101038 State Patrol 442
 101044 State Patrol 312
 101045 State Patrol 221
+101059 Capitol Security
+101062 Capitol Security
 101067 Radio Board Tech
 101072 Radio Board Tech
 101213 State Patrol 513
@@ -353,7 +362,7 @@
 101822 State Patrol 374
 101825 State Patrol 598
 101827 State Patrol 36
-102161 Hastings Fire (Base?)
+102161 Hastings Fire Base
 102233 State Patrol Trooper 8
 102234 Trooper 8
 102235 Trooper 9
@@ -407,11 +416,12 @@
 104098 Traffic Management Center
 104099 Traffic Management Center
 104106 Traffic Management Center
-104997 Capitol Security
+104997 Capitol Security Dispatch
 105026 North? 711?
 105028 North 1131 (??)
 105048 North 271
 105060 Air Care 5
+105064 North 602
 105066 Air Care 4
 105068 North 701
 105077 North 704
@@ -508,6 +518,7 @@
 105350 Air Care Dispatch
 105351 Air Care Dispatch
 105359 North Dispatch
+105400 North Dispatch
 105483 North Dispatch
 105485 North Dispatch
 105505 ??? (Ambulance) 857
@@ -555,7 +566,7 @@
 105634 Allina 571
 105638 Allina 535
 105641 Allina ???
-105651 Allina
+105651 Allina 204
 105652 Allina 205
 105653 Allina 644
 105656 Allina 335
@@ -681,20 +692,21 @@
 107101 HealthEast 63
 107102 HealthEast 1843
 107103 HealthEast 1831
-107105 HealthEast 1851
+107105 HealthEast
 107110 HealthEast Dispatch
-107111 Healtheast 1822
+107111 Healtheast
 107112 HealthEast
 107113 HealthEast 1824
-107114 HealthEast 1822
+107114 HealthEast
 107115 HealthEast 1163
-107116 HealthEast 1823
-107117 HealthEast 1827
-107118 HealthEast 1829
-107119 HealthEast 1825
+107116 HealthEast
+107117 HealthEast
+107118 HealthEast
+107119 HealthEast
 107121 HealthEast 71
 107122 HealthEast 72
 107123 HealthEast 1851
+107124 HealthEast
 107126 HealthEast 62
 107127 HealthEast 61
 107128 HealthEast 61
@@ -708,18 +720,18 @@
 107149 Lakeview 8060
 107150 Lakeview 806
 107153 Lakeview 803
-107162 ??? Ambulance
+107162 Lakeview Ambulance
 107164 Lakeview 565
 107290 HealthEast
 107292 HealthEast
-107293 HealthEast 1831
-107294 HealthEast 1821
-107295 HealthEast 1825
+107293 HealthEast
+107294 HealthEast
+107295 HealthEast
 107297 Allina 565
 107316 Lakeview Ambulance 802
 107323 Lakeview 802
 107331 Lakeview Medic ?
-107340 HealthEast 1827?
+107340 HealthEast
 107343 HealthEast 1829
 107344 HealthEast 1824
 107345 HealthEast 65
@@ -835,7 +847,7 @@
 113501 Minneapolis Fire Chief 2
 113510 Minneapolis Fire Deputy
 113512 Minneapolis PD 9253?
-113543 ??? 9248
+113543 Minneapolis PD 9248
 113552 Minneapolis PD
 113580 Minneapolis PD
 113586 Minneapolis PD? 9262
@@ -869,7 +881,7 @@
 113782 Minneapolis PD (Squad 212)
 113794 Minneapolis PD
 113813 Minneapolis PD
-113837 ??? 8320
+113837 Minneapolis PD 8320
 113840 Minneapolis PD
 113853 Minneapolis PD? 6146?
 113858 Minneapolis PD
@@ -921,7 +933,7 @@
 114196 Minneapolis PD
 114197 Minneapolis PD
 114205 Minneapolis PD (506)
-114212 ??? 1220
+114212 Minneapolis PD 1220
 114214 Minneapolis PD (970)
 114217 Minneapolis PD (304)
 114224 Minneapolis PD
@@ -972,7 +984,7 @@
 114704 Minneapolis PD
 114705 Minneapolis PD
 114723 Minneapolis PD
-114739 ??? 8320 Minneapolis?
+114739 Minneapolis PD 8320
 114753 Minneapolis PD
 114764 Minneapolis PD (510)
 114775 Minneapolis Animal Control 30
@@ -1004,10 +1016,10 @@
 114944 Minneapolis PD (955)
 114945 Minneapolis PD
 114953 Minneapolis PD
-114960 ??? 6149
+114960 Minneapolis PD 6149
 114962 Minneapolis PD (510A)
 114970 Minneapolis PD
-114977 Minneapolis Engine 1
+114977 Minneapolis Fire Engine 1
 114988 Minneapolis PD
 115001 Minneapolis PD (408)
 115012 Minneapolis PD
@@ -1230,6 +1242,7 @@
 121527 US Marshals
 121533 US Marshals
 121534 US Marshals
+121537 US Marshals
 121542 US Marshals
 121543 US Marshals
 121544 US Marshals
@@ -1237,6 +1250,8 @@
 121562 US Marshals
 121563 US Marshals
 121572 US Marshals
+121573 US Marshals
+121577 US Marshals
 121578 US Marshals
 121585 US Marshals
 121587 US Marshals
@@ -1244,17 +1259,24 @@
 121590 US Marshals
 121591 US Marshals
 121593 US Marshals
+121600 US Marshals
 121780 FBI
 121790 FBI
+122000 UMN PD
 122003 UMN PD
+122034 UMN PD
 122035 UMN PD
 122045 UMN PD
+122079 UMN PD
 122080 UMN PD
+122083 UMN PD
 122084 UMN PD
 122123 UMN PD
+122152 UMN PD
 122162 UMN Canine 1850
 122174 UMN Security Dispatch
 122181 UMN PD
+122186 UMN PD
 122200 Radio Board Tech
 122201 Radio Board Tech
 122202 Radio Board Tech
@@ -1283,6 +1305,7 @@
 122571 Blaine PD
 122572 Blaine PD
 122575 Blaine PD
+122579 Anoka County Jail
 122580 Blaine PD
 122586 Blaine PD
 122588 Blaine PD
@@ -1309,6 +1332,8 @@
 122624 Anoka PD
 122625 Anoka PD
 122628 Anoka PD
+122629 Anoka PD
+122634 Anoka PD
 122636 Anoka PD
 122637 Anoka PD
 122639 Anoka PD
@@ -1400,7 +1425,17 @@
 122892 Coon Rapids PD
 122897 Blaine PD
 122900 Columbia Heights PD
+122908 Anoka County Jail
+122913 Anoka County Jail
+122919 Anoka County Jail
+122925 Anoka County Jail
+122926 Anoka County Jail
+122930 Anoka County Jail
+122931 Anoka County Jail
+122936 Anoka County Jail
+122937 Anoka County Jail
 122980 Oak Grove Fire Lieutenant 2
+123001 Coon Rapids PD
 123002 Coon Rapids PD
 123004 Coon Rapids PD
 123005 Coon Rapids PD
@@ -1491,12 +1526,14 @@
 123356 Ramsey PD
 123357 Ramsey PD
 123359 Fridley PD
+123360 Fridley PD
 123361 Fridley PD
 123364 Fridley PD
 123367 Fridley PD
 123369 Fridley PD
 123373 Fridley PD
 123374 Fridley PD
+123375 Fridley PD
 123376 Coon Rapids PD
 123377 Coon Rapids PD
 123378 Coon Rapids PD
@@ -1525,6 +1562,7 @@
 123420 Andover PD
 123421 Anoka County SO
 123423 Anoka County SO
+123426 Anoka County Jail
 123428 Anoka County SO
 123431 Anoka County SO
 123433 Anoka County SO
@@ -1585,6 +1623,7 @@
 123755 Columbia Heights PD
 123763 Ramsey Fire Engine 31
 123767 Ramsey Fire
+123774 Fridley PD
 123793 Columbia Heights PD
 123804 Lino Lakes PD
 123805 Anoka PD
@@ -1605,6 +1644,7 @@
 124042 Blaine PD
 124270 Lino Lakes PD
 124271 Lino Lakes PD
+124276 Anoka County Jail
 124306 Linwood Public Works
 124308 Linwood Public Works
 124334 Lino Lakes PD
@@ -1617,9 +1657,10 @@
 125176 Anoka County Dispatch
 125178 Anoka County Dispatch
 125182 Anoka County Dispatch
-125184 ??? Dispatch
+125184 Anoka County Dispatch
 125187 Anoka County Dispatch
 125235 Anoka County Dispatch
+125278 Anoka County Dispatch
 125281 Anoka County Dispatch
 125335 Anoka County Dispatch
 125376 Anoka County Dispatch
@@ -1658,7 +1699,7 @@
 126756 Washington County Dispatch
 126757 Washington County Dispatch
 126759 Washington County Dispatch
-126760 Washington County Fire Dispatch
+126760 Washington County Dispatch
 126761 Washington County Dispatch
 126776 Bayport PD
 126779 Bayport PD
@@ -1669,7 +1710,7 @@
 126792 Bayport PD
 126880 Cottage Grove PD
 126884 Cottage Grove PD
-126896 ???
+126896 Cottage Grove PD
 126929 Cottage Grove PD
 126946 Cottage Grove PD
 126956 Cottage Grove PD
@@ -1860,7 +1901,8 @@
 131280 Burnsville Engine 1
 131282 Burnsville Medic 1
 131290 Burnsville Fire Engine 1
-131293 Burnsville Medic 3
+131292 Burnsville Medic 1
+131293 Burnsville Medic 2
 131297 Burnsville Fire Engine 1
 131298 Burnsville Fire Engine 2
 131300 Burnsville Fire Medic 2
@@ -1950,6 +1992,7 @@
 131472 Lakeville PD
 131476 Burnsville PD
 131477 Burnsville PD
+131480 Burnsville PD (45C5)
 131481 Burnsville PD
 131482 Burnsville PD
 131483 Burnsville PD (45S40)
@@ -1989,6 +2032,7 @@
 131728 Dakota County SO
 131730 Dakota County SO
 131733 Dakota County SO 1912
+131734 Dakota County SO
 131737 Dakota County SO
 131749 Dakota County SO
 131751 DCSO
@@ -2154,18 +2198,18 @@
 132322 Farmington Fire Engine 22
 132324 Farmington Fire Engine 22
 132325 Farmington Fire Station 1
-132328 Farmington Engine 22
+132328 Farmington Fire Engine 22
 132329 Farmington Fire Engine 1
 132330 Farmington Fire Marshal
-132331 Farmington Engine 2
+132331 Farmington Fire Engine 2
 132333 Farmington Fire Chief 2
 132334 Farmington Fire Station 2
 132336 Farmington Fire Rescue 1
 132337 Farmington Fire Tender 2
 132338 Farmington Fire Chief 4
 132339 Farmington Fire Brush 1
-132340 Farmington Engine 1
-132343 Farmington Fire Station 2
+132340 Farmington Fire Engine 1
+132343 Farmington Fire Fire Station 2
 132344 Farmington Fire Chief 1
 132345 Farmington Fire Marshal
 132401 Farmington PD
@@ -2267,6 +2311,7 @@
 132817 Hastings PD
 132818 Hastings PD
 132819 Hastings PD
+132852 Inver Grove Heights Fire Squad 2
 132854 Inver Grove Heights Fire Chief 1
 132862 Inver Grove Heights Fire Squad 1
 132866 Inver Grove Heights Fire Rescue 10
@@ -2274,15 +2319,16 @@
 132873 Inver Grove Heights Fire Station 3
 132877 Inver Grove Heights Fire Tender 36
 132880 Inver Grove Heights Fire Captain 12
+132881 Inver Grove Heights Fire Station 1
 132889 Inver Grove Heights Fire Ladder 13
-132891 Inver Grove Fire Chief 2
+132891 Inver Grove Heights Fire Chief 2
 132892 Inver Grove Heights Fire Squad 1 ???
 132897 Inver Grove Heights Fire Rescue 10
 132898 Inver Grove Heights Fire Engine 33
 132900 Inver Grove Heights Fire Ladder 35
 132903 Inver Grove Heights Fire
 132907 Inver Grove Heights Fire Station 1
-132908 Inver Grove Fire Station 3
+132908 Inver Grove Heights Fire Station 3
 132951 Inver Grove Heights PD
 132952 Dakota County 1910
 132954 Inver Grove Heights PD
@@ -2497,23 +2543,24 @@
 133992 Alarm
 134009 South Metro Fire ???
 134014 South Metro Ambulance 1
-134016 South Metro Engine 1
-134023 South Metro Inspector 1
+134016 South Metro Fire Engine 1
+134023 South Metro Fire Inspector 1
 134024 South Metro Ambulance 2
 134027 South Metro Ambulance 2
-134030 South Metro Engine 2
-134041 South Metro Engine 1
+134030 South Metro Fire Engine 2
+134041 South Metro Fire Engine 1
 134046 South Metro Ambulance 2
-134048 South Metro Chief 1
+134048 South Metro Fire Chief 1
 134050 South Metro Ambulance 1
-134053 South Metro Engine 2
+134053 South Metro Fire Engine 2
+134059 South Metro Fire Engine 2
 134101 South St Paul PD
 134102 South St Paul PD
 134103 South St Paul PD
 134104 South St Paul PD
-134106 South St. Paul PD
+134106 South St Paul PD
 134107 South St Paul PD (2130?)
-134109 South St. Paul PD
+134109 South St Paul PD
 134110 South St Paul PD
 134112 South St Paul PD
 134113 South St Paul PD
@@ -2530,10 +2577,10 @@
 134136 South St Paul PD
 134137 South St Paul PD
 134138 South St Paul PD
-134139 South St. Paul PD 21S7
+134139 South St Paul PD 21S7
 134140 South St Paul PD
 134141 South St Paul PD
-134142 South St. Paul PD 2142
+134142 South St Paul PD 2142
 134144 South St Paul PD
 134145 South St Paul PD
 134146 South St Paul PD
@@ -2546,8 +2593,9 @@
 134203 West St Paul PD
 134205 West St Paul PD
 134206 West St Paul PD
+134207 West St Paul PD
 134209 West St Paul PD
-134211 West St. Paul PD
+134211 West St Paul PD
 134212 West St Paul PD
 134215 West St Paul PD
 134216 West St Paul PD
@@ -2559,9 +2607,9 @@
 134225 West St Paul PD
 134228 West St Paul PD
 134229 West St Paul PD
-134231 West St. Paul PD 2636
+134231 West St Paul PD 2636
 134233 West St Paul PD
-134235 West St. Paul PD
+134235 West St Paul PD
 134236 West St Paul PD
 134237 West St Paul PD
 134238 West St Paul PD
@@ -2587,18 +2635,19 @@
 134726 Dakota County Probation 9911
 134727 Dakota County Probation 9903
 134729 Dakota County Probation (9902)
+134730 Dakota County Probation (9904)
 134731 Dakota County Probation 9905 (Amanda)
 135003 Farmington PD
 135018 Hastings PD
 135020 Burnsville PD
-135601 Hampton Randolph Fire Captain 4
+135601 RandolphHampton Fire Captain 4
 135603 Randolph Hampton Fire Chief 3
 135607 Randolph Hampton Fire Station 1
 135608 Randolph Hampton Fire Rescue 2
-135614 Hampton Randolph Fire Station 1
+135614 Randolph Hampton Fire Station 1
 135617 Randolph Hampton Fire Captain 5
-135619 Hampton Randolph Fire Rescue 2
-135629 Hampton Randolph Fire Rescue 1
+135619 Randolph Hampton Fire Rescue 2
+135629 Randolph Hampton Fire Rescue 1
 136027 Medfire? Medic 1
 136605 Scott County 360
 136619 Scott County SO
@@ -2634,8 +2683,52 @@
 146616 Isanti County Dispatch
 151001 UMN Dispatch
 151002 UMN Dispatch
+151003 UMN Security
+151004 UMN Security Dispatch
 151005 UMN Dispatch
 151209 UMN Police Dispatch
+151505 UMN Security
+151509 UMN Security
+151513 UMN Security
+151514 UMN Security
+151516 UMN Security
+151517 UMN Security
+151519 UMN Security
+151522 UMN Security
+151525 UMN Security
+151532 UMN Security
+151534 UMN Security
+151537 UMN Security
+151542 UMN Security
+151543 UMN Security
+151544 UMN Security
+151545 UMN Security
+151547 UMN Security
+151548 UMN Security
+151549 UMN Security
+151553 UMN Security
+151555 UMN Security
+151559 UMN Security
+151561 UMN Security
+151564 UMN Security
+151565 UMN Security
+151566 UMN Security
+151567 UMN Security
+151571 UMN Security
+151572 UMN Security
+151573 UMN Security
+151574 UMN Security
+151575 UMN Security
+151577 UMN Security
+151578 UMN Security
+151579 UMN Security
+151581 UMN Security
+151582 UMN Security
+151584 UMN Security
+151586 UMN Security
+151587 UMN Security
+151589 UMN Security
+151596 UMN Security
 151609 Dakota County Dispatch
 151610 Dakota County Dispatch
 151611 Dakota County Dispatch
@@ -3782,6 +3875,7 @@
 160345 DOC Transport
 160558 DOC Transport
 160708 DOC Shakopee Transport
+160710 DOC Shakopee Transport
 160711 DOC Shakopee Transport
 160850 DOC ("Doug?")
 160851 DOC ("Bruce")
@@ -3791,7 +3885,7 @@
 160860 DOC ("Carolyn")
 160861 DOC ("Doc")
 160862 DOC ("Joyce")
-160863 DOC ("Mike/Smith")
+160863 DOC ("Mike/Smith/Brian?")
 160864 DOC ("Joyce")
 160866 DOC ("Nate")
 160867 DOC ("Kevin")
@@ -3802,7 +3896,7 @@
 160876 DOC ("Terry/Nutter")
 160878 DOC ("Bruce/Meagher")
 160880 DOC ("Sheeble")
-160882 DOC ("Bruce-old?/Mike")
+160882 DOC ("Brian?")
 160883 DOC ("Nate")
 160885 DOC ("Cari/Gerlicher")
 160886 DOC ("")
@@ -3923,7 +4017,7 @@
 302552 Plymouth Fire Engine 21
 302614 Brooklyn Park Fire Chief 2
 302616 Brooklyn Park Fire Battalion 3
-302617 Brooklyn Park Engine 21
+302617 Brooklyn Park Fire Engine 21
 302660 West Metro Fire Inspector 4
 302662 West Metro Fire Station 2
 302664 Brooklyn Park Fire Battalion 1
@@ -3968,7 +4062,7 @@
 303270 ? 185
 303295 Edina Medic 2
 303436 IDT5???? (HCMC)
-303437 Richfield Engine 1
+303437 Richfield Fire Engine 1
 303448 Plymouth PD
 303559 Brooklyn Park Fire Rescue 31
 303609 Airport SWAT
@@ -4273,7 +4367,7 @@
 309720 Hopkins Fire Chief 2
 309732 West Metro Fire Captain 1
 309739 West Metro Fire Chief 2
-309750 Brooklyn Park Engine 21
+309750 Brooklyn Park Fire Engine 21
 309783 Brooklyn Park PD
 309784 Brooklyn Park PD
 309786 Brooklyn Park PD
@@ -4371,8 +4465,8 @@
 317108 Maplewood Medic 331
 317132 Maplewood Medic 311
 317145 Maplewood Medic 321
-317147 ??? Medic 321
-317158 ??? Medic 331
+317147 Maplewood Medic 321
+317158 Maplewood Medic 331
 317159 Maplewood Medic
 317163 Maplewood Medic 331
 317251 Maplewood Medic 321
@@ -4383,7 +4477,7 @@
 317516 White Bear Lake PD
 317517 White Bear Lake PD
 317518 White Bear Lake PD
-317525 White Bear PD
+317525 White Bear Lake PD
 317526 White Bear Lake PD
 317531 White Bear Lake PD
 317534 White Bear Lake PD
@@ -4391,10 +4485,10 @@
 317536 White Bear Lake PD
 317548 White Bear Lake Medic 43
 317549 White Bear Lake Medic 43
-317566 White Bear Medic 44
+317566 White Bear Lake Medic 44
 317570 White Bear Lake Medic 42
 317571 White Bear Lake Ambulance 3
-317619 White Bear Amulance ???
+317619 White Bear Lake Amulance ???
 317628 White Bear Lake PD
 317635 White Bear Lake PD
 317646 White Bear Lake PD
@@ -4419,14 +4513,14 @@
 322057 St Paul Fire ???
 322151 St Paul Fire Medic 8
 322187 St Paul Fire Medic 10
-322188 St Paul Medic 10
+322188 St Paul Fire Medic 10
 322190 St Paul Fire Medic 14
 322191 St Paul Fire Medic 19
 322192 St Paul Fire Medic 19
-322193 Saint Paul Medic 23
+322193 St Paul Fire Medic 23
 322194 St Paul Fire Medic 23
-322195 St Paul Medic 6
-322197 St Paul Medic 18
+322195 St Paul Fire Medic 6
+322197 St Paul Fire Medic 18
 322198 St Paul Fire Medic 18
 322200 St Paul Fire Medic 22
 322201 St Paul Fire Medic 4
@@ -4440,16 +4534,16 @@
 322222 State Fair Ranger 2
 322243 St Paul Fire Medic 8
 322247 St Paul Fire Medic 14
-322248 St Paul Medic 23
+322248 St Paul Fire Medic 23
 322257 St Paul Fire Medic 62
 322264 St Paul Fire Medic 6
-322265 St Paul Medic 22
+322265 St Paul Fire Medic 22
 322269 State Fair Ranger 1/2
 322278 St Paul Fire Chief 1
 322305 St Paul Fire Medic 18
 322306 St Paul Fire Medic 8
 322309 St Paul Fire Medic 4
-322310 St Paul Medic 17
+322310 St Paul Fire Medic 17
 322326 St Paul Fire Medic 24
 322340 St Paul Fire Ladder 20
 322374 St Paul Fire Medic 24
@@ -4794,15 +4888,15 @@
 515171 Red Wing PD
 515172 Red Wing PD
 515173 Goodhue County?
-515261 Cannon Falls Engine 2
-515262 Cannon Falls Rescue 1
+515261 Cannon Falls Fire Engine 2
+515262 Cannon Falls Fire Rescue 1
 515267 Goodhue County?
 515269 Goodhue County?
 515272 Goodhue County?
 515310 Red Wing Fire
 515311 Red Wing Fire
 515318 Red Wing Fire
-515320 Red Wing Engine 11
+515320 Red Wing Fire Engine 11
 515321 Red Wing Medic 3
 515330 Red Wing Fire Engine 11
 515331 Red Wing Fire "900"
@@ -4810,7 +4904,7 @@
 515336 Red Wing Medic 1
 515338 Red Wing Medic 3
 515339 Red Wing Medic 4
-515343 Red Wing Engine 11
+515343 Red Wing Fire Engine 11
 515344 Red Wing Fire ?
 515363 Goodhue County?
 515371 Goodhue County?
@@ -4859,8 +4953,8 @@
 519231 Lake City PD
 519235 Lake City PD
 519276 ??? (Ambulance?) 271
-519583 Elgin PD
-519593 Elgin PD
+519583 Elgin PD ???
+519593 Elgin PD ???
 519596 ??? Wabasha County
 519780 Wabasha ??? 903
 519797 Plainview PD
