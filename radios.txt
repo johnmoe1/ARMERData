@@ -1210,6 +1210,7 @@
 120438 West MRCC
 120439 West MRCC
 120464 West MRCC
+120465 West MRCC
 120494 HCMC Dispatch
 120732 MRCC
 120733 MRCC
@@ -2730,8 +2731,11 @@
 137010 Belle Plaine PD
 137702 Shakopee 676
 137896 Elko PD
+138216 Savage PD
 138219 Savage PD 329
+138404 Savage PD
 138411 Savage PD
+138414 Savage PD
 140006 Jordan 613
 140094 Jordan 613
 140418 Scott County Dispatch
@@ -5087,6 +5091,7 @@
 515828 Goodhue County?
 519023 Wabasha County Dispatch
 519024 Wabasha County Dispatch
+519025 Wabasha County Dispatch
 519046 Wabasha County SO
 519073 Wabasha County SO (canine)
 519074 Wabasha County SO
@@ -5168,7 +5173,11 @@
 549594 Mayo 3
 549595 Mayo 1
 549615 Gold Cross ???
+549621 Gold Cross 646
+549628 Gold Cross 643
+549634 Gold Cross 647
 549635 Gold Cross 643
+549636 Gold Cross 642
 549673 Gold Cross 601
 549692 Gold Cross 651
 549724 Gold Cross 682
