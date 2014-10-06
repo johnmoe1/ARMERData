@@ -32,6 +32,7 @@
 100155 State Patrol 272
 100156 State Patrol 113
 100159 State Patrol 114
+100161 State Patrol 49
 100162 State Patrol 230/260
 100163 State Patrol 570
 100164 State Patrol 381
@@ -82,7 +83,7 @@
 100281 State Patrol 71
 100282 State Patrol 131
 100284 State Patrol 570
-100286 State Patrol 191
+100286 State Patrol 191/346
 100287 State Patrol 333
 100291 State Patrol ???
 100294 State Patrol 416
@@ -114,7 +115,7 @@
 100359 State Patrol 324
 100362 State Patrol 515
 100363 State Patrol 330
-100364 State Patrol 333/__198__
+100364 State Patrol 198
 100366 State Patrol 398
 100368 State Patrol 142
 100373 State Patrol 187
@@ -254,7 +255,7 @@
 100799 State Patrol 547
 100800 State Patrol 925 (air?)
 100812 FIRST 810x
-100818 State Patrol 337/123
+100818 State Patrol 123
 100835 State Patrol 'car 20'
 100836 Radio Board Tech
 100838 State Patrol 4712
@@ -273,6 +274,7 @@
 101015 State Patrol 473
 101022 State Patrol 227
 101038 State Patrol 442
+101039 State Patrol 49
 101044 State Patrol 312
 101045 State Patrol 221
 101059 Capitol Security
@@ -337,6 +339,7 @@
 101665 BCA
 101685 Capitol Security
 101688 State Patrol 269
+101689 State Patrol 230
 101691 State Patrol 318
 101693 State Patrol 466
 101694 State Patrol ???
@@ -354,8 +357,9 @@
 101802 State Patrol 17
 101804 State Patrol 596
 101805 State Patrol 120
+101806 State Patrol 511
 101807 State Patrol 929
-101808 State Patrol 73/264
+101808 State Patrol 264
 101810 State Patrol 193
 101811 State Patrol ???
 101812 State Patrol 393
@@ -509,7 +513,10 @@
 105241 North 717
 105248 North Memorial Medical Center
 105260 North 103
+105277 Air Care Dispatch
+105278 Air Care Dispatch
 105279 Air Care Dispatch
+105281 Air Care Dispatch
 105297 Air Care 700 (Dispatch)
 105298 Air Care Dispatch
 105332 North Dispatch
@@ -572,11 +579,13 @@
 105633 Allina 534
 105634 Allina 571
 105638 Allina 535
-105641 Allina ???
+105641 Allina 990
 105651 Allina 204
 105652 Allina 205
 105653 Allina 644
 105656 Allina 335
+105657 Allina 332
+105661 Allina 330
 105665 Allina 622
 105667 Allina 634
 105668 Allina 635
@@ -608,11 +617,13 @@
 105754 Allina 532
 105755 Allina 532
 105756 Allina 511
-105763 Allina 334
+105763 Allina 332
+105765 Allina 330
 105766 Allina 630
 105772 Allina ???
 105777 Allina 610
 105784 Allina 550
+105793 Allina 330
 105794 Allina 334
 105805 Allina 592
 105806 Allina 592/594
@@ -641,7 +652,7 @@
 105875 Allina
 105876 Allina 204
 105889 Allina 636
-105890 Allina
+105890 Allina 643
 105892 Allina 627
 105893 Allina
 105904 Allina ???
@@ -650,6 +661,7 @@
 105924 Glencoe Ambulance 371
 105925 Hutchinson Ambulance?
 105927 Hutchinson Ambulance?
+106000 Allina 331
 106001 Allina ?
 106002 Allina 915
 106005 Allina
@@ -1234,6 +1246,8 @@
 120733 MRCC
 120734 Statewide MRCC
 120735 MRCC
+120753 HCMC Dispatch
+120755 HCMC Dispatch
 120760 HCMC Dispatch
 120761 HCMC Dispatch
 120762 HCMC Dispatch
@@ -1253,6 +1267,11 @@
 120821 HCMC Dispatch
 120823 HCMC Dispatch
 120825 West MRCC
+121141 HCMC Dispatch (Con 1) NEW
+121142 HCMC Dispatch (Con 2) NEW
+121143 HCMC Dispatch (Con 3) NEW
+121144 HCMC Dispatch (Con 4) NEW
+121145 HCMC Dispatch (Con 5) NEW
 121179 TSA Operations?
 121186 TSA?
 121452 Radio Board Tech
@@ -1481,6 +1500,7 @@
 122937 Anoka County Jail
 122967 Anoka County Jail
 122969 Anoka County Jail
+122979 Oak Grove Fire
 122980 Oak Grove Fire Lieutenant 2
 123001 Coon Rapids PD
 123002 Coon Rapids PD
@@ -1702,6 +1722,7 @@
 124036 Anoka County SO
 124038 Andover PD
 124042 Blaine PD
+124052 Ham Lake Fire Chief 1
 124270 Lino Lakes PD
 124271 Lino Lakes PD
 124276 Anoka County Jail
@@ -1730,6 +1751,7 @@
 125435 Anoka County Dispatch
 125535 Anoka County Dispatch
 125578 Anoka County Dispatch
+125634 Anoka County Dispatch
 125635 Anoka County Dispatch
 125676 Anoka County Dispatch
 125735 Anoka County Dispatch
@@ -4226,6 +4248,7 @@
 302720 Dayton Fire Grass 21
 302724 Dayton Fire Chief 1
 302728 Dayton Fire Captain 21
+302900 Golden Valley Fire Chief 3
 302904 Brooklyn Park PD
 302906 Brooklyn Park PD
 302908 Minnetrista PD
@@ -4237,9 +4260,13 @@
 303140 Edina PD
 303151 ? 139
 303155 ? 185
+303158 Edina PD
 303159 Edina PD 132
+303163 Edina PD
 303164 Edina PD
 303173 Edina PD
+303175 Edina PD
+303186 Edina PD
 303189 Edina PD?
 303191 ? 239
 303192 Edina PD
@@ -4255,9 +4282,12 @@
 303234 Edina Medic 2
 303242 Edina Medic 1
 303261 Edina PD
-303270 ? 185
+303262 Edina PD
+303267 Edina PD
+303270 Edina PD
+303276 Edina PD
 303295 Edina Medic 2
-303436 IDT5???? (HCMC)
+303436 HCMC Spare 15?
 303437 Richfield Fire Engine 1
 303448 Plymouth PD
 303559 Brooklyn Park Fire Rescue 31
@@ -4369,14 +4399,21 @@
 304545 Edina PD (145)
 304824 Brooklyn Center PD
 304888 Golden Valley PD 3515
-304895 Edina PD
+304889 Golden Valley PD (3509)
+304890 Golden Valley PD
+304895 Golden Valley PD (3519)
 304907 Golden Valley PD 3521
+304911 Golden Valley PD
 304914 Golden Valley PD (3508)
+305089 Golden Valley PD (3528)
 305090 Golden Valley PD 3551?
 305092 Golden Valley PD (3513)
 305096 3508
-305097 Golden Valley PD 3521
-305100 Golden Valley PD (3523)
+305097 Golden Valley PD
+305100 Golden Valley PD
+305131 Golden Valley Fire Engine 11
+305159 Minnetonka Rescue 1
+305189 Minnetonka Fire Engine 8
 305233 Maple Grove Fire Engine 22
 305253 Hennepin County SO Warrant
 305270 Radio Board Tech
@@ -4384,37 +4421,47 @@
 305312 Brooklyn Park Fire Rescue 31
 305313 Brooklyn Park Fire Rescue 11
 305326 Hennepin County SO
-305333 Edina PD Dispatch
+305333 Edina Dispatch
 305346 HCSO Water Patrol
 305356 Richfield PD
+305357 Richfield PD
 305363 Richfield PD 2512
 305369 Edina PD
-305370 Richfield PD 2515
+305370 Richfield PD
 305378 Richfield PD
 305381 Richfield PD (2511)
 305382 Richfield PD
 305383 Richfield PD 2565
 305384 Richfield PD 2514
 305385 Richfield PD (2510)
+305405 Edina Dispatch
 305421 Edina Dispatch
 305423 Edina Dispatch
 305436 Orono PD
 305452 Rogers PD
 305466 Brooklyn Park Fire Rescue 11
 305483 Edina PD Dispatch
+305555 Edina Dispatch
 305570 Minnetrista PD? ... 8171
 305577 Brooklyn Park Fire Engine 21
 305628 Hennepin County SO
 305632 Hennepin County SO
+305633 Edina Dispatch
 305649 Brooklyn Center PD
+305687 Minnetonka Dispatch
+305705 Edina Dispatch
+305732 Richfield PD
 305738 Richfield PD (2513)
 305740 Richfield PD (2510)
 305741 Richfield PD (2514)
 305749 Richfield PD
 305751 Richfield PD
+305754 Richfield PD
+305755 Richfield PD
 305761 HCMC 427 (or spare?)
 305766 HCMC 431?
 305777 Richfield PD (2546)
+305779 Richfield PD
 305781 Richfield PD 2512
 305783 Edina Dispatch
 305784 Edina PD
@@ -4424,13 +4471,17 @@
 305805 ? 2511
 305807 Richfield PD 2565
 305808 Richfield PD (2563)
+305837 Minnetonka Dispatch
+305855 Edina Dispatch
 305859 Maple Grove Fire Engine 51
 305872 Maple Grove Fire Inspector 2/3
 305883 St Louis Park Dispatch
+305987 Minnetonka Dispatch
 306033 St Louis Park Dispatch
 306068 West Metro Fire Engine 31
 306083 Edina Dispatch
 306136 Minnetonka Dispatch
+306155 Edina Dispatch
 306158 HCMC CP1
 306168 HCMC 441
 306170 HCMC 441 (?)
@@ -4457,7 +4508,7 @@
 306371 HCMC 421
 306372 HCMC 422
 306416 HCMC 422
-306436 Minnetonka PD
+306436 Minnetonka Dispatch
 306476 HCMC 423
 306480 HCMC 423
 306494 Radio Board Tech
@@ -4479,6 +4530,7 @@
 306522 HCMC 408 (Doc?)
 306545 HCS Sys Tech ???
 306566 HCMC 424
+306587 Minnetonka Dispatch
 306626 HCMC 424
 306629 HCMC 425
 306630 HCMC 425
@@ -4499,9 +4551,10 @@
 306671 HCMC 410 (Sup)
 306672 HCMC 410 (Sup)
 306716 HCMC 410 (Sup)
+306737 Minnetonka Dispatch
 306817 Brooklyn Park PD
 306818 Brooklyn Park PD
-306887 Minnetonka PD?
+306887 Minnetonka Dispatch
 306897 Brooklyn Park PD
 306917 Brooklyn Park PD
 306926 Brooklyn Park PD
@@ -4519,10 +4572,11 @@
 307011 Brooklyn Park PD
 307018 Brooklyn Park PD
 307107 Brooklyn Park PD
-307138 Edina PD Dispatch
+307138 Edina Dispatch
 307186 Minnetonka Dispatch
 307336 Minnetonka Dispatch
 307352 Minnetonka Dispatch
+307438 Edina Dispatch
 307439 Minnetonka PD
 307448 Minnetonka PD
 307450 Minnetonka PD
@@ -4536,18 +4590,20 @@
 307507 Minnetonka PD
 307511 Minnetonka PD
 307520 Minnetonka PD
-307522 Minnetonka PD
+307522 Minnetonka PD?
 307530 Minnetonka PD
 307540 Airport Police Dispatch
 307541 Airport Police Dispatch
 307544 Airport Police Dispatch
 307554 Minnetonka PD
+307579 Edina Dispatch
 307594 Edina Dispatch
 307652 Minnetonka Dispatch
 307744 Edina/Golden Valley Dispatch
 307778 Brooklyn Park Fire Rescue 31
 307797 Brooklyn Park Fire Rescue 31
 307894 Golden Valley Dispatch
+308546 Minnetonka Fire Captain 5
 308551 Minnetonka Fire Engine 2
 308555 Minnetonka Fire Chief 5
 308595 Hopkins Fire Chief 1
@@ -4582,6 +4638,7 @@
 309079 Brooklyn Park PD
 309080 Brooklyn Park PD
 309081 Brooklyn Park PD
+309277 Golden Valley Fire Lt 31
 309342 HCMC 410 (Sup)
 309353 Brooklyn Park Fire Chief 1
 309356 Brooklyn Park PD
@@ -4943,8 +5000,15 @@
 330005 Eden Prairie Dispatch
 330012 Eden Prairie PD
 330040 Eden Prairie PD
+330102 Eden Prairie PD
+330111 Eden Prairie PD
+330118 Eden Prairie PD
+330123 Eden Prairie PD
+330126 Eden Prairie PD
 330223 Eden Prairie PD
+330225 Eden Prairie PD
 330227 Eden Prairie PD
+330239 Eden Prairie PD
 330254 Eden Prairie PD
 330321 Eden Prairie Engine 21
 330341 Eden Prairie Engine 41
@@ -5220,18 +5284,22 @@
 515779 "284"
 515827 Goodhue County?
 515828 Goodhue County?
+519015 Wabasha County SO
 519023 Wabasha County Dispatch
 519024 Wabasha County Dispatch
 519025 Wabasha County Dispatch
 519046 Wabasha County SO
+519054 Lake City PD
 519073 Wabasha County SO (canine)
 519074 Wabasha County SO
 519076 Winona County SO 512
 519081 Wabasha County SO
 519222 Lake City PD
 519228 Lake City PD
+519230 Lake City PD
 519231 Lake City PD
 519235 Lake City PD
+519241 Lake City PD
 519276 ??? (Ambulance?) 271
 519583 Elgin PD ???
 519593 Elgin PD ???
@@ -5403,6 +5471,7 @@
 770293 State Patrol 585?
 770310 State Patrol 2800
 770314 State Patrol 369
+770316 State Patrol 205
 770321 State Patrol 427
 770322 State Patrol 181
 770325 State Patrol 351
@@ -5412,6 +5481,7 @@
 770336 State Patrol 351
 770339 State Patrol 205
 770344 State Patrol 427
+770347 State Patrol 7
 770350 State Patrol 371
 770368 State Patrol 46
 770397 State Patrol 339
