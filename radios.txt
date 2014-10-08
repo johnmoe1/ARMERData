@@ -1038,6 +1038,7 @@
 114764 Minneapolis PD (510)
 114775 Minneapolis Animal Control 30
 114777 Minneapolis PD (211)
+114795 MPLS SCH
 114811 Minneapolis PD (320)
 114818 Minneapolis PD (581)
 114825 Minneapolis PD
@@ -1291,6 +1292,7 @@
 121145 HCMC Dispatch (Con 5) NEW
 121179 TSA Operations?
 121186 TSA?
+121395 National Guard
 121452 Radio Board Tech
 121487 Minneapolis PD
 121521 Red Cross
@@ -2118,6 +2120,7 @@
 131410 Burnsville PD
 131412 Burnsville PD (45150)
 131413 Burnsville PD
+131415 Burnsville PD
 131416 Burnsville PD
 131417 Burnsville PD (45C4)
 131418 Burnsville PD (45S40)
@@ -4071,6 +4074,11 @@
 158803 North 738
 158838 North BEEP
 158993 North Air Dispatch
+159015 National Guard
+159017 National Guard
+159024 National Guard
+159050 National Guard
+159080 National Guard
 159144 J6
 159219 One-Zero-November
 159247 Golf 12
@@ -4079,7 +4087,8 @@
 159264 Romeo One
 159267 Papa One
 159292 RCP4
-159417 Thunder-1-0
+159403 National Guard
+159417 National Guard
 159418 St Paul
 159500 DOC OPH Base
 159501 DOC OPH Base
@@ -4167,6 +4176,7 @@
 300402 Orono Schools
 300403 Orono Schools
 300404 Orono Schools
+300405 Orono Schools
 300408 Orono Schools
 300411 Orono Schools
 300412 Orono Schools
@@ -5467,7 +5477,9 @@
 543123 Rice County SO
 543127 Rice County SO
 543146 Rice Co SO
+543172 Rice County SO
 543175 District One Hospital
+543184 Rice County SO
 543358 Faribault PD
 543361 Faribault PD
 543363 Faribault PD
@@ -5498,17 +5510,25 @@
 543641 Northfield Fire 8101
 543643 Northfield Fire 8103
 543666 Northfield PD
-543668 Rice County 5405
+543668 Northfield PD
+543669 Northfield PD
+543671 Northfield PD
 543672 Northfield PD
 543673 Northfield PD
+543690 Northfield PD
+543691 Northfield PD?
+543692 Northfield PD
 543693 Northfield PD
 543696 Northfield PD
 543698 Northfield PD
 543700 Northfield PD
+543701 Northfield PD
 543715 Northfield PD
 543743 Lonsdale PD
 543744 Lonsdale PD
 543745 Lonsdale PD
+543746 Lonsdale PD
+543750 Lonsdale PD
 543752 Lonsdale PD
 543766 Lonsdale Fire 4120
 549002 Red Wing Hospital
