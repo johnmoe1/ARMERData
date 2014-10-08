@@ -281,6 +281,8 @@
 101045 State Patrol 221
 101059 Capitol Security
 101062 Capitol Security
+101065 Radio Board Tech
+101066 Radio Board Tech
 101067 Radio Board Tech
 101072 Radio Board Tech
 101213 State Patrol 513
@@ -4138,6 +4140,7 @@
 160878 DOC ("Bruce/Meagher")
 160879 DOC ("Brian")
 160880 DOC ("Sheeble")
+160881 New DOC radio?
 160882 DOC ("Brian")
 160883 DOC ("Nate")
 160885 DOC ("Cari/Gerlicher")
