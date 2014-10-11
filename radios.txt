@@ -13,8 +13,9 @@
 100039 Radio Board Tech
 100059 Radio Board Tech
 100063 State Patrol K351
-100074 Afton 891
+100074 Afton 891/898
 100075 Afton 892
+100076 Afton 894
 100077 Afton 892
 100078 Afton 893
 100079 Afton Base
@@ -93,6 +94,7 @@
 100306 State Patrol 304
 100316 State Patrol 2405?
 100317 Capitol Security
+100319 State Patrol 2502
 100324 State Patrol 227
 100325 State Patrol 149
 100326 State Patrol 100
@@ -216,6 +218,7 @@
 100562 FIRST 810x
 100563 State Patrol 926
 100566 State Patrol 555
+100583 Radio Board Tech
 100584 State Patrol 72
 100585 State Patrol 454
 100586 State Patrol 588
@@ -284,6 +287,7 @@
 101065 Radio Board Tech
 101066 Radio Board Tech
 101067 Radio Board Tech
+101068 Radio Board Tech
 101072 Radio Board Tech
 101213 State Patrol 513
 101214 State Patrol 211
@@ -547,7 +551,9 @@
 105523 Ridgeview Ambulance 854
 105527 Ridgeview 823
 105528 Ridgeview 834
+105529 Ridgeview 954
 105531 Ridgeview 854
+105532 Ridgeview 852
 105534 Ridgeview 852
 105535 Ridgeview Ambulance 856
 105536 Ridgeview 852
@@ -669,6 +675,8 @@
 105909 Allina 513
 105911 Allina
 105912 Allina 992
+105921 Allina 516
+105922 Allina 516
 105924 Glencoe Ambulance 371
 105925 Hutchinson Ambulance?
 105927 Hutchinson Ambulance?
@@ -723,6 +731,7 @@
 106904 HCMC (Doc)
 106905 Southdale (Doc)
 106913 University of MN Medical Center
+106953 Lakes? 565
 106964 Fairview Lakes Medical Center
 107070 Abbott Northwestern
 107100 HealthEast
@@ -769,6 +778,7 @@
 107316 Lakeview Ambulance 802
 107323 Lakeview 802
 107331 Lakeview Medic ?
+107332 Lakeview 804
 107340 HealthEast
 107343 HealthEast 1829
 107344 HealthEast 1824
@@ -801,21 +811,106 @@
 107652 Shop Truck
 107730 Transit Police
 107745 Shop Truck 374
+107795 Metro Transit Rail
+107803 Metro Transit Rail
+107804 Metro Transit Rail
+107809 Metro Transit Rail
+107810 Metro Transit Rail
 107834 Metro Transit Portable 22
+107841 Metro Transit Rail
+107846 Metro Transit Rail
+107864 Metro Transit Rail
+107874 Metro Transit Rail
 107990 Metro Mobility
 108109 Metro Mobility Dispatch
 108169 Metro Mobility 668
+108248 Metro Transit Rail
+108253 Metro Transit Rail
+108265 Metro Transit Rail
+108343 Metro Transit Rail
+108345 Metro Transit Rail
+108353 Metro Transit Rail
+108356 Metro Transit Rail
+108407 Metro Transit Rail
+108412 Metro Transit Rail
+108415 Metro Transit Rail
+108435 Metro Transit Rail
+108471 Metro Transit Rail
+108474 Metro Transit Rail
+108475 Metro Transit Rail
+108482 Metro Transit Rail
+108483 Metro Transit Rail
+108485 Metro Transit Rail
+108487 Metro Transit Rail
+108488 Metro Transit Rail
+108491 Metro Transit Rail
+108493 Metro Transit Rail
+108494 Metro Transit Rail
+108495 Metro Transit Rail
 108501 Metro Transit (259A)
 108511 Radio Board Tech
 108522 Transit PD
+108555 Metro Transit Rail
 108592 Transit PD
+108601 Metro Transit Rail
+108616 Metro Transit Rail
+108617 Metro Transit Rail
+108620 Metro Transit Rail
+108625 Metro Transit Rail
+108634 Metro Transit Rail
 108643 Transit PD
+108675 Metro Transit Rail
 108740 Bus 3370
+108772 Metro Transit Rail
+108774 Metro Transit Rail
+108775 Metro Transit Rail
+108776 Metro Transit Rail
 108780 Transit PD
-108915 Metro Transit
+108782 Metro Transit Rail
+108783 Metro Transit Rail
+108789 Metro Transit Rail
+108801 Metro Transit Rail
+108802 Metro Transit Rail
+108803 Metro Transit Rail
+108827 Metro Transit Rail
+108840 Metro Transit Rail
+108841 Metro Transit Rail
+108848 Metro Transit Rail
+108915 Metro Transit Rail
+108916 Metro Transit Rail
+108917 Metro Transit Rail
+108918 Metro Transit Rail
+108927 Metro Transit Rail
+108929 Metro Transit Rail
+108930 Metro Transit Rail
+108979 Metro Transit Rail
+108985 Metro Transit Rail
+108986 Metro Transit Rail
+108988 Metro Transit Rail
+108990 Metro Transit Rail
 109021 Metro Transit
-109093 Metro Transit
+109036 Metro Transit Rail
+109037 Metro Transit Rail
+109038 Metro Transit Rail
+109039 Metro Transit Rail
+109046 Metro Transit Rail
+109051 Metro Transit Rail
+109056 Metro Transit Rail
+109060 Metro Transit Rail
+109064 Metro Transit Rail
+109065 Metro Transit Rail
+109070 Metro Transit Rail
+109072 Metro Transit Rail
+109075 Metro Transit Rail
+109076 Metro Transit Rail
+109093 Metro Transit Rail
+109098 Metro Transit Rail
 109128 Bus 3243
+109170 Metro Transit Rail
+109179 Metro Transit Rail
+109205 Metro Transit Rail
+109206 Metro Transit Rail
+109207 Metro Transit Rail
 109328 Bus 3148
 109363 Transit Control
 109448 East Metro Bus Maint Truck 350
@@ -1153,6 +1248,7 @@
 115286 Minneapolis Fire Engine 12
 115291 Minneapolis Fire Rescue 9
 115292 Minneapolis Fire Rescue 9
+115295 Minneapolis Fire Ladder 4
 115300 Minneapolis Fire 1050?
 115307 Minneapolis Fire Engine 8
 115308 Minneapolis Fire Chief 1
@@ -1191,6 +1287,7 @@
 115706 Minneapolis PD
 115758 Command Post
 115787 Minneapolis Fire Boat 22
+115789 Minneapolis Fire Engine 4
 115790 Minneapolis Fire Engine 1
 115810 Minneapolis Fire Chief 5
 115848 Minneapolis Fire Ladder 3
@@ -1306,16 +1403,20 @@
 121533 US Marshals
 121534 US Marshals
 121537 US Marshals
+121539 US Marshals
 121542 US Marshals
 121543 US Marshals
 121544 US Marshals
+121546 US Marshals
 121553 US Marshals
 121562 US Marshals
 121563 US Marshals
+121567 US Marshals
 121568 US Marshals
 121569 US Marshals
 121572 US Marshals
 121573 US Marshals
+121574 US Marshals
 121577 US Marshals
 121578 US Marshals
 121585 US Marshals
@@ -1325,6 +1426,8 @@
 121591 US Marshals
 121593 US Marshals
 121600 US Marshals
+121613 US Marshals
+121617 US Marshals
 121694 FBI
 121780 FBI
 121790 FBI
@@ -1350,6 +1453,7 @@
 122204 Radio Board Tech
 122217 Anoka County Dispatch
 122227 Anoka PD
+122235 Lino Lakes PD
 122268 Coon Rapids PD
 122276 Fridley PD
 122301 Andover Fire Chief 2
@@ -1440,10 +1544,12 @@
 122743 Anoka County SO
 122754 Anoka County SO
 122764 Lino Lakes PD
+122765 Lino Lakes PD
 122769 Lino Lakes PD
 122770 Lino Lakes PD
 122772 Lino Lakes PD
 122773 Lino Lakes PD
+122774 Lino Lakes PD
 122775 Lino Lakes PD
 122776 Lino Lakes PD
 122777 Lino Lakes PD
@@ -1451,6 +1557,7 @@
 122779 Lino Lakes PD
 122780 Lino Lakes PD
 122781 Lino Lakes PD
+122787 Lino Lakes PD
 122788 Lino Lakes PD
 122789 Lino Lakes PD
 122790 Lino Lakes PD
@@ -1469,6 +1576,7 @@
 122807 Coon Rapids PD
 122810 Coon Rapids PD
 122812 Coon Rapids PD
+122813 Coon Rapids PD
 122815 Coon Rapids PD
 122817 Coon Rapids PD
 122820 Coon Rapids PD
@@ -1665,6 +1773,7 @@
 123394 Coon Rapids PD
 123395 Coon Rapids PD
 123396 Coon Rapids PD
+123397 Coon Rapids PD
 123402 Blaine PD
 123407 Andover PD
 123408 Anoka County SO
@@ -1698,6 +1807,7 @@
 123510 Lino Lakes PD
 123511 Lino Lakes PD
 123513 Lino Lakes PD
+123514 Lino Lakes PD
 123526 Columbia Heights PD
 123527 Columbia Heights PD
 123528 Columbia Heights PD
@@ -1805,15 +1915,26 @@
 126077 Washington Co SO
 126080 Washington Co SO
 126089 Washington Co SO
+126101 Washington County Jail
+126102 Washington County Jail
 126105 Washington County Jail
 126106 Washington County Jail
 126107 Washington County Jail
 126108 Washington County Jail
+126109 Washington County Jail
+126110 Washington County Jail
+126111 Washington County Jail
 126112 Washington County Jail
+126113 Washington County Jail
+126116 Washington County Jail
 126118 Washington County Jail
+126121 Washington County Jail
 126122 Washington County Jail
 126123 Washington County Jail
 126128 Washington County Jail
+126154 Washington County Jail
+126155 Washington County Jail
+126157 Washington County Jail
 126158 ??? 799
 126159 Washington County Jail
 126160 ??? 798
@@ -1849,52 +1970,77 @@
 126885 Cottage Grove PD
 126888 Cottage Grove PD
 126891 Cottage Grove PD
+126892 Cottage Grove PD
+126894 Cottage Grove PD
 126896 Cottage Grove PD
 126929 Cottage Grove PD
+126931 Cottage Grove PD
 126932 Cottage Grove PD
 126934 Cottage Grove PD
 126938 Cottage Grove PD
+126944 Cottage Grove PD
+126945 Cottage Grove PD
 126946 Cottage Grove PD
 126949 Cottage Grove PD
 126956 Cottage Grove PD
+126959 Cottage Grove PD
 126961 Cottage Grove PD
 126966 Cottage Grove PD
+126967 Cottage Grove PD
 126968 Cottage Grove PD
 126969 Cottage Grove PD
 126970 Cottage Grove PD
 126975 Cottage Grove PD
+126982 Cottage Grove PD (4576)
 126984 Cottage Grove PD
 127028 Cottage Grove Medic 832
+127056 Cottage Grove Medic 831
 127065 Cottage Grove Medic 821?
 127086 ???
+127228 Forest Lake PD
 127229 Forest Lake PD
 127230 Forest Lake PD
+127232 Forest Lake PD
 127233 Forrest Lake PD
 127234 Forest Lake PD
 127235 Forest Lake PD
 127236 Forest Lake PD
+127237 Forest Lake PD
 127238 Forest Lake PD
 127258 Forest Lake PD
+127259 Forest Lake PD
+127260 Forest Lake PD
 127261 Forest Lake PD
+127262 Forest Lake PD
+127263 Forest Lake PD
+127265 Forest Lake PD
 127266 Forest Lake PD
 127269 Forest Lake PD
+127271 Forest Lake PD
+127276 Forest Lake PD
 127278 Forest Lake PD
+127280 Forest Lake PD
+127281 Forest Lake PD
 128114 Mahtomedi Ambulance 851
 128302 Newport PD
 128304 Newport PD
 128306 Newport PD
 128451 Oak Park Heights PD (Office?)
-128453 Oak Park PD
+128453 Oak Park Heights PD
 128455 Oak Park Heights PD
+128465 Oak Park Heights PD
+128468 Oak Park Heights PD
 128551 Oakdale PD
 128552 Oakdale PD
 128558 Oakdale PD
+128564 Oakdale PD
 128566 Oakdale PD
 128590 Oakdale PD
+128606 Oakdale PD
 128607 Oakdale PD
 128609 Oakdale PD
 128616 Oakdale PD
-128665 Oakdale 7200
+128665 Oakdale Medic 1
 129008 Stillwater PD
 129038 Stillwater PD
 129049 Stillwater PD
@@ -1906,19 +2052,32 @@
 129184 Radio Board Tech
 129301 St Paul Park PD
 129304 St Paul Park PD
+129305 St Paul Park PD
+129306 St Paul Park PD
 129319 St Paul Park PD
 129323 St. Paul Park PD
+129324 St Paul Park PD
 129329 St Paul Park PD
+129330 St Paul Park PD
+129453 Woodbury PD
+129454 Woodbury PD
 129455 Woodbury PD
 129457 Woodbury PD
+129458 Woodbury PD
 129459 Woodbury PD
 129460 Woodbury PD
 129461 Woodbury PD
+129462 Woodbury PD
+129463 Woodbury PD
 129464 Woodbury PD
 129465 Woodbury PD
+129466 Woodbury PD
 129467 Woodbury PD
 129468 Woodbury PD
+129469 Woodbury PD
 129470 Woodbury PD
+129472 Woodbury PD
+129476 Woodbury PD
 129477 Woodbury PD
 129478 Woodbury PD
 129479 Woodbury PD
@@ -1933,6 +2092,9 @@
 129525 Woodbury PD
 129527 Woodbury PD
 129528 Woodbury PD
+129547 Woodbury PD
+129552 Woodbury PD
+129553 Woodbury PD
 129556 Woodbury PD
 129557 Woodbury PD
 129564 Woodbury PD (32)
@@ -1940,21 +2102,35 @@
 129566 Woodbury PD
 129568 Woodbury PD
 129570 Woodbury PD
+129571 Woodbury PD
 129575 Woodbury PD
 129576 Woodbury PD
+129582 Woodbury PD
 129583 Woodbury PD
+129584 Woodbury PD
 129589 Woodbury PD
+129590 Woodbury PD
 129591 Woodbury PD
+129594 Woodbury PD
 129595 Woodbury PD
+129597 Woodbury PD
 129598 Woodbury PD
 129601 Woodbury PD
 129602 Woodbury PD
+129604 Woodbury PD
+129606 Woodbury PD
 129607 Woodbury PD
+129610 Woodbury PD
 129620 Woodbury PD
+129621 Woodbury PD
+129623 Woodbury PD
+129624 Woodbury PD
 129769 Woodbury Medic 4
 129803 Woodbury PD
 129805 Woodbury PD
+129810 Woodbury PD
 131000 Hastings Fire ???
+131002 Radio Board Tech
 131005 Apple Valley Fire Engine 1
 131010 Apple Valley(?) Fire Ladder 1
 131011 Apple Valley Fire Station 3
@@ -1999,6 +2175,7 @@
 131116 Apple Valley PD
 131118 Apple Valley PD
 131121 Apple Valley PD
+131122 Apple Valley PD
 131124 Apple Valley PD
 131125 Apple Valley PD (C5)
 131126 Apple Valley PD
@@ -2106,6 +2283,7 @@
 131384 Burnsville PD
 131386 Burnsville PD
 131387 Burnsville PD (45I12)
+131388 Burnsville PD
 131389 Burnsville PD
 131390 Burnsville PD
 131391 Burnsville PD
@@ -2491,20 +2669,25 @@
 132819 Hastings PD
 132852 Inver Grove Heights Fire Squad 2
 132854 Inver Grove Heights Fire Chief 1
+132859 Inver Grove Heights Fire
+132860 Inver Grove Heights Fire Tender 36
 132862 Inver Grove Heights Fire Squad 1
 132866 Inver Grove Heights Fire Rescue 10
+132867 Inver Grove Heights Fire Station 3
 132868 Inver Grove Heights Fire Station 3
-132873 Inver Grove Heights Fire Station 3
+132873 Inver Grove Heights Fire Engine 33
 132877 Inver Grove Heights Fire Tender 36
 132880 Inver Grove Heights Fire Captain 12
 132881 Inver Grove Heights Fire Station 1
 132889 Inver Grove Heights Fire Ladder 13
 132891 Inver Grove Heights Fire Chief 2
 132892 Inver Grove Heights Fire Squad 1 ???
+132893 Inver Grove Heights Fire
 132897 Inver Grove Heights Fire Rescue 10
 132898 Inver Grove Heights Fire Engine 33
 132900 Inver Grove Heights Fire Ladder 35
 132901 Inver Grove Heights Fire Engine 11
+132902 Inver Grove Heights Fire Chief 1
 132903 Inver Grove Heights Fire
 132907 Inver Grove Heights Fire Station 1
 132908 Inver Grove Heights Fire Station 3
@@ -2587,7 +2770,9 @@
 133151 Lakeville PD
 133154 Lakeville PD
 133155 Lakeville PD
+133158 Hastings PD
 133159 Lakeville PD
+133160 Lakeville PD
 133163 Lakeville PD
 133164 Lakeville PD
 133166 Lakeville PD
@@ -2614,6 +2799,7 @@
 133196 Lakeville PD
 133197 Lakeville PD
 133199 Lakeville PD
+133200 Lakeville PD
 133201 Lakeville PD
 133202 Lakeville PD
 133205 Lakeville PD
@@ -2709,6 +2895,7 @@
 133915 Rosemount PD
 133916 Rosemount PD
 133917 Rosemount PD
+133918 Rosemount PD
 133920 Rosemount PD
 133921 Rosemount PD
 133922 Rosemount PD
@@ -2840,6 +3027,7 @@
 135619 Randolph Hampton Fire Rescue 2
 135629 Randolph Hampton Fire Rescue 1
 136027 Medfire? Medic 1
+136032 ??? Medic 1
 136192 Carver County Bus
 136194 Carver County Bus
 136195 Carver County Bus
@@ -2888,6 +3076,7 @@
 151004 UMN Security Dispatch
 151005 UMN Dispatch
 151209 UMN Police Dispatch
+151501 UMN Security
 151505 UMN Security
 151506 UMN Security
 151509 UMN Security
@@ -2900,6 +3089,7 @@
 151519 UMN Security
 151520 UMN Security
 151522 UMN Security
+151523 UMN Security
 151524 UMN Security
 151525 UMN Security
 151526 UMN Security
@@ -2911,6 +3101,7 @@
 151534 UMN Security
 151535 UMN Security
 151537 UMN Security
+151539 UMN Security
 151542 UMN Security
 151543 UMN Security
 151544 UMN Security
@@ -2919,13 +3110,16 @@
 151547 UMN Security
 151548 UMN Security
 151549 UMN Security
+151550 UMN Security
 151551 UMN Security
 151552 UMN Security
 151553 UMN Security
 151555 UMN Security
+151556 UMN Security
 151559 UMN Security
 151561 UMN Security
 151562 UMN Security
+151563 UMN Security
 151564 UMN Security
 151565 UMN Security
 151566 UMN Security
@@ -2947,10 +3141,12 @@
 151582 UMN Security
 151583 UMN Security
 151584 UMN Security
+151585 UMN Security
 151586 UMN Security
 151587 UMN Security
 151588 UMN Security
 151589 UMN Security
+151592 UMN Security
 151593 UMN Security
 151594 UMN Security
 151595 UMN Security
@@ -4051,10 +4247,11 @@
 154287 Metro Transit RCC
 154288 Metro Transit RCC
 154289 Metro Transit RCC
+154291 Metro Transit Rail
 154345 Transit PD
 154351 Transit PD
 154354 Transit PD
-154525 DOC ("Brian?")?
+154525 DOC Fugitive ("Brian?")?
 156498 Pine County Dispatch
 156499 Pine County Dispatch
 158507 North Security
@@ -4092,59 +4289,298 @@
 159403 National Guard
 159417 National Guard
 159418 St Paul
-159500 DOC OPH Base
-159501 DOC OPH Base
+159500 MCF OPH Base
+159501 MCF OPH Base
 159508 DOC OPH
+159516 MCF OPH
+159521 MCF OPH
+159534 MCF OPH
+159535 MCF OPH
+159538 MCF OPH
+159554 MCF OPH
 159555 DOC OPH
-159559 DOC OPH
-159566 DOC OPH
+159556 MCF OPH
+159557 MCF OPH
+159558 MCF OPH
+159559 MCF OPH
+159560 MCF OPH
+159564 MCF OPH
+159566 MCF OPH
+159568 MCF OPH
+159569 MCF OPH
+159570 MCF OPH
 159580 DOC OPH
-159588 DOC OPH
+159581 MCF OPH
+159584 MCF OPH
+159587 MCF OPH
+159588 MCF OPH
+159589 MCF OPH
+159590 MCF OPH
+159591 MCF OPH
+159593 MCF OPH
 159594 DOC OPH
-159610 DOC OPH
+159602 MCF OPH
+159607 MCF OPH
+159610 MCF OPH
+159611 MCF OPH
 159614 DOC OPH
-159624 DOC OPH
+159616 MCF OPH
+159617 MCF OPH
+159618 MCF OPH
+159620 MCF OPH
+159621 MCF OPH
+159623 MCF OPH
+159624 MCF OPH
+159627 MCF OPH
+159628 MCF OPH
+159629 MCF OPH
+159630 MCF OPH
 159632 DOC OPH
 159634 DOC OPH
-159643 DOC OPH
-159648 DOC OPH
+159635 MCF OPH
+159636 MCF OPH
+159638 MCF OPH
+159641 MCF OPH
+159642 MCF OPH
+159643 MCF OPH
+159645 MCF OPH
+159647 MCF OPH
+159648 MCF OPH
+159651 MCF OPH
 159655 DOC OPH
 159657 OPH DOC Transport
+159661 MCF OPH
 159674 DOC OPH
-159679 DOC OPH
+159679 MCF OPH
+159681 MCF OPH
+159721 MCF Stillwater
+159729 MCF Stillwater
+159743 MCF Stillwater
+159746 MCF Stillwater
+159749 MCF Stillwater
+159751 MCF Stillwater
+159753 MCF Stillwater
+159754 MCF Stillwater
+159756 MCF Stillwater
+159757 MCF Stillwater
+159760 MCF Stillwater
+159761 MCF Stillwater
+159762 MCF Stillwater
+159763 MCF Stillwater
+159764 MCF Stillwater
+159766 MCF Stillwater
+159769 MCF Stillwater
+159774 MCF Stillwater
+159784 MCF Stillwater
+159787 MCF Stillwater
+159792 MCF Stillwater
+159799 MCF Stillwater
+159801 MCF Stillwater
+159804 MCF Stillwater
+159805 MCF Stillwater
+159806 MCF Stillwater
+159808 MCF Stillwater
+159812 MCF Stillwater
+159813 MCF Stillwater
+159814 MCF Stillwater
+159816 MCF Stillwater
+159820 MCF Stillwater
+159821 MCF Stillwater
+159822 MCF Stillwater
+159824 MCF Stillwater
+159825 MCF Stillwater
+159828 MCF Stillwater
+159829 MCF Stillwater
+159830 MCF Stillwater
+159831 MCF Stillwater
+159832 MCF Stillwater
+159833 MCF Stillwater
+159834 MCF Stillwater
+159836 MCF Stillwater
+159841 MCF Stillwater
+159845 MCF Stillwater
+159847 MCF Stillwater
+159848 MCF Stillwater
+159849 MCF Stillwater
+159851 MCF Stillwater
+159863 MCF Stillwater
+159864 MCF Stillwater
+159866 MCF Stillwater
+159867 MCF Stillwater
+159879 MCF Stillwater
+159880 MCF Stillwater
+159882 MCF Stillwater
+159886 MCF Stillwater
+159888 MCF Stillwater
+159890 MCF Stillwater
+159891 MCF Stillwater
+159896 MCF Stillwater
+159897 MCF Stillwater
+159898 MCF Stillwater
+159900 MCF Stillwater
+159901 MCF Stillwater
+159904 MCF Stillwater
+159906 MCF Stillwater
+159908 MCF Stillwater
+159910 MCF Stillwater
+159911 MCF Stillwater
+159915 MCF Stillwater
+159919 MCF Stillwater
+159924 MCF Stillwater
+159930 MCF Stillwater
+159931 MCF Stillwater
+159934 MCF Stillwater
+159935 MCF Stillwater
+159937 MCF Stillwater
+159955 MCF Stillwater
+159956 MCF Stillwater
+159958 MCF Stillwater
+159961 MCF Stillwater
+159963 MCF Stillwater
+159965 MCF Stillwater
+159966 MCF Stillwater
+159968 MCF Stillwater
+159969 MCF Stillwater
+159978 MCF Stillwater
+159979 MCF Stillwater
+159982 MCF Stillwater
+159983 MCF Stillwater
+159984 MCF Stillwater
+159987 MCF Stillwater
+159988 MCF Stillwater
+159989 MCF Stillwater
+159990 MCF Stillwater
+159992 MCF Stillwater
+159994 MCF Stillwater
+159995 MCF Stillwater
+160000 MCF Stillwater
+160001 MCF Stillwater
+160006 MCF Stillwater
+160018 MCF Stillwater
+160019 MCF Stillwater
+160020 MCF Stillwater
+160022 MCF Stillwater
+160023 MCF Stillwater
+160024 MCF Stillwater
+160025 MCF Stillwater
+160032 MCF Stillwater
+160037 MCF Stillwater
+160038 MCF Stillwater
+160041 MCF Stillwater
+160042 MCF Stillwater
+160043 MCF Stillwater
+160045 MCF Stillwater
+160047 MCF Stillwater
+160048 MCF Stillwater
+160049 MCF Stillwater
+160052 MCF Stillwater
+160057 MCF Stillwater
+160059 MCF Stillwater
+160062 MCF Stillwater
+160067 MCF Stillwater
+160068 MCF Stillwater
+160071 MCF Stillwater
+160072 MCF Stillwater
+160115 MCF Lino Lakes
+160127 MCF Lino Lakes
+160134 MCF Lino Lakes
+160138 MCF Lino Lakes
+160147 MCF Lino Lakes
+160153 MCF Lino Lakes
+160154 MCF Lino Lakes
+160161 MCF Lino Lakes
+160178 MCF Lino Lakes
+160179 MCF Lino Lakes
+160180 MCF Lino Lakes
+160182 MCF Lino Lakes
+160183 MCF Lino Lakes
+160184 MCF Lino Lakes
+160186 MCF Lino Lakes
+160188 MCF Lino Lakes
+160190 MCF Lino Lakes
+160191 MCF Lino Lakes
+160193 MCF Lino Lakes
+160194 MCF Lino Lakes
+160195 MCF Lino Lakes
+160196 MCF Lino Lakes
+160197 MCF Lino Lakes
+160199 MCF Lino Lakes
+160200 MCF Lino Lakes
+160201 MCF Lino Lakes
+160202 MCF Lino Lakes
+160204 MCF Lino Lakes
+160205 MCF Lino Lakes
+160206 MCF Lino Lakes
+160207 MCF Lino Lakes
+160209 MCF Lino Lakes
+160212 MCF Lino Lakes
+160213 MCF Lino Lakes
+160215 MCF Lino Lakes
+160216 MCF Lino Lakes
+160217 MCF Lino Lakes
+160220 MCF Lino Lakes
+160221 MCF Lino Lakes
+160222 MCF Lino Lakes
+160223 MCF Lino Lakes
+160226 MCF Lino Lakes
+160229 MCF Lino Lakes
+160233 MCF Lino Lakes
+160237 MCF Lino Lakes
+160240 MCF Lino Lakes
+160241 MCF Lino Lakes
+160242 MCF Lino Lakes
+160254 MCF Lino Lakes
+160255 MCF Lino Lakes
+160256 MCF Lino Lakes
+160259 MCF Lino Lakes
+160262 MCF Lino Lakes
+160264 MCF Lino Lakes
+160265 MCF Lino Lakes
+160266 MCF Lino Lakes
+160267 MCF Lino Lakes
+160268 MCF Lino Lakes
+160272 MCF Lino Lakes
+160275 MCF Lino Lakes
+160289 MCF Lino Lakes
 160339 DOC Base
 160345 DOC Transport
+160349 MCF Rush City
+160363 MCF Rush City
+160451 MCF Rush City
+160462 MCF Rush City
 160558 DOC Transport
+160560 MCF Rush City
 160564 DOC Transportation
 160708 DOC Shakopee Transport
 160710 DOC Shakopee Transport
 160711 DOC Shakopee Transport
-160850 DOC ("Mike")
-160851 DOC ("Bruce/Meagher")
-160854 DOC ("Terry/Nutter")
-160855 DOC ("?")
-160857 DOC ("??")
-160859 DOC ("Doc")
-160860 DOC ("Carolyn")
-160861 DOC ("Doc")
-160862 DOC ("Joyce")
-160863 DOC ("Brian")
-160864 DOC ("Joyce")
-160866 DOC ("Nate")
-160867 DOC ("Kevin")
-160869 DOC ("Dave/Schiebel")
-160871 DOC ("Cari/Gerlicher")
-160873 DOC ("Mike")
-160874 DOC ("Doc")
-160876 DOC ("Terry/Nutter")
-160878 DOC ("Bruce/Meagher")
-160879 DOC ("Brian")
-160880 DOC ("Sheeble")
-160881 New DOC radio?
-160882 DOC ("Brian")
-160883 DOC ("Nate")
-160885 DOC ("Cari/Gerlicher")
-160886 DOC ("Doug? John?")
+160773 MCF Lino Lakes
+160850 DOC Fugitive ("Mike")
+160851 DOC Fugitive ("Bruce/Meagher")
+160854 DOC Fugitive ("Terry/Nutter")
+160855 DOC Fugitive ("?")
+160857 DOC Fugitive ("??")
+160859 DOC Fugitive ("Doc")
+160860 DOC Fugitive ("Carolyn")
+160861 DOC Fugitive ("Doc")
+160862 DOC Fugitive ("Joyce")
+160863 DOC Fugitive ("Brian")
+160864 DOC Fugitive ("Joyce")
+160866 DOC Fugitive ("Nate")
+160867 DOC Fugitive ("Kevin")
+160869 DOC Fugitive ("Dave/Schiebel")
+160871 DOC Fugitive ("Cari/Gerlicher")
+160873 DOC Fugitive ("Mike")
+160874 DOC Fugitive ("Doc")
+160876 DOC Fugitive ("Terry/Nutter")
+160878 DOC Fugitive ("Bruce/Meagher")
+160879 DOC Fugitive ("Brian")
+160880 DOC Fugitive ("Sheeble")
+160881 DOC Fugitive ("Nate")
+160882 DOC Fugitive ("Brian")
+160883 DOC Fugitive ("Nate")
+160885 DOC Fugitive ("Cari/Gerlicher")
+160886 DOC Fugitive ("Doug? John?")
 299952 Radio Board Tech
 299959 Radio Board Tech
 299961 Radio Board Tech
@@ -4180,6 +4616,7 @@
 300403 Orono Schools
 300404 Orono Schools
 300405 Orono Schools
+300407 Orono Schools
 300408 Orono Schools
 300411 Orono Schools
 300412 Orono Schools
@@ -4191,6 +4628,7 @@
 300428 Orono Schools
 300432 Orono Schools
 300434 Orono Schools
+300436 Orono Schools
 300437 Orono Schools
 300439 Orono Schools
 300440 West Metro Fire Marshal 2
@@ -4830,11 +5268,13 @@
 310564 St Paul Dispatch
 310605 Ramsey County Dispatch
 310665 St Paul Dispatch
+310705 Ramsey County Dispatch
 310765 Saint Paul Dispatch
 310766 St Paul Dispatch
 310805 Ramsey County Dispatch
 310905 Ramsey County Dispatch
 310931 Ramsey County Dispatch
+311005 Ramsey County Dispatch
 311105 Ramsey County Dispatch
 311113 St Paul Fire
 311305 Ramsey County Dispatch
@@ -4858,6 +5298,7 @@
 314511 Roseville PD
 314531 Roseville PD
 314534 Roseville PD
+314537 Roseville PD
 314549 Roseville PD
 314639 Roseville PD
 314643 Roseville PD
@@ -4988,6 +5429,7 @@
 322203 St Paul Fire Medic 9
 322204 St Paul Fire Medic 9
 322206 St Paul Fire Medic 17
+322207 St Paul Fire Medic 24
 322208 St Paul Fire Medic 24
 322219 State Fair Ranger 1/2
 322221 State Fair Ranger 1
@@ -5007,6 +5449,7 @@
 322326 St Paul Fire Medic 24
 322340 St Paul Fire Ladder 20
 322374 St Paul Fire Medic 24
+322411 St Paul Fire Medic 10?
 328500 Bloomington PD Dispatch
 328501 Bloomington PD Dispatch
 328502 Bloomington PD Dispatch
@@ -5060,6 +5503,7 @@
 329274 Bloomington PD
 329275 Bloomington PD
 329281 Bloomington PD
+329282 Bloomington PD
 329287 Bloomington PD
 329289 Bloomington PD
 329290 Bloomington PD
@@ -5160,9 +5604,11 @@
 500003 State Patrol Dispatch
 500006 Radio Board Tech
 500007 Radio Board Tech
+500009 Radio Board Tech
 500010 Radio Board Tech
 500015 Radio Board Tech
 500016 State Patrol Dispatch
+500020 Radio Board Tech
 500024 Radio Board Tech
 500025 Radio Board Tech
 500026 Radio Board Tech
@@ -5623,6 +6069,7 @@
 629081 Benson Ambulance
 629992 Big Stone County Dispatch
 629993 Kandiyohi County Dispatch
+656024 Centracare 7???
 656025 New River Ambulance 5705
 656027 ??? 3706
 656029 CenturyCare???
