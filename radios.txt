@@ -272,6 +272,7 @@
 100975 State Patrol 925
 100995 State Patrol 246
 100996 State Patrol 510
+100999 State Patrol 922
 101006 State Patrol 82
 101007 State Patrol 402
 101012 State Patrol 198
@@ -547,6 +548,7 @@
 105511 Ridgeview 851
 105516 Ridgeview 854
 105517 Ridgeview 52?
+105518 Ridgeview 856
 105522 Ridgeview 856
 105523 Ridgeview Ambulance 854
 105527 Ridgeview 823
@@ -771,7 +773,7 @@
 107170 Ridgeview Dispatch
 107290 HealthEast
 107292 HealthEast
-107293 HealthEast
+107293 HealthEast 1826
 107294 HealthEast
 107295 HealthEast
 107297 Allina 565
@@ -924,6 +926,21 @@
 109765 Metro Transit (Console 4)
 109782 Metro Transit Dispatch
 109796 Transit Police Dispatch
+110010 Carver County SO
+110012 Carver County SO
+110013 Carver County SO
+110020 Carver County SO
+110022 Carver County SO
+110033 Carver County SO
+110053 Carver County SO
+110090 Carver County SO
+110815 Carver County SO
+110817 Carver County SO
+110824 Carver County SO
+110845 Carver County SO
+110856 Carver County SO
+110860 Carver County SO
+110891 Carver County SO
 111370 National Weather Service
 111404 Chaska PD
 111405 Chaska PD
@@ -937,6 +954,7 @@
 111419 Chaska PD
 111420 Chaska PD
 111423 Chaska PD
+111431 Chaska PD
 111440 Chaska PD
 111442 Chaska PD
 111445 Chaska PD
@@ -945,7 +963,11 @@
 111449 Chaska PD
 111456 Chaska PD
 111457 Chaska PD
+112102 Carver County Dispatch
 112163 Carver County Dispatch
+112202 Carver County Dispatch
+112302 Carver County Dispatch
+113036 Minneapolis PD
 113040 Radio Board Tech
 113042 Radio Board Tech
 113043 Radio Board Tech
@@ -994,6 +1016,7 @@
 113512 Minneapolis PD 9253?
 113543 Minneapolis PD 9248
 113552 Minneapolis PD
+113568 Minneapolis PD
 113580 Minneapolis PD
 113586 Minneapolis PD? 9262
 113605 Minneapolis PD
@@ -1210,7 +1233,7 @@
 115145 Minneapolis Fire Engine 16
 115146 Minneapolis Fire Engine 12
 115150 Minneapolis Fire Engine 19
-115151 Minneapolis Fire Engine 14/27?
+115151 Minneapolis Fire Engine 27
 115152 Minneapolis Fire Ladder 4
 115165 Minneapolis Fire Engine 17
 115172 Minneapolis Fire Ladder 2
@@ -1248,6 +1271,7 @@
 115286 Minneapolis Fire Engine 12
 115291 Minneapolis Fire Rescue 9
 115292 Minneapolis Fire Rescue 9
+115293 Minneapolis Fire Rescue 9
 115295 Minneapolis Fire Ladder 4
 115300 Minneapolis Fire 1050?
 115307 Minneapolis Fire Engine 8
@@ -1260,6 +1284,9 @@
 115320 Minneapolis Fire ???
 115325 Minneapolis Fire Engine 14
 115331 Minneapolis Fire Engine 4
+115340 Minneapolis Fire
+115346 Minneapolis Fire Engine 27
+115347 Minneapolis Fire Engine 11
 115348 Minneapolis Fire Ladder 2
 115350 Minneapolis Fire Engine 17
 115352 Minneapolis Fire Engine 12
@@ -1279,6 +1306,7 @@
 115500 Minneapolis Fire Ladder 4
 115526 Minneapolis Animal Control 12
 115581 Minneapolis Animal Control Dispatch
+115628 Minneapolis Fire Ladder 10
 115631 Minneapolis Fire Ladder 11
 115632 Minneapolis Fire ???
 115638 Minneapolis PD
@@ -1326,6 +1354,7 @@
 117296 Minneapolis Police Dispatch
 117297 Minneapolis Police Dispatch
 117298 Minneapolis Police Dispatch
+117301 Minneapolis Police Dispatch
 117348 Minneapolis Dispatch
 117496 Minneapolis PD Dispatch
 117548 Minneapolis PD Dispatch
@@ -1436,6 +1465,8 @@
 122034 UMN PD
 122035 UMN PD
 122045 UMN PD
+122072 Minneapolis PD
+122075 Minneapolis PD
 122079 UMN PD
 122080 UMN PD
 122083 UMN PD
@@ -2121,6 +2152,7 @@
 129606 Woodbury PD
 129607 Woodbury PD
 129610 Woodbury PD
+129615 Woodbury Medic
 129620 Woodbury PD
 129621 Woodbury PD
 129623 Woodbury PD
@@ -2415,7 +2447,7 @@
 131787 Dakota County SO
 131788 Dakota County SO
 131790 Dakota County SO
-131792 Hastings PD
+131792 Hastings PD?
 131794 Dakota County SO
 131797 Dakota County SO
 131798 Dakota ??? 18R22
@@ -2511,6 +2543,7 @@
 132221 Eagan PD
 132222 Eagan PD
 132226 Eagan PD
+132227 Eagan PD
 132228 Eagan PD
 132229 Eagan PD
 132230 Eagan PD
@@ -3010,6 +3043,7 @@
 134403 Dakota County Highway
 134427 Dakota County Highway
 134449 Dakota County Highway
+134609 Dakota County Court Security
 134726 Dakota County Probation 9911
 134727 Dakota County Probation 9903
 134729 Dakota County Probation (9902)
@@ -4236,6 +4270,7 @@
 153465 Dakota County Dispatch
 153547 Dakota County Dispatch
 153550 Burnsville PD
+153552 Dakota County Dispatch
 153715 Dakota County Dispatch
 153816 Dakota County Dispatch
 154013 Transit PD
@@ -4640,6 +4675,7 @@
 300804 HCMC 423
 300809 HCMC 437
 300830 Hennepin (???)1742
+300838 Hennepin County Water Patrol (1703)
 300917 Hennepin County SO Warrant
 300922 Hennepin County SO Warrant
 300961 Hopkins PD
@@ -4668,10 +4704,11 @@
 301171 Orono PD
 301172 Orono PD
 301173 Orono PD
+301174 Orono PD
 301175 Orono PD
 301176 Orono PD
 301177 Orono PD
-301178 Orono PD 6524
+301178 Orono PD
 301184 New Hope PD
 301191 New Hope PD
 301195 St Anthony Fire Engine 12
@@ -4699,14 +4736,16 @@
 301455 Orono Schools
 301456 HCMC? 4527?
 301457 HCMC 408
-301459 HCMC CP1
+301459 HCMC CP1/441?
 301461 HCMC 409 (Doc)
 301492 Orono PD
 301496 Orono PD
-301499 Orono PD 6539
+301499 Orono PD
+301500 Orono PD
 301501 Orono PD
 301502 Orono PD
 301503 Orono PD
+301505 Orono PD
 301508 Orono PD
 301510 HCMC 406 (Doc?)
 301620 Brooklyn Park PD
@@ -4714,20 +4753,33 @@
 301782 Orono PD
 301783 Orono PD
 301785 Orono PD
+301787 Orono PD
 301789 Orono PD
+301790 Orono PD
 301791 Orono PD
+301793 Orono PD
+301796 Orono PD
 301818 Wayzata PD 7215
 301837 Minneapolis Fire Medic 1
 301869 Crystal PD
 301874 Edina PD
 301903 New Hope PD
 301904 New Hope PD
+301906 New Hope PD
+301911 New Hope PD
 301913 New Hope PD
+301916 New Hope PD
+301918 New Hope PD
+301921 New Hope PD
 301922 New Hope PD
 301924 New Hope PD
 301926 New Hope PD
+301927 New Hope PD
 301929 Crystal PD
+301932 New Hope PD
 301943 New Hope PD
+301945 New Hope PD
+301948 New Hope PD
 301986 Medina PD
 302002 Crystal PD
 302011 Crystal PD
@@ -4742,6 +4794,7 @@
 302061 Brooklyn Park PD
 302064 Brooklyn Park PD
 302089 Brooklyn Park PD
+302096 Brooklyn Park PD
 302103 Brooklyn Park PD
 302106 Brooklyn Park PD
 302109 Brooklyn Park PD
@@ -4749,7 +4802,9 @@
 302127 Brooklyn Park PD
 302133 Brooklyn Park PD
 302140 Brooklyn Park PD
+302141 Brooklyn Park PD
 302145 Brooklyn Park PD
+302152 Brooklyn Park PD
 302153 Brooklyn Park PD
 302154 Brooklyn Park PD
 302155 Brooklyn Park PD
@@ -4775,6 +4830,7 @@
 302448 Maple Grove Fire ???
 302470 Maple Grove Fire Station 3
 302484 Maple Grove Fire Engine 51
+302533 Plymouth Fire Chief 3
 302538 Plymouth Fire Captain 31
 302552 Plymouth Fire Engine 21
 302614 Brooklyn Park Fire Chief 2
@@ -4807,6 +4863,7 @@
 302959 Minnetrista PD
 303118 Crystal PD
 303140 Edina PD
+303148 Edina PD
 303151 ? 139
 303155 ? 185
 303158 Edina PD
@@ -4869,14 +4926,17 @@
 303902 Brooklyn Park PD
 303905 Brooklyn Park PD
 303911 Brooklyn Park PD
+303913 Brooklyn Park PD
 303914 Brooklyn Park PD
 303915 Brooklyn Park PD
 303917 Brooklyn Park PD
+303919 Brooklyn Park PD
 303921 Brooklyn Park PD
 303922 Brooklyn Park PD
 303923 Brooklyn Park PD
 303929 Brooklyn Park PD
 303930 Brooklyn Park PD
+303931 Brooklyn Park PD
 303936 Brooklyn Park PD
 303937 Brooklyn Park PD
 303938 Brooklyn Park PD
@@ -4895,15 +4955,19 @@
 303978 Minnetonka PD
 303979 Minnetonka PD
 304008 New Hope PD
+304009 New Hope PD
+304010 New Hope PD
 304011 New Hope PD
 304013 New Hope PD
 304014 New Hope PD
+304015 New Hope PD
 304017 Orono PD
 304019 Orono PD
 304029 Orono PD
 304035 Champlin PD
 304046 Champlin PD
 304059 Champlin PD
+304083 Plymouth Fire
 304230 Control
 304288 Brooklyn Center PD
 304292 Brooklyn Center PD
@@ -4948,6 +5012,7 @@
 304485 HCMC CP2
 304489 Dayton Fire Rescue 21
 304545 Edina PD (145)
+304823 Orono PD
 304824 Brooklyn Center PD
 304888 Golden Valley PD 3515
 304889 Golden Valley PD (3509)
@@ -4957,8 +5022,9 @@
 304911 Golden Valley PD
 304914 Golden Valley PD (3508)
 305089 Golden Valley PD (3528)
-305090 Golden Valley PD 3551?
+305090 Golden Valley PD
 305092 Golden Valley PD (3513)
+305095 Golden Valley PD
 305096 3508
 305097 Golden Valley PD
 305100 Golden Valley PD
@@ -4976,7 +5042,9 @@
 305346 HCSO Water Patrol
 305356 Richfield PD
 305357 Richfield PD
+305358 Richfield PD
 305363 Richfield PD 2512
+305367 Richfield PD
 305369 Edina PD
 305370 Richfield PD
 305378 Richfield PD
@@ -4989,6 +5057,7 @@
 305421 Edina Dispatch
 305423 Edina Dispatch
 305436 Orono PD
+305437 Orono PD
 305452 Rogers PD
 305466 Brooklyn Park Fire Rescue 11
 305483 Edina PD Dispatch
@@ -5012,6 +5081,7 @@
 305755 Richfield PD
 305761 HCMC 427 (or spare?)
 305766 HCMC 431?
+305775 Richfield PD?
 305777 Richfield PD (2546)
 305779 Richfield PD
 305781 Richfield PD 2512
@@ -5036,6 +5106,7 @@
 306155 Edina Dispatch
 306158 HCMC CP1
 306168 HCMC 441
+306169 HCMC 441
 306170 HCMC 441 (?)
 306221 HCMC 411
 306222 HCMC 411
@@ -5106,6 +5177,7 @@
 306737 Minnetonka Dispatch
 306817 Brooklyn Park PD
 306818 Brooklyn Park PD
+306866 Brooklyn Park PD
 306887 Minnetonka Dispatch
 306897 Brooklyn Park PD
 306917 Brooklyn Park PD
@@ -5119,6 +5191,7 @@
 306964 Brooklyn Park PD
 306965 Brooklyn Park PD
 306966 Brooklyn Park PD
+306970 Brooklyn Park PD
 306971 Brooklyn Park PD
 307007 Brooklyn Park PD
 307011 Brooklyn Park PD
@@ -5162,16 +5235,18 @@
 308595 Hopkins Fire Chief 1
 308671 Airport PD
 308727 HCMC 432
-308728 HCMC Spare Radio?
+308728 HCMC Spare 14
 308760 Brooklyn Center PD
 308789 Orono PD
 308795 Brooklyn Park PD
 308798 Brooklyn Park PD
 308801 Brooklyn Park PD
+308802 Brooklyn Park PD
 308823 Dayton Fire Utility 21
 308881 Airport PD
 308884 Airport PD
 308887 Airport PD
+308920 Brooklyn Park PD
 308937 Maple Grove Fire Captain 1
 308963 HCMC 424
 308964 HCMC 425
@@ -5187,6 +5262,8 @@
 308976 HCMC 432/411/421 (Spare 10?)
 309013 Maple Grove PD
 309020 Crystal PD
+309070 Brooklyn Park PD
+309071 Brooklyn Park PD
 309077 Brooklyn Park PD
 309078 Brooklyn Park PD
 309079 Brooklyn Park PD
@@ -5216,14 +5293,18 @@
 309732 West Metro Fire Captain 1
 309739 West Metro Fire Chief 2
 309750 Brooklyn Park Fire Engine 21
+309780 Brooklyn Park PD
 309783 Brooklyn Park PD
 309784 Brooklyn Park PD
 309786 Brooklyn Park PD
 309787 Brooklyn Park PD
 309788 Brooklyn Park PD
+309789 Brooklyn Park PD
 309790 Brooklyn Park PD
 309792 Brooklyn Park PD
 309794 Brooklyn Park PD
+309795 Brooklyn Park PD
+309796 Brooklyn Park PD
 309797 Brooklyn Park PD
 309801 Brooklyn Park PD
 309802 Brooklyn Park PD
@@ -5263,6 +5344,7 @@
 310119 Hennepin County Dispatch
 310163 Hennepin County SO
 310172 Hennepin 1291
+310191 Hennepin County Water Patrol (1701)
 310505 Ramsey County Dispatch
 310537 Minneapolis Dispatch
 310564 St Paul Dispatch
@@ -5294,21 +5376,37 @@
 312873 White Bear Lake Dispatch
 312874 White Bear Lake Dispatch
 314502 Roseville PD
+314504 Roseville PD
 314509 Roseville PD
+314510 Roseville PD
 314511 Roseville PD
+314515 Roseville PD
+314519 Roseville PD
+314525 Roseville PD
+314530 Roseville PD
 314531 Roseville PD
 314534 Roseville PD
 314537 Roseville PD
+314539 Roseville PD
 314549 Roseville PD
+314556 Roseville PD
+314623 Roseville PD
+314624 Roseville PD
+314632 Roseville PD
 314639 Roseville PD
 314643 Roseville PD
+314646 Roseville PD
 314654 Roseville PD
+314655 Roseville PD
 314657 Roseville PD
 314662 Roseville PD
+314688 Roseville PD
+314700 Roseville PD
 314703 Roseville PD
 314704 Roseville PD
 314705 Roseville PD
 314706 Roseville PD
+314708 Roseville PD
 315033 ??? Court House
 315059 Radio Board Tech
 315067 Radio Board Tech
@@ -5324,8 +5422,11 @@
 316007 Ramsey County
 316921 State Fair Dispatch
 316982 East MRCC?
+317002 Maplewood PD
+317015 Maplewood PD
 317045 Maplewood PD
 317049 Maplewood PD
+317072 Maplewood PD
 317108 Maplewood Medic 331
 317132 Maplewood Medic 311
 317145 Maplewood Medic 321
@@ -5336,6 +5437,7 @@
 317190 Maplewood PD
 317191 Maplewood PD
 317194 Maplewood PD
+317195 Maplewood PD
 317198 Maplewood PD
 317199 Maplewood PD
 317205 Maplewood PD
@@ -5343,6 +5445,7 @@
 317211 Maplewood PD
 317224 Maplewood PD
 317251 Maplewood Medic 321
+317274 Sentinel Radio Alarm
 317500 White Bear Lake PD
 317502 White Bear Lake PD
 317505 White Bear Lake PD
@@ -5497,6 +5600,7 @@
 329254 Bloomington PD
 329260 Bloomington PD
 329261 Bloomington PD
+329264 Bloomington PD
 329266 Bloomington PD
 329267 Bloomington PD
 329269 Bloomington PD
@@ -5798,6 +5902,7 @@
 508069 "236"
 508822 DOC Shakopee Control
 509040 WISCONSIN (Comm Trailer)
+515006 Treasure Island? 512
 515037 Pine Island First Responders
 515101 Goodhue County Dispatch
 515102 Goodhue County Dispatch
@@ -5843,6 +5948,7 @@
 515408 Red Wing PD
 515409 Red Wing PD
 515413 Red Wing PD
+515414 Red Wing PD
 515416 Red Wing PD
 515417 Red Wing PD
 515435 Red Wing PD
@@ -5856,8 +5962,9 @@
 515503 Red Wing PD
 515504 Red Wing PD
 515521 Pine Island First Responders
-515522 Casino Dispatch
+515522 Treasure Island Dispatch
 515527 State Patrol ???
+515529 Treasure Island? 512
 515630 Goodhue County Dispatch
 515645 Cannon Falls Ambulance 1
 515698 "283"
@@ -6016,6 +6123,9 @@
 561021 Sibley County Dispatch
 561087 Sibley ? 301
 561088 Sibley ? 201
+573001 Le Sueur County Dispatch
+573115 Le Sueur County SO
+573242 Le Sueur County SO
 581073 Radio Board Tech
 581082 Blue Earth County Dispatch
 600005 Radio Board Tech
@@ -6069,7 +6179,7 @@
 629081 Benson Ambulance
 629992 Big Stone County Dispatch
 629993 Kandiyohi County Dispatch
-656024 Centracare 7???
+656024 Centracare (Monticello) 5705
 656025 New River Ambulance 5705
 656027 ??? 3706
 656029 CenturyCare???
@@ -6114,7 +6224,7 @@
 770368 State Patrol 46
 770397 State Patrol 339
 770405 State Patrol 231
-770963 Trooper 924
+770963 State Patrol Dispatch
 770970 State Patrol Dispatch (2800)
 771001 Radio Board Tech
 771097 Radio Board Tech
