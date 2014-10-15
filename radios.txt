@@ -70,6 +70,7 @@
 100245 State Patrol 1624
 100248 State Patrol 1756
 100249 State Patrol 1525
+100251 State Patrol 1759
 100252 State Patrol 215
 100254 State Patrol 147
 100256 State Patrol K374
@@ -246,6 +247,7 @@
 100690 State Patrol 324
 100693 State Patrol 200?
 100697 State Patrol 162
+100698 State Patrol 1624
 100704 State Patrol 588
 100705 State Patrol 379
 100706 State Patrol 29 ???
@@ -283,6 +285,7 @@
 101039 State Patrol 49
 101044 State Patrol 312
 101045 State Patrol 221
+101049 State Patrol 1621
 101059 Capitol Security
 101062 Capitol Security
 101065 Radio Board Tech
@@ -290,6 +293,7 @@
 101067 Radio Board Tech
 101068 Radio Board Tech
 101072 Radio Board Tech
+101073 Radio Board Tech
 101213 State Patrol 513
 101214 State Patrol 211
 101215 State Patrol 215
@@ -409,6 +413,7 @@
 103035 State Patrol 491
 103037 State Patrol 513
 103091 State Patrol 98
+103459 State Patrol 71
 103633 State Patrol 161
 103645 State Patrol 211
 103646 State Patrol 509/_511_?
@@ -522,7 +527,7 @@
 105233 North 302
 105238 North 306
 105240 North 306
-105241 North 717
+105241 North 727
 105248 North Memorial Medical Center
 105260 North 103
 105277 Air Care Dispatch
@@ -542,6 +547,7 @@
 105351 Air Care Dispatch
 105359 North Dispatch
 105400 North Dispatch
+105481 North Dispatch
 105483 North Dispatch
 105485 North Dispatch
 105505 ??? (Ambulance) 857
@@ -998,6 +1004,7 @@
 113206 Minneapolis PD
 113211 Minneapolis PD (959)
 113214 Minneapolis Fire Salvage
+113215 Minneapolis PD
 113221 Minneapolis PD
 113240 Minneapolis Fire Ladder 10/3?
 113279 Minneapolis PD
@@ -1073,6 +1080,7 @@
 113991 Minneapolis PD (Badge 2877)
 113995 Minneapolis PD
 113999 Minneapolis PD
+114000 Minneapolis PD
 114003 Minneapolis PD
 114007 Minneapolis PD
 114008 Minneapolis Fire Deputy
@@ -1175,6 +1183,7 @@
 114921 Minneapolis PD
 114925 Minneapolis PD
 114927 Minneapolis PD (850)
+114928 Minneapolis PD
 114929 Minneapolis PD (120)
 114930 Minneapolis PD
 114933 Minneapolis PD
@@ -1188,7 +1197,9 @@
 114953 Minneapolis PD
 114960 Minneapolis PD 6149
 114962 Minneapolis PD (510A)
+114965 Minneapolis PD
 114970 Minneapolis PD
+114973 Minneapolis PD
 114977 Minneapolis Fire Engine 1
 114988 Minneapolis PD
 115001 Minneapolis PD (408)
@@ -1318,6 +1329,7 @@
 115789 Minneapolis Fire Engine 4
 115790 Minneapolis Fire Engine 1
 115810 Minneapolis Fire Chief 5
+115846 Minneapolis Fire Engine 20
 115848 Minneapolis Fire Ladder 3
 115849 Minneapolis Fire Engine 1
 115856 Minneapolis Fire Engine 2
@@ -2256,6 +2268,7 @@
 131179 Apple Valley PD
 131180 Apple Valley PD
 131182 Apple Valley PD
+131183 Apple Valley PD?
 131186 Apple Valley PD
 131187 Apple Valley PD
 131188 Apple Valley PD
@@ -2538,6 +2551,7 @@
 132214 Eagan PD
 132215 Eagan PD
 132216 Eagan PD
+132217 Eagan PD
 132218 Eagan PD
 132219 Eagan PD
 132221 Eagan PD
@@ -2572,6 +2586,7 @@
 132262 Eagan PD (33L46)
 132264 Eagan PD 3342
 132265 Eagan PD
+132267 Eagan PD
 132301 Farmington Fire Chief 4
 132302 Farmington Fire Chief 2
 132303 Farmington Fire Chief 3
@@ -4328,10 +4343,13 @@
 159501 MCF OPH Base
 159508 DOC OPH
 159516 MCF OPH
+159519 MCF OPH
 159521 MCF OPH
 159534 MCF OPH
 159535 MCF OPH
 159538 MCF OPH
+159547 MCF OPH
+159552 MCF OPH
 159554 MCF OPH
 159555 DOC OPH
 159556 MCF OPH
@@ -4347,6 +4365,7 @@
 159580 DOC OPH
 159581 MCF OPH
 159584 MCF OPH
+159585 MCF OPH
 159587 MCF OPH
 159588 MCF OPH
 159589 MCF OPH
@@ -4355,6 +4374,7 @@
 159593 MCF OPH
 159594 DOC OPH
 159602 MCF OPH
+159605 MCF OPH
 159607 MCF OPH
 159610 MCF OPH
 159611 MCF OPH
@@ -4364,20 +4384,24 @@
 159618 MCF OPH
 159620 MCF OPH
 159621 MCF OPH
+159622 MCF OPH
 159623 MCF OPH
 159624 MCF OPH
 159627 MCF OPH
 159628 MCF OPH
 159629 MCF OPH
 159630 MCF OPH
+159631 MCF OPH
 159632 DOC OPH
 159634 DOC OPH
 159635 MCF OPH
 159636 MCF OPH
+159637 MCF OPH
 159638 MCF OPH
 159641 MCF OPH
 159642 MCF OPH
 159643 MCF OPH
+159644 MCF OPH
 159645 MCF OPH
 159647 MCF OPH
 159648 MCF OPH
@@ -4385,45 +4409,74 @@
 159655 DOC OPH
 159657 OPH DOC Transport
 159661 MCF OPH
+159664 MCF OPH
+159667 MCF OPH
 159674 DOC OPH
 159679 MCF OPH
+159680 MCF OPH
 159681 MCF OPH
+159687 MCF OPH
+159688 MCF OPH
+159712 MCF Lino Lakes
 159721 MCF Stillwater
 159729 MCF Stillwater
+159732 MCF Stillwater
+159737 MCF Stillwater
+159740 MCF Stillwater
 159743 MCF Stillwater
 159746 MCF Stillwater
 159749 MCF Stillwater
+159750 MCF Stillwater
 159751 MCF Stillwater
+159752 MCF Stillwater
 159753 MCF Stillwater
 159754 MCF Stillwater
 159756 MCF Stillwater
 159757 MCF Stillwater
+159758 MCF Stillwater
 159760 MCF Stillwater
 159761 MCF Stillwater
 159762 MCF Stillwater
 159763 MCF Stillwater
 159764 MCF Stillwater
+159765 MCF Stillwater
 159766 MCF Stillwater
 159769 MCF Stillwater
+159770 MCF Stillwater
+159772 MCF Stillwater
 159774 MCF Stillwater
+159775 MCF Stillwater
+159776 MCF Stillwater
+159777 MCF Stillwater
+159778 MCF Stillwater
+159779 MCF Stillwater
+159781 MCF Stillwater
+159782 MCF Stillwater
 159784 MCF Stillwater
+159786 MCF Stillwater
 159787 MCF Stillwater
+159788 MCF Stillwater
 159792 MCF Stillwater
+159793 MCF Stillwater
 159799 MCF Stillwater
 159801 MCF Stillwater
 159804 MCF Stillwater
 159805 MCF Stillwater
 159806 MCF Stillwater
 159808 MCF Stillwater
+159809 MCF Stillwater
 159812 MCF Stillwater
 159813 MCF Stillwater
 159814 MCF Stillwater
+159815 MCF Stillwater
 159816 MCF Stillwater
 159820 MCF Stillwater
 159821 MCF Stillwater
 159822 MCF Stillwater
+159823 MCF Stillwater
 159824 MCF Stillwater
 159825 MCF Stillwater
+159826 MCF Stillwater
 159828 MCF Stillwater
 159829 MCF Stillwater
 159830 MCF Stillwater
@@ -4432,19 +4485,31 @@
 159833 MCF Stillwater
 159834 MCF Stillwater
 159836 MCF Stillwater
+159838 MCF Stillwater
+159839 MCF Stillwater
+159840 MCF Stillwater
 159841 MCF Stillwater
+159842 MCF Stillwater
 159845 MCF Stillwater
+159846 MCF Stillwater
 159847 MCF Stillwater
 159848 MCF Stillwater
 159849 MCF Stillwater
+159850 MCF Stillwater
 159851 MCF Stillwater
+159860 MCF Stillwater
 159863 MCF Stillwater
 159864 MCF Stillwater
 159866 MCF Stillwater
 159867 MCF Stillwater
+159872 MCF Stillwater
+159877 MCF Stillwater
 159879 MCF Stillwater
 159880 MCF Stillwater
+159881 MCF Stillwater
 159882 MCF Stillwater
+159883 MCF Stillwater
+159884 MCF Stillwater
 159886 MCF Stillwater
 159888 MCF Stillwater
 159890 MCF Stillwater
@@ -4459,7 +4524,9 @@
 159908 MCF Stillwater
 159910 MCF Stillwater
 159911 MCF Stillwater
+159912 MCF Stillwater
 159915 MCF Stillwater
+159916 MCF Stillwater
 159919 MCF Stillwater
 159924 MCF Stillwater
 159930 MCF Stillwater
@@ -4469,18 +4536,26 @@
 159937 MCF Stillwater
 159955 MCF Stillwater
 159956 MCF Stillwater
+159957 MCF Stillwater
 159958 MCF Stillwater
+159959 MCF Stillwater
+159960 MCF Stillwater
 159961 MCF Stillwater
 159963 MCF Stillwater
 159965 MCF Stillwater
 159966 MCF Stillwater
 159968 MCF Stillwater
 159969 MCF Stillwater
+159970 MCF Stillwater
+159971 MCF Stillwater
+159976 MCF Stillwater
 159978 MCF Stillwater
 159979 MCF Stillwater
+159980 MCF Stillwater
 159982 MCF Stillwater
 159983 MCF Stillwater
 159984 MCF Stillwater
+159986 MCF Stillwater
 159987 MCF Stillwater
 159988 MCF Stillwater
 159989 MCF Stillwater
@@ -4490,7 +4565,9 @@
 159995 MCF Stillwater
 160000 MCF Stillwater
 160001 MCF Stillwater
+160004 MCF Stillwater
 160006 MCF Stillwater
+160009 MCF Stillwater
 160018 MCF Stillwater
 160019 MCF Stillwater
 160020 MCF Stillwater
@@ -4498,9 +4575,15 @@
 160023 MCF Stillwater
 160024 MCF Stillwater
 160025 MCF Stillwater
+160026 MCF Stillwater
+160028 MCF Stillwater
+160029 MCF Stillwater
+160031 MCF Stillwater
 160032 MCF Stillwater
+160035 MCF Stillwater
 160037 MCF Stillwater
 160038 MCF Stillwater
+160040 MCF Stillwater
 160041 MCF Stillwater
 160042 MCF Stillwater
 160043 MCF Stillwater
@@ -4508,30 +4591,48 @@
 160047 MCF Stillwater
 160048 MCF Stillwater
 160049 MCF Stillwater
+160050 MCF Stillwater
 160052 MCF Stillwater
+160056 MCF Stillwater
 160057 MCF Stillwater
+160058 MCF Stillwater
 160059 MCF Stillwater
+160061 MCF Stillwater
 160062 MCF Stillwater
+160066 MCF Stillwater
 160067 MCF Stillwater
 160068 MCF Stillwater
 160071 MCF Stillwater
 160072 MCF Stillwater
+160075 MCF Stillwater
+160078 MCF Stillwater
+160091 MCF Stillwater
 160115 MCF Lino Lakes
 160127 MCF Lino Lakes
+160130 MCF Lino Lakes
 160134 MCF Lino Lakes
 160138 MCF Lino Lakes
+160144 MCF Lino Lakes
+160145 MCF Lino Lakes
 160147 MCF Lino Lakes
+160150 MCF Lino Lakes
 160153 MCF Lino Lakes
 160154 MCF Lino Lakes
+160156 MCF Lino Lakes
+160159 MCF Lino Lakes
 160161 MCF Lino Lakes
+160162 MCF Lino Lakes
 160178 MCF Lino Lakes
 160179 MCF Lino Lakes
 160180 MCF Lino Lakes
+160181 MCF Lino Lakes
 160182 MCF Lino Lakes
 160183 MCF Lino Lakes
 160184 MCF Lino Lakes
+160185 MCF Lino Lakes
 160186 MCF Lino Lakes
 160188 MCF Lino Lakes
+160189 MCF Lino Lakes
 160190 MCF Lino Lakes
 160191 MCF Lino Lakes
 160193 MCF Lino Lakes
@@ -4539,10 +4640,12 @@
 160195 MCF Lino Lakes
 160196 MCF Lino Lakes
 160197 MCF Lino Lakes
+160198 MCF Lino Lakes
 160199 MCF Lino Lakes
 160200 MCF Lino Lakes
 160201 MCF Lino Lakes
 160202 MCF Lino Lakes
+160203 MCF Lino Lakes
 160204 MCF Lino Lakes
 160205 MCF Lino Lakes
 160206 MCF Lino Lakes
@@ -4553,20 +4656,30 @@
 160215 MCF Lino Lakes
 160216 MCF Lino Lakes
 160217 MCF Lino Lakes
+160218 MCF Lino Lakes
 160220 MCF Lino Lakes
 160221 MCF Lino Lakes
 160222 MCF Lino Lakes
 160223 MCF Lino Lakes
+160225 MCF Lino Lakes
 160226 MCF Lino Lakes
+160227 MCF Lino Lakes
 160229 MCF Lino Lakes
+160230 MCF Lino Lakes
+160231 MCF Lino Lakes
 160233 MCF Lino Lakes
 160237 MCF Lino Lakes
+160238 MCF Lino Lakes
+160239 MCF Lino Lakes
 160240 MCF Lino Lakes
 160241 MCF Lino Lakes
 160242 MCF Lino Lakes
+160244 MCF Lino Lakes
 160254 MCF Lino Lakes
 160255 MCF Lino Lakes
 160256 MCF Lino Lakes
+160257 MCF Lino Lakes
+160258 MCF Lino Lakes
 160259 MCF Lino Lakes
 160262 MCF Lino Lakes
 160264 MCF Lino Lakes
@@ -4574,21 +4687,70 @@
 160266 MCF Lino Lakes
 160267 MCF Lino Lakes
 160268 MCF Lino Lakes
+160269 MCF Lino Lakes
 160272 MCF Lino Lakes
 160275 MCF Lino Lakes
+160287 MCF Lino Lakes
 160289 MCF Lino Lakes
+160321 MCF Lino Lakes
+160325 MCF Lino Lakes
+160335 MCF Rush City
 160339 DOC Base
 160345 DOC Transport
 160349 MCF Rush City
+160352 MCF Rush City
+160353 MCF Rush City
+160355 MCF Rush City
+160356 MCF Rush City
+160358 MCF Rush City
+160361 MCF Rush City
+160362 MCF Rush City
 160363 MCF Rush City
+160364 MCF Rush City
+160365 MCF Rush City
+160366 MCF Rush City
+160369 MCF Rush City
+160370 MCF Rush City
+160372 MCF Rush City
+160373 MCF Rush City
+160378 MCF Rush City
+160383 MCF Rush City
+160388 MCF Rush City
+160389 MCF Rush City
+160412 MCF Rush City
+160448 MCF Rush City
+160450 MCF Rush City
 160451 MCF Rush City
+160452 MCF Rush City
+160457 MCF Rush City
+160458 MCF Rush City
 160462 MCF Rush City
+160468 MCF Rush City
+160472 MCF Rush City
+160481 MCF Rush City
+160484 MCF Rush City
+160489 MCF Rush City
+160498 MCF Rush City
+160512 MCF Rush City
+160515 MCF Rush City
+160516 MCF Rush City
+160521 MCF Rush City
+160535 MCF Rush City
+160542 MCF Rush City
+160545 MCF Rush City
+160557 MCF Rush City
 160558 DOC Transport
 160560 MCF Rush City
 160564 DOC Transportation
+160569 MCF Rush City
+160573 MCF Rush City
+160574 MCF Rush City
 160708 DOC Shakopee Transport
 160710 DOC Shakopee Transport
 160711 DOC Shakopee Transport
+160770 MCF Lino Lakes
+160771 MCF Lino Lakes
+160772 MCF Lino Lakes
 160773 MCF Lino Lakes
 160850 DOC Fugitive ("Mike")
 160851 DOC Fugitive ("Bruce/Meagher")
@@ -4610,7 +4772,7 @@
 160876 DOC Fugitive ("Terry/Nutter")
 160878 DOC Fugitive ("Bruce/Meagher")
 160879 DOC Fugitive ("Brian")
-160880 DOC Fugitive ("Sheeble")
+160880 DOC Fugitive ("Dave/Schiebel")
 160881 DOC Fugitive ("Nate")
 160882 DOC Fugitive ("Brian")
 160883 DOC Fugitive ("Nate")
@@ -4623,6 +4785,7 @@
 299992 Radio Board MOTO Tech
 299998 Radio Board MOTO Tech
 300274 HCMC 431
+300293 Maple Grove PD
 300295 Hopkins PD
 300298 Crystal PD
 300302 Orono Schools
@@ -4665,13 +4828,23 @@
 300434 Orono Schools
 300436 Orono Schools
 300437 Orono Schools
+300438 Rogers PD
 300439 Orono Schools
 300440 West Metro Fire Marshal 2
 300445 West Metro Fire Chief 2
 300480 Hennepin County SO
+300511 Minnetrista PD
 300513 Minnetrista PD
+300515 Minnetrista PD
+300523 Minnetrista PD
+300524 Minnetrista PD (base?)
 300531 Minnetrista PD
+300533 Minnetrista PD
+300534 Minnetrista PD
+300535 Minnetrista PD
 300582 Crystal PD
+300700 Hennepin County SO
+300729 Hennepin County SO
 300804 HCMC 423
 300809 HCMC 437
 300830 Hennepin (???)1742
@@ -4683,12 +4856,16 @@
 300965 Hopkins PD
 300966 Hopkins PD
 301021 Minnetrista PD
+301023 New Hope PD
 301024 Minnetrista PD
 301025 Minnetrista PD
 301026 Minnetrista PD
+301029 Excelsior Fire Chief 1
 301032 Minnetrista PD
 301044 Crystal PD
 301046 Crystal PD
+301052 Osseo PD
+301054 Osseo PD
 301056 HCMC SOC
 301100 Minnetrista PD
 301103 Minnetrista PD
@@ -4709,11 +4886,19 @@
 301176 Orono PD
 301177 Orono PD
 301178 Orono PD
+301183 New Hope PD
 301184 New Hope PD
 301191 New Hope PD
 301195 St Anthony Fire Engine 12
 301198 St Anthony Fire Rescue 11
+301204 Champlin PD
 301209 Champlin PD
+301210 Champlin PD
+301211 Champlin PD
+301212 Champlin PD
+301216 Champlin PD
+301217 Champlin PD
+301223 Champlin PD
 301236 Champlin PD
 301298 Loretto Fire Captain 1
 301304 Plymouth PD
@@ -4733,6 +4918,8 @@
 301450 HCMC 435
 301451 HCMC 434
 301452 HCMC 433
+301453 Champlin PD
+301454 New Hope PD
 301455 Orono Schools
 301456 HCMC? 4527?
 301457 HCMC 408
@@ -4748,7 +4935,13 @@
 301505 Orono PD
 301508 Orono PD
 301510 HCMC 406 (Doc?)
+301520 Dayton PD
+301565 Dayton PD
+301571 South Lake Minneonka PD
 301620 Brooklyn Park PD
+301626 Osseo PD
+301631 Osseo PD
+301632 Osseo PD
 301706 Brooklyn Park PD
 301782 Orono PD
 301783 Orono PD
@@ -4762,35 +4955,63 @@
 301818 Wayzata PD 7215
 301837 Minneapolis Fire Medic 1
 301869 Crystal PD
+301871 Crystal PD
+301873 Crystal PD
 301874 Edina PD
+301891 Medina PD
+301892 Medina PD
+301898 Medina PD
+301901 New Hope PD
+301902 New Hope PD
 301903 New Hope PD
 301904 New Hope PD
+301905 New Hope PD
 301906 New Hope PD
+301908 New Hope PD
 301911 New Hope PD
 301913 New Hope PD
 301916 New Hope PD
+301917 New Hope PD
 301918 New Hope PD
+301920 New Hope PD
 301921 New Hope PD
 301922 New Hope PD
 301924 New Hope PD
+301925 New Hope PD
 301926 New Hope PD
 301927 New Hope PD
-301929 Crystal PD
+301929 Crystal PD? New Hope PD?
 301932 New Hope PD
 301943 New Hope PD
 301945 New Hope PD
 301948 New Hope PD
+301949 Crystal PD
+301982 Medina PD
+301983 Medina PD
+301984 Medina PD
+301985 Medina PD
 301986 Medina PD
 302002 Crystal PD
+302006 Crystal PD
+302009 Crystal PD
 302011 Crystal PD
+302012 Crystal PD
 302013 Crystal PD
+302014 Crystal PD
 302017 Crystal PD
+302019 Crystal PD
 302020 Crystal PD
 302022 Crystal PD
 302024 Crystal PD
+302027 Crystal PD
 302030 Crystal PD
+302031 Crystal PD
+302035 Crystal PD
 302037 Crystal PD
+302041 Crystal PD
 302047 Crystal PD
+302048 Crystal PD
+302049 Crystal PD
 302061 Brooklyn Park PD
 302064 Brooklyn Park PD
 302089 Brooklyn Park PD
@@ -4808,6 +5029,7 @@
 302153 Brooklyn Park PD
 302154 Brooklyn Park PD
 302155 Brooklyn Park PD
+302159 Corcoran PD
 302161 Brooklyn Park PD
 302163 Brooklyn Park PD
 302166 Brooklyn Park PD
@@ -4816,10 +5038,28 @@
 302172 Brooklyn Park PD
 302177 Brooklyn Park PD
 302179 Brooklyn Park PD
+302191 Maple Grove PD
+302192 Maple Grove PD
 302195 Maple Grove PD
+302196 Maple Grove PD
+302199 Maple Grove PD
+302204 Maple Grove PD
+302209 Maple Grove PD
+302212 Maple Grove PD
+302242 Hamel Fire Station
+302253 Hamel Fire Chief 1
 302280 Robbinsdale PD
+302293 South Lake Minneonka PD
+302294 South Lake Minneonka PD
+302295 South Lake Minneonka PD
+302296 South Lake Minneonka PD
+302313 South Lake Minneonka PD
 302314 Brooklyn Park PD
+302322 Maple Grove PD
+302360 Maple Grove PD
 302363 Maple Grove PD
+302379 Maple Grove PD
+302381 Maple Grove PD
 302406 Edina Medic 1
 302412 Plymouth Fire Captain 31
 302420 Plymouth Fire Grass 21
@@ -4830,9 +5070,12 @@
 302448 Maple Grove Fire ???
 302470 Maple Grove Fire Station 3
 302484 Maple Grove Fire Engine 51
+302523 South Lake Minneonka PD
 302533 Plymouth Fire Chief 3
 302538 Plymouth Fire Captain 31
 302552 Plymouth Fire Engine 21
+302589 South Lake Minneonka PD
+302591 South Lake Minneonka PD
 302614 Brooklyn Park Fire Chief 2
 302616 Brooklyn Park Fire Battalion 3
 302617 Brooklyn Park Fire Engine 21
@@ -4844,6 +5087,7 @@
 302670 Brooklyn Park Fire Battalion 3
 302688 Minnetonka Fire Engine 5
 302705 Excelsior Fire Rescue 12
+302708 Excelsior Fire Station 1
 302712 Orono PD
 302713 Orono PD
 302715 Orono PD
@@ -4853,15 +5097,23 @@
 302728 Dayton Fire Captain 21
 302748 Orono Schools
 302805 Long Lake Fire Chief 1
+302813 Hamel Fire Engine 11
 302900 Golden Valley Fire Chief 3
 302904 Brooklyn Park PD
 302906 Brooklyn Park PD
 302908 Minnetrista PD
 302923 Medina PD
+302924 Medina PD (station?)
 302931 Hopkins Fire Base
 302957 Minnetrista PD
 302959 Minnetrista PD
+302980 Osseo PD (Office)
+302981 Osseo PD
+303017 Airport PD
+303059 Maple Grove PD
+303063 Maple Grove PD
 303118 Crystal PD
+303132 Edina Fire Station 1
 303140 Edina PD
 303148 Edina PD
 303151 ? 139
@@ -4889,20 +5141,50 @@
 303242 Edina Medic 1
 303261 Edina PD
 303262 Edina PD
+303265 Edina PD
+303266 Edina PD
 303267 Edina PD
 303270 Edina PD
 303276 Edina PD
-303295 Edina Medic 2
+303295 Edina Medic 1
+303296 Edina Medic 2
 303436 HCMC Spare 15?
 303437 Richfield Fire Engine 1
 303448 Plymouth PD
 303559 Brooklyn Park Fire Rescue 31
+303560 Airport Fire Engine 32
+303584 Airport Fire Engine 32
+303586 Airport Fire Rescue 23
+303588 Airport Fire Chief 2
+303590 Airport Fire Captain 4
+303602 Airport PD
+303603 Airport PD
+303606 Airport PD
 303609 Airport SWAT
+303615 Airport PD
+303629 Airport PD
+303630 Airport PD
+303633 Airport PD
+303636 Airport PD
+303639 Airport PD
 303646 Airport PD
+303654 Airport PD
+303666 Airport PD
+303671 Airport PD
+303672 Airport PD
 303680 Airport PD
+303685 Airport PD
+303690 Airport PD
 303700 Minnetrista PD
+303705 Airport PD
+303711 Airport PD
+303717 Airport PD
+303722 Airport PD
+303725 Airport PD
 303727 Airport PD
 303742 Airport PD
+303745 Airport PD
+303756 Airport PD
 303786 Hopkins PD
 303797 Hopkins PD
 303804 Hopkins Fire Chief 3
@@ -4964,10 +5246,20 @@
 304017 Orono PD
 304019 Orono PD
 304029 Orono PD
+304033 Champlin PD
+304034 Champlin PD
 304035 Champlin PD
+304038 Champlin PD
 304046 Champlin PD
+304056 Champlin PD
+304058 Champlin PD
 304059 Champlin PD
+304061 Champlin PD
+304067 Champlin PD
+304078 Champlin PD
 304083 Plymouth Fire
+304210 Airport Fire Station 2
+304213 Airport PD
 304230 Control
 304288 Brooklyn Center PD
 304292 Brooklyn Center PD
@@ -5008,12 +5300,17 @@
 304399 Brroklyn Center Fire Engine 2
 304402 Brooklyn Center Rescue 5
 304405 Brooklyn Center Fire Rescue 7
+304415 Excelsior Fire Station 2
 304424 Minnetonka PD
 304485 HCMC CP2
 304489 Dayton Fire Rescue 21
+304505 Excelsior Fire Rescue 21
+304518 Airport Fire Engine 32
+304543 Airport PD
 304545 Edina PD (145)
 304823 Orono PD
 304824 Brooklyn Center PD
+304846 Airport Fire Station 1
 304888 Golden Valley PD 3515
 304889 Golden Valley PD (3509)
 304890 Golden Valley PD
@@ -5021,6 +5318,7 @@
 304907 Golden Valley PD 3521
 304911 Golden Valley PD
 304914 Golden Valley PD (3508)
+304940 Airport Fire Chief 1
 305089 Golden Valley PD (3528)
 305090 Golden Valley PD
 305092 Golden Valley PD (3513)
@@ -5058,19 +5356,33 @@
 305423 Edina Dispatch
 305436 Orono PD
 305437 Orono PD
+305441 Rogers PD
+305443 Rogers PD
+305445 Rogers PD
+305446 Rogers PD
+305447 Rogers PD
+305448 Rogers PD
+305449 Rogers PD
+305450 Rogers PD
+305451 Rogers PD
 305452 Rogers PD
 305466 Brooklyn Park Fire Rescue 11
 305483 Edina PD Dispatch
+305495 Rogers PD
+305496 Rogers PD
 305497 Orono PD
+305530 Rogers PD
 305555 Edina Dispatch
 305570 Minnetrista PD? ... 8171
 305577 Brooklyn Park Fire Engine 21
+305623 Hennepin County SO
 305628 Hennepin County SO
 305632 Hennepin County SO
 305633 Edina Dispatch
 305649 Brooklyn Center PD
 305687 Minnetonka Dispatch
 305705 Edina Dispatch
+305717 Rogers PD
 305732 Richfield PD
 305738 Richfield PD (2513)
 305740 Richfield PD (2510)
@@ -5093,6 +5405,7 @@
 305805 ? 2511
 305807 Richfield PD 2565
 305808 Richfield PD (2563)
+305817 Rogers PD
 305837 Minnetonka Dispatch
 305855 Edina Dispatch
 305859 Maple Grove Fire Engine 51
@@ -5181,6 +5494,7 @@
 306887 Minnetonka Dispatch
 306897 Brooklyn Park PD
 306917 Brooklyn Park PD
+306922 Minnetrista PD
 306926 Brooklyn Park PD
 306929 Minnetrista PD
 306930 Minnetrista PD
@@ -5217,11 +5531,14 @@
 307520 Minnetonka PD
 307522 Minnetonka PD?
 307530 Minnetonka PD
-307540 Airport Police Dispatch
-307541 Airport Police Dispatch
+307540 Airport Dispatch
+307541 Airport Dispatch
+307542 Airport Dispatch
+307543 Airport Dispatch
 307544 Airport Police Dispatch
 307554 Minnetonka PD
 307579 Edina Dispatch
+307591 Edina Dispatch
 307594 Edina Dispatch
 307652 Minnetonka Dispatch
 307744 Edina/Golden Valley Dispatch
@@ -5233,6 +5550,8 @@
 308551 Minnetonka Fire Engine 2
 308555 Minnetonka Fire Chief 5
 308595 Hopkins Fire Chief 1
+308654 Airport Fire Engine 31
+308666 Rogers PD
 308671 Airport PD
 308727 HCMC 432
 308728 HCMC Spare 14
@@ -5243,6 +5562,9 @@
 308801 Brooklyn Park PD
 308802 Brooklyn Park PD
 308823 Dayton Fire Utility 21
+308824 South Lake Minneonka PD
+308869 Hennepin County SO
+308872 Airport Facility 4
 308881 Airport PD
 308884 Airport PD
 308887 Airport PD
@@ -5260,8 +5582,17 @@
 308974 HCMC Spare Radio 8
 308975 HCMC CP1 (Spare 9?)
 308976 HCMC 432/411/421 (Spare 10?)
+308980 Minneapolis Downtown Library 101
+308983 Minneapolis Downtown Library 105
+308985 Minneapolis Downtown Library 108
+308991 Minneapolis Downtown Library I Desk
+308992 Minneapolis Downtown Library Janitor
 309013 Maple Grove PD
 309020 Crystal PD
+309041 St Anthony PD
+309046 Dayton PD
+309051 New Hope PD
+309052 New Hope PD
 309070 Brooklyn Park PD
 309071 Brooklyn Park PD
 309077 Brooklyn Park PD
@@ -5271,6 +5602,7 @@
 309081 Brooklyn Park PD
 309277 Golden Valley Fire Lt 31
 309342 HCMC 410 (Sup)
+309348 Rogers PD
 309353 Brooklyn Park Fire Chief 1
 309356 Brooklyn Park PD
 309357 Brooklyn Park PD
@@ -5287,8 +5619,10 @@
 309543 Brooklyn Center PD
 309544 Brooklyn Center PD
 309545 Brooklyn Center PD
+309548 Corcoran PD
 309549 Corcoran PD
 309554 Brooklyn Park PD
+309719 St Anthony PD
 309720 Hopkins Fire Chief 2
 309732 West Metro Fire Captain 1
 309739 West Metro Fire Chief 2
@@ -5302,10 +5636,12 @@
 309789 Brooklyn Park PD
 309790 Brooklyn Park PD
 309792 Brooklyn Park PD
+309793 Brooklyn Park PD
 309794 Brooklyn Park PD
 309795 Brooklyn Park PD
 309796 Brooklyn Park PD
 309797 Brooklyn Park PD
+309798 Brooklyn Park PD
 309801 Brooklyn Park PD
 309802 Brooklyn Park PD
 309808 Brooklyn Park PD
@@ -5314,6 +5650,9 @@
 309811 Brooklyn Park PD
 309813 Brooklyn Park PD
 309814 Brooklyn Park PD
+309982 Rogers PD
+309983 Rogers PD
+309985 Rogers PD
 310035 HCMC 436
 310036 HCMC 436
 310037 HCMC 437
@@ -5342,6 +5681,7 @@
 310114 Hennepin County Dispatch
 310116 Hennepin County Dispatch
 310119 Hennepin County Dispatch
+310134 Sheriffs Crime Lab
 310163 Hennepin County SO
 310172 Hennepin 1291
 310191 Hennepin County Water Patrol (1701)
@@ -5383,6 +5723,7 @@
 314515 Roseville PD
 314519 Roseville PD
 314525 Roseville PD
+314527 Brooklyn Park PD?
 314530 Roseville PD
 314531 Roseville PD
 314534 Roseville PD
@@ -5445,6 +5786,7 @@
 317211 Maplewood PD
 317224 Maplewood PD
 317251 Maplewood Medic 321
+317260 Sentinel Radio Alarm
 317274 Sentinel Radio Alarm
 317500 White Bear Lake PD
 317502 White Bear Lake PD
@@ -5570,6 +5912,7 @@
 328965 Bloomington Dispatch
 328966 Bloomington Dispatch
 328967 Bloomington Dispatch
+328968 Bloomington Dispatch
 329001 Bloomington PD
 329031 Bloomington Dispatch
 329072 Bloomington PD
@@ -5649,6 +5992,7 @@
 329641 Bloomington Fire Engine 4
 329644 Bloomington Fire Ladder 4
 329672 Bloomington Fire Chief 2
+329676 Bloomington Fire Chief 6
 329682 Bloomington Fire Chief 2
 329832 Bloomington PD
 329833 Bloomington PD
@@ -5682,7 +6026,7 @@
 329988 Bloomington PD
 330001 Eden Prairie Dispatch
 330003 Eden Prairie Dispatch
-330005 Eden Prairie Dispatch
+330005 Eden Prairie Fire Dispatch
 330012 Eden Prairie PD
 330040 Eden Prairie PD
 330102 Eden Prairie PD
@@ -5695,10 +6039,11 @@
 330227 Eden Prairie PD
 330239 Eden Prairie PD
 330254 Eden Prairie PD
-330321 Eden Prairie Engine 21
+330321 Eden Prairie Fire Engine 21
 330341 Eden Prairie Engine 41
+330350 Eden Prairie Fire Inspector 4
 330352 Eden Prairie Chief 2
-330359 Eden Prairie Chief 5
+330359 Eden Prairie Fire Chief 5
 330405 Eden Prairie Chief 5
 330410 Eden Prairie Chief 2
 330447 Eden Prairie Engine 21
@@ -5902,6 +6247,7 @@
 508069 "236"
 508822 DOC Shakopee Control
 509040 WISCONSIN (Comm Trailer)
+513073 Radio Board Tech
 515006 Treasure Island? 512
 515037 Pine Island First Responders
 515101 Goodhue County Dispatch
@@ -5974,6 +6320,7 @@
 515779 "284"
 515827 Goodhue County?
 515828 Goodhue County?
+515858 Radio Board Tech
 519015 Wabasha County SO
 519023 Wabasha County Dispatch
 519024 Wabasha County Dispatch
@@ -6128,6 +6475,8 @@
 573242 Le Sueur County SO
 581073 Radio Board Tech
 581082 Blue Earth County Dispatch
+600001 Radio Board Tech
+600004 Radio Board Tech
 600005 Radio Board Tech
 600009 Radio Board Tech
 600016 Radio Board Tech
@@ -6163,8 +6512,18 @@
 600988 State Patrol 290
 601185 State Patrol 47
 608359 Stearns County Dispatch
+616153 Sherburne County Jail
+616160 Sherburne County Jail
 616376 Big Lake Fire Captain 2
+616699 Sherburne County Jail
 616750 Elk River Fire Chief 1
+616779 Sherburne County Jail
+616836 Sherburne County Jail
+616966 Sherburne County Jail
+616977 Sherburne County Jail
+617049 Sherburne County Jail
+617077 Sherburne County Jail
+617087 Sherburne County Jail
 620003 Wright County Dispatch
 620004 Wright Dispatch
 620030 Monticello 5704
@@ -6194,6 +6553,7 @@
 701600 State Patrol Dispatch
 701602 State Patrol Dispatch
 701603 State Patrol Dispatch
+717130 Radio Board Tech
 770002 Radio Board Tech
 770003 Radio Board Tech
 770004 Radio Board Tech
@@ -6238,7 +6598,10 @@
 787238 Floodwood Fire
 830002 Radio Board Tech
 830005 Radio Board Tech
+830009 Radio Board Tech
+830010 Radio Board Tech
 830011 Radio Board Tech
+830012 Radio Board Tech
 830013 Radio Board Tech
 830014 Radio Board Tech
 830021 State Patrol Dispatch
