@@ -213,7 +213,7 @@
 100545 State Patrol 924
 100546 State Patrol 4701
 100549 State Patrol 82
-100552 State Patrol 71
+100552 State Patrol 71/476
 100556 State Patrol K46/K40/K19
 100558 State Patrol 596
 100562 FIRST 810x
@@ -453,6 +453,7 @@
 105087 North 707
 105089 North 708
 105091 North 708
+105100 North 606
 105101 North 710
 105104 North 715
 105105 North 711
@@ -551,7 +552,7 @@
 105483 North Dispatch
 105485 North Dispatch
 105505 ??? (Ambulance) 857
-105511 Ridgeview 851
+105511 Ridgeview 851/2
 105516 Ridgeview 854
 105517 Ridgeview 52?
 105518 Ridgeview 856
@@ -569,6 +570,8 @@
 105539 Ridgevie 854
 105540 Ridgeview 854/855
 105541 Ridgeview 831
+105550 Ridgeview 852
+105555 Ridgeview 831
 105558 Ridgeview 854
 105566 Ridgeview 857
 105567 Ridgeview 851
@@ -709,6 +712,7 @@
 106071 Owatonna Hospital
 106072 Allina 639
 106074 Allina 634
+106076 Allina 535
 106078 Allina 571
 106082 Allina 201
 106084 Allina Supervisor 4..
@@ -809,11 +813,13 @@
 107402 Life Link 6
 107404 Life Link 6
 107407 Life Link 5
+107409 Life Link
 107428 Life Link 4
 107481 HealthEast Dispatch
 107482 HealthEast Dispatch
 107486 HealthEast 1841
 107487 HealthEast 64
+107548 Metro Transit Car 4
 107580 Transit Police
 107585 Transit PD
 107652 Shop Truck
@@ -940,6 +946,9 @@
 110033 Carver County SO
 110053 Carver County SO
 110090 Carver County SO
+110100 Carver Fire Chief 1
+110108 Carver Fire Engine 13
+110120 Carver Fire Rescue 11
 110815 Carver County SO
 110817 Carver County SO
 110824 Carver County SO
@@ -947,6 +956,9 @@
 110856 Carver County SO
 110860 Carver County SO
 110891 Carver County SO
+111017 Waconia Fire Rescue 11
+111020 Waconia Fire Grass 11
+111077 Waconia Fire Captain 1
 111370 National Weather Service
 111404 Chaska PD
 111405 Chaska PD
@@ -970,9 +982,14 @@
 111456 Chaska PD
 111457 Chaska PD
 112102 Carver County Dispatch
+112111 Carver County Dispatch
+112122 Carver County Dispatch
 112163 Carver County Dispatch
 112202 Carver County Dispatch
+112211 Carver County Dispatch
 112302 Carver County Dispatch
+112311 Carver County Dispatch
+112322 Carver County Dispatch
 113036 Minneapolis PD
 113040 Radio Board Tech
 113042 Radio Board Tech
@@ -999,6 +1016,7 @@
 113185 Minneapolis PD
 113186 Minneapolis Fire Engine 4
 113191 Minneapolis PD (49.)
+113192 Minneapolis Fire ?
 113200 Minneapolis Fire Engine 5
 113202 Minneapolis PD
 113206 Minneapolis PD
@@ -1099,6 +1117,7 @@
 114035 Minneapolis PD
 114045 Minneapolis PD
 114064 Minneapolis PD
+114066 Minneapolis PD
 114079 Minneapolis PD
 114087 Minneapolis PD (304)
 114092 Minneapolis PD (321)
@@ -1299,7 +1318,7 @@
 115260 Minneapolis Fire Engine 21
 115262 Minneapolis Fire Engine 27
 115264 Minneapolis Fire Rescue 1
-115269 Minneapolis Fire Chief 1
+115269 Minneapolis Fire Ladder 11
 115274 Minneapolis Fire Ladder 11
 115276 Minneapolis Fire Ladder 3
 115278 Minneapolis Fire
@@ -1322,11 +1341,14 @@
 115320 Minneapolis Fire ???
 115325 Minneapolis Fire Engine 14
 115331 Minneapolis Fire Engine 4
+115334 Minneapolis Fire Engine ?
 115340 Minneapolis Fire
+115342 Minneapolis Fire Engine 20
 115346 Minneapolis Fire Engine 27
 115347 Minneapolis Fire Engine 11
 115348 Minneapolis Fire Ladder 2
 115350 Minneapolis Fire Engine 17
+115351 Minneapolis Fire Engine ?
 115352 Minneapolis Fire Engine 12
 115353 Minneapolis Fire Ladder 5
 115355 Minneapolis Fire Engine 16
@@ -1355,9 +1377,10 @@
 115694 Minneapolis PD (420)
 115706 Minneapolis PD
 115758 Command Post
-115787 Minneapolis Fire Boat 22
+115787 Minneapolis Fire Engine 22
 115789 Minneapolis Fire Engine 4
 115790 Minneapolis Fire Engine 1
+115795 Minneapolis Fire ?
 115810 Minneapolis Fire Chief 5
 115846 Minneapolis Fire Engine 20
 115848 Minneapolis Fire Ladder 3
@@ -1393,6 +1416,7 @@
 117245 Minneapolis Police Dispatch
 117247 Minneapolis Police Dispatch
 117250 Minneapolis Police Dispatch
+117291 Minneapolis Dispatch
 117296 Minneapolis Police Dispatch
 117297 Minneapolis Police Dispatch
 117298 Minneapolis Police Dispatch
@@ -1508,12 +1532,22 @@
 122035 UMN PD
 122045 UMN PD
 122072 Minneapolis PD
-122075 Minneapolis PD
+122075 UMN PD (1809)
 122079 UMN PD
-122080 UMN PD
+122080 UMN PD? (2870)
 122083 UMN PD
 122084 UMN PD
+122099 UMN PD (1809)
+122101 UMN PD (1856)
+122105 UMN PD (1856)
+122112 UMN PD (1859)
+122115 UMN PD
 122123 UMN PD
+122126 ??? Dispatch
+122130 UMN EMS 3
+122141 UMN PD
+122144 UMN First Aid
+122146 UMN EMS 1
 122152 UMN PD
 122162 UMN Canine 1850
 122174 UMN Security Dispatch
@@ -2603,6 +2637,7 @@
 132241 Eagan PD
 132242 Eagan PD
 132243 Eagan PD
+132244 Eagan PD
 132245 Eagan PD
 132246 Eagan PD
 132247 Eagan PD
@@ -3105,6 +3140,7 @@
 135617 Randolph Hampton Fire Captain 5
 135619 Randolph Hampton Fire Rescue 2
 135629 Randolph Hampton Fire Rescue 1
+136022 Medfire? Medic 1
 136027 Medfire? Medic 1
 136032 ??? Medic 1
 136192 Carver County Bus
@@ -3115,18 +3151,66 @@
 136284 Carver County Bus
 136605 Scott County 360
 136619 Scott County SO
+136621 Scott County SO
 136626 Scott County SO
 137004 Belle Plaine PD
 137010 Belle Plaine PD
+137011 Belle Plain PD
+137101 Belle Plain PD
+137701 Shakopee PD
 137702 Shakopee 676
+137703 Shakopee PD
+137704 Shakopee PD
+137706 Shakopee PD
+137707 Shakopee PD
+137710 Shakopee PD
+137711 Shakopee PD
+137712 Shakopee PD
+137717 Shakopee PD
+137722 Shakopee PD
 137896 Elko PD
+137898 Elko PD
+138210 Savage PD
 138216 Savage PD
+138217 Savage PD
 138219 Savage PD 329
+138221 Savage PD
+138223 Savage PD
+138234 Savage PD
+138238 Savage PD
+138402 Savage PD
 138404 Savage PD
+138405 Savage PD
+138406 Savage PD
+138409 Savage PD
 138411 Savage PD
 138414 Savage PD
+138415 Savage PD
+138420 Savage PD
+138905 Scott County SO
+139206 Prior Lake PD
+139209 Prior Lake PD
+139215 Prior Lake PD
+139216 Prior Lake PD
+139222 Prior Lake PD
+139226 Prior Lake PD
+139401 Prior Lake PD
+139403 Prior Lake PD
+139405 Prior Lake PD
+139409 Prior Lake PD
+139413 Prior Lake PD
+139415 Prior Lake PD
+139802 Shakopee PD
+139803 Shakopee PD
+139814 Shakopee PD
+139834 Shakopee PD
+139837 Shakopee PD
+139838 Shakopee PD
+139843 Shakopee PD
 140006 Jordan 613
-140094 Jordan 613
+140094 Jordan PD
+140402 Scott County Dispatch
+140411 Scott County Dispatch
 140418 Scott County Dispatch
 140741 Scott County Dispatch
 140744 Scott County Dispatch
@@ -3136,8 +3220,36 @@
 141102 Chisago County Dispatch
 141103 Chisago County Dispatch
 141104 Chisago County Dispatch
+141206 Chisago 132
+141214 Chisago 120
+141223 Chisago 137
+141228 Chisago 116
+141232 Chisago 118
 141235 Chisago County SO (canine)
+141241 Chisago 147
 141245 DOT Chisago ???
+141312 Chisago 116
+141326 Chisago 132
+141339 Chisago 147
+141344 Chisago 185
+141402 Chisago 522
+141404 Chisago 516?
+141454 Chisago 5??
+141504 Chisago 315
+141508 Chisago 316
+141509 Chisago 351
+141559 Chisago 315
+141560 Chisago 316
+141566 Chisago 340
+141601 Chisago 233
+141602 Chisago 213
+141603 Chisago 233
+141604 Chisago 211
+141605 Chisago 221
+141608 Chisago ???
+141656 Chisago 221
+141657 Chisago 211
+141664 Chisago 213
 142701 Wyoming Fire
 142708 Wyoming Fire
 142709 Wyoming Fire
@@ -3151,8 +3263,8 @@
 146616 Isanti County Dispatch
 151001 UMN Dispatch
 151002 UMN Dispatch
-151003 UMN Security Dispatch
-151004 UMN Security Dispatch
+151003 UMN Security
+151004 UMN Security
 151005 UMN Dispatch
 151209 UMN Police Dispatch
 151501 UMN Security
@@ -3180,6 +3292,7 @@
 151534 UMN Security
 151535 UMN Security
 151537 UMN Security
+151538 UMN Security
 151539 UMN Security
 151542 UMN Security
 151543 UMN Security
@@ -3193,6 +3306,7 @@
 151551 UMN Security
 151552 UMN Security
 151553 UMN Security
+151554 UMN Security
 151555 UMN Security
 151556 UMN Security
 151559 UMN Security
@@ -3230,6 +3344,7 @@
 151594 UMN Security
 151595 UMN Security
 151596 UMN Security
+151604 Dakota County Dispatch?
 151609 Dakota County Dispatch
 151610 Dakota County Dispatch
 151611 Dakota County Dispatch
@@ -4346,6 +4461,7 @@
 158573 North 736
 158574 North 736
 158575 North 736
+158589 North Air Care 2
 158590 Air Care 1
 158591 Air Care 5
 158783 North 738
@@ -4940,6 +5056,7 @@
 301439 HCMC 413
 301440 HCMC 414
 301442 HCMC 416
+301443 HCMC 417
 301445 HCMC 419
 301446 HCMC 421
 301447 HCMC 422
@@ -5174,6 +5291,7 @@
 303265 Edina PD
 303266 Edina PD
 303267 Edina PD
+303268 Edina PD
 303270 Edina PD
 303276 Edina PD
 303295 Edina Medic 1
@@ -5224,13 +5342,17 @@
 303813 Hopkins Fire Ladder 9
 303816 Hopkins PD
 303821 Hopkins PD
+303823 Hopkins PD
 303827 Hopkins PD
 303828 Hopkins PD
 303829 Hopkins PD
 303830 Hopkins PD
 303832 Hopkins PD
+303834 Hopkins PD
+303837 Hopkins PD
 303840 Hopkins PD
 303843 Hopkins PD
+303845 Hopkins PD
 303847 Hennepin County SO Warrant
 303848 Hopkins PD
 303853 Hopkins PD
@@ -5398,6 +5520,7 @@
 305452 Rogers PD
 305466 Brooklyn Park Fire Rescue 11
 305483 Edina PD Dispatch
+305494 Edina Dispatch
 305495 Rogers PD
 305496 Rogers PD
 305497 Orono PD
@@ -5451,6 +5574,8 @@
 306168 HCMC 441
 306169 HCMC 441
 306170 HCMC 441 (?)
+306171 HCMC 442
+306172 HCMC 442
 306221 HCMC 411
 306222 HCMC 411
 306247 HCMC 412
@@ -5735,6 +5860,7 @@
 311505 (radio service test)
 312057 St Paul Dispatch
 312115 Ramsey County Dispatch
+312307 East MRCC
 312371 East MRCC
 312407 Statewide MRCC
 312471 East MRCC
@@ -6070,13 +6196,16 @@
 330239 Eden Prairie PD
 330254 Eden Prairie PD
 330321 Eden Prairie Fire Engine 21
+330331 Eden Prairie Engine 31
 330341 Eden Prairie Engine 41
 330350 Eden Prairie Fire Inspector 4
 330352 Eden Prairie Chief 2
 330359 Eden Prairie Fire Chief 5
-330405 Eden Prairie Chief 5
+330405 Eden Prairie Fire Chief 5
 330410 Eden Prairie Chief 2
+330423 Eden Prairie Fire Captain 1
 330447 Eden Prairie Engine 21
+330462 Eden Prairie Fire Lt 8
 330485 Eden Prairie Engine 41
 331297 Eden Prairie PD
 500002 State Patrol Dispatch
