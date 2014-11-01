@@ -1648,6 +1648,7 @@
 121602 US Marshals
 121613 US Marshals
 121615 US Marshals
+121616 US Marshals
 121617 US Marshals
 121694 FBI
 121780 FBI
@@ -2873,6 +2874,7 @@
 132307 Farmington Fire Brush 2
 132308 Farmington Fire Engine 22
 132310 Farmington Fire Engine 1
+132315 Farmington Fire Engine 22
 132316 Farmington Fire Station 1
 132320 Farmington Fire Engine 2
 132321 Farmington Fire Rescue 1
@@ -3110,6 +3112,7 @@
 133167 Lakeville PD
 133169 Lakeville PD
 133170 Lakeville PD
+133171 Lakeville PD
 133172 Lakeville PD
 133173 Lakeville PD
 133174 Lakeville PD
@@ -3276,6 +3279,7 @@
 134113 South St Paul PD
 134114 South St Paul PD
 134115 South St Paul PD
+134116 South St Paul PD
 134117 South St Paul PD
 134119 South St Paul PD
 134120 South St Paul PD
@@ -3285,6 +3289,7 @@
 134127 South St Paul PD
 134129 South St Paul PD
 134130 South St Paul PD
+134131 South St Paul PD
 134133 South St Paul PD
 134136 South St Paul PD
 134137 South St Paul PD
@@ -5328,11 +5333,14 @@
 300511 Minnetrista PD
 300512 Minnetrista PD
 300513 Minnetrista PD
+300514 Minnetrista PD
 300515 Minnetrista PD
+300517 Minnetrista PD
 300518 Minnetrista PD
+300519 Minnetrista PD
 300521 Minnetrista PD
 300523 Minnetrista PD
-300524 Minnetrista PD (base?)
+300524 Minnetrista PD (base)
 300531 Minnetrista PD
 300533 Minnetrista PD
 300534 Minnetrista PD
@@ -5363,9 +5371,13 @@
 301032 Minnetrista PD
 301044 Crystal PD
 301046 Crystal PD
+301047 St Louis Park Fire Station 2
+301048 St Louis Park Fire Station 1
 301052 Osseo PD
 301054 Osseo PD
 301056 HCMC SOC
+301087 Wayzata PD
+301088 Wayzata PD
 301100 Minnetrista PD
 301103 Minnetrista PD
 301107 Minnetrista PD
@@ -5399,6 +5411,7 @@
 301212 Champlin PD
 301216 Champlin PD
 301217 Champlin PD
+301219 Champlin PD
 301223 Champlin PD
 301236 Champlin PD
 301265 HCMC Security
@@ -5446,7 +5459,9 @@
 301508 Orono PD
 301510 HCMC 406 (Doc?)
 301520 Dayton PD
+301548 St Anthony PD
 301565 Dayton PD
+301570 Dayton PD
 301571 South Lake Minneonka PD
 301620 Brooklyn Park PD
 301626 Osseo PD
@@ -5479,6 +5494,7 @@
 301874 Edina PD
 301891 Medina PD
 301892 Medina PD
+301896 Medina PD
 301898 Medina PD
 301900 New Hope PD
 301901 New Hope PD
@@ -5524,10 +5540,12 @@
 302019 Crystal PD
 302020 Crystal PD
 302022 Crystal PD
+302023 Crystal PD
 302024 Crystal PD
 302027 Crystal PD
 302030 Crystal PD
 302031 Crystal PD
+302033 Crystal PD
 302035 Crystal PD
 302037 Crystal PD
 302041 Crystal PD
@@ -5580,6 +5598,7 @@
 302295 South Lake Minneonka PD
 302296 South Lake Minneonka PD
 302297 South Lake Minneonka PD
+302299 South Lake Minneonka PD
 302313 South Lake Minneonka PD
 302314 Brooklyn Park PD
 302322 Maple Grove PD
@@ -5608,6 +5627,7 @@
 302590 South Lake Minneonka PD
 302591 South Lake Minneonka PD
 302592 South Lake Minneonka PD
+302593 South Lake Minneonka PD
 302614 Brooklyn Park Fire Chief 2
 302615 South Lake Minneonka PD
 302616 Brooklyn Park Fire Battalion 3
@@ -5618,6 +5638,7 @@
 302665 Brooklyn Park Fire Chief 2
 302667 Brooklyn Park Fire Chief 1
 302670 Brooklyn Park Fire Battalion 3
+302672 Long Lake Fire Station 2
 302688 Minnetonka Fire Engine 5
 302705 Excelsior Fire Rescue 12
 302708 Excelsior Fire Station 1
@@ -5631,12 +5652,15 @@
 302724 Dayton Fire Chief 1
 302728 Dayton Fire Captain 21
 302748 Orono Schools
+302790 Long Lake Fire Station 1
+302791 Long Lake Fire Engine 11
 302805 Long Lake Fire Chief 1
 302813 Hamel Fire Engine 11
 302900 Golden Valley Fire Chief 3
 302904 Brooklyn Park PD
 302906 Brooklyn Park PD
 302908 Minnetrista PD
+302922 Medina PD
 302923 Medina PD
 302924 Medina PD (station?)
 302925 HCMC Security Dispatch
@@ -5646,6 +5670,8 @@
 302980 Osseo PD (Office)
 302981 Osseo PD
 303017 Airport PD
+303021 Long Lake Fire Station 2
+303040 Wayzata PD
 303045 Maple Grove PD
 303059 Maple Grove PD
 303063 Maple Grove PD
@@ -5710,23 +5736,30 @@
 303615 Airport PD
 303629 Airport PD
 303630 Airport PD
+303632 Airport PD
 303633 Airport PD
 303636 Airport PD
 303639 Airport PD
 303646 Airport PD
 303654 Airport PD
 303666 Airport PD
+303669 Airport PD
 303671 Airport PD
 303672 Airport PD
 303674 Airport PD
 303676 Airport PD
 303680 Airport PD
+303684 Airport PD
 303685 Airport PD
 303690 Airport PD
+303697 Airport PD
 303700 Minnetrista PD
 303705 Airport PD
+303707 Airport PD
+303710 Airport PD
 303711 Airport PD
 303713 Airport PD
+303714 Airport PD
 303717 Airport PD
 303721 Airport PD
 303722 Airport PD
@@ -5737,6 +5770,8 @@
 303744 Airport PD
 303745 Airport PD
 303747 Airport PD
+303753 Airport PD
+303755 Airport PD
 303756 Airport PD
 303786 Hopkins PD
 303797 Hopkins PD
@@ -5873,26 +5908,54 @@
 304518 Airport Fire Engine 32
 304543 Airport PD
 304545 Edina PD (145)
+304808 St Anthony PD
 304823 Orono PD
 304824 Brooklyn Center PD
 304846 Airport Fire Station 1
+304868 St Louis Park Fire
+304869 304869
+304873 304873
+304884 St Louis Park Fire
 304888 Golden Valley PD 3515
 304889 Golden Valley PD (3509)
 304890 Golden Valley PD
+304892 Golden Valley PD
 304895 Golden Valley PD (3519)
+304897 Golden Valley PD
+304900 Golden Valley PD
 304907 Golden Valley PD 3521
+304910 Golden Valley PD
 304911 Golden Valley PD
+304913 Golden Valley PD
 304914 Golden Valley PD (3508)
+304921 St Louis Park PD
+304922 St Louis Park PD
+304923 St Louis Park PD
 304940 Airport Fire Chief 1
+304958 St Louis Park PD
+304965 St Louis Park PD
+304975 St Louis Park PD
+304988 St Louis Park PD
 304998 Hennepin County SO
+305003 St Louis Park Fire Engine 1
+305012 St Louis Park PD
+305016 St Louis Park PD
+305018 St Louis Park Fire
+305039 St Louis Park Fire Station 2
+305040 St Louis Park Fire Engine 4
+305085 Golden Valley PD
+305087 Golden Valley PD
 305089 Golden Valley PD (3528)
 305090 Golden Valley PD
-305092 Golden Valley PD (3513)
+305092 Golden Valley PD
 305095 Golden Valley PD
 305096 3508
 305097 Golden Valley PD
+305098 Golden Valley PD
 305100 Golden Valley PD
 305131 Golden Valley Fire Engine 11
+305138 St Louis Park PD
+305140 St Louis Park PD
 305159 Minnetonka Rescue 1
 305189 Minnetonka Fire Engine 8
 305233 Maple Grove Fire Engine 22
@@ -5942,11 +6005,17 @@
 305451 Rogers PD
 305452 Rogers PD
 305466 Brooklyn Park Fire Rescue 11
+305474 St Anthony PD
+305475 St Anthony PD
+305476 St Anthony PD
+305477 St Anthony PD
+305478 St Anthony PD
 305483 Edina PD Dispatch
 305494 Edina Dispatch
 305495 Rogers PD
 305496 Rogers PD
 305497 Orono PD
+305525 Rodgers Fire Chief 1
 305530 Rogers PD
 305555 Edina Dispatch
 305570 Minnetrista PD? ... 8171
@@ -6130,12 +6199,17 @@
 307543 Airport Dispatch
 307544 Airport Police Dispatch
 307554 Minnetonka PD
+307578 St Louis Park Dispatch (tones?)
 307579 Edina Dispatch
 307591 Edina Dispatch
 307594 Edina Dispatch
 307603 Hennepin County SO
 307652 Minnetonka Dispatch
 307744 Edina/Golden Valley Dispatch
+307751 St Louis Park Dispatch
+307752 St Louis Park Dispatch
+307755 St Louis Park Dispatch
+307758 St Louis Park PD
 307775 Brooklyn Park Rescue 11
 307778 Brooklyn Park Fire Rescue 31
 307797 Brooklyn Park Fire Rescue 31
@@ -6161,6 +6235,7 @@
 308869 Hennepin County SO
 308872 Airport Facility 4
 308881 Airport PD
+308883 Airport PD
 308884 Airport PD
 308887 Airport PD
 308889 Airport PD
@@ -6173,11 +6248,12 @@
 308968 HCMC 410 (Sup)
 308969 HCMC Spare 3
 308971 HCMC Spare 5
-308972 HCMC (spare?)
+308972 HCMC Spare 6
 308973 HCMC Spare ???
 308974 HCMC Spare Radio 8
 308975 HCMC CP1 (Spare 9?)
 308976 HCMC Spare 10
+308978 St Anthony PD
 308980 Minneapolis Downtown Library 101
 308983 Minneapolis Downtown Library 105
 308985 Minneapolis Downtown Library 108
@@ -6187,6 +6263,7 @@
 309020 Crystal PD
 309041 St Anthony PD
 309046 Dayton PD
+309049 St Anthony PD
 309051 New Hope PD
 309052 New Hope PD
 309070 Brooklyn Park PD
@@ -6197,9 +6274,11 @@
 309080 Brooklyn Park PD
 309081 Brooklyn Park PD
 309098 Airport PD
+309100 Airport PD
 309206 HCMC Security
 309252 HCMC Security
 309277 Golden Valley Fire Lt 31
+309317 Golden Valley Public Works
 309342 HCMC 410 (Sup)
 309348 Rogers PD
 309353 Brooklyn Park Fire Chief 1
@@ -6210,6 +6289,9 @@
 309386 Brooklyn Park PD
 309387 Brooklyn Park PD
 309388 Hennepin County SO
+309492 St Anthony PD
+309493 St Anthony PD
+309495 St Anthony PD
 309512 Hopkins Fire Rescue 8
 309515 Minnetrista PD
 309516 Minnetrista PD
@@ -6220,7 +6302,10 @@
 309545 Brooklyn Center PD
 309548 Corcoran PD
 309549 Corcoran PD
+309552 Medicine Lake Fire
 309554 Brooklyn Park PD
+309712 St Anthony PD
+309718 St Anthony PD
 309719 St Anthony PD
 309720 Hopkins Fire Chief 2
 309732 West Metro Fire Captain 1
@@ -6250,9 +6335,11 @@
 309811 Brooklyn Park PD
 309813 Brooklyn Park PD
 309814 Brooklyn Park PD
+309815 Hennepin County Dispatch?
 309981 Rogers PD
 309982 Rogers PD
 309983 Rogers PD
+309984 Rogers PD
 309985 Rogers PD
 310035 HCMC 436
 310036 HCMC 436
@@ -6282,8 +6369,10 @@
 310114 Hennepin County Dispatch
 310116 Hennepin County Dispatch
 310119 Hennepin County Dispatch
+310128 Hennepin County SO
 310132 Hennepin County SO (crime lab?)
 310134 Sheriffs Crime Lab
+310135 Hennepin County SO
 310163 Hennepin County SO
 310172 Hennepin 1291
 310177 Hennepin 1317
@@ -6378,11 +6467,11 @@
 315687 US Marshals
 315710 US Marshals
 315742 US Marshals
-315745 US Marshals
+315745 Ramsey County? US Marshals?
 315891 Ramsey County SO?
 315894 Ramsey County SO?
 315925 Ramsey County SO
-315956 US Marshals
+315956 Ramsey County? US Marshals?
 315964 Ramsey County SO
 315966 US Marshals
 315979 Mounds View PD?
@@ -6501,6 +6590,7 @@
 318462 North St Paul PD
 318481 North St Paul PD
 318552 Mounds View PD
+318557 Mounds View PD
 318560 Mounds View PD
 318561 Mounds View PD
 318562 Mounds View PD
@@ -7069,6 +7159,7 @@
 519025 Wabasha County Dispatch
 519046 Wabasha County SO
 519054 Lake City PD
+519059 Wabasha County SO
 519073 Wabasha County SO (canine)
 519074 Wabasha County SO
 519076 Winona County SO 512
