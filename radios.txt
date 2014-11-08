@@ -385,7 +385,7 @@
 101807 State Patrol 929
 101808 State Patrol 264
 101810 State Patrol 193
-101811 State Patrol ???
+101811 State Patrol 393
 101812 State Patrol 393
 101813 State Patrol 72
 101816 State Patrol 233 ??
@@ -470,7 +470,7 @@
 105049 North 802
 105055 North 805
 105057 North 806
-105060 Air Care 5
+105060 North Air Care 5
 105064 North 602
 105066 Air Care 4
 105068 North 701
@@ -555,6 +555,7 @@
 105194 North 711
 105210 North Memorial Medical Center
 105223 North 305
+105224 North 305
 105226 North 301
 105228 North 304
 105229 North 304
@@ -602,6 +603,7 @@
 105505 ??? (Ambulance) 857
 105511 Ridgeview 85?
 105512 Ridgeview 852
+105514 Ridgeview 857
 105516 Ridgeview 854
 105517 Ridgeview 85?
 105518 Ridgeview 856
@@ -806,6 +808,7 @@
 106905 Southdale (Doc)
 106913 University of MN Medical Center
 106951 North 570
+106952 Lakes Region? 565
 106953 North 565
 106955 North 560
 106964 Fairview Lakes Medical Center
@@ -1144,6 +1147,7 @@
 113240 Minneapolis Fire Ladder 10/3?
 113279 Minneapolis PD
 113293 Minneapolis Fire Engine 7
+113368 Minneapolis Fire Engine 20
 113374 Minneapolis PD
 113395 Minneapolis Fire Engine 15
 113410 Minneapolis Fire Chief 3
@@ -1171,6 +1175,7 @@
 113627 Minneapolis PD
 113630 Minneapolis Schools ("Thomas")
 113639 Minneapolis PD
+113647 Minneapolis PD
 113648 Minneapolis PD (322)
 113652 Minneapolis ???
 113661 Minneapolis PD
@@ -1210,6 +1215,7 @@
 113814 Minneapolis PD
 113828 Minneapolis PD
 113833 Minneapolis ???
+113834 Minneapolis PD
 113837 Minneapolis PD 8320
 113840 Minneapolis PD
 113841 Minneapolis PD
@@ -1219,6 +1225,7 @@
 113858 Minneapolis PD
 113860 Minneapolis PD (Badge 7373)
 113861 Minneapolis PD
+113862 Minneapolis PD
 113869 Minneapolis PD
 113871 Minneapolis PD
 113880 Minneapolis PD
@@ -1264,6 +1271,7 @@
 114064 Minneapolis PD
 114065 Minneapolis PD
 114066 Minneapolis PD
+114072 Minneapolis PD
 114079 Minneapolis PD
 114087 Minneapolis PD
 114092 Minneapolis PD (321)
@@ -1276,6 +1284,7 @@
 114117 Minneapolis PD
 114120 Minneapolis ???
 114122 Minneapolis PD
+114125 Minneapolis PD
 114138 Minneapolis PD
 114142 Minneapolis PD (404)
 114146 Minneapolis PD
@@ -1302,7 +1311,7 @@
 114256 Minneapolis Fire Engine 27
 114257 Minneapolis PD
 114260 Minneapolis PD
-114265 Minneapolis PD (961?)
+114265 Minneapolis PD (961)
 114272 Minneapolis PD
 114274 Minneapolis PD
 114275 Minneapolis PD
@@ -1312,6 +1321,7 @@
 114295 Minneapolis PD
 114298 Minneapolis PD
 114300 Minneapolis PD (3..)
+114310 Minneapolis PD
 114312 Minneapolis PD (382)
 114313 Minneapolis PD
 114318 Minneapolis PD
@@ -1321,6 +1331,7 @@
 114356 Minneapolis PD (408)
 114357 Minneapolis PD
 114358 Minneapolis PD
+114359 Minneapolis PD
 114360 Minneapolis ???
 114379 Minneapolis PD
 114381 Minneapolis PD
@@ -1344,6 +1355,7 @@
 114478 Minneapolis PD? 9256
 114482 Minneapolis PD
 114488 Minneapolis Schools
+114490 Minneapolis PD
 114492 Minneapolis PD (Badge 0321)
 114497 Minneapolis PD
 114499 Minneapolis PD
@@ -1366,6 +1378,7 @@
 114739 Minneapolis PD
 114753 Minneapolis PD
 114764 Minneapolis PD (510)
+114771 Minneapolis PD
 114772 Minneapolis PD
 114775 Minneapolis Animal Control 30
 114777 Minneapolis PD (211)
@@ -1381,6 +1394,7 @@
 114838 Minneapolis PD
 114839 Minneapolis PD
 114845 Minneapolis PD
+114854 Minneapolis PD
 114861 Minneapolis PD
 114865 Minneapolis PD (293)
 114866 Minneapolis PD
@@ -1414,11 +1428,13 @@
 114956 Minneapolis PD
 114960 Minneapolis PD 6149
 114962 Minneapolis PD (510A)
+114964 Minneapolis PD
 114965 Minneapolis PD
 114967 Minneapolis PD
 114970 Minneapolis PD
 114973 Minneapolis PD
 114977 Minneapolis Fire Engine 1
+114979 Minneapolis PD
 114988 Minneapolis PD
 114989 Minneapolis PD
 115001 Minneapolis PD (408)
@@ -1478,12 +1494,14 @@
 115172 Minneapolis Fire Ladder 2
 115173 Minneapolis Fire Engine 28
 115176 Minneapolis Fire Ladder 5
+115182 Minneapolis PD (car 9)
 115184 Minneapolis Fire Engine 17
 115203 Minneapolis PD
 115206 Minneapolis Fire Engine 21
 115212 Minneapolis Fire Ladder 11
 115217 Minneapolis Fire Ladder 10
 115225 Minneapolis Fire Engine 20
+115226 Minneapolis PD
 115229 Minneapolis PD
 115244 Minneapolis Fire ?
 115245 Minneapolis Fire Engine 2
@@ -1555,6 +1573,8 @@
 115632 Minneapolis Fire ???
 115638 Minneapolis PD
 115645 Minneapolis PD
+115646 Minneapolis PD
+115664 Minneapolis PD
 115679 Minneapolis PD
 115683 Minneapolis PD
 115684 Minneapolis PD
@@ -1599,10 +1619,10 @@
 117097 Minneapolis Dispatch
 117137 Minneapolis Dispatch
 117139 Minneapolis Police Dispatch
-117145 Minneapolis Police Dispatch
-117148 Minneapolis Police Dispatch
+117145 Minneapolis Dispatch
+117148 Minneapolis Dispatch
 117195 Minneapolis Police Dispatch
-117199 Minneapolis Police Dispatch
+117199 Minneapolis Dispatch
 117241 Minneapolis Police Dispatch
 117245 Minneapolis Police Dispatch
 117247 Minneapolis Police Dispatch
@@ -1610,7 +1630,7 @@
 117291 Minneapolis Dispatch
 117296 Minneapolis Police Dispatch
 117297 Minneapolis Police Dispatch
-117298 Minneapolis Police Dispatch
+117298 Minneapolis Dispatch
 117301 Minneapolis Dispatch
 117348 Minneapolis Dispatch
 117496 Minneapolis PD Dispatch
@@ -2398,6 +2418,7 @@
 126975 Cottage Grove PD
 126982 Cottage Grove PD (4576)
 126984 Cottage Grove PD
+127015 Cottage Grove Medic
 127021 Cottage Grove PD
 127028 Cottage Grove Medic 8??
 127056 Cottage Grove Medic 831
@@ -2427,6 +2448,7 @@
 127280 Forest Lake PD
 127281 Forest Lake PD
 127560 Hugo Fire Chief 1
+127562 Hugo Fire
 127731 Lake Elmo Fire ???
 127735 Lake Elmo Fire ???
 127758 Lake Elmo Fire ???
@@ -2451,6 +2473,7 @@
 128609 Oakdale PD
 128616 Oakdale PD
 128665 Oakdale Medic 1
+128667 Oakdale Medic 5
 129006 Stillwater PD
 129008 Stillwater PD
 129010 Stillwater PD
@@ -2810,6 +2833,7 @@
 131672 Dakota County SO
 131673 Dakota County SO
 131674 Dakota County SO
+131678 Dakota County SO
 131680 Dakota County SO 1186
 131681 Dakota County SO
 131682 Dakota County SO
@@ -4956,6 +4980,7 @@
 158573 North 736
 158574 North 736
 158575 North 736
+158579 North 603
 158589 North Air Care 2
 158590 Air Care 1
 158591 Air Care 5
@@ -5868,6 +5893,9 @@
 302791 Long Lake Fire Engine 11
 302805 Long Lake Fire Chief 1
 302813 Hamel Fire Engine 11
+302883 HCMC?  Radio Test
+302885 HCMC?  Radio Test
+302895 Golden Valley PD
 302900 Golden Valley Fire Chief 3
 302904 Brooklyn Park PD
 302906 Brooklyn Park PD
@@ -5891,6 +5919,7 @@
 303118 Crystal PD
 303132 Edina Fire Station 1
 303140 Edina PD
+303142 Edina PD
 303144 Edina PD
 303148 Edina PD
 303151 ? 139
@@ -5899,10 +5928,13 @@
 303159 Edina PD 132
 303163 Edina PD
 303164 Edina PD
+303165 Edina PD
+303170 Edina PD
 303171 Edina PD
 303173 Edina PD
 303175 Edina PD
 303178 Edina PD
+303182 Edina PD
 303184 Edina PD
 303186 Edina PD
 303189 Edina PD?
@@ -5936,9 +5968,11 @@
 303436 HCMC Spare 15?
 303437 Richfield Fire Engine 1
 303448 Plymouth PD
+303553 Airport Fire
 303557 Airport Fire Captain 4
 303559 Brooklyn Park Fire Rescue 31
 303560 Airport Fire Engine 32
+303563 Airport Fire Rescue 23
 303584 Airport Fire Engine 32
 303586 Airport Fire Rescue 23
 303588 Airport Fire Chief 2
@@ -6137,6 +6171,7 @@
 304869 304869
 304873 304873
 304884 St Louis Park Fire
+304887 Golden Valley PD
 304888 Golden Valley PD 3515
 304889 Golden Valley PD (3509)
 304890 Golden Valley PD
@@ -6144,6 +6179,7 @@
 304895 Golden Valley PD (3519)
 304897 Golden Valley PD
 304900 Golden Valley PD
+304905 Golden Valley PD
 304907 Golden Valley PD 3521
 304910 Golden Valley PD
 304911 Golden Valley PD
@@ -6252,10 +6288,12 @@
 305705 Edina Dispatch
 305717 Rogers PD
 305732 Richfield PD
+305733 St Louis Park Dispatch
 305738 Richfield PD (2513)
 305740 Richfield PD (2510)
 305741 Richfield PD (2514)
 305745 Richfield PD
+305746 Richfield PD
 305749 Richfield PD
 305751 Richfield PD
 305754 Richfield PD
@@ -6368,6 +6406,7 @@
 306716 HCMC 410 (Sup)
 306737 Minnetonka Dispatch
 306747 HCMC 410 (Sup)
+306780 HCMC?  Radio Test
 306817 Brooklyn Park PD
 306818 Brooklyn Park PD
 306833 Edina Dispatch
@@ -6822,10 +6861,11 @@
 317544 White Bear Lake Fire Chief 3
 317545 White Bear Lake Fire Chief 4
 317548 White Bear Lake Medic 43
-317549 White Bear Lake Medic 452
+317549 White Bear Lake Medic
 317566 White Bear Lake Medic 44
 317570 White Bear Lake Medic 42
 317571 White Bear Lake Ambulance 3
+317579 White Bear Lake Medic
 317590 White Bear Lake Fire Lt 448
 317597 White Bear Lake Fire Captain 459
 317599 White Bear Lake Medic 462
@@ -6846,6 +6886,7 @@
 317663 White Bear Lake Fire Chief 4
 317671 White Bear Lake Fire Chief 3
 317686 White Bear Lake Ambulance 1
+317687 White Bear Lake Medic
 317856 White Bear Twp Pub Works
 317858 White Bear Twp Pub Works
 317859 White Bear Twp Pub Works
@@ -7053,7 +7094,9 @@
 329031 Bloomington Dispatch
 329072 Bloomington PD
 329074 Bloomington PD
+329082 Bloomington PD
 329083 Bloomington PD
+329087 Bloomington PD
 329089 Bloomington PD
 329154 Bloomington PD
 329159 Bloomington PD
@@ -7152,7 +7195,7 @@
 329833 Bloomington PD
 329834 Bloomington PD
 329835 Bloomington PD
-329836 Bloomington PD? Three Rivers Park District?
+329836 Bloomington PD
 329840 Bloomington PD
 329841 Bloomington PD
 329842 Bloomington PD
@@ -7181,6 +7224,8 @@
 329928 Bloomington PD
 329941 Bloomington PD
 329942 Bloomington PD
+329958 Bloomington PD
+329969 Bloomington PD
 329988 Bloomington PD
 329996 Bloomington PD
 330001 Eden Prairie Dispatch
@@ -7332,6 +7377,7 @@
 500387 St Charles 3
 500407 Winona 1
 500464 ??? 401
+500480 State Patrol 4703
 500482 State Patrol 432
 500483 State Patrol 26
 500488 State Patrol 521
@@ -7465,6 +7511,7 @@
 513073 Radio Board Tech
 515006 Treasure Island? 512
 515037 Pine Island First Responders
+515043 Pine Island ??
 515050 Goodhue? 136
 515053 Goodhue? 123
 515056 Goodhue? 132
@@ -7535,6 +7582,7 @@
 515372 Goodhue? 800
 515373 Goodhue? 801
 515378 Goodhue? 404
+515380 Goodhue? 406
 515389 Cannon Falls Medic 1
 515400 Red Wing PD
 515401 Red Wing PD
@@ -7551,6 +7599,7 @@
 515446 Cannon Falls Medic 3
 515448 Zumbrota Medic 351
 515449 Zumbrota Ambulance 351
+515460 Zumbrota Medic 352
 515462 Zumbrota Medic 351
 515467 Goodhue County?
 515471 Goodhue County?
@@ -7795,19 +7844,33 @@
 616002 Sherburne County Dispatch
 616003 Sherburne County Dispatch
 616004 Sherburne County Dispatch
+616030 Sherburne County SO
+616037 Sherburne County SO
+616053 Sherburne County SO
 616063 Sherburne County SO
 616095 Sherburne County SO
+616109 Sherburne County SO
 616112 Sherburne County SO
 616129 Sherburne County SO
 616132 Sherburne County SO
+616142 Sherburne County SO
+616147 Sherburne County SO
 616150 Sherburne County Jail
 616152 Sherburne County Jail
 616153 Sherburne County Jail
+616155 Sherburne County Jail
+616157 Sherburne County Jail
+616158 Sherburne County Jail
 616160 Sherburne County Jail
 616182 Becker PD
 616183 Becker PD
+616186 Sherburne County SO or Becker PD?
+616191 Becker PD
+616260 Sherburne County Jail
 616302 Sherburne County SO (Zimmerman)
+616310 Sherburne County SO (Zimmerman)
 616315 Sherburne County SO (Zimmerman)
+616347 Big Lake PD
 616348 Big Lake PD
 616349 Big Lake PD
 616351 Big Lake PD
@@ -7821,6 +7884,7 @@
 616608 Clearview Elementary School P1 (Clear Lake)
 616609 Clearview Elementary School P2 (Clear Lake)
 616610 Sherburne County Jail
+616625 Sherburne County Jail
 616649 Sherburne County Jail
 616651 Becker Primary School P1
 616652 Becker Middle School P1
@@ -7828,15 +7892,19 @@
 616654 Becker Intermediate School P1
 616656 Sherburne County Jail
 616672 Elk River PD
+616679 Elk River PD
 616683 Elk River PD
 616685 Elk River PD
 616687 Elk River PD
 616689 Elk River PD
 616690 Elk River PD
 616691 Elk River PD
+616693 Elk River PD
 616698 Sherburne County Jail
 616699 Sherburne County Jail
 616705 Elk River PD
+616709 Elk River PD
+616722 Elk River PD
 616726 Elk River PD
 616750 Elk River Fire Chief 1
 616776 Sherburne County Jail
@@ -7851,12 +7919,16 @@
 616966 Sherburne County Jail
 616972 Sherburne County Jail
 616974 Sherburne County Jail
+616975 Sherburne County Jail
 616976 Sherburne County Jail
 616977 Sherburne County Jail
 616978 Sherburne County Jail
 616979 Sherburne County Jail
+616993 Sherburne County SO
+617000 Sherburne County Jail
 617035 Sherburne County Jail
 617036 Sherburne County Jail
+617039 Sherburne County Jail
 617040 Sherburne County Jail
 617043 Sherburne County Jail
 617045 Sherburne County Jail
@@ -7866,9 +7938,11 @@
 617053 Sherburne County Jail
 617058 Sherburne County Jail
 617062 Sherburne County Jail
+617063 Sherburne County Jail
 617065 Sherburne County Jail
 617066 Sherburne County Jail
 617067 Sherburne County Jail
+617069 Sherburne County Jail
 617072 Sherburne County Jail
 617073 Sherburne County Jail
 617077 Sherburne County Jail
@@ -7908,7 +7982,8 @@
 656027 ??? 3706
 656029 CenturyCare???
 656030 New River Ambulance 5706
-658061 Gold Cross ???
+658026 Gold Cross 152
+658061 Gold Cross 152
 660154 Morrison County SO 105
 660156 Morrison County SO 109
 661829 Morrison County Dispatch
@@ -7959,6 +8034,7 @@
 770347 State Patrol 7
 770350 State Patrol 371
 770368 State Patrol 46
+770388 State Patrol(?) 1650
 770397 State Patrol 339
 770405 State Patrol 231
 770962 State Patrol Dispatch
