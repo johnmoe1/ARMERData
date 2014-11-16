@@ -21,6 +21,7 @@
 100078 Afton 893
 100079 Afton Base
 100080 Afton 899
+100123 Capitol Security
 100127 State Patrol 926
 100128 State Patrol 4601
 100132 Capitol Security
@@ -184,7 +185,7 @@
 100476 State Patrol 209
 100477 State Patrol 458
 100480 State Patrol 4601
-100482 State Patrol 417
+100482 Capitol Security
 100483 State Patrol 543
 100484 State Patrol 151
 100485 State Patrol 162
@@ -215,6 +216,7 @@
 100534 State Patrol 91
 100536 State Patrol 241
 100537 Capitol Security
+100538 State Patrol 518
 100543 State Patrol 922
 100544 State Patrol 2504
 100545 State Patrol 924
@@ -233,6 +235,7 @@
 100586 State Patrol 588
 100591 State Patrol 89
 100593 State Patrol 256
+100599 State Patrol 49
 100602 State Patrol 567
 100605 State Patrol 329
 100606 State Patrol 328
@@ -261,6 +264,7 @@
 100705 State Patrol 379
 100706 State Patrol 29 ???
 100710 Capitol Security
+100716 Capitol Security
 100728 Capitol Security
 100729 Capitol Security
 100742 State Patrol 243
@@ -284,6 +288,8 @@
 100942 Edina Fire Rescue 91
 100947 State Patrol 1764
 100975 State Patrol 925
+100978 State Patrol 493
+100993 State Patrol 8
 100995 State Patrol 246
 100996 State Patrol 510
 100999 State Patrol 922
@@ -922,18 +928,23 @@
 107530 Bus Supervisor
 107534 Bus Supervisor
 107546 Transit PD
+107547 Transit PD
 107548 Metro Transit Car 4
 107575 Transit PD?
+107578 Transit PD
 107580 Transit Police
+107582 Transit PD
 107583 Transit PD
 107585 Transit PD
 107652 Shop Truck
 107672 Bus Supervisor
 107709 Transit PD
 107724 Transit PD
+107728 Transit PD
 107729 Transit PD
 107730 Transit Police
 107732 Transit PD
+107741 Transit PD
 107745 Shop Truck 374
 107784 Metro Transit Rail
 107795 Metro Transit Rail
@@ -1005,6 +1016,7 @@
 108801 Metro Transit Rail
 108802 Metro Transit Rail
 108803 Metro Transit Rail
+108813 Transit PD
 108819 Metro Transit Rail
 108827 Metro Transit Rail
 108840 Metro Transit Rail
@@ -1247,6 +1259,7 @@
 113779 Minneapolis ???
 113780 Minneapolis PD
 113782 Minneapolis PD (Squad 212)
+113789 Minneapolis PD
 113793 Minneapolis PD
 113794 Minneapolis PD
 113799 Minneapolis ???
@@ -1261,6 +1274,7 @@
 113841 Minneapolis PD
 113844 Minneapolis PD
 113847 Minneapolis PD
+113848 Minneapolis PD
 113853 Minneapolis PD
 113856 Minneapolis Dispatch
 113858 Minneapolis PD
@@ -1342,6 +1356,7 @@
 114161 Minneapolis PD
 114164 Minneapolis PD
 114171 Minneapolis PD
+114175 Minneapolis PD
 114180 Minneapolis PD
 114181 Minneapolis PD
 114184 Minneapolis PD
@@ -1531,6 +1546,7 @@
 115049 Minneapolis PD
 115050 Minneapolis PD
 115052 Minneapolis PD
+115053 Minneapolis PD
 115057 Minneapolis PD
 115060 Minneapolis PD
 115061 Minneapolis PD (830)
@@ -1692,6 +1708,7 @@
 115914 Minneapolis PD (Badge 7891)
 115915 Minneapolis PD
 115917 Minneapolis PD
+115994 Minneapolis Fire Rescue 1
 116856 Minneapolis Dispatch
 116863 Minneapolis Dispatch
 116864 Minneapolis Dispatch
@@ -1903,6 +1920,8 @@
 122316 Andover Fire Rescue 11
 122320 Andover Fire Rescue 31
 122329 Andover Fire Station 1
+122338 Centennial Fire
+122348 Centennial Fire
 122375 Coon Rapids Fire ???
 122457 Ham Lake Fire ???
 122460 Ham Lake Fire ???
@@ -2175,6 +2194,7 @@
 123202 Andover PD
 123214 Anoka PD
 123216 Anoka PD
+123217 Blaine PD
 123218 Blaine PD
 123219 Blaine PD
 123220 Blaine PD
@@ -2206,6 +2226,7 @@
 123289 Spring Lake Park PD
 123290 Spring Lake Park PD
 123292 Spring Lake Park PD
+123293 Blaine PD
 123296 Blaine PD
 123297 Blaine PD
 123298 Blaine PD
@@ -2289,6 +2310,8 @@
 123431 Anoka County SO
 123433 Anoka County SO
 123434 Anoka County SO
+123469 Centennial Fire
+123470 Centennial Fire
 123493 Centennial PD
 123494 Centennial PD
 123495 Centennial PD
@@ -2439,6 +2462,7 @@
 125735 Anoka County Dispatch
 125778 Anoka County Dispatch
 125782 Anoka County Dispatch
+125884 Anoka County Dispatch
 126020 Polk County Dispatch
 126031 Washington County 1237?
 126036 Washington County SO
@@ -2489,6 +2513,7 @@
 126128 Washington County Jail
 126154 Washington County Jail
 126155 Washington County Jail
+126156 Washington County Jail
 126157 Washington County Jail
 126158 ??? 799
 126159 Washington County Jail
@@ -2567,6 +2592,7 @@
 126969 Cottage Grove PD
 126970 Cottage Grove PD
 126975 Cottage Grove PD
+126978 Cottage Grove PD
 126982 Cottage Grove PD (4576)
 126984 Cottage Grove PD
 127006 Cottage Grove Fire Engine 3135
@@ -2597,8 +2623,10 @@
 127264 Forest Lake PD
 127265 Forest Lake PD
 127266 Forest Lake PD
+127267 Forest Lake PD
 127269 Forest Lake PD
 127271 Forest Lake PD
+127275 Forest Lake PD
 127276 Forest Lake PD
 127277 Forest Lake PD
 127278 Forest Lake PD
@@ -2611,6 +2639,9 @@
 127735 Lake Elmo Fire ???
 127736 Lake Elmo Fire
 127758 Lake Elmo Fire ???
+128052 Mahtomedi Fire
+128061 Mahtomedi Fire
+128086 Mahtomedi Fire
 128114 Mahtomedi Ambulance 851
 128302 Newport PD
 128304 Newport PD
@@ -2683,6 +2714,7 @@
 129321 St Paul Park PD
 129323 St. Paul Park PD
 129324 St Paul Park PD
+129328 St Paul Park PD
 129329 St Paul Park PD
 129330 St Paul Park PD
 129331 St Paul Park PD
@@ -2705,6 +2737,7 @@
 129470 Woodbury PD
 129471 Woodbury PD
 129472 Woodbury PD
+129473 Woodbury PD
 129476 Woodbury PD
 129477 Woodbury PD
 129478 Woodbury PD
@@ -2718,6 +2751,7 @@
 129496 Woodbury PD
 129497 Woodbury PD
 129499 Woodbury PD
+129524 Woodbury PD
 129525 Woodbury PD
 129527 Woodbury PD
 129528 Woodbury PD
@@ -2790,6 +2824,7 @@
 129803 Woodbury PD
 129805 Woodbury PD
 129806 Woodbury PD
+129809 Woodbury PD
 129810 Woodbury PD
 131000 Radio Board Tech
 131002 Radio Board Tech
@@ -3724,8 +3759,33 @@
 134316 EMS Training
 134317 EMS Training
 134403 Dakota County Highway
+134405 Dakota County Highway
+134415 Dakota County Highway
+134417 Dakota County Highway
+134420 Dakota County Highway
+134423 Dakota County Highway
+134424 Dakota County Highway
+134426 Dakota County Highway
 134427 Dakota County Highway
+134436 Dakota County Highway
+134437 Dakota County Highway
+134439 Dakota County Highway
+134441 Dakota County Highway
+134442 Dakota County Highway
+134443 Dakota County Highway
+134444 Dakota County Highway
+134445 Dakota County Highway
 134449 Dakota County Highway
+134450 Dakota County Highway
+134452 Dakota County Highway
+134453 Dakota County Highway
+134455 Dakota County Highway
+134456 Dakota County Highway
+134462 Dakota County Highway
+134464 Dakota County Highway
+134473 Dakota County Highway
+134474 Dakota County Highway
+134477 Dakota County Highway
 134609 Dakota County Court Security
 134610 Dakota County Social Services
 134621 Dakota County - Corrections
@@ -5191,9 +5251,11 @@
 154288 Metro Transit RCC
 154289 Metro Transit RCC
 154291 Metro Transit Rail
+154333 Transit PD
 154339 Transit PD
 154344 Transit PD
 154345 Transit PD
+154350 Transit PD
 154351 Transit PD
 154352 Transit PD
 154353 Transit PD
@@ -6103,7 +6165,12 @@
 302216 Maple Grove PD
 302242 Hamel Fire Station
 302253 Hamel Fire Chief 1
+302259 Robbinsdale PD
+302260 Robbinsdale PD
+302261 Robbinsdale PD
+302276 Robbinsdale PD
 302280 Robbinsdale PD
+302281 Robbinsdale PD
 302293 South Lake Minneonka PD
 302294 South Lake Minneonka PD
 302295 South Lake Minneonka PD
@@ -6697,9 +6764,10 @@
 306626 HCMC 424
 306629 HCMC 425
 306630 HCMC 425
-306632 Robbinsdale Police PD
+306632 Robbinsdale PD
 306635 Robbinsdale PD
 306636 Robbinsdale Police PD
+306638 Robbinsdale PD
 306644 Robbinsdale PD
 306659 HCMC 426
 306660 HCMC 426
@@ -6870,6 +6938,7 @@
 309049 St Anthony PD
 309051 New Hope PD
 309052 New Hope PD
+309064 HCMC 421
 309069 Maple Grove PD
 309070 Brooklyn Park PD
 309071 Brooklyn Park PD
@@ -7761,7 +7830,7 @@
 500030 Radio Board Tech
 500103 State Patrol 470
 500104 State Patrol 245
-500108 State Patrol 105/564
+500108 State Patrol 105/_564_
 500110 State Patrol 75
 500111 State Patrol 202
 500112 State Patrol 382
@@ -7777,13 +7846,14 @@
 500143 DNR K59
 500146 DNR? K543
 500151 State Patrol 378
-500153 State Patrol 34
+500153 State Patrol 334
 500154 State Patrol 320
 500155 State Patrol 115
 500156 State Patrol 364
 500158 State Parol 521
 500160 State Patrol 464
 500162 State Patrol 136
+500164 State Patrol ???
 500165 State Patrol 426
 500167 State Patrol 289
 500169 State Patrol 382
@@ -7792,8 +7862,10 @@
 500174 State Patrol 125
 500175 State Patrol 372
 500176 State Patrol 271
+500177 State Patrol 572
 500178 State Patrol 273
 500179 State Patrol 538
+500180 State Patrol 448
 500181 State Patrol 564
 500184 State Patrol 420
 500188 State Patrol 32
@@ -7829,6 +7901,7 @@
 500247 State Patrol 32
 500248 State Patrol 420
 500250 State Patrol 448
+500251 State Patrol 420
 500252 State Patrol 336
 500253 State Patrol 593/_173_ ???
 500255 State Patrol 1754
@@ -8038,6 +8111,7 @@
 515107 Goodhue County SO 121
 515115 Goodhue County SO 109
 515121 Goodhue County SO 111
+515123 Goodhue County SO 107
 515124 Goodhue County SO 160
 515129 Goodhue County SO 109
 515130 Goodhue County SO 114
@@ -8047,6 +8121,7 @@
 515142 Goodhue County SO 126
 515146 Goodhue County SO 131
 515147 Goodhue County?
+515148 Goodhue County SO 132
 515150 Goodhue County SO 134
 515151 Goodhue County SO 135
 515152 Goodhue County SO 136
@@ -8098,7 +8173,7 @@
 515372 Goodhue? 800
 515373 Goodhue PD
 515377 Cannon Falls PD
-515378 Goodhue? 404
+515378 Cannon Falls PD
 515380 Cannon Falls PD
 515389 Cannon Falls Medic 1
 515399 Red Wing PD
@@ -8161,6 +8236,7 @@
 519072 Wabasha County SO
 519073 Wabasha County SO (canine)
 519074 Wabasha County SO
+519075 Wabasha County SO
 519076 Winona County SO 512
 519081 Wabasha County SO
 519083 Wabasha County SO
@@ -8179,6 +8255,7 @@
 519734 Mazeppa First Responders
 519779 Plainview PD
 519780 Wabasha ??? 903
+519791 Plainview PD
 519797 Plainview PD
 519901 Wabasha Hospital
 523082 Winona County SO 557
@@ -8196,10 +8273,12 @@
 527011 Freeborn County Dispatch
 527012 ??? Dispatch
 531609 La Crosse County Dispatch
+536998 Mower County Dispatch
 539011 Rice County Dispatch
 539012 Rice County Dispatch
 539013 Rice County Dispatch
 539014 Steele County Dispatch
+539015 Steele County Dispatch
 543015 Rice County SO
 543016 Rice County SO
 543025 Rice County SO
