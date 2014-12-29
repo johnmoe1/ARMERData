@@ -1008,11 +1008,13 @@
 107571 Transit PD
 107575 Transit PD?
 107578 Transit PD
+107579 Transit PD
 107580 Transit Police
 107581 Transit PD
 107582 Transit PD
 107583 Transit PD
 107585 Transit PD
+107587 Transit PD
 107590 Transit PD
 107652 Shop Truck
 107672 Bus Supervisor
@@ -1068,6 +1070,7 @@
 108494 Metro Transit Rail
 108495 Metro Transit Rail
 108501 Metro Transit (259A)
+108503 Transit PD
 108504 Transit PD
 108505 Transit PD
 108508 Transit PD
@@ -1079,6 +1082,7 @@
 108519 Transit PD
 108522 Transit PD
 108555 Metro Transit Rail
+108591 Transit PD
 108592 Transit PD
 108601 Metro Transit Rail
 108616 Metro Transit Rail
@@ -1422,6 +1426,7 @@
 113919 Minneapolis PD
 113920 Minneapolis ???
 113922 Minneapolis ???
+113925 Minneapolis PD
 113928 Minneapolis PD
 113932 Minneapolis PD
 113937 Minneapolis ???
@@ -1438,6 +1443,7 @@
 113974 Minneapolis PD
 113977 Minneapolis PD (108)
 113979 Minneapolis PD
+113982 Minneapolis PD
 113988 Minneapolis PD (510)
 113989 Minneapolis PD
 113990 Minneapolis PD (222)
@@ -1457,6 +1463,7 @@
 114019 Minneapolis PD
 114021 Minneapolis PD (111)
 114028 Minneapolis PD
+114033 Minneapolis PD
 114035 Minneapolis PD
 114037 Minneapolis PD
 114045 Minneapolis PD
@@ -1520,6 +1527,7 @@
 114247 Minneapolis PD
 114253 Minneapolis PD
 114254 Minneapolis Fire 1050
+114255 Minneapolis PD
 114256 Minneapolis Fire Engine 27
 114257 Minneapolis PD
 114260 Minneapolis PD
@@ -1684,6 +1692,7 @@
 114973 Minneapolis PD
 114977 Minneapolis Fire Engine 1
 114979 Minneapolis PD
+114983 Minneapolis PD
 114988 Minneapolis PD
 114989 Minneapolis PD
 114990 Minneapolis PD
@@ -2134,7 +2143,9 @@
 122320 Andover Fire Rescue 31
 122329 Andover Fire Station 1
 122338 Centennial Fire
+122344 Centennial Fire
 122348 Centennial Fire
+122361 Coon Rapids Fire
 122375 Coon Rapids Fire ???
 122457 Ham Lake Fire ???
 122459 Ham Lake Fire
@@ -2520,8 +2531,13 @@
 123298 Blaine PD
 123299 Blaine PD
 123300 Blaine PD
+123305 Coon Rapids Fire
 123309 Coon Rapids Fire Rescue 2
+123310 Coon Rapids Fire Chief 2
+123311 Coon Rapids Fire Chief 1
 123312 Coon Rapids Fire Rescue 3
+123314 Coon Rapids Fire Base 2
+123315 Coon Rapids Fire Base 3
 123316 Coon Rapids Fire Engine 1
 123320 Columbia Heights Fire Rescue 3
 123326 Blaine PD
@@ -2657,7 +2673,7 @@
 123567 Andover Fire Engine 11
 123572 Andover Fire Station 1
 123574 Andover Fire Station 3
-123590 SPM Fire Engine 3
+123590 SBM Fire Engine 3
 123596 Spring Lake Park - Blaine - Mounds View Fire
 123600 SBM Fire Base 3
 123609 Ham Lake Fire
@@ -2720,6 +2736,7 @@
 123910 Anoka County SO
 123999 Ramsey PD
 124004 Coon Rapids Fire Engine 1
+124006 Coon Rapids Fire
 124024 Anoka County Jail
 124027 Coon Rapids Fire Rescue 1
 124032 Anoka County SO
@@ -2745,8 +2762,10 @@
 124340 Coon Rapids Fire Engine 2
 124342 Coon Rapids Fire Grass 1
 124364 Anoka County Jail
+124369 Coon Rapids Fire
 124370 Anoka County SO
 124373 Fridley PD
+124377 SPM Fire
 124380 Anoka County SO
 124381 Anoka County SO
 124399 Coon Rapids PD
@@ -2756,6 +2775,7 @@
 124405 Fridley PD
 124406 Fridley PD
 124412 St Francis PD
+124414 Coon Rapids Fire Engine 3
 124426 Andover Fire Chief 1
 124427 Andover Fire Chief 2
 125064 Anoka County Dispatch
@@ -2788,6 +2808,7 @@
 125628 Anoka County Dispatch
 125634 Anoka County Dispatch
 125635 Anoka County Dispatch
+125667 Anoka County Dispatch
 125674 Anoka County Dispatch
 125676 Anoka County Dispatch
 125678 Anoka County Dispatch
@@ -2846,6 +2867,7 @@
 126113 Washington County Jail
 126115 Washington County Jail
 126116 Washington County Jail
+126117 Washington County Jail
 126118 Washington County Jail
 126119 Washington County Jail
 126121 Washington County Jail
@@ -2877,6 +2899,7 @@
 126236 Washington County SO
 126240 Washington County SO
 126241 Washington County SO
+126242 Washington County SO
 126254 Washington County SO
 126257 Washington County SO
 126260 Washington County SO
@@ -2940,10 +2963,12 @@
 126934 Cottage Grove PD
 126936 Cottage Grove PD
 126938 Cottage Grove PD
+126939 Cottage Grove PD
 126942 Cottage Grove PD
 126944 Cottage Grove PD
 126945 Cottage Grove PD
 126946 Cottage Grove PD
+126947 Cottage Grove PD
 126948 Cottage Grove PD
 126949 Cottage Grove PD
 126950 Cottage Grove PD
@@ -3027,6 +3052,7 @@
 128452 Oak Park Heights PD
 128453 Oak Park Heights PD
 128455 Oak Park Heights PD
+128461 Oak Park Heights PD
 128462 Oak Park Heights PD
 128464 Oak Park Heights PD
 128465 Oak Park Heights PD
@@ -3038,6 +3064,7 @@
 128551 Oakdale PD
 128552 Oakdale PD
 128553 Oakdale PD
+128555 Oakdale PD
 128557 Oakdale PD
 128558 Oakdale PD
 128560 Oakdale PD
@@ -3053,6 +3080,7 @@
 128590 Oakdale PD
 128591 Oakdale PD
 128595 Oakdale PD
+128598 Oakdale PD
 128599 Oakdale PD
 128602 Oakdale PD
 128603 Oakdale PD
@@ -3067,8 +3095,10 @@
 128612 Oakdale PD
 128616 Oakdale PD
 128660 Oakdale Fire
+128664 Oakdale Fire
 128665 Oakdale Medic 1
 128667 Oakdale Medic 5
+128709 Oakdale Fire Chief 2
 128851 Scandia Fire
 128853 Scandia Fire
 128855 Scandia Fire
@@ -3122,6 +3152,7 @@
 129321 St Paul Park PD
 129323 St. Paul Park PD
 129324 St Paul Park PD
+129326 St Paul Park PD
 129328 St Paul Park PD
 129329 St Paul Park PD
 129330 St Paul Park PD
@@ -3255,12 +3286,13 @@
 131013 Apple Valley Fire ???
 131015 Apple Valley Fire Station 1
 131016 Apple Valley Fire Rescue 2
-131018 Apple Valley(?) Fire Ladder 1
+131018 Apple Valley Fire Ladder 1
 131019 Apple Valley Fire Chief 1
 131023 Apple Valley Fire ???
 131024 Apple Valley Fire Chief 2
 131028 Dakota County Fire Dispatch
 131031 Apple Valley Fire ???
+131032 Apple Valley Fire
 131035 Apple Valley Fire Engine 2
 131036 Apple Valley Fire Chief 2
 131038 Apple Valley Fire Engine 2
@@ -3277,6 +3309,7 @@
 131059 Apple Valley Fire Ladder 1
 131060 Apple Valley Fire Chief 2
 131061 Apple Valley Fire Engine 1
+131063 Apple Valley Fire
 131065 Apple Valley Station 2
 131102 Apple Valley PD
 131103 Apple Valley PD
@@ -3952,6 +3985,7 @@
 133093 Lakeville Fire Station 3
 133095 Lakeville Fire Captain 3
 133100 Lakeville Fire Ladder 2
+133103 Lakeville Fire Captain 2
 133108 Lakeville Fire Station 3
 133109 Lakeville Fire Station ?
 133110 Lakeville Fire Engine 2
@@ -3968,7 +4002,7 @@
 133129 Lakeville Fire Engine 1
 133130 Lakeville Fire Rescue 1
 133132 Lakeville Fire Ladder 1
-133133 Lakeville Fire
+133133 Lakeville Fire Utility 4
 133134 Lakeville Fire Chief 1
 133151 Lakeville PD
 133154 Lakeville PD
@@ -4094,6 +4128,9 @@
 133587 Mendota Heights PD?
 133761 Miesville Fire
 133765 Miesville Fire
+133810 Rosemount Fire Station 2
+133818 Rosemount Fire Rescue 11
+133823 Rosemount Fire Chief 2
 133829 Rosemount Fire Captain 3
 133830 Rosemount Fire Chief 2
 133836 Rosemount Fire Engine 11
@@ -5821,7 +5858,9 @@
 154289 Metro Transit RCC
 154291 Metro Transit Rail
 154299 Transit PD
+154332 Transit PD
 154333 Transit PD
+154334 Transit PD
 154339 Transit PD
 154344 Transit PD
 154345 Transit PD
@@ -6915,6 +6954,7 @@
 302260 Robbinsdale PD
 302261 Robbinsdale PD
 302265 Robbinsdale PD
+302266 Robbinsdale PD
 302267 Robbinsdale PD
 302269 Robbinsdale PD
 302272 Robbinsdale PD
@@ -7036,6 +7076,7 @@
 302892 Golden Valley PD
 302893 Golden Valley PD
 302895 Golden Valley PD
+302898 Golden Valley Fire Chief
 302899 Golden Valley Fire Chief 4
 302900 Golden Valley Fire Chief 3
 302904 Brooklyn Park PD
@@ -7386,6 +7427,7 @@
 304316 Brooklyn Center PD
 304317 Brooklyn Center PD
 304319 Brooklyn Center PD
+304321 Brooklyn Center PD
 304322 Brooklyn Center PD
 304323 Brooklyn Center PD
 304324 Brooklyn Center PD
@@ -7461,6 +7503,7 @@
 304907 Golden Valley PD 3521
 304910 Golden Valley PD
 304911 Golden Valley PD
+304912 Golden Valley PD VARDA
 304913 Golden Valley PD
 304914 Golden Valley PD (3508)
 304921 St Louis Park PD
@@ -7495,7 +7538,11 @@
 305097 Golden Valley PD
 305098 Golden Valley PD
 305100 Golden Valley PD
+305104 Golden Valley Fire
+305115 Golden Valley Fire Inspector 2
+305117 Golden Valley Fire Inspector 1
 305125 Golden Valley Fire Ladder 11
+305127 Golden Valley Fire Inspector 2
 305130 Golden Valley Fire Engine 21
 305131 Golden Valley Fire Engine 11
 305133 Golden Valley Fire Chief 1
@@ -7996,6 +8043,7 @@
 309252 HCMC Security
 309270 Golden Valley Public Works
 309271 Golden Valley Public Works
+309275 Golden Valley Fire Engine 11
 309277 Golden Valley Fire Lt 31
 309287 Golden Valley Public Works
 309291 Golden Valley Public Works
@@ -8149,6 +8197,7 @@
 310185 Hennepin County SO
 310191 Hennepin County Water Patrol (1701)
 310194 Hennepin County SO
+310195 Hennepin County SO
 310505 Ramsey County Dispatch
 310537 Minneapolis Dispatch
 310564 Ramsey County Dispatch
@@ -9919,6 +9968,7 @@
 519235 Lake City PD
 519236 Lake City PD
 519241 Lake City PD
+519271 MCHS Lake CIty
 519276 ??? (Ambulance?) 271
 519320 Wabasha?
 519331 Wabasha?
@@ -10073,6 +10123,7 @@
 543752 Lonsdale PD
 543766 Lonsdale Fire 4120
 549002 Red Wing Hospital
+549013 MCHS Austin
 549048 Red Wing PD
 549068 Gold Cross 642
 549501 Gold Cross Dispatch
@@ -10400,9 +10451,11 @@
 629066 Willmar Ambulance 7251
 629068 ??? 7253 [Kandiyohi County]
 629081 Benson Ambulance
-629992 Candiohi? / Big Stone County Dispatch?
+629992 Kandiyohi County Dispatch
 629993 Kandiyohi County Dispatch
 632028 Swift County Dispatch
+632030 Swift County Dispatch
+632308 Swift County SO 207
 640000 Stevens County Dispatch
 648009 Travers County Dispatch
 652028 Todd County Dispatch
