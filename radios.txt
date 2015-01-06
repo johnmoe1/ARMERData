@@ -245,6 +245,7 @@
 100565 State Patrol 2500
 100566 State Patrol 555
 100569 FIRST 810x
+100574 State Patrol 555
 100583 Radio Board Tech
 100584 State Patrol 72
 100585 State Patrol 454
@@ -325,6 +326,7 @@
 101035 Fort Snelling State Park
 101038 State Patrol 442
 101039 State Patrol 49
+101042 State Patrol 321
 101044 State Patrol 312
 101045 State Patrol 221
 101049 State Patrol 1621
@@ -354,7 +356,7 @@
 101233 State Patrol 282
 101235 State Patrol 502
 101238 State Patrol 469
-101239 State Patrol 360 (223?)
+101239 State Patrol 360/223/120
 101244 State Patrol 477
 101249 State Patrol 221
 101250 State Patrol 272
@@ -408,7 +410,11 @@
 101693 State Patrol 466
 101694 State Patrol 1752
 101697 State Patrol 77
+101702 DNR K32 (air?)
+101707 DNR K33 (air?)
+101709 DNR K34 (air?)
 101718 DNR K352
+101723 DNR K35 (air?)
 101728 State Patrol 334
 101738 State Patrol 196
 101759 State Patrol 264
@@ -1415,6 +1421,7 @@
 113844 Minneapolis PD
 113847 Minneapolis PD
 113848 Minneapolis PD
+113851 Minneapolis PD
 113853 Minneapolis PD
 113856 Minneapolis Dispatch
 113858 Minneapolis PD
@@ -1429,6 +1436,7 @@
 113891 Minneapolis PD
 113905 Minneapolis PD
 113906 Minneapolis PD
+113907 Minneapolis PD
 113908 Minneapolis PD
 113913 Minneapolis PD
 113919 Minneapolis PD
@@ -1622,6 +1630,7 @@
 114703 Minneapolis PD
 114704 Minneapolis PD
 114705 Minneapolis PD
+114707 Minneapolis PD
 114723 Minneapolis PD
 114725 Minneapolis PD
 114732 Minneapolis PD
@@ -1638,10 +1647,12 @@
 114777 Minneapolis PD (211)
 114778 Minneapolis Animal Control
 114789 Minneapolis Animal Control 17
+114790 Minneapolis PD
 114794 Minneapolis PD
 114795 Minneapolis Schools
 114796 Minneapolis PD
 114801 Minneapolis PD
+114804 Minneapolis PD
 114811 Minneapolis PD (320)
 114817 Minneapolis PD
 114818 Minneapolis PD (581)
@@ -1686,7 +1697,7 @@
 114933 Minneapolis PD
 114934 Minneapolis PD
 114938 Minneapolis PD (293)
-114939 Minneapolis PD (Squad 360)
+114939 Minneapolis PD
 114940 Minneapolis PD
 114941 Minneapolis PD (302)
 114944 Minneapolis PD (955)
@@ -1704,6 +1715,7 @@
 114973 Minneapolis PD
 114977 Minneapolis Fire Engine 1
 114979 Minneapolis PD
+114981 Minneapolis PD
 114983 Minneapolis PD
 114988 Minneapolis PD
 114989 Minneapolis PD
@@ -2881,6 +2893,7 @@
 126077 Washington County SO
 126079 Washington County SO
 126080 Washington County SO
+126081 Washington County SO
 126082 Washington County SO
 126083 Washington County SO
 126084 Washington County SO
@@ -2930,12 +2943,16 @@
 126216 Washington County SO
 126218 Washington County SO
 126221 Washington County SO
+126224 Washington County SO
 126225 Washington County SO
 126229 Washington County SO
 126236 Washington County SO
+126238 Washington County SO
 126240 Washington County SO
 126241 Washington County SO
 126242 Washington County SO
+126243 Washington County SO
+126253 Washington County SO
 126254 Washington County SO
 126257 Washington County SO
 126260 Washington County SO
@@ -3221,6 +3238,7 @@
 129481 Woodbury PD
 129482 Woodbury PD
 129483 Woodbury PD
+129485 Woodbury PD
 129486 Woodbury PD
 129489 Woodbury PD
 129493 Woodbury PD
@@ -4195,6 +4213,7 @@
 133909 Rosemount PD
 133911 Rosemount PD
 133912 Rosemount PD
+133913 Rosemount PD
 133915 Rosemount PD
 133916 Rosemount PD
 133917 Rosemount PD
@@ -4297,6 +4316,7 @@
 134221 West St Paul PD
 134224 West St Paul PD
 134225 West St Paul PD
+134226 West St Paul PD
 134228 West St Paul PD
 134229 West St Paul PD
 134231 West St Paul PD 2636
@@ -6833,7 +6853,9 @@
 301459 HCMC CP1/441?
 301461 HCMC 409 (Doc)
 301467 Loretto Fire Chief 1
+301478 Mound Fire Base
 301481 Mound Fire Chief 1
+301487 Mound Fire Chief 1
 301492 Orono PD
 301496 Orono PD
 301498 Orono PD
@@ -6961,6 +6983,7 @@
 301971 West Hennepin Public Safety
 301973 West Hennepin Public Safety
 301974 West Hennepin Public Safety
+301981 Mound Fire Engine 11
 301982 Medina PD
 301983 Medina PD
 301984 Medina PD
@@ -7232,6 +7255,7 @@
 302985 Plymouth PD
 302986 Plymouth PD
 302988 Plymouth PD
+303008 Mound Fire
 303016 Champlin PD
 303017 Airport PD
 303021 Long Lake Fire Engine 21
@@ -7563,6 +7587,7 @@
 304304 Brooklyn Center PD
 304305 Brooklyn Center PD
 304306 Brooklyn Center PD
+304307 Brooklyn Center PD
 304308 Brooklyn Center PD
 304309 Brooklyn Center PD
 304310 Brooklyn Center PD
@@ -7580,6 +7605,7 @@
 304325 Brooklyn Center PD
 304326 Brooklyn Center PD
 304328 Brooklyn Center PD
+304329 Brooklyn Center PD
 304330 Brooklyn Center PD
 304331 Brooklyn Center PD
 304332 Brooklyn Center PD
@@ -7925,7 +7951,7 @@
 306545 HCS Sys Tech ???
 306566 HCMC 424
 306587 Minnetonka Dispatch
-306626 HCMC 424(426?)
+306626 HCMC 424
 306629 HCMC 425
 306630 HCMC 425
 306632 Robbinsdale PD
@@ -10106,6 +10132,7 @@
 515351 Kenyon PD 601
 515355 Kenyon PD
 515361 Zumbrota PD
+515362 Zumbrota PD
 515363 Zumbrota PD 308
 515364 Zumbrota PD
 515365 Zumbrota Medic
@@ -10759,6 +10786,7 @@
 770232 "227"
 770236 DNR K271
 770253 State Patrol 10
+770256 DNR Fire Center
 770259 State Patrol 2801
 770261 State Patrol 412
 770263 State Patrol 541
@@ -10866,6 +10894,7 @@
 840034 Border Patrol
 840036 Border Patrol
 840152 Border Patrol
+840158 Border Patrol
 840184 Border Patrol
 840188 Border Patrol
 840194 Border Patrol
