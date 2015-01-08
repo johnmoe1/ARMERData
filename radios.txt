@@ -1,4 +1,5 @@
 100003 Radio Board Tech
+100012 Radio Board Tech
 100014 Radio Board Tech
 100020 Radio Board Tech
 100022 FIRST 810x
@@ -7,6 +8,7 @@
 100027 Radio Board Tech
 100028 Radio Board Tech
 100029 Radio Board Tech
+100032 Radio Board Tech
 100034 Radio Board Tech
 100035 Radio Board Tech
 100038 Radio Board Tech
@@ -140,7 +142,7 @@
 100363 State Patrol 330
 100364 State Patrol 198
 100366 State Patrol 398
-100368 State Patrol 142
+100368 State Patrol 923
 100371 DNR K176
 100373 State Patrol 187
 100374 State Patrol 349
@@ -338,6 +340,7 @@
 101068 Radio Board Tech
 101072 Radio Board Tech
 101073 Radio Board Tech
+101090 DNR K337
 101097 State Patrol 358
 101213 State Patrol 513
 101214 State Patrol 211
@@ -351,8 +354,9 @@
 101222 State Patrol 259
 101224 State Patrol 223
 101225 State Patrol 266
-101226 State Patrol 357
+101226 State Patrol 357/476
 101227 State Patrol 161
+101229 Radio Board Tech
 101233 State Patrol 282
 101235 State Patrol 502
 101238 State Patrol 469
@@ -430,7 +434,7 @@
 101805 State Patrol 120
 101806 State Patrol 511
 101807 State Patrol 929
-101808 State Patrol 264/2403?
+101808 State Patrol 264/_2403_?
 101810 State Patrol 193
 101811 State Patrol 393
 101812 State Patrol 393
@@ -642,6 +646,7 @@
 105255 North 405
 105258 North 104
 105260 North 103
+105265 North 121
 105274 North Dispatch
 105277 Air Care Dispatch
 105278 Air Care Dispatch
@@ -656,6 +661,7 @@
 105332 North Dispatch
 105333 North Dispatch
 105335 North Dispatch
+105336 North Dispatch
 105337 North Memorial
 105338 North Dispatch
 105340 North Dispatch
@@ -1381,6 +1387,7 @@
 113705 Minneapolis PD
 113706 Minneapolis PD (953)
 113711 Minneapolis PD (210)
+113714 Minneapolis PD
 113719 Minneapolis ???
 113725 Minneapolis PD (8512)
 113737 Minneapolis PD (961)
@@ -1626,6 +1633,7 @@
 114599 Minneapolis PD
 114689 Minneapolis PD
 114691 Minneapolis PD
+114696 Minneapolis PD
 114702 Minneapolis PD
 114703 Minneapolis PD
 114704 Minneapolis PD
@@ -1714,6 +1722,7 @@
 114971 Minneapolis PD
 114973 Minneapolis PD
 114977 Minneapolis Fire Engine 1
+114978 Minneapolis PD
 114979 Minneapolis PD
 114981 Minneapolis PD
 114983 Minneapolis PD
@@ -1929,6 +1938,7 @@
 115694 Minneapolis PD (420)
 115698 Minneapolis PD
 115706 Minneapolis PD
+115707 Minneapolis PD
 115709 Minneapolis PD
 115714 Minneapolis PD (Car 9)
 115749 Minneapolis PD
@@ -3092,9 +3102,11 @@
 127736 Lake Elmo Fire
 127758 Lake Elmo Fire ???
 128052 Mahtomedi Fire
+128058 Mahtomedi Fire
 128061 Mahtomedi Fire
 128078 Mahtomedi Ambulance
 128086 Mahtomedi Fire
+128090 Mahtomedi Fire
 128114 Mahtomedi Ambulance 851
 128302 Newport PD
 128304 Newport PD
@@ -3102,6 +3114,9 @@
 128306 Newport PD
 128316 Newport PD
 128322 Newport PD
+128376 Newport Fire
+128381 Newport Fire
+128386 Newport Fire
 128451 Oak Park Heights PD (Office?)
 128452 Oak Park Heights PD
 128453 Oak Park Heights PD
@@ -4489,7 +4504,7 @@
 137008 Belle Plaine PD
 137009 Belle Plaine PD
 137010 Belle Plaine PD
-137011 Belle Plain PD
+137011 Belle Plaine PD
 137101 Belle Plaine PD
 137102 Belle Plaine PD
 137104 Belle Plaine PD
@@ -4508,7 +4523,7 @@
 137716 Shakopee PD
 137717 Shakopee PD
 137722 Shakopee PD
-137757 Scott County SO
+137757 Shakopee PD
 137896 Elko PD
 137898 Elko PD
 138202 Savage PD
@@ -4553,9 +4568,11 @@
 138897 New Prague PD
 138903 Scott County SO
 138905 Scott County SO
+138999 Mayo New Prague
 139203 Prior Lake PD
 139206 Prior Lake PD
 139207 Prior Lake PD
+139208 Prior Lake PD
 139209 Prior Lake PD
 139210 Prior Lake PD
 139211 Prior Lake PD
@@ -4616,9 +4633,11 @@
 139853 Shakopee PD
 139993 Shakopee PD
 140003 Jordan PD
+140004 Jordan PD
 140006 Jordan PD
 140007 Jordan PD
 140008 Jordan PD
+140093 Jordan PD
 140094 Jordan PD
 140097 Jordan PD
 140099 Jordan PD
@@ -4748,12 +4767,25 @@
 142772 Wyoming Fire Captain 4
 142923 Radio Board Tech
 146010 Isanti County Safety & Rescue
+146063 Isanti County SO
+146065 Isanti County SO
+146077 Isanti County SO
+146079 Isanti County SO
 146084 Isanti County SO
 146088 Isanti County SO
+146090 Isanti County SO
 146095 Cambridge PD
+146097 Cambridge PD
 146123 Isanti County SO
 146193 Cambridge PD
+146196 Cambridge PD
+146197 Cambridge PD
+146210 Cambridge PD
 146212 Cambridge PD
+146230 Braham PD
+146233 Braham PD
+146235 Braham PD
+146236 Braham PD
 146470 Cambridge Hospital
 146525 Isanti County Dispatch
 146526 Isanti County Dispatch
@@ -5942,6 +5974,7 @@
 154014 Transit PD
 154015 Transit PD
 154017 Transit PD
+154019 Transit PD
 154020 Transit PD
 154048 Metro Mobility Dispatch
 154049 Metro Mobility 922
@@ -6015,6 +6048,7 @@
 158730 North 405
 158783 North 738
 158784 North 738
+158790 North 172
 158803 North 738
 158838 North Dispatch
 158886 North Dispatch
@@ -7192,6 +7226,7 @@
 302688 Minnetonka Fire Engine 5
 302689 Minnetonka Fire Engine 8
 302691 Minnetonka Fire Rescue 1
+302692 Minnetonka Fire
 302697 Minnetonka Fire Rescue 1
 302701 Excelsior Fire
 302702 Excelsior Fire
@@ -7211,7 +7246,7 @@
 302733 Maple Plain Fire
 302741 Maple Plain Fire Engine 11
 302743 Maple Plain Fire Chief
-302748 Maple Plain Fire
+302748 Orono Schools
 302788 Long Lake Fire Engine 11
 302789 Long Lake Fire
 302790 Long Lake Fire Station 1
@@ -7729,8 +7764,10 @@
 305146 St Louis Park PD
 305159 Minnetonka Rescue 1
 305171 Minnetonka Fire Engine 8
+305176 Minnetonka Fire
 305189 Minnetonka Fire Engine 8
 305190 Long Lake Fire?
+305196 Minnetonka Fire
 305197 Minnetonka Fire Rescue 1
 305233 Maple Grove Fire Engine 22
 305235 Hennepin County SO
@@ -8134,6 +8171,8 @@
 307797 Brooklyn Park Fire Rescue 31
 307894 Golden Valley Dispatch
 307997 Minnetonka Fire Rescue 1
+307998 Minnetonka Fire
+308504 Minnetonka Fire
 308507 Minnetonka Fire Chief 1
 308511 Minnetonka Fire Engine 2
 308512 Minnetonka Fire Chief 3
@@ -8420,6 +8459,7 @@
 310505 Ramsey County Dispatch
 310537 Minneapolis Dispatch
 310564 Ramsey County Dispatch
+310565 Ramsey County Dispatch
 310605 Ramsey County Dispatch
 310664 Ramsey County Dispatch
 310665 Ramsey County Dispatch
@@ -8442,8 +8482,10 @@
 311112 Ramsey County Dispatch
 311113 St Paul Fire
 311134 Ramsey County Fire Dispatch
+311135 Ramsey County Dispatch
 311179 Ramsey County Dispatch
 311181 Ramsey County Dispatch
+311205 Ramsey County Dispatch
 311212 Ramsey County Dispatch
 311279 Ramsey County Dispatch
 311281 Ramsey County Dispatch
@@ -8528,6 +8570,7 @@
 314688 Roseville PD
 314689 Roseville PD
 314700 Roseville PD
+314701 Roseville PD
 314702 Roseville PD
 314703 Roseville PD
 314704 Roseville PD
@@ -8547,6 +8590,7 @@
 315247 Radio Board Tech
 315506 Ramsey County SO
 315510 Ramsey County SO
+315524 Ramsey County SO
 315537 Ramsey County SO
 315553 Ramsey County SO
 315555 Ramsey County SO?
@@ -8564,6 +8608,7 @@
 315732 Ramsey County SO
 315742 Ramsey County?
 315745 Ramsey County? US Marshals?
+315866 Ramsey County SO
 315873 Ramsey County SO
 315875 Ramsey County SO
 315876 Ramsey County SO
@@ -8594,19 +8639,34 @@
 316075 Ramsey County?
 316250 Ramsey County Jail
 316251 Ramsey County Jail
+316253 Ramsey County Jail
 316257 Ramsey County Jail
 316258 Ramsey County Jail
 316259 Ramsey County Jail
+316261 Ramsey County Jail
 316267 Ramsey County Jail
 316268 Ramsey County Jail
+316271 Ramsey County Jail
+316272 Ramsey County Jail
+316273 Ramsey County Jail
 316274 Ramsey County Jail
+316276 Ramsey County Jail
+316277 Ramsey County Jail
 316278 Ramsey County Jail
 316279 Ramsey County Jail
 316280 Ramsey County Jail
+316283 Ramsey County Jail
+316285 Ramsey County Jail
 316287 Ramsey County Jail
 316291 Ramsey County Jail
+316293 Ramsey County Jail
+316294 Ramsey County Jail
+316297 Ramsey County Jail
 316298 Ramsey County Jail
+316299 Ramsey County Jail
+316302 Ramsey County Jail
 316304 Ramsey County Jail
+316305 Ramsey County Jail
 316307 Ramsey County Jail
 316308 Ramsey County Jail
 316310 Ramsey County Jail
@@ -8637,6 +8697,7 @@
 316396 Ramsey County Jail
 316397 Ramsey County Jail
 316414 Ramsey County Jail
+316416 Ramsey County Jail
 316425 Ramsey County Probation 9014
 316428 Ramsey County Jail Control
 316429 Ramsey County Jail Control
@@ -8674,6 +8735,7 @@
 317050 Maplewood PD
 317058 Maplewood PD
 317066 Maplewood PD
+317069 Maplewood PD
 317072 Maplewood PD
 317073 Maplewood PD
 317074 Maplewood PD
@@ -8780,8 +8842,11 @@
 317954 Vadnais Heights Fire 801
 318056 ??? Utility 126
 318058 Lake Johanna Fire Chief 102
+318069 Lake Johanna Fire
+318071 Lake Johanna Fire
 318075 Lake Johanna Fire Ladder
 318078 Lake Johanna Fire
+318080 Lake Johanna Fire
 318082 Lake Johanna Fire Utility 126
 318083 Lake Johanna Fire
 318085 Lake Johanna Fire
@@ -8805,6 +8870,7 @@
 318221 New Brighton PD
 318224 New Brighton PD
 318225 New Brighton PD
+318226 New Brighton PD
 318227 New Brighton PD
 318228 New Brighton PD
 318229 New Brighton PD
@@ -8820,10 +8886,12 @@
 318313 New Brighton PD
 318314 New Brighton PD
 318334 New Brighton PD
+318336 New Brighton PD
 318341 New Brighton PD
 318342 New Brighton PD
 318343 New Brighton PD
 318344 New Brighton PD
+318370 New Brighton PD
 318409 North St Paul PD
 318414 North St Paul PD
 318416 North St Paul PD
@@ -8831,8 +8899,10 @@
 318420 North St Paul PD
 318423 North St Paul PD
 318433 North St Paul PD
+318437 North St Paul PD
 318451 North St Paul PD
 318455 North St Paul PD
+318460 North St Paul PD
 318462 North St Paul PD
 318464 North St Paul PD
 318469 North St Paul PD
@@ -8869,7 +8939,9 @@
 320023 US Marshals
 320024 St Paul PD (862)
 320025 St Paul PD
+320026 St Paul PD
 320027 St Paul PD
+320031 St Paul PD
 320033 St Paul PD
 320034 St Paul PD
 320037 St Paul PD
@@ -8890,7 +8962,9 @@
 320072 St Paul PD
 320073 St Paul PD
 320075 St Paul PD
+320086 St Paul PD
 320088 St Paul PD
+320089 St Paul PD
 320090 St Paul PD
 320092 St Paul PD
 320093 St Paul PD
@@ -8903,6 +8977,7 @@
 320113 St Paul PD
 320117 St Paul PD
 320118 St Paul PD
+320122 St Paul PD
 320123 St Paul PD
 320124 St Paul PD
 320125 St Paul PD
@@ -8910,6 +8985,7 @@
 320130 St Paul PD
 320131 St Paul PD
 320133 St Paul PD
+320146 St Paul PD
 320149 St Paul PD
 320152 St Paul PD
 320153 St Paul PD
@@ -8919,13 +8995,16 @@
 320163 St Paul PD
 320165 St Paul PD
 320166 St Paul PD
+320169 St Paul PD
 320170 St Paul PD
 320175 St Paul PD
 320177 St Paul PD
 320179 St Paul PD
 320180 St Paul PD
+320181 St Paul PD
 320182 St Paul PD
 320183 St Paul PD
+320185 St Paul PD
 320187 St Paul PD
 320191 St Paul PD
 320192 St Paul PD
@@ -8944,6 +9023,7 @@
 320230 St Paul PD
 320235 St Paul PD
 320237 St Paul PD
+320243 St Paul PD
 320245 St Paul PD
 320246 St Paul PD
 320247 St Paul PD
@@ -8955,25 +9035,32 @@
 320256 St Paul PD
 320257 St Paul PD
 320263 St Paul PD
+320267 St Paul PD
 320268 St Paul PD
 320270 St Paul PD
+320271 St Paul PD
 320274 St Paul PD
 320275 St Paul PD
+320279 St Paul PD
 320281 St Paul PD
 320282 St Paul PD
 320287 St Paul PD
 320291 St Paul PD
 320293 St Paul PD
+320294 St Paul PD
 320295 St Paul PD
+320296 St Paul PD
 320297 St Paul PD
 320299 St Paul PD
 320301 St Paul PD
 320305 St Paul PD
+320306 St Paul PD
 320307 St Paul PD
 320309 St Paul PD
 320310 St Paul PD
 320313 St Paul PD
 320314 St Paul PD
+320318 St Paul PD
 320320 St Paul PD
 320321 St Paul PD
 320323 St Paul PD
@@ -8989,6 +9076,7 @@
 320337 St Paul PD
 320341 St Paul PD
 320342 St Paul PD
+320346 St Paul PD
 320347 St Paul PD
 320348 St Paul PD
 320349 St Paul PD
@@ -9014,11 +9102,14 @@
 320383 St Paul PD
 320384 St Paul PD
 320385 St Paul PD
+320386 St Paul PD
 320393 St Paul PD
 320394 St Paul PD
 320396 St Paul PD
+320398 St Paul PD
 320399 St Paul PD
 320400 St Paul PD
+320401 St Paul PD
 320405 St Paul PD
 320406 St Paul PD
 320407 St Paul PD
@@ -9029,15 +9120,19 @@
 320413 St Paul PD
 320417 St Paul PD
 320419 St Paul PD
+320421 St Paul PD
 320422 St Paul PD
 320424 St Paul PD
 320425 St Paul PD
 320426 St Paul PD
 320427 St Paul PD
 320430 St Paul PD
+320431 St Paul PD
+320433 St Paul PD
 320435 St Paul PD
 320436 St Paul PD
 320437 St Paul PD
+320438 St Paul PD
 320439 St Paul PD
 320441 St Paul PD
 320442 St Paul PD
@@ -9046,8 +9141,10 @@
 320446 St Paul PD
 320447 St Paul PD
 320448 St Paul PD
+320449 St Paul PD
 320451 St Paul PD
 320452 St Paul PD
+320453 St Paul PD
 320457 St Paul PD
 320458 St Paul PD
 320461 St Paul PD
@@ -9055,11 +9152,13 @@
 320465 St Paul PD
 320466 St Paul PD
 320467 St Paul PD
+320468 St Paul PD
 320471 St Paul PD
 320472 St Paul PD
 320473 St Paul PD
 320475 St Paul PD
 320477 St Paul PD
+320478 St Paul PD
 320479 St Paul PD
 320483 St Paul PD
 320484 St Paul PD
@@ -9067,9 +9166,13 @@
 320486 St Paul PD
 320490 St Paul PD
 320491 St Paul PD
+320492 St Paul PD
+320493 St Paul PD
 320494 St Paul PD
 320497 St Paul PD
 320500 St Paul PD
+320501 St Paul PD
+320502 St Paul PD
 320503 St Paul PD
 320505 St Paul PD
 320507 St Paul PD
@@ -9087,34 +9190,47 @@
 320525 St Paul PD
 320526 St Paul PD
 320529 St Paul PD
+320530 St Paul PD
 320533 St Paul PD
 320534 St Paul PD
 320536 St Paul PD
 320539 St Paul PD
+320542 St Paul PD
 320543 St Paul PD
 320545 St Paul PD
 320546 St Paul PD
 320547 St Paul PD
 320553 St Paul PD
 320555 St Paul PD
+320557 St Paul PD
 320558 St Paul PD
 320561 St Paul PD
 320562 St Paul PD
 320564 St Paul PD
 320565 St Paul PD
+320567 St Paul PD
+320569 St Paul PD
 320570 St Paul PD
+320571 St Paul PD
+320575 St Paul PD
+320576 St Paul PD
 320578 St Paul PD
 320579 St Paul PD
 320580 St Paul PD
 320582 St Paul PD
 320586 St Paul PD
+320587 St Paul PD
 320588 St Paul PD
 320590 St Paul PD
 320592 St Paul PD
 320593 St Paul PD
+320596 St Paul PD
 320597 St Paul PD
+320602 St Paul PD
 320603 St Paul PD
+320605 St Paul PD
 320608 St Paul PD
+320609 St Paul PD
 320610 St Paul PD
 320614 St Paul PD
 320615 St Paul PD
@@ -9126,9 +9242,11 @@
 320625 St Paul PD
 320630 St Paul PD
 320633 St Paul PD
+320634 St Paul PD
 320635 St Paul PD
 320636 St Paul PD
 320637 St Paul PD
+320639 St Paul PD
 320640 St Paul PD
 320641 St Paul PD
 320644 St Paul PD
@@ -9139,6 +9257,7 @@
 320657 St Paul PD
 320658 St Paul PD
 320659 St Paul PD
+320660 St Paul PD
 320661 St Paul PD
 320662 St Paul PD
 320664 St Paul PD
@@ -9152,6 +9271,7 @@
 320674 St Paul PD
 320675 St Paul PD
 320676 St Paul PD
+320677 St Paul PD
 320680 St Paul PD
 320681 St Paul PD
 320682 St Paul PD
@@ -9173,6 +9293,7 @@
 320704 St Paul PD
 320706 St Paul PD
 320708 St Paul PD
+320713 St Paul PD
 320715 St Paul PD
 320717 St Paul PD
 320718 St Paul PD
@@ -9225,6 +9346,7 @@
 320791 St Paul PD
 320792 St Paul PD
 320793 St Paul PD
+320795 St Paul PD
 320796 St Paul PD
 320798 St Paul PD
 320799 St Paul PD
@@ -9248,10 +9370,14 @@
 320852 St Paul PD
 320857 St Paul PD
 320858 St Paul PD
+320859 St Paul PD
 320866 St Paul PD
 320867 St Paul PD
 320876 St Paul PD
 320877 St Paul PD
+320880 St Paul PD
+320886 St Paul PD
+320896 St Paul PD
 320932 St Paul PD
 320953 St Paul PD
 320970 St Paul PD
@@ -9264,8 +9390,10 @@
 320996 St Paul PD
 320998 St Paul PD
 321001 St Paul PD
+321004 St Paul PD
 321006 St Paul PD
 321007 St Paul PD
+321011 St Paul PD
 321023 St Paul PD
 321027 St Paul PD
 321028 St Paul PD
@@ -9278,6 +9406,8 @@
 321049 St Paul PD
 321052 St Paul PD
 321055 St Paul PD
+321056 St Paul PD
+321058 St Paul PD
 321063 St Paul PD
 321065 St Paul PD
 321077 St Paul PD
@@ -9289,10 +9419,15 @@
 321084 St Paul PD
 321088 St Paul PD
 321089 St Paul PD
+321090 St Paul PD
+321091 St Paul PD
 321373 St Paul PD
 321375 St Paul PD
 321376 St Paul PD
 321377 St Paul PD
+321384 St Paul PD
+321387 St Paul PD
+321393 St Paul PD
 321398 St Paul PD
 321401 US Marshals
 321702 St Paul PD
@@ -9365,8 +9500,11 @@
 322415 St Paul Fire Ladder 7
 322489 St Paul Animal Control
 322490 St Paul Animal Control
+322491 St Paul Animal Control
+322492 St Paul Animal Control
 322493 St Paul Animal Control
 322495 St Paul Animal Control
+322496 St Paul Animal Control
 322497 St Paul Animal Control
 328500 Bloomington PD Dispatch
 328501 Bloomington PD Dispatch
@@ -9625,6 +9763,7 @@
 330352 Eden Prairie Fire Captain 4
 330359 Eden Prairie Fire Chief 5
 330371 Eden Prairie Fire Rescue 11
+330403 Eden Prairie Fire Chief 3
 330404 Eden Prairie Fire Chief 4
 330405 Eden Prairie Fire Chief 5
 330410 Eden Prairie Chief 2
@@ -9659,7 +9798,7 @@
 500027 Radio Board Tech
 500028 Radio Board Tech
 500030 Radio Board Tech
-500103 State Patrol 470/280
+500103 State Patrol 470/_280_
 500104 State Patrol 245
 500106 State Patrol 2104
 500108 State Patrol 564
@@ -9775,7 +9914,7 @@
 500398 DOT St Charles
 500399 DOT Winona
 500400 DOT St Charles
-500407 Winona 1
+500407 DOT Winona 1
 500450 DOT Wabasha
 500464 ??? 401
 500480 State Patrol 4703
@@ -10385,6 +10524,7 @@
 543752 Lonsdale PD
 543766 Lonsdale Fire 4120
 549002 Red Wing Hospital
+549007 Albert Lea Hospital
 549013 MCHS Austin
 549048 Red Wing PD
 549068 Gold Cross 642
@@ -10525,6 +10665,7 @@
 600274 State Patrol 291
 600299 State Patrol 2603
 600301 State Patrol 351
+600308 State Patrol 290
 600310 State Patrol 401
 600317 State Patrol 2601
 600318 State Patrol 47
@@ -10545,9 +10686,15 @@
 600532 State Patrol 132
 600552 DNR K25
 600649 Radio Board Tech
+600724 DOT Metro
+600725 DOT Metro
 600887 DOT Lake?
+600893 DOT West?
 600898 DOT West?
+600905 DOT River?
+600908 DOT Cambridge
 600909 DOT Cambridge
+600977 DOT Brainerd
 600988 State Patrol 290
 601036 DOT Aiken
 601185 State Patrol 47
@@ -10886,6 +11033,7 @@
 830014 Radio Board Tech
 830021 State Patrol Dispatch
 830022 State Patrol Dispatch
+831106 State Patrol 421
 831109 State Patrol 4707
 831359 State Patrol 371
 831659 Radio Board Tech
