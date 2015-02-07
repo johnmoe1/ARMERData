@@ -548,6 +548,7 @@
 105064 North 602
 105066 Air Care 4
 105068 North 701
+105069 North 710
 105074 North 703
 105075 North 703
 105076 North 703
@@ -920,6 +921,7 @@
 106308 Allina Dispatch
 106309 Allina Dispatch
 106310 Allina Dispatch
+106311 Allina Dispatch
 106312 Allina Dispatch
 106398 Allina Dispatch
 106554 Lakeview EMS Dispatch
@@ -1057,6 +1059,7 @@
 107697 Transit PD
 107700 Transit PD
 107709 Transit PD
+107717 Transit PD
 107724 Transit PD
 107725 Transit PD
 107726 Transit PD
@@ -1196,9 +1199,12 @@
 109548 Transit Control
 109597 Transit Control
 109602 Transit Control
+109608 Transit Dispatch
 109625 Transit Control
 109646 Metro Transit (Console 6)
 109661 Transit Bus Control
+109714 Transit Dispatch
+109734 Transit Dispatch
 109735 Transit Police Dispatch
 109765 Metro Transit (Console 4)
 109782 Metro Transit Dispatch
@@ -1288,6 +1294,7 @@
 112107 Carver County Dispatch
 112111 Carver County Dispatch
 112122 Carver County Dispatch
+112140 Carver County Dispatch
 112146 Carver County Dispatch
 112163 Carver County Dispatch
 112201 Carver County Dispatch
@@ -1356,7 +1363,7 @@
 113215 Minneapolis PD
 113221 Minneapolis PD
 113223 Minneapolis PD
-113240 Minneapolis Fire Ladder 10/3?
+113240 Minneapolis Fire Ladder 10/3/11?
 113279 Minneapolis PD
 113293 Minneapolis Fire Engine 7
 113353 Minneapolis PD
@@ -1398,6 +1405,7 @@
 113635 Minneapolis PD
 113639 Minneapolis PD
 113640 Minneapolis PD (530)
+113641 Minneapolis PD
 113643 Minneapolis PD
 113647 Minneapolis PD
 113648 Minneapolis PD (322)
@@ -1500,7 +1508,7 @@
 113946 Minneapolis PD
 113948 Minneapolis PD
 113956 Minneapolis ???
-113957 Minneapolis PD (132)
+113957 Minneapolis PD
 113958 Minneapolis PD
 113972 Minneapolis PD (106)
 113974 Minneapolis PD
@@ -1542,6 +1550,7 @@
 114075 Minneapolis PD
 114079 Minneapolis PD
 114082 Minneapolis PD
+114083 Minneapolis PD
 114085 Minneapolis PD
 114087 Minneapolis PD
 114092 Minneapolis PD (321)
@@ -1642,6 +1651,7 @@
 114389 Minneapolis PD
 114391 Minneapolis PD
 114392 Minneapolis PD
+114395 Minneapolis PD
 114401 Minneapolis PD
 114402 Minneapolis PD
 114414 Minneapolis PD
@@ -1779,6 +1789,7 @@
 114979 Minneapolis PD
 114980 Minneapolis PD
 114981 Minneapolis PD
+114982 Minneapolis PD
 114983 Minneapolis PD
 114984 Minneapolis PD
 114985 Minneapolis PD
@@ -1814,6 +1825,7 @@
 115050 Minneapolis PD
 115052 Minneapolis PD
 115053 Minneapolis PD
+115055 Minneapolis PD
 115057 Minneapolis PD
 115059 Minneapolis PD
 115060 Minneapolis PD
@@ -2085,6 +2097,7 @@
 117949 Minneapolis Fire Dispatch
 117982 Minneapolis Fire Dispatch
 117993 Minneapolis Fire Dispatch
+117996 Minneapolis Fire Dispatch
 117997 Minneapolis Fire Dispatch
 117999 Minneapolis Fire Dispatch
 119255 Hennepin County Dispatch
@@ -2451,6 +2464,7 @@
 122848 Columbia Heights PD VARDA
 122849 Columbia Heights PD
 122851 Columbia Heights PD
+122852 Columbia Heights PD
 122853 Columbia Heights PD
 122854 Columbia Heights PD
 122855 Columbia Heights PD
@@ -2951,11 +2965,14 @@
 125335 Anoka County Dispatch
 125376 Anoka County Dispatch
 125380 Anoka County Dispatch
+125388 Anoka County Dispatch
+125427 Anoka County Dispatch
 125435 Anoka County Dispatch
 125467 Anoka County Dispatch
 125481 Anoka County Dispatch
 125482 Anoka County Dispatch
 125486 Anoka County Dispatch
+125527 Anoka County Dispatch
 125535 Anoka County Dispatch
 125541 Anoka County Dispatch
 125576 Anoka County Dispatch
@@ -3666,7 +3683,7 @@
 131415 Burnsville PD
 131416 Burnsville PD
 131417 Burnsville PD (45C4)
-131418 Burnsville PD (45S40)
+131418 Burnsville PD
 131420 Burnsville PD (45S43)
 131421 Burnsville PD
 131422 Burnsville PD
@@ -4848,6 +4865,7 @@
 140903 Scott County Dispatch
 140911 Scott County Dispatch
 140912 Scott County Dispatch
+140913 Scott County Dispatch
 140932 Scott County Dispatch
 141101 Chisago County Dispatch
 141102 Chisago County Dispatch
@@ -4977,6 +4995,7 @@
 146470 Cambridge Hospital
 146525 Isanti County Dispatch
 146526 Isanti County Dispatch
+146561 Isanti County Dispatch
 146562 Isanti County Dispatch
 146615 Isanti County Dispatch
 146616 Isanti County Dispatch
@@ -6038,6 +6057,7 @@
 153263 Dakota County Dispatch
 153264 Dakota County Dispatch
 153265 Dakota County Dispatch
+153304 Dakota County Dispatch
 153309 Dakota County Dispatch
 153310 Dakota County Dispatch
 153311 Dakota County Dispatch
@@ -6173,6 +6193,8 @@
 154151 Transit PD
 154152 Transit PD
 154153 Transit PD
+154164 Transit PD
+154170 Transit PD
 154287 Metro Transit RCC
 154288 Metro Transit RCC
 154289 Metro Transit RCC
@@ -6911,6 +6933,7 @@
 300724 Hennepin County SO
 300729 Hennepin County SO
 300730 Hennepin County SO
+300740 St Anthony Fire
 300789 Minnetonka PD
 300804 HCMC 423
 300809 HCMC 437
@@ -6920,6 +6943,8 @@
 300835 Hennepin County Water Patrol
 300838 Hennepin County Water Patrol (1703)
 300857 Hennepin County
+300865 Hennepin County SO
+300867 Hennepin County SO
 300880 Hennepin County SO
 300917 Hennepin County SO Warrant
 300918 Hennepin County SO
@@ -7352,6 +7377,7 @@
 302272 Robbinsdale PD
 302274 Robbinsdale PD
 302276 Robbinsdale PD
+302278 Robbinsdale PD
 302279 Robbinsdale PD
 302280 Robbinsdale PD
 302281 Robbinsdale PD
@@ -7752,6 +7778,7 @@
 303849 Hopkins PD
 303850 Hopkins PD
 303853 Hopkins PD
+303854 Hopkins PD
 303855 Hopkins PD
 303856 Hopkins PD
 303857 Hopkins PD (Records)
@@ -7957,10 +7984,13 @@
 304921 St Louis Park PD
 304922 St Louis Park PD
 304923 St Louis Park PD
+304924 St Louis Park PD
+304925 St Louis Park PD
 304940 Airport Fire Chief 1
 304953 St Louis Park PD
 304955 St Louis Park PD
 304958 St Louis Park PD
+304960 St Louis Park PD
 304961 St Louis Park PD
 304962 St Louis Park PD
 304964 St Louis Park PD
@@ -7969,6 +7999,8 @@
 304973 St Louis Park PD
 304974 St Louis Park PD
 304975 St Louis Park PD
+304982 St Louis Park PD
+304984 St Louis Park PD
 304988 St Louis Park PD
 304996 St Louis Park PD
 304998 Hennepin County SO
@@ -7978,11 +8010,15 @@
 305009 St Louis Park PD
 305010 St Louis Park PD
 305012 St Louis Park PD
+305013 St Louis Park PD
+305014 St Louis Park PD
 305016 St Louis Park PD
 305017 St Louis Park PD
 305018 St Louis Park Fire
 305039 St Louis Park Fire Station 2
 305040 St Louis Park Fire Engine 4
+305078 St Louis Park PD
+305079 Golden Valley Fire Rescue 31
 305085 Golden Valley PD
 305087 Golden Valley PD
 305089 Golden Valley PD
@@ -8020,6 +8056,7 @@
 305252 Brooklyn Park Fire Rescue 31
 305253 Hennepin County SO Warrant
 305256 Hennepin County SO 1315
+305258 Hennepin County SO
 305260 Hennepin County SO
 305262 Hennepin County SO
 305269 Hennepin County SO
@@ -8027,6 +8064,7 @@
 305274 Hennepin County SO
 305279 Hennepin County SO 1310
 305294 Hennepin 1311
+305299 Hennepin County SO
 305303 Hennepin 1760 (?)
 305312 Brooklyn Park Fire Rescue 31
 305313 Brooklyn Park Fire Rescue 11
@@ -8091,10 +8129,12 @@
 305496 Rogers PD
 305497 Orono PD
 305499 Rogers Fire
+305503 Hennepin County SO
 305505 Hennepin County SO
 305509 Hennepin County SO
 305510 Hennepin County SO
 305525 Rodgers Fire Chief 1
+305527 Hennepin County SO
 305528 Hennepin County SO
 305530 Rogers PD
 305533 Hennepin County SO
@@ -8121,6 +8161,7 @@
 305688 Hennepin County Court
 305692 Minnetonka Dispatch
 305705 Edina Dispatch
+305715 Rogers PD
 305717 Rogers PD
 305731 Edina PD
 305732 Richfield PD 2521
@@ -8195,6 +8236,7 @@
 306286 Minnetonka Dispatch
 306287 Minnetonka Dispatch
 306326 HCMC 413
+306329 Edina Dispatch
 306357 HCMC 413
 306358 HCMC 414
 306359 HCMC 414
@@ -8248,7 +8290,7 @@
 306630 HCMC 425
 306632 Robbinsdale PD
 306635 Robbinsdale PD
-306636 Robbinsdale Police PD
+306636 Robbinsdale PD
 306638 Robbinsdale PD
 306640 Robbinsdale PD
 306643 Robbinsdale PD
@@ -8629,6 +8671,7 @@
 309802 Brooklyn Park PD
 309803 Brooklyn Park PD
 309806 Brooklyn Park PD
+309807 Brooklyn Park PD
 309808 Brooklyn Park PD
 309809 Brooklyn Park PD
 309810 Brooklyn Park PD
@@ -8713,6 +8756,7 @@
 310172 Hennepin County SO 1291
 310177 Hennepin 1317
 310178 Hennepin County SO
+310183 Hennepin County SO
 310184 Hennepin County SO
 310185 Hennepin County SO
 310191 Hennepin County Water Patrol (1701)
@@ -10421,9 +10465,12 @@
 507802 Dodge County Dispatch
 507807 Dodge County Dispatch
 507808 Dodge County Dispatch
+507893 Dodge County Dispatch
+507894 Dodge County Dispatch
 507909 Dodge County Dispatch
 508068 "Base"
 508069 "236"
+508072 "base"
 508790 MCF Lino Lakes
 508822 DOC Shakopee Control
 508849 MCF OPH
@@ -10699,6 +10746,7 @@
 531601 Houston County Dispatch
 531609 La Crosse County Dispatch
 531611 Allamakee County Dispatch
+536997 Mower County Dispatch
 536998 Mower County Dispatch
 539011 Steele County Dispatch
 539012 Rice County Dispatch
@@ -11156,6 +11204,7 @@
 620641 Albertville Fire
 620659 Albertville Fire
 620790 Buffalo PD
+620791 Buffalo PD
 620798 Buffalo PD
 620804 Buffalo PD
 620807 Buffalo PD
@@ -11230,6 +11279,7 @@
 770015 Radio Board Tech
 770201 State Patrol 494
 770232 "227"
+770235 "321"
 770236 DNR K271
 770253 State Patrol 10
 770256 DNR Fire Center
