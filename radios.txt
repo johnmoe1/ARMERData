@@ -640,7 +640,7 @@
 105180 North Cache 1
 105181 North Cache 2
 105182 North Cache 3
-105191 North 721
+105191 North 721/732
 105194 North 711
 105210 North Memorial Medical Center
 105223 North 305
@@ -690,6 +690,7 @@
 105349 Air Care Dispatch
 105350 Air Care Dispatch
 105351 Air Care Dispatch
+105357 North Dispatch
 105359 North Dispatch
 105363 North Dispatch
 105365 North Dispatch
@@ -906,6 +907,7 @@
 106084 Allina Supervisor 4..
 106088 Allina 511
 106093 Allina 610/590
+106097 Allina Northfield 336
 106099 Allina 518
 106100 Allina 997
 106102 Allina ???
@@ -936,6 +938,7 @@
 106904 HCMC (Doc)
 106905 Southdale (Doc)
 106913 University of MN Medical Center
+106950 Lakes Region Ambulance
 106951 North 570
 106952 Lakes Region? 565
 106953 North 565
@@ -1383,6 +1386,7 @@
 113499 Minneapolis Fire Chief 4
 113501 Minneapolis Fire Chief 2
 113503 Minneapolis Fire Chief 1
+113504 Minneapolis Fire Mobile Command
 113510 Minneapolis Fire Deputy
 113512 Minneapolis PD 9253?
 113513 Minneapolis PD
@@ -1450,6 +1454,7 @@
 113761 Minneapolis Fire Medic 1 (?)
 113765 Minneapolis Fire Engine 14
 113767 Minneapolis Fire Rescue 1
+113768 Minneapolis Fire (Training?)
 113770 Minneapolis PD
 113774 Minneapolis PD (112)
 113779 Minneapolis ???
@@ -1530,6 +1535,7 @@
 113998 Minneapolis PD
 113999 Minneapolis PD
 114000 Minneapolis PD
+114001 Minneapolis Fire Ladder 4
 114003 Minneapolis PD
 114004 Minneapolis PD
 114005 Minneapolis PD
@@ -1958,6 +1964,7 @@
 115492 Minneapolis PD
 115496 Minneapolis PD (394)
 115500 Minneapolis Fire Ladder 4
+115501 Minneapolis Fire Ladder 2
 115505 Minneapolis Animal Control 14
 115521 Minneapolis Sanitation
 115526 Minneapolis Animal Control
@@ -2485,6 +2492,7 @@
 122857 Columbia Heights PD
 122858 Columbia Heights PD
 122859 Columbia Heights PD
+122860 Columbia Heights PD
 122861 Columbia Heights Public Works
 122862 Columbia Heights PD
 122863 Columbia Heights PD
@@ -4221,7 +4229,7 @@
 133009 Inver Grove Heights PD
 133010 Inver Grove Heights PD
 133051 Lakeville FIre Ladder 4
-133058 Lakeville Fire Station 4
+133058 Lakeville Fire Engine 44
 133064 Lakeville Fire Station 1
 133065 Lakeville Fire Station 2
 133072 Lakeville Fire Tender 1
@@ -4233,6 +4241,7 @@
 133082 Lakeville Fire
 133085 Lakeville Fire Rescue 1
 133093 Lakeville Fire Station 3
+133094 Lakeville Fire Station 4
 133095 Lakeville Fire Captain 3
 133100 Lakeville Fire Ladder 2
 133103 Lakeville Fire Captain 2
@@ -4244,6 +4253,7 @@
 133113 Lakeville Fire Station 4
 133117 Lakeville Fire Ladder 4
 133119 Lakeville Fire Marshal
+133121 Lakeville Fire Chief 4
 133123 Lakeville Fire Engine 44
 133124 Lakeville Fire Engine 2
 133125 Lakeville Fire Tender 1
@@ -7385,6 +7395,8 @@
 302217 Maple Grove PD
 302219 Maple Grove PD
 302223 Maple Grove PD
+302225 Airport PD
+302226 Airport PD
 302242 Hamel Fire Station
 302251 Hamel Fire
 302252 Hamel Fire
@@ -7707,11 +7719,13 @@
 303643 Airport PD
 303644 Airport PD
 303646 Airport PD
+303648 Airport PD
 303651 Airport PD
 303653 Airport PD
 303654 Airport PD
 303660 Airport PD
 303662 Airport PD
+303664 Airport PD
 303666 Airport PD
 303667 Airport PD
 303669 Airport PD
@@ -10490,9 +10504,11 @@
 507802 Dodge County Dispatch
 507807 Dodge County Dispatch
 507808 Dodge County Dispatch
+507885 Dodge County 3155?
 507893 Dodge County Dispatch
 507894 Dodge County Dispatch
 507909 Dodge County Dispatch
+507910 Dodge County Dispatch
 508068 "Base"
 508069 "236"
 508072 "base"
@@ -10775,7 +10791,7 @@
 531611 Allamakee County Dispatch
 536997 Mower County Dispatch
 536998 Mower County Dispatch
-539011 Steele County Dispatch
+539011 Rice/Steele County Dispatch
 539012 Rice County Dispatch
 539013 Steele County Dispatch
 539014 Steele County Dispatch
@@ -11277,7 +11293,11 @@
 665902 Mille Lacs County Dispatch
 665903 Millelacs County Dispatch
 668009 Wilken County Dispatch
+672000 Otter Tail County Dispatch
 672001 Otter Tail County Dispatch
+672010 Otter Tail County SO
+672029 Otter Tail County SO
+672206 Henning PD
 677953 Wadena County Dispatch
 681497 Grant County Dispatch
 684004 Douglas County Dispatch
@@ -11413,6 +11433,7 @@
 830022 State Patrol Dispatch
 831106 State Patrol 421
 831109 State Patrol 4707
+831117 State Patrol 503
 831359 State Patrol 371
 831659 Radio Board Tech
 840028 Border Patrol
