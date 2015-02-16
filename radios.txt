@@ -3863,6 +3863,8 @@
 132000 Alarm
 132002 Eagan Fire Engine 22
 132003 Eagan Fire
+132004 Eagan Fire Chief 4
+132005 Eagan Fire
 132007 Eagan Fire Chief 6
 132010 Eagan Fire Chief 3
 132013 Eagan Fire ???
@@ -3879,15 +3881,19 @@
 132037 Eagan Fire ???
 132040 Eagan Fire Engine 1
 132047 Eagan Fire Engine 22
-132049 Eagan Fire ???
+132049 Eagan Fire Engine 10
 132050 Eagan Fire ???
 132051 Eagan Fire Engine 2
 132054 Eagan Fire Engine 2
+132055 Eagan Fire Station 2
 132062 Eagan Fire Rescue 1
 132063 Eagan Fire ???
 132064 Eagan Fire Ladder 2
 132065 Eagan Fire Engine 22
+132067 Eagan Fire Engine 3
 132068 Eagan Fire Engine 2
+132069 Eagan Fire Chief 3
+132070 Eagan Fire Chief 4
 132073 Eagan Fire Station 4
 132074 Eagan Fire Station 1
 132075 Eagan Fire Station 2
@@ -3899,8 +3905,10 @@
 132085 Eagan Fire Station 5
 132086 Eagan FIre Ladder 1
 132088 Eagan Fire Engine 4
-132092 Eagan Chief 5
+132091 Eagan Fire Engine 3
+132092 Eagan Fire Chief 5
 132093 Eagan Fire Chief 4
+132096 Eagan Fire Ladder 2
 132099 Eagan Fire ???
 132105 Eagan Fire Chief 6
 132151 Eagan PD
@@ -4123,7 +4131,7 @@
 132785 Hastings PD
 132786 Hastings PD
 132787 Hastings PD
-132788 Hastings PD (14S8)
+132788 Hastings PD
 132789 Hastings PD
 132790 Hastings PD
 132791 Hastings PD
@@ -4240,6 +4248,7 @@
 133081 Lakeville Fire
 133082 Lakeville Fire
 133085 Lakeville Fire Rescue 1
+133086 Lakeville Fire
 133093 Lakeville Fire Station 3
 133094 Lakeville Fire Station 4
 133095 Lakeville Fire Captain 3
@@ -4251,6 +4260,7 @@
 133111 Lakeville Fire Chief 3
 133112 Lakeville Fire Captain 2
 133113 Lakeville Fire Station 4
+133116 Lakeville Fire Station 1
 133117 Lakeville Fire Ladder 4
 133119 Lakeville Fire Marshal
 133121 Lakeville Fire Chief 4
@@ -4304,7 +4314,7 @@
 133201 Lakeville PD
 133202 Lakeville PD
 133205 Lakeville PD
-133206 Lakeville PD 48C5
+133206 Lakeville PD
 133207 Lakeville PD
 133208 Lakeville PD
 133209 Lakeville PD
@@ -4393,9 +4403,10 @@
 133765 Miesville Fire
 133803 Rosemount Fire Engine 11
 133810 Rosemount Fire Station 2
+133817 Rosemount Fire Rescue 11?
 133818 Rosemount Fire Rescue 11
 133819 Rosemount Fire Station 2
-133820 Rosemount Fire
+133820 Rosemount Fire Chief 4
 133822 Rosemount Fire Chief 2
 133823 Rosemount Fire Chief 2
 133829 Rosemount Fire Captain 3
@@ -7372,6 +7383,7 @@
 302177 Brooklyn Park PD
 302178 Brooklyn Park PD
 302179 Brooklyn Park PD
+302185 Maple Grove PD
 302187 Maple Grove PD
 302188 Maple Grove PD
 302189 Maple Grove PD
@@ -7492,7 +7504,9 @@
 302475 Maple Grove Fire Engine 41
 302481 Maple Grove Fire Chief 5?
 302484 Maple Grove Fire Engine 51
+302485 Maple Grove Fire
 302492 Maple Grove Fire Capt 21
+302497 Maple Grove Fire
 302523 South Lake Minneonka PD
 302533 Plymouth Fire Chief 3
 302534 Plymouth Fire Chief
@@ -8283,7 +8297,7 @@
 306362 HCMC 416
 306363 HCMC 416
 306364 HCMC 417
-306365 HCMC 417
+306365 HCMC 427 (417?)
 306366 HCMC 418
 306367 HCMC 418
 306368 HCMC 419
@@ -8558,6 +8572,7 @@
 308920 Brooklyn Park PD
 308932 Rogers Fire Chief 1
 308933 Three Rivers Park PD
+308936 Maple Grove Fire
 308937 Maple Grove Fire Captain 1
 308942 Brooklyn Park PD
 308963 HCMC 424
@@ -10040,6 +10055,7 @@
 329914 Bloomington PD
 329922 Bloomington PD
 329928 Bloomington PD
+329935 Bloomington PD
 329941 Bloomington PD
 329942 Bloomington PD
 329952 Bloomington PD
