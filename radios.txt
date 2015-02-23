@@ -671,6 +671,7 @@
 105278 Air Care Dispatch
 105279 Air Care Dispatch
 105281 Air Care Dispatch
+105290 Air Care Dispatch
 105291 Air Care Dispatch
 105295 Air Care Dispatch
 105297 Air Care 700 (Dispatch)
@@ -717,7 +718,7 @@
 105516 Ridgeview 85.
 105517 Ridgeview 85?
 105518 Ridgeview 856
-105519 Ridgeview 85?
+105519 Ridgeview
 105522 Ridgeview 856
 105523 Ridgeview Ambulance 854
 105527 Ridgeview 823
@@ -1331,6 +1332,7 @@
 113040 Radio Board Tech
 113042 Radio Board Tech
 113043 Radio Board Tech
+113044 Radio Board Tech
 113049 Radio Board Tech
 113054 Minneapolis PD
 113056 Minneapolis PD
@@ -1440,6 +1442,7 @@
 113670 Minneapolis PD
 113671 Minneapolis PD
 113672 Minneapolis PD
+113673 Minneapolis PD
 113674 Minneapolis School Dispatch
 113676 Minneapolis PD
 113677 Minneapolis PD (110)
@@ -1455,7 +1458,9 @@
 113719 Minneapolis ???
 113725 Minneapolis PD (8512)
 113729 Minneapolis PD
+113731 Minneapolis PD
 113737 Minneapolis PD (961)
+113738 Minneapolis PD
 113745 Minneapolis PD
 113748 Minneapolis PD
 113749 Minneapolis PD 6538
@@ -1512,6 +1517,7 @@
 113871 Minneapolis PD
 113880 Minneapolis PD
 113881 Minneapolis PD
+113887 Minneapolis Animal Control
 113890 Minneapolis PD
 113891 Minneapolis PD
 113902 Minneapolis PD
@@ -1537,6 +1543,7 @@
 113956 Minneapolis ???
 113957 Minneapolis PD
 113958 Minneapolis PD
+113959 Minneapolis PD
 113972 Minneapolis PD (106)
 113974 Minneapolis PD
 113977 Minneapolis PD (108)
@@ -1546,6 +1553,7 @@
 113989 Minneapolis PD
 113990 Minneapolis PD (222)
 113991 Minneapolis PD
+113992 Minneapolis PD
 113995 Minneapolis PD
 113996 Minneapolis PD
 113998 Minneapolis PD
@@ -1586,7 +1594,7 @@
 114094 Minneapolis PD
 114097 Minneapolis PD
 114098 Minneapolis PD
-114103 Minneapolis PD (406)
+114103 Minneapolis PD
 114104 Minneapolis PD
 114106 Minneapolis PD
 114109 Minneapolis PD 8310
@@ -1646,6 +1654,7 @@
 114257 Minneapolis PD
 114260 Minneapolis PD
 114265 Minneapolis PD (961)
+114270 Minneapolis PD
 114272 Minneapolis PD
 114274 Minneapolis PD
 114275 Minneapolis PD
@@ -1661,7 +1670,7 @@
 114305 Minneapolis PD
 114306 Minneapolis PD
 114310 Minneapolis PD
-114312 Minneapolis PD (382)
+114312 Minneapolis PD
 114313 Minneapolis PD
 114314 Minneapolis PD
 114318 Minneapolis PD
@@ -1692,6 +1701,7 @@
 114421 Minneapolis PD
 114422 Minneapolis ???
 114423 Minneapolis PD (330)
+114428 Minneapolis PD
 114434 Minneapolis PD (220)
 114436 Minneapolis PD
 114443 Minneapolis ???
@@ -1712,6 +1722,7 @@
 114506 Minneapolis PD
 114509 Minneapolis PD
 114510 Minneapolis PD
+114514 Minneapolis PD
 114520 Minneapolis PD (310)
 114521 Minneapolis PD
 114523 Minneapolis PD
@@ -1738,6 +1749,7 @@
 114725 Minneapolis PD
 114727 Minneapolis PD
 114732 Minneapolis PD
+114738 Minneapolis Animal Control
 114739 Minneapolis PD
 114744 Minneapolis PD
 114753 Minneapolis PD
@@ -1833,7 +1845,7 @@
 114989 Minneapolis PD
 114990 Minneapolis PD
 114997 Minneapolis PD
-115001 Minneapolis PD (408)
+115001 Minneapolis PD
 115005 Minneapolis PD
 115009 Minneapolis PD
 115012 Minneapolis PD
@@ -1866,6 +1878,7 @@
 115059 Minneapolis PD
 115060 Minneapolis PD
 115061 Minneapolis PD (830)
+115063 Minneapolis PD
 115065 Minneapolis
 115066 Minneapolis PD
 115067 Minneapolis PD
@@ -2028,6 +2041,7 @@
 115599 Minneapolis Sanitation
 115601 Minneapolis Sanitation
 115602 Minneapolis Sanitation
+115606 Minneapolis Animal Control
 115612 Minneapolis Sanitation
 115619 Minneapolis Sanitation
 115628 Minneapolis Fire Ladder 10
@@ -2121,6 +2135,7 @@
 117297 Minneapolis Police Dispatch
 117298 Minneapolis Dispatch
 117301 Minneapolis Dispatch
+117347 Minneapolis Dispatch
 117348 Minneapolis Dispatch
 117352 Minneapolis Dispatch
 117360 Minneapolis Dispatch
@@ -2667,6 +2682,7 @@
 123192 Anoka County Jail
 123202 Anoka County SO
 123204 Anoka County SO
+123206 Anoka County SO
 123207 Anoka County SO
 123209 Anoka County SO
 123213 Anoka County SO
@@ -2704,6 +2720,7 @@
 123258 Anoka County SO
 123262 Anoka County SO
 123263 Anoka County SO
+123271 Anoka County SO
 123272 Anoka County SO
 123273 Anoka County SO
 123279 Spring Lake Park PD
@@ -2762,6 +2779,7 @@
 123362 Fridley PD
 123364 Fridley PD
 123367 Fridley PD
+123368 Fridley PD
 123369 Fridley PD
 123372 Fridley PD
 123373 Fridley PD
@@ -2909,6 +2927,7 @@
 123761 Anoka County SO
 123763 Ramsey Fire Engine 31
 123767 Ramsey Fire
+123771 Fridley PD
 123772 Fridley PD
 123773 Fridley PD
 123774 Fridley PD
@@ -3245,6 +3264,7 @@
 127056 Cottage Grove Medic 831
 127062 Cottage Grove Fire
 127065 Cottage Grove Medic 821?
+127066 Cottage Grove Fire
 127086 Cottage Grove Fire
 127228 Forest Lake PD
 127229 Forest Lake PD
@@ -4848,6 +4868,7 @@
 139220 Prior Lake PD
 139222 Prior Lake PD
 139223 Prior Lake PD
+139224 Prior Lake PD
 139226 Prior Lake PD
 139227 Prior Lake PD
 139401 Prior Lake PD
@@ -4941,6 +4962,7 @@
 140911 Scott County Dispatch
 140912 Scott County Dispatch
 140913 Scott County Dispatch
+140917 Scott County Dispatch
 140932 Scott County Dispatch
 141101 Chisago County Dispatch
 141102 Chisago County Dispatch
@@ -6305,6 +6327,7 @@
 158513 North Security
 158514 North Security
 158535 Air Care 2
+158536 Air Care 4
 158540 Air Care 5
 158544 Air Care 4
 158546 Air Care 4
@@ -6337,6 +6360,7 @@
 158784 North 738
 158790 North 172
 158803 North 738
+158826 North Dispatch
 158838 North Dispatch
 158886 North Dispatch
 158919 North Dispatch
@@ -7602,6 +7626,7 @@
 302819 Hamel Fire
 302834 Rogers Fire Station 2
 302839 Rogers Fire Chief 1
+302857 Rogers Fire Rescue 11
 302883 HCMC?  Radio Test
 302885 HCMC?  Radio Test
 302887 Hennepin County Court
@@ -8080,6 +8105,7 @@
 304940 Airport Fire Chief 1
 304953 St Louis Park PD
 304955 St Louis Park PD
+304956 St Louis Park PD
 304958 St Louis Park PD
 304960 St Louis Park PD
 304961 St Louis Park PD
@@ -8087,6 +8113,7 @@
 304964 St Louis Park PD
 304965 St Louis Park PD
 304967 St Louis Park PD
+304971 St Louis Park PD
 304972 St Louis Park PD
 304973 St Louis Park PD
 304974 St Louis Park PD
@@ -10865,12 +10892,13 @@
 523365 Winona Ambulance?
 523701 Winona County SO (525)
 523703 Winona County SO 512 (canine)
-523715 Winona County LEC
+523715 Winona County Dispatch
 523716 Winona County Dispatch
 523717 Winona County Dispatch
 523778 Winona PD ?
 527011 Freeborn County Dispatch
 527012 Freeborn County Dispatch
+527313 Freeborn? 2414?
 527375 Freeborn? 2424
 531001 Houston? 2812
 531311 Houston? 2805
@@ -10888,7 +10916,7 @@
 539011 Rice/Steele County Dispatch
 539012 Rice County Dispatch
 539013 Steele County Dispatch
-539014 Steele County Dispatch
+539014 Rice/Steele County Dispatch
 539015 Steele County Dispatch
 539022 ??? 7408
 539023 Owatonna? 7421
@@ -10957,6 +10985,7 @@
 543432 Faribault PD
 543434 Faribault PD
 543526 Faribault Fire 2110
+543540 Faribault Fire 2110
 543543 Faribault Fire 2110
 543613 Northfield Fire 8126
 543617 Northfield Fire 8118
@@ -10998,6 +11027,8 @@
 543750 Lonsdale PD
 543752 Lonsdale PD
 543766 Lonsdale Fire 4120
+543802 ??? 6115
+543814 ??? 6104
 543890 District One Hospital
 549002 Red Wing Hospital
 549007 Albert Lea Hospital
