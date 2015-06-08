@@ -238,7 +238,7 @@
 100519 State Patrol 361
 100520 State Patrol 430
 100521 State Patrol 430
-100522 State Patrol 266?/199/191
+100522 State Patrol 191
 100525 State Patrol 80
 100528 State Patrol 85
 100529 State Patrol 85
@@ -585,7 +585,7 @@
 105013 Air Care 1
 105014 Air Care 1
 105017 North 1148
-105024 North 750
+105024 North 737
 105025 North 750 (Sup)
 105026 North 755
 105028 North 1131 (??)
@@ -668,7 +668,7 @@
 105150 North 726
 105151 North 726
 105152 North 727
-105153 North 737
+105153 North 727
 105154 North 727
 105155 North 728
 105158 North 729
@@ -1324,6 +1324,7 @@
 110012 Carver County SO
 110013 Carver County SO
 110014 Carver County SO
+110018 Carver County SO
 110019 Carver County SO
 110020 Carver County SO
 110022 Carver County SO
@@ -1332,6 +1333,7 @@
 110036 Carver County SO
 110038 Carver County SO
 110044 Carver County SO
+110050 Carver County SO 1C896?
 110053 Carver County SO
 110055 Carver County SO
 110090 Carver County SO
@@ -1422,6 +1424,9 @@
 112407 Carver County Dispatch
 112440 Carver County Dispatch
 112441 Carver County Dispatch
+112902 Carver County Dispatch
+112903 Carver County Dispatch
+112904 Carver County Dispatch
 113030 Minneapolis Water (Dispatch?)
 113035 Minneapolis Water (Dispatch?)
 113036 Minneapolis PD
@@ -1485,7 +1490,7 @@
 113218 Minneapolis PD
 113221 Minneapolis PD
 113223 Minneapolis PD
-113240 Minneapolis Fire Ladder 3
+113240 Minneapolis Fire Ladder 11
 113259 Minneapolis Water
 113262 Minneapolis Water 4084
 113279 Minneapolis PD
@@ -2134,7 +2139,7 @@
 115203 Minneapolis PD
 115204 Minneapolis PD
 115206 Minneapolis Fire Engine 21
-115212 Minneapolis Fire Ladder 10/2/7?
+115212 Minneapolis Fire Ladder 7
 115217 Minneapolis Fire Ladder 10
 115220 Minneapolis Fire 10-2
 115225 Minneapolis Fire Engine 20
@@ -2408,6 +2413,7 @@
 117165 Minneapolis Dispatch
 117192 Minneapolis Dispatch
 117195 Minneapolis Dispatch
+117196 Minneapolis Dispatch
 117199 Minneapolis Dispatch
 117241 Minneapolis Dispatch
 117243 Minneapolis Dispatch
@@ -4562,9 +4568,11 @@
 132444 Farmington PD
 132653 Hastings Fire
 132657 Hastings Fire
+132660 Hastings Fire FM 1
 132668 Hastings Fire FM 2
 132671 Hastings Medic
 132672 Hastings Medic 1
+132674 Hastings Fire
 132677 Hastings Fire Base
 132678 Hastings PD
 132679 Hastings Fire Lt 2
@@ -5249,6 +5257,7 @@
 136404 Scott County SO
 136407 Scott County SO
 136413 Scott County SO
+136414 Scott County SO
 136423 Scott County SO
 136433 Scott County SO
 136449 Scott County SO
@@ -5312,6 +5321,7 @@
 137896 Elko PD
 137898 Elko PD
 138202 Savage PD
+138204 Savage PD
 138205 Savage PD
 138207 Savage PD
 138208 Savage PD
@@ -5487,6 +5497,10 @@
 140913 Scott County Dispatch
 140917 Scott County Dispatch
 140932 Scott County Dispatch
+140981 Scott County Dispatch
+140984 Scott County Dispatch
+140985 Scott County Dispatch
+140986 Scott County Dispatch
 141096 Chisago County 111
 141101 Chisago County Dispatch
 141102 Chisago County Dispatch
@@ -8915,6 +8929,7 @@
 305632 Hennepin County SO
 305633 Edina Dispatch
 305649 Hennepin County SO
+305657 Hennepin County SO
 305668 Hennepin County SO
 305678 Hennepin County SO 1128
 305687 Minnetonka Dispatch
