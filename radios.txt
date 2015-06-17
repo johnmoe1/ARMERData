@@ -1158,6 +1158,7 @@
 107590 Transit PD
 107652 Shop Truck
 107672 Bus Supervisor
+107689 Transit PD
 107697 Transit PD
 107700 Transit PD
 107709 Transit PD
@@ -1592,6 +1593,7 @@
 113711 Minneapolis PD
 113712 Minneapolis PD
 113714 Minneapolis PD
+113718 Minneapolis PD
 113719 Minneapolis ???
 113725 Minneapolis PD
 113729 Minneapolis PD
@@ -1805,6 +1807,7 @@
 114196 Minneapolis PD
 114197 Minneapolis PD
 114199 Minneapolis PD
+114200 Minneapolis PD
 114205 Minneapolis PD
 114210 Minneapolis PD
 114212 Minneapolis PD
@@ -1863,6 +1866,7 @@
 114359 Minneapolis PD
 114360 Minneapolis ???
 114365 Minneapolis PD
+114367 Minneapolis PD
 114368 Minneapolis PD
 114373 Minneapolis PD
 114379 Minneapolis PD
@@ -2004,6 +2008,7 @@
 114891 Minneapolis PD
 114893 Minneapolis PD
 114895 Minneapolis PD
+114897 Minneapolis PD
 114898 Minneapolis PD
 114899 Minneapolis PD
 114906 Minneapolis PD
@@ -2376,7 +2381,7 @@
 115884 Minneapolis PD
 115887 Minneapolis PD
 115893 Minneapolis PD
-115900 Minneapolis Fire 1048
+115900 Minneapolis Fire 1048/Inspector 1
 115901 Minneapolis Fire Ladder 7
 115902 Minneapolis Fire Engine 7
 115903 Minneapolis Fire Ladder 7
@@ -2466,6 +2471,7 @@
 117947 Minneapolis Dispatch
 117949 Minneapolis Dispatch
 117982 Minneapolis Dispatch
+117992 Minneapolis Dispatch
 117993 Minneapolis Dispatch
 117995 Minneapolis Dispatch
 117996 Minneapolis Dispatch
@@ -4542,6 +4548,7 @@
 132339 Farmington Fire Brush 1
 132340 Farmington Fire Engine 1
 132341 Farmington Fire Rescue 1
+132342 Farmington Fire Station 1
 132343 Farmington Fire Station 2
 132344 Farmington Fire Chief 1
 132345 Farmington Fire Marshal
@@ -4954,6 +4961,7 @@
 133831 Rosemount Fire Rescue 21
 133833 Rosemount Fire Station 1
 133836 Rosemount Fire Engine 11
+133838 Rosemount Fire Rescue 11
 133839 Rosemount Fire Brush 21
 133840 Rosemount Fire Engine 21
 133842 Rosemount Fire Chief 1
@@ -4968,7 +4976,7 @@
 133911 Rosemount PD
 133912 Rosemount PD
 133913 Rosemount PD
-133914 Dakota 1916?
+133914 Rosemount PD
 133915 Rosemount PD
 133916 Rosemount PD
 133917 Rosemount PD
@@ -7626,6 +7634,7 @@
 300535 Minnetrista PD
 300544 St Anthony PD
 300582 Crystal PD
+300611 Edina PD
 300646 Hennepin County Court
 300654 Hennepin County Court
 300655 Hennepin County Court
@@ -7756,7 +7765,7 @@
 301239 Champlin PD
 301240 Champlin PD
 301241 HCMC 429
-301242 HCMC 416/422
+301242 HCMC 422
 301243 HCMC 426
 301250 HCMC New Spare? 9925P
 301251 HCMC 431/438/436?
@@ -7948,6 +7957,7 @@
 301908 New Hope PD
 301910 New Hope PD
 301911 New Hope PD
+301912 New Hope PD
 301913 New Hope PD
 301914 New Hope PD
 301915 New Hope PD
@@ -8229,7 +8239,9 @@
 302662 West Metro Fire Station 2
 302664 Brooklyn Park Fire Battalion 1
 302665 Brooklyn Park Fire Chief 2
+302666 Brooklyn Park Fire
 302667 Brooklyn Park Fire Chief 1
+302669 Brooklyn Park Fire
 302670 Brooklyn Park Fire Battalion 3
 302672 Long Lake Fire Station 2
 302681 Excelsior Fire
@@ -8370,6 +8382,7 @@
 303204 Edina Medic 2
 303205 Edina Medic 2
 303206 Edina Fire
+303207 Edina Medic 2
 303208 Edina Medic
 303209 Edina Medic 1
 303210 Edina Medic
@@ -8382,7 +8395,7 @@
 303248 Edina Medic 1
 303261 Edina PD
 303262 Edina PD 118
-303263 Edina PD 164
+303263 Edina PD
 303264 Edina PD
 303265 Edina PD 160
 303266 Edina PD 139
@@ -8394,6 +8407,8 @@
 303272 Edina PD
 303273 Edina PD 135
 303276 Edina PD
+303277 Edina PD
+303281 Edina Medic 1
 303286 Edina Fire Chief 1
 303291 Edina Fire
 303295 Edina Medic 1
@@ -8638,6 +8653,7 @@
 304210 Airport Fire Station 2
 304213 Airport PD
 304222 HCMC Security
+304224 Brooklyn Park Fire
 304230 Control
 304258 Hennepin County SO
 304288 Brooklyn Center PD
@@ -8879,7 +8895,7 @@
 305357 Richfield PD
 305358 Richfield PD
 305363 Richfield PD 2512
-305367 Richfield PD 2513
+305367 Richfield PD
 305369 Edina PD
 305370 Richfield PD 2515
 305378 Richfield PD 2513
@@ -8913,6 +8929,7 @@
 305451 Rogers PD
 305452 Rogers PD
 305457 Brooklyn Park Fire Rescue 31
+305458 Brooklyn Park Fire
 305461 Brooklyn Park Fire Rescue 11
 305466 Brooklyn Park Fire Rescue 11
 305467 Brooklyn Park Fire
@@ -9306,6 +9323,7 @@
 307778 Brooklyn Park Fire Engine 31
 307797 Brooklyn Park Fire Rescue 31
 307803 Brooklyn Park Fire Engine 21
+307806 Brooklyn Park Fire
 307894 Golden Valley Dispatch
 307997 Minnetonka Fire Rescue 1
 307998 Minnetonka Fire
@@ -9493,6 +9511,7 @@
 309751 Brooklyn Park Fire Engine 21
 309753 Brooklyn Park Fire
 309755 Brooklyn Park Fire
+309763 Brooklyn Park Fire
 309779 Brooklyn Park PD
 309780 Brooklyn Park PD
 309783 Brooklyn Park PD
@@ -9571,6 +9590,7 @@
 310076 Hennepin County Dispatch
 310078 Hennepin County Dispatch
 310080 Hennepin County Dispatch
+310081 Hennepin County Dispatch
 310082 Hennepin County Dispatch
 310083 Hennepin County Dispatch
 310084 Hennepin County Dispatch
@@ -11330,6 +11350,7 @@
 504302 Rochester PD
 504304 Rochester PD
 504306 Rochester PD
+504308 Rochester PD
 504309 Rochester PD
 504310 Rochester PD
 504311 Rochester PD
