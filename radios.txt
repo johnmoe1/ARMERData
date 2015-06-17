@@ -485,7 +485,7 @@
 102060 State Patrol 1759
 102062 State Patrol 1790
 102063 State Patrol 1631
-102064 State Patrol 1637
+102064 CVI 1637
 102065 State Patrol 1641
 102066 State Patrol 1624
 102074 State Patrol 588
@@ -1344,6 +1344,9 @@
 110100 Carver Fire Chief 1
 110108 Carver Fire Engine 13
 110120 Carver Fire Rescue 11
+110213 Chanhassen Fire Chief 1
+110219 Chanhassen Fire Rescue 21
+110264 Chanhassen Fire
 110271 Chanhassen Fire Chief 3
 110311 Chaska Fire Engine 11
 110317 Chaska Fire Chief 3
@@ -2871,6 +2874,7 @@
 122847 Columbia Heights PD
 122848 Columbia Heights PD VARDA
 122849 Columbia Heights PD
+122850 Columbia Heights PD
 122851 Columbia Heights PD
 122852 Columbia Heights PD
 122853 Columbia Heights PD
@@ -3214,6 +3218,7 @@
 123514 Lino Lakes PD
 123515 Lino Lakes PD
 123516 Lino Lakes PD
+123518 Centennial Lakes PD
 123519 Fridley Fire Engine 2
 123520 Fridley Fire Engine 3
 123521 Fridley Fire Engine 1
@@ -3331,6 +3336,7 @@
 123884 Centennial Lakes PD
 123885 Centennial Lakes PD
 123887 Ramsey PD
+123889 Anoka County SO
 123891 Anoka County SO
 123892 Anoka County SO
 123897 Anoka PD
@@ -3401,6 +3407,8 @@
 124426 Andover Fire Chief 1
 124427 Andover Fire Chief 2
 124439 Maple Grove PD
+124447 Blaine PD
+124448 Fridley PD
 125064 Anoka County Dispatch
 125135 Anoka County Dispatch
 125176 Anoka County Dispatch
