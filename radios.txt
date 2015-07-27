@@ -476,7 +476,7 @@
 101806 State Patrol 511
 101807 State Patrol 929
 101808 State Patrol 264/_2403_?
-101810 State Patrol 193
+101810 State Patrol 305
 101811 State Patrol 393
 101812 State Patrol 393
 101813 State Patrol 72
@@ -572,6 +572,7 @@
 103661 State Patrol 921
 103664 State Patrol 931
 103665 State Patrol 924
+103666 State Patrol 4702
 103667 State Patrol 929
 103674 State Patrol 1790
 103721 MN DOT
@@ -603,6 +604,7 @@
 105024 North 737
 105025 North 750 (Sup)
 105026 North 755
+105027 North 715
 105028 North 1131 (??)
 105030 North 750 (Sup)
 105048 North 271
@@ -625,6 +627,7 @@
 105082 North 705
 105083 North 706
 105084 North 706
+105085 North 706
 105086 North 707
 105087 North 707
 105088 North 707
@@ -733,9 +736,11 @@
 105251 North 102
 105253 North 101
 105255 North 405
+105256 North 151
 105258 North 104
 105260 North 104
 105265 North 121
+105272 North Dispatch
 105274 North Dispatch
 105277 Air Care Dispatch
 105278 Air Care Dispatch
@@ -775,6 +780,7 @@
 105400 North Dispatch
 105401 North Dispatch
 105472 North Dispatch
+105474 North Dispatch
 105476 North Dispatch
 105478 North Dispatch
 105481 North Dispatch
@@ -1174,7 +1180,7 @@
 107565 Transit PD
 107570 Transit PD
 107571 Transit PD
-107575 Transit PD?
+107575 Transit PD
 107578 Transit PD
 107579 Transit PD
 107580 Transit Police
@@ -1190,6 +1196,7 @@
 107697 Transit PD
 107700 Transit PD
 107709 Transit PD
+107712 Transit PD
 107717 Transit PD
 107724 Transit PD
 107725 Transit PD
@@ -1511,7 +1518,7 @@
 113184 Minneapolis Fire Engine 14
 113185 Minneapolis PD
 113186 Minneapolis Fire Engine 4
-113189 Minneapolis Fire
+113189 Minneapolis Fire 10-50
 113191 Minneapolis PD (49.)
 113192 Minneapolis Fire Salvage
 113194 Minneapolis PD
@@ -1529,7 +1536,7 @@
 113219 Minneapolis PD
 113221 Minneapolis PD
 113223 Minneapolis PD
-113240 Minneapolis Fire Ladder 2
+113240 Minneapolis Fire Rescue 9
 113259 Minneapolis Water
 113262 Minneapolis Water 4084
 113279 Minneapolis PD
@@ -1545,7 +1552,7 @@
 113353 Minneapolis PD
 113365 Minneapolis Water 40??
 113366 Minneapolis Water 4062
-113368 Minneapolis Fire Engine 21
+113368 Minneapolis Fire Engine 16
 113374 Minneapolis PD
 113395 Minneapolis Fire Ladder 7
 113410 Minneapolis Fire Chief 3
@@ -1592,6 +1599,7 @@
 113611 Minneapolis PD
 113621 Minneapolis PD
 113623 Minneapolis PD
+113624 Minneapolis PD
 113627 Minneapolis PD
 113630 Minneapolis Schools ["Thomas"]
 113635 Minneapolis PD
@@ -1656,7 +1664,7 @@
 113762 Minneapolis Fire (Training)
 113763 Minneapolis Fire
 113764 Minneapolis Fire (Training)
-113765 Minneapolis Fire Rescue 1
+113765 Minneapolis Fire Engine 11
 113767 Minneapolis Fire Rescue 1
 113768 Minneapolis Fire (Training)
 113769 Minneapolis PD
@@ -1708,6 +1716,7 @@
 113871 Minneapolis PD
 113880 Minneapolis PD
 113881 Minneapolis PD
+113885 Minneapolis PD
 113887 Minneapolis Animal Control
 113890 Minneapolis PD
 113891 Minneapolis PD
@@ -1799,10 +1808,13 @@
 114088 Minneapolis PD
 114091 Minneapolis PD
 114092 Minneapolis PD
+114093 Minneapolis PD
 114094 Minneapolis PD
+114096 Minneapolis PD
 114097 Minneapolis PD
 114098 Minneapolis PD
 114099 Minneapolis PD
+114102 Minneapolis PD
 114103 Minneapolis PD
 114104 Minneapolis PD
 114106 Minneapolis PD
@@ -1928,6 +1940,7 @@
 114389 Minneapolis PD
 114391 Minneapolis PD
 114392 Minneapolis PD
+114394 Minneapolis PD
 114395 Minneapolis PD
 114401 Minneapolis PD
 114402 Minneapolis PD
@@ -1962,6 +1975,7 @@
 114478 Minneapolis PD
 114480 Minneapolis PD
 114482 Minneapolis PD
+114486 Minneapolis PD
 114487 Minneapolis PD
 114488 Minneapolis Schools
 114490 Minneapolis PD
@@ -2010,6 +2024,7 @@
 114744 Minneapolis PD
 114753 Minneapolis PD
 114759 Minneapolis PD
+114760 Minneapolis PD
 114764 Minneapolis PD
 114769 Minneapolis Animal Control
 114770 Minneapolis PD
@@ -2123,6 +2138,7 @@
 114988 Minneapolis PD
 114989 Minneapolis PD
 114990 Minneapolis PD
+114992 Minneapolis PD
 114996 Minneapolis PD
 114997 Minneapolis PD
 115001 Minneapolis PD
@@ -2164,6 +2180,7 @@
 115065 Minneapolis
 115066 Minneapolis PD
 115067 Minneapolis PD
+115070 Minneapolis PD
 115071 Minneapolis Fire Chief 4
 115074 Minneapolis Fire Ladder 11
 115077 Minneapolis PD
@@ -2186,6 +2203,7 @@
 115108 Minneapolis PD
 115110 Minneapolis PD
 115113 Minneapolis PD
+115114 Minneapolis PD
 115117 Minneapolis PD
 115118 Minneapolis PD
 115120 Minneapolis Fire Engine 6
@@ -2201,7 +2219,7 @@
 115150 Minneapolis Fire Engine 19
 115151 Minneapolis Fire Engine 15
 115152 Minneapolis Fire Ladder 10
-115165 Minneapolis Fire Engine Spare 17? (28?)
+115165 Minneapolis Fire Engine Spare
 115172 Minneapolis Fire Ladder 2
 115173 Minneapolis Fire Engine 28
 115176 Minneapolis Fire Ladder 5
@@ -2238,7 +2256,8 @@
 115262 Minneapolis Fire Engine 27
 115263 Minneapolis Fire Chief 1
 115264 Minneapolis Fire Rescue 1
-115266 Minneapolis Fire ???
+115266 Minneapolis Fire Engine 16
+115267 Minneapolis Fire Engine 2
 115269 Minneapolis Fire Chief 2
 115269 Minneapolis Fire Mobile Command
 115271 Minneapolis Fire Training
@@ -2283,6 +2302,7 @@
 115331 Minneapolis Fire Engine 4
 115332 Minneapolis Fire Ladder 2
 115334 Minneapolis Fire Engine 5
+115335 Minneapolis Fire Engine 6
 115337 Minneapolis Fire Engine 8
 115339 Minneapolis Fire Engine 14
 115340 Minneapolis Fire
@@ -2467,6 +2487,7 @@
 115918 Minneapolis PD
 115982 Minneapolis Fire Ladder 5
 115983 Minneapolis Fire Engine 22
+115985 Minneapolis Fire Engine 20
 115987 Minneapolis Fire Chief 2
 115989 Minneapolis Fire Engine 15
 115990 Minneapolis Fire Engine 14
@@ -2531,6 +2552,7 @@
 117884 Minneapolis Dispatch
 117892 Minneapolis Dispatch
 117895 Minneapolis Dispatch
+117896 Minneapolis Dispatch
 117897 Minneapolis Dispatch
 117899 Minneapolis Dispatch
 117929 Minneapolis Dispatch
@@ -2719,6 +2741,7 @@
 122276 Fridley PD
 122301 Andover Fire Chief 2
 122302 Andover Fire Chief 3
+122308 Andover Fire Station 1
 122316 Andover Fire Rescue 11
 122320 Andover Fire Rescue 31
 122329 Andover Fire Station 1
@@ -2728,6 +2751,7 @@
 122348 Centennial Fire
 122361 Coon Rapids Fire
 122375 Coon Rapids Fire ???
+122446 Columbia Heights PD
 122457 Ham Lake Fire ???
 122459 Ham Lake Fire
 122460 Ham Lake Fire
@@ -2777,6 +2801,7 @@
 122570 Blaine PD
 122571 Blaine PD
 122572 Blaine PD
+122573 Blaine PD
 122575 Blaine PD
 122579 Anoka County Jail
 122580 Blaine PD
@@ -3261,7 +3286,9 @@
 123431 Anoka County SO
 123433 Anoka County SO
 123434 Anoka County SO
+123452 Centennial Fire Chief
 123455 Centennial Fire Rescue 11
+123456 Centennial Fire Station 1
 123469 Centennial Fire
 123470 Centennial Fire
 123493 Centennial Lakes PD
@@ -3314,6 +3341,7 @@
 123546 Anoka PD
 123547 Anoka PD
 123548 Anoka PD
+123549 Anoka PD
 123550 Anoka PD
 123551 Oak Grove Fire Engine 11
 123552 Oak Grove Fire Engine 21
@@ -3402,7 +3430,7 @@
 123868 SBM Fire Engine 3
 123870 SPM Fire Engine 3
 123874 SBM Fire
-123875 Andover Fire Lt 11
+123875 Andover Fire Chief 2
 123877 Blaine PD
 123878 Blaine PD
 123879 Blaine PD
@@ -3415,6 +3443,7 @@
 123897 Anoka PD
 123901 Anoka County SO
 123902 Fridley Fire
+123904 Blaine PD
 123908 Anoka County SO
 123909 Anoka County SO
 123910 Anoka County SO
@@ -4366,7 +4395,7 @@
 131698 Dakota County SO
 131699 Dakota County SO
 131701 Dakota County SO
-131702 Dakota County (seen on MAAG)
+131702 Dakota County SO
 131703 Dakota County SO
 131704 Dakota County SO (1141)
 131705 Dakota County SO
@@ -5257,10 +5286,12 @@
 134444 Dakota County Highway
 134445 Dakota County Highway
 134446 Dakota County Highway
+134448 Dakota County Highway
 134449 Dakota County Highway
 134450 Dakota County Highway
 134452 Dakota County Highway
 134453 Dakota County Highway
+134454 Dakota County Highway
 134455 Dakota County Highway
 134456 Dakota County Highway
 134457 Dakota County Highway
@@ -5883,6 +5914,7 @@
 154153 Transit PD
 154162 Transit PD
 154164 Transit PD
+154165 Transit PD
 154166 Transit PD
 154170 Transit PD
 154174 Transit PD
@@ -5929,13 +5961,16 @@
 158512 North Security
 158513 North Security
 158514 North Security
+158531 North 121
 158535 Air Care 3
 158536 Air Care 6
 158540 Air Care 5
 158544 Air Care 4
 158546 Air Care 4
+158551 North 172
 158552 Air Care 1
 158561 Air Care 3
+158566 North 102
 158567 North 305
 158568 North 737
 158569 North 737
@@ -5947,6 +5982,7 @@
 158575 North 736
 158576 North 601
 158579 North 603
+158586 North 173
 158589 North Air Care 5
 158590 Air Care 1
 158591 Air Care 4
@@ -5955,15 +5991,19 @@
 158605 North 534
 158609 North 902
 158645 North 102
+158646 North 102
 158662 North 527
 158686 North 521
 158695 North 527
 158706 North 527
 158714 North 405
 158730 North 405
+158768 North 173
 158783 North 738
 158784 North 738
+158789 North 172
 158790 North 172
+158796 North 173
 158803 North 738
 158818 North 307
 158819 North 307
@@ -5974,6 +6014,9 @@
 158886 North Dispatch
 158919 North Dispatch
 158935 North Dispatch
+158949 North Dispatch
+158982 North Dispatch
+158984 North Dispatch
 158986 North Dispatch
 158993 North Air Dispatch
 159015 National Guard
@@ -6542,7 +6585,7 @@
 160874 DOC Fugitive ["Doc"]
 160876 DOC Fugitive ["Terry/Nutter; sometimes Joyce"]
 160878 DOC Fugitive ["Bruce/Meagher"]
-160879 DOC Fugitive ["Mark/John/?"]
+160879 DOC Fugitive ["John"]
 160880 DOC Fugitive ["Dave/Schiebel"]
 160881 DOC Fugitive ["Mark"]
 160882 DOC Fugitive ["Brian"]
@@ -6559,6 +6602,7 @@
 167019 MN Human Services
 169312 Transit PD
 169315 Transit PD
+169321 Transit PD
 299952 Radio Board Tech
 299958 Radio Board Tech
 299959 Radio Board Tech
@@ -6569,6 +6613,12 @@
 299998 Radio Board MOTO Tech
 300003 Eden Prairie Fire Chief 1
 300008 Hennepin County SO
+300074 HCMC Security
+300079 HCMC Security
+300082 HCMC Security
+300083 HCMC Security
+300084 HCMC Security
+300085 HCMC Security
 300180 Hennepin County Water Rescue
 300197 Golden Valley Fire
 300204 Golden Valley Fire
@@ -6687,12 +6737,14 @@
 300808 Hennepin County SO
 300809 HCMC 437
 300818 Robbinsdale Fire
+300826 Hennepin County 1604
 300828 Hennepin County Water Patrol
 300830 Hennepin County Water Patrol
 300831 Hennepin County Water Patrol
 300834 Hennepin County SO
 300835 Hennepin County Water Patrol
 300838 Hennepin County Water Patrol (1703)
+300849 Hennepin County SO
 300857 Hennepin County
 300865 Hennepin County SO
 300867 Hennepin County SO
@@ -7452,6 +7504,7 @@
 303298 Edina Fire Marshal
 303415 Richfield Fire Rescue 1
 303419 Richfield Fire Engine 2
+303420 Richfield Fire Station 2
 303424 Maple Grove PD
 303434 Richfield Fire Chief 1
 303436 HCMC Spare 15?
@@ -7916,7 +7969,7 @@
 305279 Hennepin County SO 1310
 305294 Hennepin 1311
 305299 Hennepin County SO
-305303 Hennepin 1760 (?)
+305303 Hennepin County Water Patrol
 305312 Brooklyn Park Fire Rescue 31
 305313 Brooklyn Park Fire Rescue 11
 305318 Brooklyn Park Fire Rescue 31
@@ -7944,10 +7997,13 @@
 305405 Edina Dispatch
 305418 Edina Dispatch
 305419 Edina Dispatch
+305420 Edina Dispatch
 305421 Edina Dispatch
 305422 Edina Dispatch
 305423 Edina Dispatch
+305424 Edina Dispatch
 305425 Edina Dispatch
+305426 Edina Dispatch
 305436 Orono PD
 305437 Orono PD
 305438 Rogers PD
@@ -7989,6 +8045,7 @@
 305507 Hennepin County SO
 305509 Hennepin County SO
 305510 Hennepin County SO
+305517 Hennepin County Dive Truck
 305525 Rodgers Fire Chief 1
 305527 Hennepin County SO
 305528 Hennepin County SO
@@ -8114,7 +8171,7 @@
 306362 HCMC 416
 306363 HCMC 416
 306364 HCMC 417
-306365 HCMC 427 (417?)
+306365 HCMC 427
 306366 HCMC 418
 306367 HCMC 418
 306368 HCMC 419
@@ -8343,6 +8400,7 @@
 307602 Minnetonka PD
 307603 Hennepin County SO
 307604 HCMC Security
+307605 HCMC Security
 307609 HCMC Security
 307652 Minnetonka Dispatch
 307740 Brooklyn Park Fire
@@ -9256,11 +9314,13 @@
 320091 St Paul PD
 320092 St Paul PD
 320093 St Paul PD
+320094 St Paul PD
 320097 St Paul PD
 320098 St Paul PD
 320100 St Paul PD
 320102 St Paul PD
 320108 St Paul PD
+320109 St Paul PD
 320111 St Paul PD
 320112 St Paul PD
 320113 St Paul PD
@@ -9378,6 +9438,7 @@
 320339 St Paul PD
 320341 St Paul PD
 320342 St Paul PD
+320344 St Paul PD
 320346 St Paul PD
 320347 St Paul PD
 320348 St Paul PD
@@ -9508,6 +9569,7 @@
 320545 St Paul PD
 320546 St Paul PD
 320547 St Paul PD
+320548 St Paul PD
 320553 St Paul PD
 320555 St Paul PD
 320557 St Paul PD
@@ -9517,6 +9579,7 @@
 320562 St Paul PD
 320564 St Paul PD
 320565 St Paul PD
+320566 St Paul PD
 320567 St Paul PD
 320569 St Paul PD
 320570 St Paul PD
@@ -9540,6 +9603,7 @@
 320602 St Paul PD
 320603 St Paul PD
 320605 St Paul PD
+320607 St Paul PD
 320608 St Paul PD
 320609 St Paul PD
 320610 St Paul PD
@@ -9614,6 +9678,7 @@
 320715 St Paul PD
 320717 St Paul PD
 320718 St Paul PD
+320720 St Paul PD
 320721 St Paul PD
 320722 St Paul PD
 320725 St Paul PD
@@ -9684,6 +9749,7 @@
 320810 St Paul PD
 320811 St Paul PD
 320812 St Paul PD
+320818 St Paul PD
 320820 St Paul PD
 320824 St Paul PD
 320825 St Paul PD
@@ -10194,9 +10260,11 @@
 500027 Radio Board Tech
 500028 Radio Board Tech
 500030 Radio Board Tech
+500060 State Patrol 32
 500061 State Patrol 2102
 500062 State Patrol 2101
-500103 State Patrol 280
+500098 State Patrol 601
+500103 State Patrol 103
 500104 State Patrol 245
 500106 State Patrol 2104
 500108 State Patrol 564
@@ -10206,7 +10274,7 @@
 500113 State Patrol 320
 500114 State Patrol 289
 500117 State Patrol 7
-500118 State Patrol 2101/470
+500118 State Patrol 470
 500120 State Patrol 2103
 500133 State Patrol 2102
 500134 DNR K398
@@ -10227,6 +10295,7 @@
 500164 State Patrol 536
 500165 State Patrol 426
 500167 State Patrol 289
+500168 State Patrol 280
 500169 State Patrol 382
 500170 State Patrol 530
 500171 State Patrol 105
@@ -10242,7 +10311,7 @@
 500184 State Patrol 420
 500188 State Patrol 32
 500189 State Patrol 173
-500190 State Patrol 75
+500190 State Patrol 103?
 500192 State Patrol 236
 500194 State Patrol 336
 500195 State Patrol 182
@@ -10287,14 +10356,14 @@
 500260 State Patrol 125
 500261 State Patrol 482
 500262 State Patrol 115
-500263 State Patrol 182
+500263 State Patrol 2104
 500266 State Patrol 527
 500267 State Patrol 305
 500270 State Patrol 538
 500271 State Patrol 1602
 500273 State Patrol 569
 500274 State Patrol 464
-500275 State Patrol 530
+500275 State Patrol 130
 500276 State Patrol 125
 500277 State Patrol 364
 500279 DNR K543
@@ -10523,6 +10592,7 @@
 505270 Olmsted County Highway
 505279 Olmsted County Highway
 505280 Olmsted County Highway
+505284 Olmsted County SO 1501?
 505289 Dodge Center Ambulance (3339)
 505325 Olmsted County Highway
 505335 Olmsted County SO
@@ -11127,12 +11197,24 @@
 577027 Watonwan County Dispatch
 577320 Watonwan County SO
 581073 Radio Board Tech
+581081 Blue Earth County Dispatch
 581082 Blue Earth County Dispatch
 581083 Blue Earth County Dispatch
 581084 Blue Earth County Dispatch
+581187 Blue Earth County SO
+581197 Blue Earth County SO
 581198 Blue Earth County SO
+581487 Mankato PD
 581500 581500
+581504 Mankato PD
+581524 Mankato PD
 581526 Blue Earth? 3110
+581535 Mankato PD
+581599 Mankato PD
+581607 Mankato PD
+581609 Mankato PD
+581611 Mankato PD
+581614 Mankato PD
 585028 Waseca County Dispatch
 585029 Waseca County Dispatch
 585050 Waseca County?
@@ -11412,6 +11494,7 @@
 652028 Todd County Dispatch
 656024 Centracare (Monticello) 5705
 656025 New River Ambulance 5705
+656026 Centracare 5702
 656027 ??? 3706
 656028 Centracare 5703
 656029 Centracare 5703
@@ -11582,6 +11665,7 @@
 772858 HCMC ???
 774001 Aitkin Dispatch
 774002 Aitkin Dispatch
+775217 Aitkin 316
 775229 Aitkin 316
 778091 Carlton County Dispatch
 778111 Carlton? 234
