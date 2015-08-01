@@ -57,9 +57,9 @@
 100176 Capitol Security
 100177 State Patrol 2503
 100181 State Patrol 19
-100182 State Patrol 146
+100182 State Patrol 162
 100184 State Patrol 187
-100185 State Patrol 243
+100185 State Patrol 127
 100188 State Patrol 152
 100189 State Patrol 152
 100190 State Patrol 1625
@@ -82,7 +82,7 @@
 100223 State Patrol 199
 100224 State Patrol 1621
 100226 State Patrol 473
-100228 State Patrol 299
+100228 State Patrol 223
 100236 State Patrol 1620
 100240 State Patrol 156
 100241 State Patrol 299
@@ -116,7 +116,7 @@
 100299 State Patrol 2404
 100304 State Patrol 2405
 100306 State Patrol 304
-100307 State Patrol 247?
+100307 State Patrol 247
 100316 State Patrol 2403
 100317 Capitol Security
 100319 State Patrol 2502
@@ -132,7 +132,7 @@
 100333 State Patrol 600
 100334 State Patrol 274
 100335 State Patrol 274
-100336 State Patrol 275
+100336 State Patrol 549
 100337 State Patrol 275
 100338 State Patrol 156
 100340 State Patrol 106
@@ -296,7 +296,7 @@
 100687 State Patrol 51
 100690 State Patrol 324
 100693 State Patrol 200?
-100697 State Patrol 162
+100697 State Patrol 149
 100698 State Patrol 1624
 100700 MN DOT GPS?
 100704 State Patrol 588/19?
@@ -369,6 +369,8 @@
 101086 State Patrol 2403
 101090 DNR K337
 101097 State Patrol 358
+101144 State Patrol 567
+101153 State Patrol 381
 101155 State Patrol 454
 101157 State Patrol 169
 101213 State Patrol 513
@@ -423,7 +425,7 @@
 101482 BCA?
 101503 State Patrol 274
 101504 State Patrol 2503
-101505 State Patrol 458
+101505 State Patrol 417
 101506 State Patrol 19
 101512 State Patrol 374
 101513 State Patrol 131
@@ -471,6 +473,7 @@
 101792 State Patrol 483
 101801 State Patrol 259
 101802 State Patrol 17
+101803 State Patrol 203
 101804 State Patrol 596
 101805 State Patrol 120
 101806 State Patrol 511
@@ -494,6 +497,7 @@
 102064 CVI 1637
 102065 State Patrol 1641
 102066 State Patrol 1624
+102072 State Patrol 452
 102074 State Patrol 588
 102077 State Patrol 2503
 102079 State Patrol 2405
@@ -533,8 +537,11 @@
 102366 State Patrol 2500
 102368 State Patrol 2501
 102371 State Patrol 476
+102375 State Patrol 543
 102377 State Patrol 169
 102378 State Patrol 4712
+102380 State Patrol 381
+102383 State Patrol 168
 102386 State Patrol 310
 102387 State Patrol 140
 102388 State Patrol 25
@@ -545,7 +552,7 @@
 103015 FIRST 810x
 103016 FIRST 810x
 103017 FIRST 810x
-103021 State Patrol 543/567/43?
+103021 State Patrol 543/567/43/260?
 103022 State Patrol ?19
 103030 State Patrol 2501
 103031 State Patrol 55
@@ -984,9 +991,11 @@
 106000 Allina 331
 106001 Allina ?
 106002 Allina 915
+106004 Allina
 106005 Allina
 106006 Allina
 106010 Allina
+106018 Allina
 106032 Allina 997
 106033 Allina 665
 106034 Allina
@@ -1002,6 +1011,7 @@
 106058 Allina 636
 106059 Allina 597
 106060 Allina 628
+106062 Allina
 106064 Allina 987
 106065 Allina 987
 106071 Owatonna Hospital
@@ -1548,7 +1558,7 @@
 113318 Minneapolis Water
 113322 Minneapolis Radio Shop
 113325 Minneapolis Water 4063
-113344 Minneapolis Water 4064
+113344 Minneapolis Water
 113353 Minneapolis PD
 113365 Minneapolis Water 40??
 113366 Minneapolis Water 4062
@@ -1565,11 +1575,11 @@
 113463 Minneapolis PD
 113473 Minneapolis
 113499 Minneapolis Fire Chief 4
-113501 Minneapolis Fire Chief 2 (old)
+113501 Minneapolis Fire Chief 2
 113503 Minneapolis Fire Chief 1
 113504 Minneapolis Fire Mobile Command
 113507 Minneapolis Fire 10 1
-113510 Minneapolis Fire Deputy
+113510 Minneapolis Fire Deputy (Chief 5?)
 113512 Minneapolis PD
 113513 Minneapolis PD
 113514 Minneapolis PD
@@ -1626,6 +1636,7 @@
 113672 Minneapolis PD
 113673 Minneapolis PD
 113674 Minneapolis School Dispatch
+113675 Minneapolis PD
 113676 Minneapolis PD
 113677 Minneapolis PD
 113683 Minneapolis PD
@@ -1640,6 +1651,7 @@
 113707 Minneapolis PD
 113711 Minneapolis PD
 113712 Minneapolis PD
+113713 Minneapolis PD
 113714 Minneapolis PD
 113718 Minneapolis PD
 113719 Minneapolis ???
@@ -1661,7 +1673,7 @@
 113757 Minneapolis PD
 113758 Minneapolis PD
 113761 Minneapolis Fire Medic 1
-113762 Minneapolis Fire (Training)
+113762 Minneapolis Fire
 113763 Minneapolis Fire
 113764 Minneapolis Fire (Training)
 113765 Minneapolis Fire Engine 11
@@ -1768,6 +1780,7 @@
 114003 Minneapolis PD
 114004 Minneapolis PD
 114005 Minneapolis PD
+114006 Minneapolis PD
 114007 Minneapolis PD
 114008 Minneapolis Fire Deputy
 114009 Minneapolis PD
@@ -2230,7 +2243,7 @@
 115203 Minneapolis PD
 115204 Minneapolis PD
 115206 Minneapolis Fire Engine 21
-115212 Minneapolis Fire Ladder 4
+115212 Minneapolis Fire Ladder 11
 115217 Minneapolis Fire Ladder 10
 115220 Minneapolis Fire 10-2
 115225 Minneapolis Fire Engine 20
@@ -4410,6 +4423,7 @@
 131727 Dakota County SO
 131728 Dakota County SO
 131730 Dakota County SO
+131732 Dakota County SO
 131733 Dakota County SO 1912
 131734 Dakota County SO
 131737 Dakota County SO
@@ -4670,6 +4684,7 @@
 132343 Farmington Fire Station 2
 132344 Farmington Fire Chief 1
 132345 Farmington Fire Marshal
+132350 Farmington Fire Chief 4
 132401 Farmington PD
 132402 Farmington PD
 132403 Farmington PD
@@ -5002,7 +5017,7 @@
 133251 Lakeville PD
 133252 Lakeville PD
 133253 Lakeville PD
-133255 Lakeville PD 4871
+133255 Lakeville PD (or DTF?)
 133257 Lakeville PD
 133260 Lakeville PD
 133261 Lakeville PD
@@ -5981,6 +5996,7 @@
 158574 North 736
 158575 North 736
 158576 North 601
+158578 North 603
 158579 North 603
 158586 North 173
 158589 North Air Care 5
@@ -6564,12 +6580,12 @@
 160773 MCF Lino Lakes
 160850 DOC Fugitive ["Mark"]
 160851 DOC Fugitive ["Bruce/Meagher"]
-160852 DOC Fugitive ["Doc"]
+160852 DOC Fugitive ["Mark" was "Doc"]
 160853 DOC Fugitive ["Bruce/Meagher"]
 160854 DOC Fugitive ["Terry/Nutter"]
 160855 DOC Fugitive ["?"]
 160857 DOC Fugitive ["??"]
-160859 DOC Fugitive ["Doc", "Joyce", etc]
+160859 DOC Fugitive ["Joyce", etc]
 160860 DOC Fugitive [Office; often:"Carolyn"]
 160861 DOC Fugitive ["Doc"]
 160862 DOC Fugitive ["Joyce"]
@@ -6593,7 +6609,7 @@
 160884 DOC Fugitive ["Nate's old verhicle"]
 160885 DOC Fugitive ["Cari/Gerlicher"]
 160886 DOC Fugitive ["Mark"]
-160891 DOC Fugitive ["Mark"]
+160891 DOC Fugitive [Office]
 161071 DOC Fugitive ["Caroline"]
 167007 MN Human Services
 167015 MN Human Services
@@ -8749,6 +8765,7 @@
 310666 Ramsey County Dispatch
 310668 Ramsey County Dispatch
 310705 Ramsey County Dispatch
+310764 Ramsey County Dispatch
 310765 Ramsey County Dispatch
 310766 Ramsey County Dispatch
 310805 Ramsey County Dispatch
@@ -9584,6 +9601,7 @@
 320569 St Paul PD
 320570 St Paul PD
 320571 St Paul PD
+320574 St Paul PD
 320575 St Paul PD
 320576 St Paul PD
 320578 St Paul PD
@@ -9793,6 +9811,8 @@
 321008 St Paul PD
 321010 St Paul PD
 321011 St Paul PD
+321020 St Paul PD
+321021 St Paul PD
 321023 St Paul PD
 321027 St Paul PD
 321028 St Paul PD
@@ -9954,8 +9974,10 @@
 328967 Bloomington Dispatch
 328968 Bloomington Dispatch
 329001 Bloomington PD
+329002 Bloomington PD
 329005 Bloomington PD
 329031 Bloomington Dispatch
+329041 Bloomington PD
 329072 Bloomington PD
 329074 Bloomington PD
 329081 Bloomington PD
@@ -9969,6 +9991,7 @@
 329133 Bloomington Dispatch
 329134 Bloomington Dispatch
 329154 Bloomington PD
+329155 Bloomington PD
 329159 Bloomington PD
 329161 Bloomington PD
 329162 Bloomington PD
@@ -9976,6 +9999,8 @@
 329170 Bloomington PD
 329171 Bloomington PD
 329173 Bloomington PD
+329174 Bloomington PD
+329178 Bloomington PD
 329181 Bloomington PD
 329184 Bloomington PD
 329185 Bloomington PD
@@ -11116,6 +11141,7 @@
 549581 Mayo 3
 549583 Mayo 3
 549586 Mayo Dispatch
+549590 Gold Cross
 549592 Mayo 2
 549593 Mayo 2
 549594 Mayo 3
@@ -11143,6 +11169,7 @@
 549640 Gold Cross 646
 549641 Gold Cross 663
 549649 Gold Cross 663
+549652 Gold Cross (Austin?)
 549657 Gold Cross 643
 549659 Gold Cross 663
 549673 Gold Cross 601
@@ -11201,6 +11228,8 @@
 581082 Blue Earth County Dispatch
 581083 Blue Earth County Dispatch
 581084 Blue Earth County Dispatch
+581149 Blue Earth County SO
+581150 Blue Earth County SO
 581187 Blue Earth County SO
 581197 Blue Earth County SO
 581198 Blue Earth County SO
@@ -11209,7 +11238,10 @@
 581504 Mankato PD
 581524 Mankato PD
 581526 Blue Earth? 3110
+581533 Mankato PD
 581535 Mankato PD
+581563 Mankato PD
+581577 Mankato PD
 581599 Mankato PD
 581607 Mankato PD
 581609 Mankato PD
@@ -11505,7 +11537,7 @@
 658061 Gold Cross 152
 658062 Gold Cross 151
 658064 Gold Cross 160
-658069 Gold Cross 153
+658069 Gold Cross 154
 658070 Gold Cross ???
 658072 Gold Cross
 658073 Gold Cross
