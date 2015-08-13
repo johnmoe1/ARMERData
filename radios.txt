@@ -114,6 +114,7 @@
 100294 State Patrol 416
 100298 State Patrol 2400
 100299 State Patrol 2404
+100303 State Patrol 592
 100304 State Patrol 2405
 100306 State Patrol 304
 100307 State Patrol 247
@@ -131,8 +132,8 @@
 100331 State Patrol 549
 100333 State Patrol 600
 100334 State Patrol 274
-100335 State Patrol 274
-100336 State Patrol 549
+100335 State Patrol 573
+100336 State Patrol 555
 100337 State Patrol 275
 100338 State Patrol 156
 100340 State Patrol 106
@@ -149,6 +150,7 @@
 100362 State Patrol 515
 100363 State Patrol 330
 100364 State Patrol 198
+100365 State Patrol 12
 100366 State Patrol 398
 100368 State Patrol 923
 100371 DNR K176
@@ -158,7 +160,7 @@
 100377 State Patrol 442
 100378 State Patrol 358
 100379 State Patrol 358
-100380 State Patrol 204/260
+100380 State Patrol 260
 100381 State Patrol 36
 100383 State Patrol 592
 100384 State Patrol 221
@@ -193,7 +195,7 @@
 100435 State Patrol 466
 100442 State Patrol 4713
 100443 State Patrol 1652
-100448 State Patrol 59/359?
+100448 State Patrol 59
 100449 State Patrol 92
 100451 State Patrol 243
 100453 State Patrol 191
@@ -250,6 +252,7 @@
 100536 State Patrol 241
 100537 Capitol Security
 100538 State Patrol 518
+100540 State Patrol 591
 100543 State Patrol 922
 100544 State Patrol 2504
 100545 State Patrol 924
@@ -272,7 +275,7 @@
 100591 State Patrol 89
 100593 State Patrol 251
 100599 State Patrol 49
-100602 State Patrol 567
+100602 State Patrol 310
 100605 State Patrol 329
 100606 State Patrol 328
 100607 State Patrol 4601
@@ -368,9 +371,13 @@
 101083 DOT? M21
 101086 State Patrol 2403
 101090 DNR K337
+101094 State Patrol 390
 101097 State Patrol 358
+101140 State Patrol 168
+101142 State Patrol 416
 101143 State Patrol 549
 101144 State Patrol 567
+101147 State Patrol 61
 101153 State Patrol 381
 101155 State Patrol 454
 101157 State Patrol 169
@@ -536,6 +543,7 @@
 102330 William O'Brien
 102354 State Patrol ???
 102357 State Patrol 633
+102361 State Patrol Car 631
 102362 State Patrol 926
 102366 State Patrol 2500
 102368 State Patrol 2501
@@ -544,6 +552,7 @@
 102377 State Patrol 169
 102378 State Patrol 4712
 102380 State Patrol 381
+102381 State Patrol 12
 102383 State Patrol 168
 102384 State Patrol 140
 102386 State Patrol 310
@@ -586,6 +595,7 @@
 103666 State Patrol 4702
 103667 State Patrol 929
 103674 State Patrol 1790
+103681 State Patrol 435
 103721 MN DOT
 103732 MN DOT
 103824 MN DOT GPS?
@@ -852,7 +862,7 @@
 105619 Allina 654
 105620 Allina
 105621 Allina
-105623 Allina 517
+105623 Allina 519
 105624 Allina 511
 105625 Allina 513
 105626 Allina 514
@@ -896,7 +906,7 @@
 105682 Allina 533
 105683 Allina 536
 105685 Allina 656
-105686 Allina 533 532?
+105686 Allina 533
 105687 Allina 571
 105697 Allina 202
 105698 Allina 203
@@ -1657,6 +1667,7 @@
 113705 Minneapolis PD
 113706 Minneapolis PD
 113707 Minneapolis PD
+113710 Minneapolis PD
 113711 Minneapolis PD
 113712 Minneapolis PD
 113713 Minneapolis PD
@@ -1746,6 +1757,7 @@
 113907 Minneapolis PD
 113908 Minneapolis PD
 113913 Minneapolis PD
+113918 Minneapolis PD
 113919 Minneapolis PD
 113920 Minneapolis ???
 113922 Minneapolis ???
@@ -1957,6 +1969,7 @@
 114367 Minneapolis PD
 114368 Minneapolis PD
 114373 Minneapolis PD
+114378 Minneapolis PD
 114379 Minneapolis PD
 114380 Minneapolis PD
 114381 Minneapolis PD
@@ -2089,6 +2102,7 @@
 114848 Minneapolis PD
 114853 Minneapolis PD
 114854 Minneapolis PD
+114855 Minneapolis PD
 114857 Minneapolis PD
 114861 Minneapolis PD
 114863 Minneapolis PD
@@ -2217,6 +2231,7 @@
 115084 Minneapolis PD
 115085 Minneapolis PD
 115086 Minneapolis Fire Ladder 3
+115088 Minneapolis PD
 115090 Minneapolis PD
 115094 Minneapolis PD
 115095 Minneapolis PD
@@ -2289,7 +2304,7 @@
 115267 Minneapolis Fire Engine 2
 115269 Minneapolis Fire Chief 2
 115269 Minneapolis Fire Mobile Command
-115271 Minneapolis Fire Training
+115271 Minneapolis Fire Engine 8
 115274 Minneapolis Fire Ladder 11
 115276 Minneapolis Fire Ladder 3
 115277 Minneapolis Fire (Training)
@@ -2497,8 +2512,9 @@
 115882 Minneapolis PD
 115884 Minneapolis PD
 115887 Minneapolis PD
+115890 Minneapolis PD
 115893 Minneapolis PD
-115900 Minneapolis Fire 1048/Inspector 1
+115900 Minneapolis Fire 10-48/Inspector 1
 115901 Minneapolis Fire Ladder 7
 115902 Minneapolis Fire Engine 7
 115903 Minneapolis Fire Ladder 7
@@ -2516,6 +2532,7 @@
 115915 Minneapolis PD
 115917 Minneapolis PD
 115918 Minneapolis PD
+115981 Minneapolis Fire Engine 28
 115982 Minneapolis Fire Ladder 5
 115983 Minneapolis Fire Engine 22
 115985 Minneapolis Fire Engine 20
@@ -2523,7 +2540,7 @@
 115987 Minneapolis Fire Chief 2
 115988 Minneapolis Fire Engine 16
 115989 Minneapolis Fire Engine 15
-115990 Minneapolis Fire Engine 14
+115990 Minneapolis Fire Chief 4
 115991 Minneapolis Fire Engine 12
 115992 Minneapolis Fire ???
 115993 Minneapolis Fire Mobile Command
@@ -3028,6 +3045,7 @@
 122876 Columbia Heights PD
 122877 Columbia Heights PD
 122879 Columbia Heights PD
+122880 Columbia Heights PD
 122883 St Francis PD
 122884 St Francis PD
 122886 St Francis PD
@@ -3444,9 +3462,11 @@
 123772 Fridley PD
 123773 Fridley PD
 123774 Fridley PD
+123775 Fridley PD
 123777 Fridley PD
 123780 Fridley PD
 123784 Fridley PD
+123786 Fridley PD
 123793 Columbia Heights PD
 123794 Columbia Heights Public Works
 123795 Coon Rapids PD
@@ -3547,6 +3567,8 @@
 124439 Maple Grove PD
 124447 Blaine PD
 124448 Fridley PD
+124449 Fridley PD
+124451 Fridley PD
 125064 Anoka County Dispatch
 125135 Anoka County Dispatch
 125176 Anoka County Dispatch
@@ -4118,17 +4140,17 @@
 131003 Dakota County (seen on MAAG)
 131005 Apple Valley Fire Engine 1
 131008 Apple Valley Fire Rescue 2
-131010 Apple Valley(?) Fire Ladder 1
+131010 Apple Valley Fire Ladder 1
 131011 Apple Valley Fire Station 3
-131013 Apple Valley Fire ???
-131015 Apple Valley Fire Station 1
+131013 Apple Valley Fire Engine 22
+131015 Apple Valley Fire Engine 12
 131016 Apple Valley Fire Rescue 2
 131018 Apple Valley Fire Ladder 1
 131019 Apple Valley Fire Chief 1
 131023 Apple Valley Fire ???
 131024 Apple Valley Fire Chief 2
 131025 Apple Valley Fire Chief 1
-131028 Dakota County Fire Dispatch
+131028 Apple Valley Fire Engine 1
 131030 Apple Valley Fire
 131031 Apple Valley Fire ???
 131032 Apple Valley Fire
@@ -4145,6 +4167,7 @@
 131046 Apple Valley Fire Engine 3
 131047 Apple Valley Fire Station 3
 131048 Apple Valley Fire Station 2
+131049 Apple Valley Fire Engine 12
 131050 Apple Valley Fire Chief 1
 131051 Apple Valley Fire Chief 3
 131053 Apple Valley Fire Engine 22
@@ -4152,7 +4175,7 @@
 131059 Apple Valley Fire Ladder 1
 131060 Apple Valley Fire Chief 2
 131061 Apple Valley Fire Engine 1
-131063 Apple Valley Fire
+131063 Apple Valley Fire Ladder 1
 131065 Apple Valley Station 2
 131067 Apple Valley Fire Chief 4
 131102 Apple Valley PD
@@ -5728,6 +5751,7 @@
 141212 Chisago County SO 128
 141213 Chisago County SO 119
 141214 Chisago County SO 120
+141216 Chisago County SO 119
 141220 Chisago County SO 135
 141221 Chisago County SO 136
 141223 Chisago County SO 137
@@ -5739,7 +5763,7 @@
 141235 Chisago County SO 113/106
 141239 Chisago County SO 129
 141241 Chisago County SO 147
-141242 Chisago County SO
+141242 Chisago County SO 143
 141243 Chisago County SO 123
 141245 Chisago County SO 122
 141246 Chisago County SO 134
@@ -5758,6 +5782,7 @@
 141329 Chisago County SO 135
 141330 Chisago County SO 137
 141331 Chisago County SO 138
+141333 Chisago County SO 141
 141334 Chisago County SO 142
 141335 Chisago County SO
 141338 Chisago County SO 146
@@ -6178,11 +6203,14 @@
 159662 MCF OPH
 159664 MCF OPH
 159665 MCF OPH
+159666 MCF OPH
 159667 MCF OPH
 159674 MCF OPH
+159676 MCF OPH
 159679 MCF OPH
 159680 MCF OPH
 159681 MCF OPH
+159683 MCF OPH
 159685 MCF OPH
 159687 MCF OPH
 159688 MCF OPH
@@ -6613,6 +6641,7 @@
 160710 DOC Shakopee Transport
 160711 DOC Shakopee Transport
 160736 MCF OPH
+160737 MCF OPH
 160738 MCF OPH
 160739 MCF OPH
 160770 MCF Lino Lakes
@@ -6621,7 +6650,7 @@
 160773 MCF Lino Lakes
 160850 DOC Fugitive ["Mark"]
 160851 DOC Fugitive ["Bruce/Meagher"]
-160852 DOC Fugitive ["Mark" was "Doc"]
+160852 DOC Fugitive ["Doc"]
 160853 DOC Fugitive ["Bruce/Meagher"]
 160854 DOC Fugitive ["Terry/Nutter"]
 160855 DOC Fugitive ["?"]
@@ -6915,7 +6944,7 @@
 301242 HCMC 422
 301243 HCMC 426
 301250 HCMC New Spare? 9925P
-301251 HCMC 431/438/436?
+301251 HCMC Spare?
 301253 HCMC 434
 301260 HCMC Security
 301262 HCMC Maintenance Dispatch
@@ -10362,6 +10391,7 @@
 500060 State Patrol 32
 500061 State Patrol 2102
 500062 State Patrol 2101
+500066 State Patrol 527
 500098 State Patrol 601
 500103 State Patrol 103
 500104 State Patrol 245
@@ -10444,9 +10474,9 @@
 500246 State Patrol 572
 500247 State Patrol 32
 500248 State Patrol 420
-500250 State Patrol 448
+500250 State Patrol 446
 500251 State Patrol 420
-500252 State Patrol 336/204
+500252 State Patrol 336
 500253 State Patrol 173
 500255 State Patrol 1754
 500256 State Patrol 421
