@@ -1,0 +1,93 @@
+{"set":[
+
+{
+"talkgroups":[4200,4202],
+"patterns":[
+{"name":"Lakeville Fire Station 3", "pattern":[{"frequency": 407.643, "duration":1.0},{"frequency":1505.88, "duration":3.0}] },
+{"name":"Inver Grove Heights Station 3", "pattern":[{"frequency": 407.643, "duration":1.0},{"frequency":849.558, "duration":3.0}] },
+{"name":"Apple Valley Duty Crew", "pattern":[{"frequency": 435.374, "duration":1.0},{"frequency":719.101, "duration":3.0}] },
+{"name":"Lakeville Fire Station 4", "pattern":[{"frequency": 435.374, "duration":1.0},{"frequency":1505.88, "duration":3.0}] },
+{"name":"Lakeville Fire Officer 399030:381", "pattern":[{"frequency": 467.153, "duration":1.0},{"frequency":1505.88, "duration":3.0}] },
+{"name":"Hastings", "pattern":[{"frequency": 566.372, "duration":1.0},{"frequency":849.558, "duration":3.0}] },
+{"name":"Farmington?", "pattern":[{"frequency": 621.359, "duration":1.0},{"frequency":1505.88, "duration":3.0}] },
+{"name":"Farmington Station 1", "pattern":[{"frequency": 659.794, "duration":1.0},{"frequency":1505.88, "duration":3.0}] },
+{"name":"Farmington?", "pattern":[{"frequency": 688.172, "duration":1.0},{"frequency":1505.88, "duration":3.0}] },
+{"name":"Miesville", "pattern":[{"frequency": 719.101, "duration":1.0},{"frequency":849.558, "duration":3.0}] },
+{"name":"Farmington Station 2?", "pattern":[{"frequency": 719.101, "duration":1.0},{"frequency":1505.88, "duration":3.0}] },
+{"name":"South Metro Station 1", "pattern":[{"frequency": 752.941, "duration":1.0},{"frequency":467.153, "duration":3.0}] },
+{"name":"South Metro Station 2", "pattern":[{"frequency": 752.941, "duration":1.0},{"frequency":566.372, "duration":3.0}] },
+{"name":"South Metro Fire", "pattern":[{"frequency": 752.941, "duration":1.0},{"frequency":598.131, "duration":3.0}] },
+{"name":"Eagan 806/435", "pattern":[{"frequency": 806.723, "duration":1.0},{"frequency":435.374, "duration":3.0}] },
+{"name":"Eagan 806/528", "pattern":[{"frequency": 806.723, "duration":1.0},{"frequency":528.926, "duration":3.0}] },
+{"name":"Unknown 806/914", "pattern":[{"frequency": 806.723, "duration":1.0},{"frequency":914.286, "duration":3.0}] },
+{"name":"Apple Valley Station 3", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":407.643, "duration":3.0}] },
+{"name":"Apple Valley Station 1", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":566.372, "duration":3.0}] },
+{"name":"Apple Valley Station 2", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":598.131, "duration":3.0}] },
+{"name":"Rosemount All?", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":1505.88, "duration":3.0}] },
+{"name":"Burnsville", "pattern":[{"frequency": 1129.41, "duration":1.0},{"frequency":1649.48, "duration":3.0}] },
+{"name":"Burnsville Station 2", "pattern":[{"frequency": 1156.63, "duration":1.0},{"frequency":752.941, "duration":3.0}] },
+{"name":"Burnsville Station 1", "pattern":[{"frequency": 1156.63, "duration":1.0},{"frequency":790.123, "duration":3.0}] },
+{"name":"Burnsville All?", "pattern":[{"frequency": 1156.63, "duration":1.0},{"frequency":880.734, "duration":3.0}] },
+{"name":"Farmington Station 2", "pattern":[{"frequency": 1185.19, "duration":1.0},{"frequency":1505.88, "duration":3.0}] },
+{"name":"Mendota Heights", "pattern":[{"frequency": 1219.05, "duration":1.0},{"frequency":849.558, "duration":3.0}] },
+{"name":"Mendota Heights", "pattern":[{"frequency": 1219.05, "duration":1.0},{"frequency":1219.05, "duration":3.0}] },
+{"name":"Eagan 1319/496", "pattern":[{"frequency": 1319.59, "duration":1.0},{"frequency":496.124, "duration":3.0}] },
+{"name":"Eagan 1406/467", "pattern":[{"frequency": 1406.59, "duration":1.0},{"frequency":467.153, "duration":3.0}] },
+{"name":"Eagan 1406/566", "pattern":[{"frequency": 1406.59, "duration":1.0},{"frequency":566.372, "duration":3.0}] },
+{"name":"Unknown 1406/1054", "pattern":[{"frequency": 1406.59, "duration":1.0},{"frequency":1054.95, "duration":3.0}] },
+{"name":"Lakeville Station 1", "pattern":[{"frequency": 1471.26, "duration":1.0},{"frequency":1505.88, "duration":3.0}] },
+{"name":"Randolph Hampton", "pattern":[{"frequency": 1927.71, "duration":1.0},{"frequency":849.558, "duration":3.0}] },
+{"name":"Inver Grove Heights Station 1", "pattern":[{"frequency": 1975.31, "duration":1.0},{"frequency":849.558, "duration":3.0}] },
+{"name":"Inver Grove Heights", "pattern":[{"frequency": 2021.05, "duration":1.0},{"frequency":849.558, "duration":3.0}] }
+
+]},
+
+{
+"talkgroups":[3750],
+"patterns":[
+{"name":"Woodbury", "pattern":[{"frequency": 376.471, "duration":1.0},{"frequency":719.101, "duration":3.0}] },
+
+{"name":"Newport", "pattern":[{"frequency": 407.643, "duration":1.0},{"frequency":344.086, "duration":3.0}] },
+{"name":"Woodbury", "pattern":[{"frequency": 407.643, "duration":1.0},{"frequency":435.374, "duration":3.0}] },
+{"name":"Woodbury", "pattern":[{"frequency": 407.643, "duration":1.0},{"frequency":719.101, "duration":3.0}] },
+
+{"name":"Mahtomedi", "pattern":[{"frequency": 467.153, "duration":1.0},{"frequency":376.471, "duration":3.0}] },
+
+{"name":"Cottage Grove? 3100", "pattern":[{"frequency": 467.153, "duration":8.0}] },
+
+{"name":"Forest Lake", "pattern":[{"frequency": 496.124, "duration":1.0},{"frequency":849.558, "duration":3.0}] },
+
+{"name":"Woodbury", "pattern":[{"frequency": 528.926, "duration":1.0},{"frequency":435.374, "duration":3.0}] },
+{"name":"Cottage Grove", "pattern":[{"frequency": 528.926, "duration":1.0},{"frequency":1103.45, "duration":3.0}] },
+
+{"name":"Oakdale", "pattern":[{"frequency": 566.372, "duration":1.0},{"frequency":752.941, "duration":3.0}] },
+
+{"name":"Woodbury", "pattern":[{"frequency": 621.359, "duration":1.0},{"frequency":435.374, "duration":3.0}] },
+{"name":"Woodbury", "pattern":[{"frequency": 621.359, "duration":1.0},{"frequency":719.101, "duration":3.0}] },
+
+{"name":"Oakdale", "pattern":[{"frequency": 790.123, "duration":1.0},{"frequency":659.794, "duration":3.0}] },
+{"name":"Hugo", "pattern":[{"frequency": 790.123, "duration":1.0},{"frequency":688.172, "duration":3.0}] },
+
+{"name":"Mahtomedi", "pattern":[{"frequency": 880.734, "duration":1.0},{"frequency":310.68, "duration":3.0}] },
+{"name":"Mahtomedi", "pattern":[{"frequency": 880.734, "duration":1.0},{"frequency":344.086, "duration":3.0}] },
+{"name":"Lower St Croix Valley", "pattern":[{"frequency": 880.734, "duration":1.0},{"frequency":376.471, "duration":3.0}] },
+{"name":"Lake Elmo", "pattern":[{"frequency": 880.734, "duration":1.0},{"frequency":435.374, "duration":3.0}] },
+{"name":"Stillwater", "pattern":[{"frequency": 880.734, "duration":1.0},{"frequency":467.153, "duration":3.0}] },
+{"name":"??", "pattern":[{"frequency": 880.734, "duration":1.0},{"frequency":528.926, "duration":3.0}] },
+{"name":"Bayport", "pattern":[{"frequency": 880.734, "duration":1.0},{"frequency":598.131, "duration":3.0}] },
+{"name":"Lake Elmo", "pattern":[{"frequency": 880.734, "duration":1.0},{"frequency":969.697, "duration":3.0}] },
+{"name":"Stillwater", "pattern":[{"frequency": 880.734, "duration":1.0},{"frequency":1103.45, "duration":3.0}] },
+
+{"name":"Woodbury", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":376.471, "duration":3.0}] },
+
+{"name":"Woodbury", "pattern":[{"frequency": 969.697, "duration":8.0}] }
+
+]}
+
+
+
+
+
+]}
+
+
