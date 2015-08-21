@@ -3831,7 +3831,7 @@
 127016 Cottage Grove Fire
 127021 Cottage Grove PD
 127025 Cottage Grove Fire Command Vehicle
-127028 Cottage Grove Medic 8??
+127028 Cottage Grove Medic
 127056 Cottage Grove Medic 831
 127062 Cottage Grove Fire
 127065 Cottage Grove Medic 821?
@@ -3887,6 +3887,8 @@
 127751 Lake Elmo Fire
 127758 Lake Elmo Fire ???
 127902 Lower St Croix Valley Fire
+127905 Lower St Croix Valley Fire
+127909 Lower St Croix Valley Fire
 127915 Lower St Croix Valley Fire
 127924 Lower St Croix Valley Fire
 128052 Mahtomedi Fire
@@ -3952,6 +3954,7 @@
 128611 Oakdale PD
 128612 Oakdale PD
 128616 Oakdale PD
+128659 Oakdale Fire
 128660 Oakdale Fire
 128664 Oakdale Fire
 128665 Oakdale Medic 1
@@ -3997,8 +4000,9 @@
 129102 Stillwater Fire
 129103 Stillwater Fire
 129107 Stillwater Fire 6107
+129109 Stillwater Fire
 129131 Stillwater Fire
-129132 Stillwater Fire 6107
+129132 Stillwater Fire
 129144 Stillwater Fire
 129145 Stillwater Fire
 129149 Stillwater Fire
@@ -4045,6 +4049,7 @@
 129481 Woodbury PD
 129482 Woodbury PD
 129483 Woodbury PD
+129484 Woodbury Fire
 129485 Woodbury PD
 129486 Woodbury PD
 129489 Woodbury PD
@@ -4126,12 +4131,15 @@
 129704 Woodbury Fire
 129708 Woodbury Fire
 129709 Woodbury Medic
+129710 Woodbury Fire
 129711 Woodbury Medic
 129715 Woodbury Fire
 129723 Woodbury Fire
 129726 Woodbury Fire
 129748 Woodbury Fire
+129753 Woodbury Fire
 129760 Woodbury Fire
+129766 Woodbury Fire
 129767 Woodbury Fire
 129768 Woodbury PD
 129769 Woodbury Medic 4
