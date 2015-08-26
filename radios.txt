@@ -372,7 +372,9 @@
 101086 State Patrol 2403
 101090 DNR K337
 101094 State Patrol 390
+101095 State Patrol 224
 101097 State Patrol 358
+101137 State Patrol 304
 101140 State Patrol 168
 101142 State Patrol 416
 101143 State Patrol 549
@@ -517,7 +519,7 @@
 102119 State Patrol 114
 102154 Hastings Fire Base
 102161 Hastings Fire Base
-102233 State Patrol Trooper 8
+102233 Trooper 8
 102234 Trooper 8
 102235 Trooper 9
 102236 Trooper 9
@@ -918,6 +920,7 @@
 105704 Allina 332
 105705 Allina 332
 105728 Allina 634
+105729 Allina
 105733 Allina 515
 105734 Allina 515
 105735 Allina 593
@@ -1021,6 +1024,7 @@
 106049 Allina 204
 106050 Allina 628
 106053 Allina 627
+106054 Allina 204
 106055 Allina 642/685
 106056 Allina 535
 106057 Allina 685
@@ -1093,15 +1097,15 @@
 107100 HealthEast
 107101 HealthEast 63
 107102 HealthEast 1843
-107103 HealthEast 1831
+107103 HealthEast
 107105 HealthEast 1825
-107106 HealthEast 1825
+107106 HealthEast
 107110 HealthEast Dispatch
 107111 Healtheast
 107112 HealthEast
 107113 HealthEast 1824
 107114 HealthEast
-107115 HealthEast 1824
+107115 HealthEast
 107116 HealthEast
 107117 HealthEast
 107118 HealthEast
@@ -1151,14 +1155,14 @@
 107323 Lakeview 802
 107331 Lakeview Medic ?
 107332 Lakeview 804
-107340 HealthEast 1822
+107340 HealthEast
 107343 HealthEast 1829
 107344 HealthEast 1824
 107345 HealthEast 65
 107346 HealthEast
 107347 HealthEast Spare 7?
-107348 HealthEast 23
-107349 Healtheast 1853
+107348 HealthEast
+107349 HealthEast
 107351 HealthEast 1823
 107352 HealthEast
 107353 HealthEast
@@ -1170,7 +1174,7 @@
 107373 HealthEast
 107375 HealthEast 1843
 107376 HealthEast
-107377 HealthEast 1845
+107377 HealthEast
 107378 HealthEast Dispatch
 107385 Life Link Comm Center
 107386 Life Link Comm Center
@@ -1190,10 +1194,12 @@
 107433 Life Link 2
 107481 HealthEast Dispatch
 107482 HealthEast Dispatch
-107486 HealthEast 1841
+107483 HealthEast Dispatch
+107486 HealthEast
 107487 HealthEast 64
 107490 HealthEast 1163
 107492 HealthEast
+107497 HealthEast
 107499 HealthEast
 107503 Metro Transit Dispatch
 107530 Bus Supervisor
@@ -1546,7 +1552,7 @@
 113178 Minneapolis Fire Mobile Command
 113180 Minneapolis Fire Engine 17
 113183 Minneapolis Fire Engine 8
-113184 Minneapolis Fire Engine 14
+113184 Minneapolis Fire Engine 16
 113185 Minneapolis PD
 113186 Minneapolis Fire Engine 4
 113189 Minneapolis Fire Spare Chief Vehicle
@@ -1872,6 +1878,7 @@
 114137 Minneapolis PD
 114138 Minneapolis PD
 114142 Minneapolis PD
+114143 Minneapolis PD
 114145 Minneapolis PD
 114146 Minneapolis PD
 114147 Minneapolis PD
@@ -2057,6 +2064,7 @@
 114704 Minneapolis PD
 114705 Minneapolis PD
 114707 Minneapolis PD
+114713 Minneapolis PD
 114723 Minneapolis PD
 114725 Minneapolis PD
 114727 Minneapolis PD
@@ -2244,7 +2252,7 @@
 115096 Minneapolis PD
 115098 Minneapolis PD
 115099 Minneapolis PD
-115100 Minneapolis Fire Chief 1
+115100 Minneapolis Fire Chief 3
 115101 Minneapolis Fire Engine 22
 115102 Minneapolis PD
 115103 Minneapolis Fire Engine 16
@@ -2347,7 +2355,7 @@
 115321 Minneapolis Fire Ladder 11
 115322 Minneapolis Fire Ladder 4
 115323 Minneapolis Fire Engine 28
-115325 Minneapolis Fire Mobile Command
+115325 Minneapolis Fire Engine 16
 115327 Minneapolis Fire Engine 5
 115331 Minneapolis Fire Engine 4
 115332 Minneapolis Fire Ladder 2
@@ -2448,7 +2456,7 @@
 115632 Minneapolis Fire Rescue 1
 115634 Minneapolis Fire Engine 15
 115635 Minneapolis Fire Ladder 3
-115636 Minneapolis Fire Ladder 11
+115636 Minneapolis Fire Engine 4
 115637 Minneapolis PD
 115638 Minneapolis PD
 115640 Minneapolis PD
@@ -2521,6 +2529,7 @@
 115887 Minneapolis PD
 115890 Minneapolis PD
 115893 Minneapolis PD
+115898 Minneapolis Fire Engine 11
 115900 Minneapolis Fire 10-48/Inspector 1
 115901 Minneapolis Fire Ladder 7
 115902 Minneapolis Fire Engine 7
@@ -2606,6 +2615,7 @@
 117454 Minneapolis Dispatch
 117496 Minneapolis Dispatch
 117548 Minneapolis Dispatch
+117575 Minneapolis PD (Supervisor?)
 117607 Minneapolis Dispatch
 117701 Minneapolis PD
 117882 Minneapolis Dispatch
@@ -3769,6 +3779,7 @@
 126802 Bayport Fire
 126804 Bayport Fire
 126810 Bayport Fire
+126811 Bayport Fire
 126823 Bayport Fire
 126825 Bayport Fire
 126877 Cottage Grove PD
@@ -4292,6 +4303,7 @@
 131198 Apple Valley PD
 131199 Apple Valley PD
 131254 Burnsville Fire Engine 1
+131255 Burnsville Fire
 131256 Burnsville Medic
 131257 Burnsville Fire Ladder 2
 131260 Burnsville Fire Engine 1
@@ -5138,12 +5150,12 @@
 133479 Mendota Heights Fire Engine 11
 133482 Mendota Heights Fire
 133551 Mendota Heights PD
-133552 Mendota Heights PD 2234
+133552 Mendota Heights PD
 133553 Mendota Heights PD
 133554 Mendota Heights PD
 133555 Mendota Heights PD
 133556 Mendota Heights PD
-133557 Mendota Heights PD [test 1,2,3]
+133557 Mendota Heights PD
 133559 Mendota Heights PD
 133560 Mendota Heights PD
 133561 Mendota Heights PD
@@ -6017,6 +6029,7 @@
 154165 Transit PD
 154166 Transit PD
 154170 Transit PD
+154172 Transit PD
 154174 Transit PD
 154241 Metro Transit Dispatch
 154242 Metro Transit Dispatch
@@ -6722,6 +6735,7 @@
 169315 Transit PD
 169316 Transit PD
 169317 Transit PD
+169318 Transit PD
 169319 Transit PD
 169320 Transit PD
 169321 Transit PD
@@ -6826,6 +6840,7 @@
 300474 Hennepin County SO
 300479 Hennepin County SO
 300480 Hennepin County SO
+300481 Hennepin County SO
 300491 Brooklyn Center PD
 300504 South Lake Minneonka PD
 300511 Minnetrista PD
@@ -8604,6 +8619,7 @@
 308666 Rogers PD
 308668 Airport PD
 308671 Airport PD
+308699 Hennepin County SO
 308727 HCMC Spare 15
 308728 HCMC Spare 14
 308753 Hennepin County SO
@@ -10771,6 +10787,9 @@
 504578 Olmsted County SO
 504661 Olmsted County SO
 504857 Stewartville Fire ???
+504859 Eyota Ambulance
+504927 Byron? Fire Portable 5
+504947 Eyota Ambulance
 504961 Goodhue County?
 505126 Olmsted County SO
 505127 Olmsted County SO
@@ -10797,11 +10816,13 @@
 506364 Olmsted County SO
 506516 La Crosse Weather
 506546 Olmsted County SO
+506816 Rochester Fire Chief 2
 506817 Rochester Fire Chief 2
 506819 Rochester Fire Engine 5
 506820 Rochester Fire
 506827 Rochester Fire ???
 506831 Rochester Fire ???
+506858 Rochester Fire Engine 1
 506859 Rochester Fire Engine 1
 506868 Rochester Fire Engine 2
 506869 Rochester Fire Engine 2
@@ -10813,7 +10834,9 @@
 506908 Rochester Fire Truck 12
 506909 Rochester Fire Truck 12
 506915 Rochester Fire
+506917 Rochester Fire Truck 42
 506922 Rochester Fire Rescue 1
+506939 Rochester Fire Tanker 4
 506950 Olmsted County Dispatch
 506951 Olmsted County Dispatch
 506952 Olmsted County Dispatch
@@ -10856,6 +10879,7 @@
 507807 Dodge County Dispatch
 507808 Dodge County Dispatch
 507885 Dodge County 3155?
+507886 Dodge County Dispatch
 507893 Dodge County Dispatch
 507894 Dodge County Dispatch
 507909 Dodge County Dispatch
@@ -11119,6 +11143,7 @@
 519591 Elgin PD ???  700
 519593 Elgin PD ???
 519596 ??? Wabasha County
+519618 Plainview Ambulance
 519724 ??? Deputy 6
 519734 Mazeppa First Responders
 519778 Plainview PD
@@ -11504,8 +11529,13 @@
 601143 DOT Motley
 601185 State Patrol 47
 601211 State Patrol 20
+601238 State Patrol 463
 602014 MCF St Cloud
+605122 Stearns County SO
 605172 Stearns County ???
+605434 Belgrade PD
+608038 Paynesville PD
+608208 Paynesville PD
 608357 Stearns County Dispatch
 608359 Stearns County Dispatch
 612338 Benton County Dispatch
@@ -11632,6 +11662,7 @@
 620004 Wright County Dispatch
 620005 Wright County Dispatch
 620007 Wright County Dispatch
+620013 Wright County SO
 620020 Rockford Fire
 620026 Rockford Fire
 620030 Centracare/Monticello 5704
@@ -11641,6 +11672,7 @@
 620130 Wright County SO
 620229 Wright County SO
 620238 Wright County SO
+620244 Wright County SO
 620249 Wright County Dispatch
 620252 Wright County SO
 620262 Wright County SO
@@ -11655,12 +11687,16 @@
 620298 Wright County SO
 620300 Wright County SO
 620309 Wright County SO
+620318 Wright County SO
 620321 ? 1350
+620326 Wright County SO
 620327 Wright County SO
 620330 Wright County SO (Monticello)
+620332 Wright County SO
 620334 Wright County SO
 620335 Wright County SO
 620341 Wright County SO
+620344 Wright County SO
 620346 Wright County SO
 620350 Wright County SO
 620353 Wright County SO
