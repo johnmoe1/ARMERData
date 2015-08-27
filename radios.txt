@@ -1119,7 +1119,7 @@
 107128 HealthEast 61
 107130 HealthEast 71
 107132 HealthEast
-107134 North
+107134 North 570
 107135 North 565
 107137 HealthEast
 107138 HealthEast
@@ -1199,6 +1199,7 @@
 107487 HealthEast 64
 107490 HealthEast 1163
 107492 HealthEast
+107495 HealthEast
 107497 HealthEast
 107499 HealthEast
 107503 Metro Transit Dispatch
@@ -1603,6 +1604,7 @@
 113473 Minneapolis
 113499 Minneapolis Fire Chief 4
 113501 Minneapolis Fire Chief 2
+113502 Minneapolis Fire 10-2
 113503 Minneapolis Fire Chief 1
 113504 Minneapolis Fire Mobile Command
 113507 Minneapolis Fire 10 1
@@ -5797,7 +5799,7 @@
 141228 Chisago County SO 116
 141232 Chisago County SO 118
 141234 Chisago County SO 115
-141235 Chisago County SO 113/106
+141235 Chisago County SO
 141239 Chisago County SO 129
 141241 Chisago County SO 147
 141242 Chisago County SO 143
@@ -5805,7 +5807,7 @@
 141245 Chisago County SO 122
 141246 Chisago County SO 134
 141305 Chisago County SO 106
-141309 Chisago County SO 113
+141309 Chisago County SO
 141312 Chisago County SO 116
 141313 Chisago County SO 118
 141314 Chisago County SO 119
@@ -5823,7 +5825,7 @@
 141334 Chisago County SO 142
 141335 Chisago County SO
 141338 Chisago County SO 146
-141339 Chisago County SO 147
+141339 Chisago County SO
 141343 Chisago County SO 136
 141344 Chisago County SO
 141353 Chisago County SO 122
@@ -6028,6 +6030,7 @@
 154164 Transit PD
 154165 Transit PD
 154166 Transit PD
+154167 Transit PD (car 9)
 154170 Transit PD
 154172 Transit PD
 154174 Transit PD
@@ -6050,6 +6053,7 @@
 154344 Transit PD
 154345 Transit PD
 154347 Transit PD
+154348 Transit PD
 154349 Transit PD
 154350 Transit PD
 154351 Transit PD
@@ -6057,8 +6061,12 @@
 154353 Transit PD
 154354 Transit PD
 154356 Transit PD
+154503 Pine County SO
+154522 Pine County SO
 154525 DOC Fugitive [was Brian]
-154708 Pine County SO 411
+154529 Pine County SO
+154708 Pine County SO
+154714 Pine County SO
 156498 Pine County Dispatch
 156499 Pine County Dispatch
 156604 Kanabec County Dispatch
@@ -6723,12 +6731,15 @@
 160891 DOC Fugitive ["Mark"]
 161071 DOC Fugitive ["Caroline"]
 161550 MN National Guard
+161972 State Fair 1
+161980 State Fair 3
 167007 MN Human Services
 167015 MN Human Services
 167016 MN Human Services
 167017 MN Human Services
 167019 MN Human Services
 169310 Transit PD
+169311 Transit PD
 169312 Transit PD
 169313 Transit PD
 169314 Transit PD
@@ -7314,6 +7325,7 @@
 302153 Brooklyn Park PD
 302154 Brooklyn Park PD
 302155 Brooklyn Park PD
+302157 Brooklyn Park PD
 302159 Corcoran PD
 302161 Brooklyn Park PD
 302163 Brooklyn Park PD
@@ -7321,6 +7333,7 @@
 302168 Brooklyn Park PD
 302170 Brooklyn Park PD
 302172 Brooklyn Park PD
+302176 Brooklyn Park PD
 302177 Brooklyn Park PD
 302178 Brooklyn Park PD
 302179 Brooklyn Park PD
@@ -8011,6 +8024,7 @@
 304674 Airport Maintenance
 304765 Airport Maintenance
 304808 St Anthony PD
+304810 St Anthony PD
 304813 St Anthony PD
 304816 Brooklyn Park Fire Chief 1
 304823 Orono PD
@@ -8447,6 +8461,7 @@
 306959 Brooklyn Park PD
 306960 Brooklyn Park PD
 306961 Brooklyn Park PD
+306963 Brooklyn Park PD
 306964 Brooklyn Park PD
 306965 Brooklyn Park PD
 306966 Brooklyn Park PD
@@ -8627,6 +8642,7 @@
 308789 Orono PD
 308795 Brooklyn Park PD
 308796 Brooklyn Park PD
+308797 Brooklyn Park PD
 308798 Brooklyn Park PD
 308801 Brooklyn Park PD
 308802 Brooklyn Park PD
@@ -8649,6 +8665,7 @@
 308910 Hennepin County SO
 308916 Robbinsdale Fire
 308920 Brooklyn Park PD
+308923 Brooklyn Park PD
 308932 Rogers Fire Chief 1
 308933 Three Rivers Park PD
 308936 Maple Grove Fire
@@ -8695,6 +8712,7 @@
 309069 Maple Grove PD
 309070 Brooklyn Park PD
 309071 Brooklyn Park PD
+309075 Brooklyn Park PD
 309076 Brooklyn Park PD
 309077 Brooklyn Park PD
 309078 Brooklyn Park PD
@@ -8738,7 +8756,7 @@
 309384 Brooklyn Park PD
 309386 Brooklyn Park PD
 309387 Brooklyn Park PD
-309388 Hennepin County SO
+309388 Brooklyn Park PD
 309397 Hennepin County Public Works
 309443 Plymouth Public Works
 309444 Plymouth Public Works
@@ -8992,7 +9010,9 @@
 312874 White Bear Lake Dispatch
 312996 ??? Dispatch
 314502 Roseville PD
+314503 Roseville PD
 314504 Roseville PD
+314505 Roseville PD
 314507 Roseville PD
 314508 Roseville PD
 314509 Roseville PD
@@ -9039,6 +9059,7 @@
 314641 Roseville PD
 314643 Roseville PD
 314646 Roseville PD
+314648 Roseville PD
 314652 Roseville PD
 314654 Roseville PD
 314655 Roseville PD
@@ -9059,6 +9080,10 @@
 314708 Roseville PD
 314710 Roseville PD
 314711 Roseville PD
+314712 Roseville PD
+314713 Roseville PD
+314714 Roseville PD
+314715 Roseville PD
 315000 Ramsey County SO
 315008 Ramsey County Dispatch
 315022 Ramsey County SO
@@ -9081,6 +9106,7 @@
 315562 Ramsey County SO
 315564 Ramsey County SO
 315569 Ramsey County SO
+315580 Ramsey County SO
 315594 Ramsey County SO
 315606 Ramsey County SO
 315614 Ramsey County SO
@@ -9098,6 +9124,7 @@
 315742 Ramsey County?
 315745 Ramsey County? US Marshals?
 315860 Ramsey County SO
+315861 Ramsey County SO
 315866 Ramsey County SO
 315873 Ramsey County SO
 315875 Ramsey County SO
@@ -9219,7 +9246,7 @@
 316522 "Mike"
 316537 "Chad"?
 316921 State Fair Dispatch
-316922 State Fair? Dispatch
+316922 State Fair Dispatch
 316939 State Fair 1
 316982 East MRCC?
 317001 Sentinel Radio Alarm
@@ -9229,6 +9256,7 @@
 317008 Maplewood PD
 317013 Maplewood PD
 317015 Maplewood PD
+317016 Maplewood PD
 317017 Maplewood PD
 317019 Maplewood PD
 317032 Maplewood PD
@@ -9251,10 +9279,12 @@
 317072 Maplewood PD
 317073 Maplewood PD
 317074 Maplewood PD
+317078 Maplewood PD
 317084 Maplewood PD
 317087 Maplewood PD
 317108 Maplewood Medic 331
 317132 Maplewood Medic 311
+317139 Maplewood Medic
 317145 Maplewood Medic 321
 317147 Maplewood Medic 321
 317158 Maplewood Medic 331
@@ -9275,6 +9305,7 @@
 317204 Maplewood PD
 317205 Maplewood PD
 317206 Maplewood PD
+317207 Maplewood PD
 317208 Maplewood PD
 317211 Maplewood PD
 317213 Maplewood PD
@@ -9296,11 +9327,16 @@
 317504 White Bear Lake PD
 317505 White Bear Lake PD
 317506 White Bear Lake PD
+317507 White Bear Lake PD
+317509 White Bear Lake PD
 317510 White Bear Lake PD
+317512 White Bear Lake PD
+317513 White Bear Lake PD
 317514 White Bear Lake PD
 317516 White Bear Lake PD
 317517 White Bear Lake PD
 317518 White Bear Lake PD
+317519 White Bear Lake PD
 317520 White Bear Lake PD
 317521 White Bear Lake PD
 317524 White Bear Lake PD
@@ -9344,7 +9380,9 @@
 317661 White Bear Lake Ambulance 4
 317663 White Bear Lake Fire Chief 4
 317669 White Bear Lake Ambulance 3
+317670 White Bear Lake Ambulance
 317671 White Bear Lake Fire Chief 3
+317680 White Bear Lake Medic 41
 317686 White Bear Lake Ambulance 1
 317687 White Bear Lake Medic
 317697 White Bear Lake Ambulance 1
@@ -9375,6 +9413,7 @@
 318204 New Brighton PD
 318205 New Brighton PD
 318206 New Brighton PD
+318207 New Brighton PD
 318208 New Brighton PD
 318209 New Brighton PD
 318210 New Brighton PD
@@ -9396,6 +9435,7 @@
 318230 New Brighton PD
 318232 New Brighton PD
 318235 New Brighton PD
+318245 New Brighton PD
 318254 New Brighton PD
 318257 New Brighton PD
 318259 New Brighton PD
@@ -9406,10 +9446,12 @@
 318296 New Brighton PD
 318301 New Brighton PD
 318302 New Brighton PD
+318304 New Brighton PD
 318305 New Brighton PD
 318308 New Brighton PD
 318313 New Brighton PD
 318314 New Brighton PD
+318326 New Brighton PD
 318334 New Brighton PD
 318336 New Brighton PD
 318337 New Brighton PD
@@ -9417,7 +9459,9 @@
 318342 New Brighton PD
 318343 New Brighton PD
 318344 New Brighton PD
+318363 New Brighton PD
 318368 New Brighton PD
+318369 New Brighton PD
 318370 New Brighton PD
 318371 New Brighton PD
 318409 North St Paul PD
@@ -9437,6 +9481,7 @@
 318481 North St Paul PD
 318552 Mounds View PD
 318554 Mounds View PD
+318555 Mounds View PD
 318557 Mounds View PD
 318558 Mounds View PD
 318559 Mounds View PD
@@ -9444,17 +9489,20 @@
 318561 Mounds View PD
 318562 Mounds View PD
 318563 Mounds View PD
+318564 Mounds View PD
 318565 Mounds View PD
 318566 Mounds View PD
 318567 Mounds View PD
 318568 Mounds View PD
 318569 Mounds View PD
 318570 Mounds View PD
+318572 Mounds View PD
 318573 Mounds View PD Base
 318574 Mounds View PD
 318575 Mounds View PD
 318576 Mounds View PD
 318577 Mounds View PD
+318578 Mounds View PD
 318580 Mounds View PD
 318581 Mounds View PD
 318582 Mounds View PD
@@ -9953,6 +10001,7 @@
 320845 St Paul PD
 320851 St Paul PD
 320852 St Paul PD
+320853 State Fair 3
 320857 St Paul PD
 320858 St Paul PD
 320859 St Paul PD
@@ -10071,6 +10120,7 @@
 322206 St Paul Fire Medic 17
 322207 St Paul Fire Medic 24
 322208 St Paul Fire Medic 24
+322215 St Paul Fire Medic 5
 322219 State Fair Ranger 1/2
 322221 State Fair Ranger 1
 322222 State Fair Ranger 2
@@ -10078,6 +10128,7 @@
 322247 St Paul Fire Medic 14
 322248 St Paul Fire Medic 23
 322257 St Paul Fire Medic 62
+322258 St Paul Fire Medic 62
 322259 St Paul Fire Medic 17
 322264 St Paul Fire Medic 6
 322265 St Paul Fire Medic 22
@@ -10107,7 +10158,7 @@
 322364 St Paul Fire Medic 22
 322368 St Paul Fire Engine 5
 322369 St Paul Fire Medic 22
-322374 St Paul Fire Medic 24
+322374 St Paul Fire Medic 62
 322379 St Paul Fire Medic 19
 322380 St Paul Fire Chief 3
 322393 St Paul Fire Engine 15
@@ -11217,6 +11268,7 @@
 539423 Steele County SO? 7138
 539429 Steele County SO 7145
 539606 Owatonna Fire
+539641 Steele County SO
 543015 Rice County SO
 543016 Rice County SO
 543025 Rice County SO
@@ -11342,7 +11394,7 @@
 549583 Mayo 3
 549586 Mayo Dispatch
 549590 Gold Cross
-549592 Mayo 2
+549592 Mayo 1
 549593 Mayo 2
 549594 Mayo 3
 549595 Mayo 1
