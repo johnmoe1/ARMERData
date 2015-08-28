@@ -191,7 +191,7 @@
 100427 State Patrol 479
 100432 State Patrol 149
 100433 State Patrol 147
-100434 State Patrol 292
+100434 State Patrol 292?
 100435 State Patrol 466
 100442 State Patrol 4713
 100443 State Patrol 1652
@@ -249,6 +249,7 @@
 100528 State Patrol 85
 100529 State Patrol 85
 100534 State Patrol 91
+100535 State Patrol 91
 100536 State Patrol 241
 100537 Capitol Security
 100538 State Patrol 518
@@ -419,7 +420,7 @@
 101261 State Patrol 328
 101262 State Patrol 337
 101263 State Patrol 73
-101264 State Patrol 246/256?
+101264 State Patrol 246
 101266 State Patrol 379
 101268 State Patrol 128
 101269 State Patrol 329
@@ -502,6 +503,8 @@
 101825 State Patrol 598
 101827 State Patrol 36
 101855 State Patrol Air
+101917 State Fair Safety Team
+101921 State Fair Safety Team
 102053 State Patrol 1620
 102055 CVI 1625
 102060 State Patrol 1759
@@ -3756,7 +3759,7 @@
 126564 Washington County SO
 126565 Washington County SO
 126570 Washington County SO
-126629 National Guard?
+126629 Unknown
 126751 Washington County Dispatch
 126752 Washington County Dispatch
 126753 Washington County Dispatch
@@ -4603,7 +4606,7 @@
 132064 Eagan Fire Ladder 2
 132065 Eagan Fire Engine 22
 132067 Eagan Fire Engine 3
-132068 Eagan Fire Engine 2
+132068 Eagan Fire Engine 20
 132069 Eagan Fire Chief 3
 132070 Eagan Fire Chief 4
 132071 Eagan Fire Engine 2
@@ -4623,7 +4626,7 @@
 132088 Eagan Fire Engine 4
 132091 Eagan Fire Engine 3
 132092 Eagan Fire Chief 5
-132093 Eagan Fire Chief 4
+132093 Eagan Fire Chief 2
 132094 Eagan Fire Chief 1
 132095 Eagan Fire Engine 5
 132096 Eagan Fire Ladder 2
@@ -6298,6 +6301,7 @@
 159765 MCF Stillwater
 159766 MCF Stillwater
 159767 MCF Stillwater
+159768 MCF Stillwater
 159769 MCF Stillwater
 159770 MCF Stillwater
 159772 MCF Stillwater
@@ -6326,6 +6330,7 @@
 159797 MCF Stillwater
 159798 MCF Stillwater
 159799 MCF Stillwater
+159800 MCF Stillwater
 159801 MCF Stillwater
 159803 MCF Stillwater
 159804 MCF Stillwater
@@ -6389,9 +6394,15 @@
 159883 MCF Stillwater
 159884 MCF Stillwater
 159886 MCF Stillwater
+159887 MCF Stillwater
 159888 MCF Stillwater
+159889 MCF Stillwater
 159890 MCF Stillwater
 159891 MCF Stillwater
+159892 MCF Stillwater
+159893 MCF Stillwater
+159894 MCF Stillwater
+159895 MCF Stillwater
 159896 MCF Stillwater
 159897 MCF Stillwater
 159898 MCF Stillwater
@@ -6400,6 +6411,7 @@
 159904 MCF Stillwater
 159906 MCF Stillwater
 159908 MCF Stillwater
+159909 MCF Stillwater
 159910 MCF Stillwater
 159911 MCF Stillwater
 159912 MCF Stillwater
@@ -6429,11 +6441,16 @@
 159964 MCF Stillwater
 159965 MCF Stillwater
 159966 MCF Stillwater
+159967 MCF Stillwater
 159968 MCF Stillwater
 159969 MCF Stillwater
 159970 MCF Stillwater
 159971 MCF Stillwater
+159972 MCF Stillwater
+159973 MCF Stillwater
+159975 MCF Stillwater
 159976 MCF Stillwater
+159977 MCF Stillwater
 159978 MCF Stillwater
 159979 MCF Stillwater
 159980 MCF Stillwater
@@ -6447,8 +6464,10 @@
 159990 MCF Stillwater
 159991 MCF Stillwater
 159992 MCF Stillwater
+159993 MCF Stillwater
 159994 MCF Stillwater
 159995 MCF Stillwater
+159996 MCF Stillwater
 160000 MCF Stillwater
 160001 MCF Stillwater
 160002 MCF Stillwater
@@ -6477,6 +6496,7 @@
 160032 MCF Stillwater
 160033 MCF Stillwater
 160035 MCF Stillwater
+160036 MCF Stillwater
 160037 MCF Stillwater
 160038 MCF Stillwater
 160039 MCF Stillwater
@@ -6492,6 +6512,7 @@
 160051 MCF Stillwater
 160052 MCF Stillwater
 160053 MCF Stillwater
+160055 MCF Stillwater
 160056 MCF Stillwater
 160057 MCF Stillwater
 160058 MCF Stillwater
@@ -6513,19 +6534,24 @@
 160076 MCF Stillwater
 160078 MCF Stillwater
 160080 MCF Stillwater
+160081 MCF Stillwater
 160082 MCF Stillwater
+160084 MCF Stillwater
 160091 MCF Stillwater
 160094 MCF? HCMC?
 160115 MCF Lino Lakes
+160117 MCF Lino Lakes
 160118 MCF Lino Lakes
 160127 MCF Lino Lakes
 160130 MCF Lino Lakes
 160134 MCF Lino Lakes
 160138 MCF Lino Lakes
+160141 MCF Lino Lakes
 160144 MCF Lino Lakes
 160145 MCF Lino Lakes
 160147 MCF Lino Lakes
 160150 MCF Lino Lakes
+160152 MCF Lino Lakes
 160153 MCF Lino Lakes
 160154 MCF Lino Lakes
 160156 MCF Lino Lakes
@@ -6560,6 +6586,7 @@
 160205 MCF Lino Lakes
 160206 MCF Lino Lakes
 160207 MCF Lino Lakes
+160208 MCF Lino Lakes
 160209 MCF Lino Lakes
 160212 MCF Lino Lakes
 160213 MCF Lino Lakes
@@ -6600,10 +6627,12 @@
 160269 MCF Lino Lakes
 160272 MCF Lino Lakes
 160275 MCF Lino Lakes
+160276 MCF Lino Lakes
 160287 MCF Lino Lakes
 160289 MCF Lino Lakes
 160321 MCF Lino Lakes
 160325 MCF Lino Lakes
+160326 MCF Lino Lakes
 160330 MCF Lino Lakes
 160335 MCF Rush City
 160337 MCF Rush City
@@ -6611,6 +6640,7 @@
 160345 DOC Transport
 160349 MCF Rush City
 160350 MCF Rush City
+160351 MCF Rush City
 160352 MCF Rush City
 160353 MCF Rush City
 160354 MCF Rush City
@@ -6630,6 +6660,7 @@
 160368 MCF Rush City
 160369 MCF Rush City
 160370 MCF Rush City
+160371 MCF Rush City
 160372 MCF Rush City
 160373 MCF Rush City
 160378 MCF Rush City
@@ -6639,23 +6670,33 @@
 160389 MCF Rush City
 160391 MCF Rush City
 160392 MCF Rush City
+160394 MCF Rush City
+160395 MCF Rush City
+160397 MCF Rush City
+160400 MCF Rush City
 160402 MCF Rush City
 160408 MCF Rush City
 160412 MCF Rush City
 160424 MCF Rush City
+160425 MCF Rush City
 160428 MCF Rush City
 160436 MCF Rush City
+160440 MCF Rush City
 160448 MCF Rush City
 160449 MCF Rush City
 160450 MCF Rush City
 160451 MCF Rush City
 160452 MCF Rush City
 160453 MCF Rush City
+160455 MCF Rush City
 160457 MCF Rush City
 160458 MCF Rush City
+160459 MCF Rush City
+160460 MCF Rush City
 160462 MCF Rush City
 160468 MCF Rush City
 160472 MCF Rush City
+160480 MCF Rush City
 160481 MCF Rush City
 160482 MCF Rush City
 160484 MCF Rush City
@@ -6665,8 +6706,10 @@
 160503 MCF Rush City
 160504 MCF Rush City
 160508 MCF Rush City
+160509 MCF Rush City
 160511 MCF Rush City
 160512 MCF Rush City
+160513 MCF Rush City
 160515 MCF Rush City
 160516 MCF Rush City
 160518 MCF Rush City
@@ -6683,12 +6726,58 @@
 160559 MCF Rush City
 160560 MCF Rush City
 160564 DOC Transportation
+160567 MCF Rush City
 160569 MCF Rush City
 160573 MCF Rush City
 160574 MCF Rush City
+160582 MCF Rush City
+160602 MCF Shakopee
+160606 MCF Shakopee
+160608 MCF Shakopee
+160610 MCF Shakopee
+160611 MCF Shakopee
+160612 MCF Shakopee
+160615 MCF Shakopee
+160619 MCF Shakopee
+160620 MCF Shakopee
+160625 MCF Shakopee
+160627 MCF Shakopee
+160631 MCF Shakopee
+160643 MCF Shakopee
+160644 MCF Shakopee
+160650 MCF Shakopee
+160652 MCF Shakopee
+160653 MCF Shakopee
+160660 MCF Shakopee
+160666 MCF Shakopee
+160667 MCF Shakopee
+160668 MCF Shakopee
+160669 MCF Shakopee
+160671 MCF Shakopee
+160672 MCF Shakopee
+160673 MCF Shakopee
+160675 MCF Shakopee
+160677 MCF Shakopee
+160678 MCF Shakopee
+160679 MCF Shakopee
+160681 MCF Shakopee
+160682 MCF Shakopee
+160683 MCF Shakopee
+160684 MCF Shakopee
+160686 MCF Shakopee
+160688 MCF Shakopee
+160689 MCF Shakopee
+160691 MCF Shakopee
+160692 MCF Shakopee
+160695 MCF Shakopee
+160696 MCF Shakopee
+160697 MCF Shakopee
+160698 MCF Shakopee
+160700 MCF Shakopee
 160708 DOC Shakopee Transport
 160710 DOC Shakopee Transport
 160711 DOC Shakopee Transport
+160712 MCF Shakopee
 160736 MCF OPH
 160737 MCF OPH
 160738 MCF OPH
@@ -6729,6 +6818,9 @@
 160885 DOC Fugitive ["Cari/Gerlicher"]
 160886 DOC Fugitive ["Mark"]
 160891 DOC Fugitive ["Mark"]
+161042 MCF Shakopee
+161057 MCF Shakopee
+161059 MCF Shakopee
 161071 DOC Fugitive ["Caroline"]
 161550 MN National Guard
 161972 State Fair 1
@@ -9248,6 +9340,7 @@
 316921 State Fair Dispatch
 316922 State Fair Dispatch
 316939 State Fair 1
+316973 State Fair Medical Aid Supervisor
 316982 East MRCC?
 317001 Sentinel Radio Alarm
 317002 Maplewood PD
@@ -9477,8 +9570,10 @@
 318460 North St Paul PD
 318462 North St Paul PD
 318464 North St Paul PD
+318465 North St Paul
 318469 North St Paul PD
 318481 North St Paul PD
+318530 North St Paul
 318552 Mounds View PD
 318554 Mounds View PD
 318555 Mounds View PD
@@ -10130,9 +10225,11 @@
 322257 St Paul Fire Medic 62
 322258 St Paul Fire Medic 62
 322259 St Paul Fire Medic 17
+322263 St Paul Fire Medic 62
 322264 St Paul Fire Medic 6
 322265 St Paul Fire Medic 22
 322269 State Fair Ranger 1/2
+322270 State Fair Ranger 1
 322273 St Paul Fire Chief 2
 322274 St Paul Fire Car 4
 322278 St Paul Fire Chief 1
@@ -10517,10 +10614,12 @@
 500060 State Patrol 32
 500061 State Patrol 2102
 500062 State Patrol 2101
+500065 State Patrol 2103
 500066 State Patrol 527
+500067 State Patrol 254
 500098 State Patrol 601
 500102 DNR K456
-500103 State Patrol 103
+500103 State Patrol 280
 500104 State Patrol 245
 500106 State Patrol 2104
 500108 State Patrol 564
@@ -10565,6 +10664,7 @@
 500180 State Patrol 448
 500181 State Patrol 564
 500184 State Patrol 420
+500186 State Patrol 590
 500188 State Patrol 32
 500189 State Patrol 173
 500190 State Patrol 103?
@@ -10581,6 +10681,7 @@
 500216 Radio Board Tech
 500217 State Patrol 2103
 500219 State Patrol 2102
+500221 State Patrol 4703
 500222 State Patrol 2104
 500224 State Patrol 378
 500225 State Patrol 236
@@ -10938,7 +11039,152 @@
 508068 "Base"
 508069 "236"
 508072 "base"
+508169 MCF Faribault
+508170 MCF Faribault
+508176 MCF Faribault
+508177 MCF Faribault
+508178 MCF Faribault
+508179 MCF Faribault
+508180 MCF Faribault
+508181 MCF Faribault
+508185 MCF Faribault
+508186 MCF Faribault
+508187 MCF Faribault
+508192 MCF Faribault
+508194 MCF Faribault
+508195 MCF Faribault
+508198 MCF Faribault
+508200 MCF Faribault
+508201 MCF Faribault
+508202 MCF Faribault
+508203 MCF Faribault
+508204 MCF Faribault
+508205 MCF Faribault
+508208 MCF Faribault
+508209 MCF Faribault
+508213 MCF Faribault
+508220 MCF Faribault
+508221 MCF Faribault
+508223 MCF Faribault
+508226 MCF Faribault
+508233 MCF Faribault
+508253 MCF Faribault
+508275 MCF Faribault
+508300 MCF Faribault
+508301 MCF Faribault
+508302 MCF Faribault
+508303 MCF Faribault
+508304 MCF Faribault
+508305 MCF Faribault
+508312 MCF Faribault
+508318 MCF Faribault
+508325 MCF Faribault
+508344 MCF Faribault
+508345 MCF Faribault
+508350 MCF Faribault
+508353 MCF Faribault
+508354 MCF Faribault
+508355 MCF Faribault
+508356 MCF Faribault
+508358 MCF Faribault
+508360 MCF Faribault
+508361 MCF Faribault
+508362 MCF Faribault
+508363 MCF Faribault
+508364 MCF Faribault
+508365 MCF Faribault
+508366 MCF Faribault
+508369 MCF Faribault
+508370 MCF Faribault
+508371 MCF Faribault
+508373 MCF Faribault
+508374 MCF Faribault
+508381 MCF Faribault
+508382 MCF Faribault
+508385 MCF Faribault
+508390 MCF Faribault
+508391 MCF Faribault
+508392 MCF Faribault
+508395 MCF Faribault
+508396 MCF Faribault
+508398 MCF Faribault
+508401 MCF Faribault
+508402 MCF Faribault
+508403 MCF Faribault
+508404 MCF Faribault
+508407 MCF Faribault
+508408 MCF Faribault
+508411 MCF Faribault
+508417 MCF Faribault
+508425 MCF Faribault
+508427 MCF Faribault
+508428 MCF Faribault
+508470 MCF Faribault
+508472 MCF Faribault
+508473 MCF Faribault
+508477 MCF Faribault
+508478 MCF Faribault
+508479 MCF Faribault
+508481 MCF Faribault
+508486 MCF Faribault
+508487 MCF Faribault
+508489 MCF Faribault
+508500 MCF Faribault
+508501 MCF Faribault
+508502 MCF Faribault
+508504 MCF Faribault
+508505 MCF Faribault
+508506 MCF Faribault
+508507 MCF Faribault
+508508 MCF Faribault
+508509 MCF Faribault
+508511 MCF Faribault
+508512 MCF Faribault
+508514 MCF Faribault
+508516 MCF Faribault
+508519 MCF Faribault
+508520 MCF Faribault
+508521 MCF Faribault
+508522 MCF Faribault
+508523 MCF Faribault
+508525 MCF Faribault
+508526 MCF Faribault
+508528 MCF Faribault
+508533 MCF Faribault
+508537 MCF Faribault
+508538 MCF Faribault
+508539 MCF Faribault
+508541 MCF Faribault
+508542 MCF Faribault
+508543 MCF Faribault
+508545 MCF Faribault
+508548 MCF Faribault
+508550 MCF Faribault
+508551 MCF Faribault
+508553 MCF Faribault
+508555 MCF Faribault
+508556 MCF Faribault
+508558 MCF Faribault
+508559 MCF Faribault
+508560 MCF Faribault
+508561 MCF Faribault
+508563 MCF Faribault
+508564 MCF Faribault
+508565 MCF Faribault
+508567 MCF Faribault
+508568 MCF Faribault
+508569 MCF Faribault
+508570 MCF Faribault
+508579 MCF Faribault
+508583 MCF Faribault
+508584 MCF Faribault
+508587 MCF Faribault
+508590 MCF Faribault
+508598 MCF Faribault
+508599 MCF Faribault
+508600 MCF Faribault
 508790 MCF Lino Lakes
+508821 MCF Shakopee
 508822 DOC Shakopee Control
 508849 MCF OPH
 508850 MCF OPH
@@ -11849,6 +12095,7 @@
 700262 DNR? K540
 700571 Radio Board Tech
 701600 State Patrol Dispatch
+701601 State Patrol Dispatch
 701602 State Patrol Dispatch
 701603 State Patrol Dispatch
 701604 State Patrol Dispatch
