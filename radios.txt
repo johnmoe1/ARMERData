@@ -176,7 +176,7 @@
 100398 State Patrol 51
 100401 State Patrol 402
 100402 State Patrol 487
-100403 State Patrol 241?/114
+100403 State Patrol 241
 100408 State Patrol 2501
 100409 State Patrol 421
 100412 State Patrol 2401
@@ -384,6 +384,7 @@
 101153 State Patrol 381
 101155 State Patrol 454
 101157 State Patrol 169
+101164 State Patrol 126
 101166 State Patrol 600
 101213 State Patrol 513
 101214 State Patrol 211
@@ -482,7 +483,7 @@
 101778 State Patrol 575
 101780 State Patrol 583
 101783 State Patrol 405
-101787 State Patrol 405?
+101787 State Patrol 405
 101791 State Patrol 2503
 101792 State Patrol 483
 101801 State Patrol 259
@@ -505,6 +506,7 @@
 101855 State Patrol Air
 101917 State Fair Safety Team
 101921 State Fair Safety Team
+102045 State Patrol ?
 102053 State Patrol 1620
 102055 CVI 1625
 102060 State Patrol 1759
@@ -1544,6 +1546,7 @@
 113129 Minneapolis PD
 113130 Minneapolis PD
 113131 Minneapolis PD
+113134 Minneapolis PD
 113135 Minneapolis PD
 113136 Minneapolis PD
 113137 Minneapolis PD
@@ -1697,6 +1700,7 @@
 113737 Minneapolis PD
 113738 Minneapolis PD
 113742 Minneapolis PD
+113743 Minneapolis PD
 113745 Minneapolis PD
 113748 Minneapolis PD
 113749 Minneapolis PD
@@ -1732,6 +1736,7 @@
 113813 Minneapolis PD
 113814 Minneapolis PD
 113815 Minneapolis PD
+113817 Minneapolis PD
 113818 Minneapolis PD
 113819 Minneapolis PD
 113820 Minneapolis PD
@@ -1766,6 +1771,7 @@
 113887 Minneapolis Animal Control
 113890 Minneapolis PD
 113891 Minneapolis PD
+113897 Minneapolis PD
 113902 Minneapolis PD
 113905 Minneapolis PD
 113906 Minneapolis PD
@@ -1840,6 +1846,7 @@
 114054 Minneapolis PD
 114056 Minneapolis PD
 114058 Minneapolis PD
+114059 Minneapolis PD
 114060 Minneapolis PD
 114064 Minneapolis PD
 114065 Minneapolis PD
@@ -1890,6 +1897,7 @@
 114149 Minneapolis PD
 114155 Minneapolis PD
 114156 Minneapolis PD
+114157 Minneapolis PD
 114159 Minneapolis PD
 114160 Minneapolis PD
 114161 Minneapolis PD
@@ -1915,6 +1923,7 @@
 114194 Minneapolis PD
 114196 Minneapolis PD
 114197 Minneapolis PD
+114198 Minneapolis PD
 114199 Minneapolis PD
 114200 Minneapolis PD
 114205 Minneapolis PD
@@ -1928,6 +1937,7 @@
 114228 Minneapolis PD
 114232 Minneapolis PD
 114233 Minneapolis PD
+114234 Minneapolis PD
 114239 Minneapolis PD
 114240 Minneapolis PD
 114247 Minneapolis PD
@@ -2070,6 +2080,7 @@
 114705 Minneapolis PD
 114707 Minneapolis PD
 114713 Minneapolis PD
+114721 Minneapolis PD
 114723 Minneapolis PD
 114725 Minneapolis PD
 114727 Minneapolis PD
@@ -2094,7 +2105,7 @@
 114789 Minneapolis Animal Control 17
 114790 Minneapolis PD
 114794 Minneapolis PD
-114795 Minneapolis Schools
+114795 Minneapolis PD
 114796 Minneapolis PD
 114800 Minneapolis PD
 114801 Minneapolis PD
@@ -2110,6 +2121,7 @@
 114826 Minneapolis PD
 114832 Minneapolis PD
 114833 Minneapolis PD
+114834 Minneapolis PD
 114838 Minneapolis PD
 114839 Minneapolis PD
 114842 Minneapolis PD
@@ -2130,6 +2142,7 @@
 114870 Minneapolis PD
 114876 Minneapolis PD
 114886 Minneapolis PD
+114889 Minneapolis PD
 114890 Minneapolis PD
 114891 Minneapolis PD
 114893 Minneapolis PD
@@ -2139,6 +2152,7 @@
 114898 Minneapolis PD
 114899 Minneapolis PD
 114901 Minneapolis PD
+114902 Minneapolis PD
 114906 Minneapolis PD
 114907 Minneapolis PD
 114910 Minneapolis PD
@@ -2210,6 +2224,7 @@
 115017 Minneapolis PD
 115019 Minneapolis PD
 115020 Minneapolis PD
+115021 Minneapolis Fire Engine 7
 115022 Minneapolis PD
 115024 Minneapolis PD
 115026 Minneapolis PD
@@ -2466,11 +2481,13 @@
 115638 Minneapolis PD
 115640 Minneapolis PD
 115641 Minneapolis PD
+115642 Minneapolis PD
 115643 Minneapolis PD
 115645 Minneapolis PD
 115646 Minneapolis PD
 115648 Minneapolis PD
 115650 Minneapolis PD
+115654 Minneapolis PD
 115657 Minneapolis PD
 115664 Minneapolis PD
 115665 Minneapolis PD
@@ -2511,7 +2528,9 @@
 115800 Minneapolis Fire Salvage
 115808 Minneapolis Schools
 115810 Minneapolis Fire Chief 5
+115816 Minneapolis PD
 115820 Minneapolis PD
+115821 Minneapolis PD
 115833 Minneapolis PD
 115834 Minneapolis PD
 115845 Minneapolis Fire Engine 27
@@ -2551,6 +2570,7 @@
 115913 Minneapolis PD
 115914 Minneapolis PD
 115915 Minneapolis PD
+115916 Minneapolis PD
 115917 Minneapolis PD
 115918 Minneapolis PD
 115943 Minneapolis Fire 10-1
@@ -3086,6 +3106,7 @@
 122908 Anoka County Jail
 122909 Anoka County Jail
 122910 Anoka County Jail
+122912 Anoka County Jail
 122913 Anoka County Jail
 122914 Anoka County Jail
 122915 Anoka County Jail
@@ -6086,6 +6107,7 @@
 158512 North Security
 158513 North Security
 158514 North Security
+158528 North 123
 158531 North 121
 158535 Air Care 3
 158536 Air Care 6
@@ -9081,6 +9103,7 @@
 311836 Ramsey County Dispatch
 311857 Ramsey County Dispatch
 311905 Ramsey County Dispatch
+311912 Ramsey County Dispatch
 312036 Ramsey County Dispatch
 312057 Ramsey County Dispatch
 312115 Ramsey County Dispatch
@@ -9339,9 +9362,10 @@
 316537 "Chad"?
 316921 State Fair Dispatch
 316922 State Fair Dispatch
-316939 State Fair 1
+316939 State Fair
 316973 State Fair Medical Aid Supervisor
 316982 East MRCC?
+317000 Sentinel Radio Alarm
 317001 Sentinel Radio Alarm
 317002 Maplewood PD
 317003 Maplewood PD
@@ -9629,6 +9653,7 @@
 320048 St Paul PD
 320049 St Paul PD
 320053 St Paul PD
+320055 St Paul PD
 320057 St Paul PD
 320060 St Paul PD
 320062 St Paul PD
@@ -9669,6 +9694,7 @@
 320131 St Paul PD
 320133 St Paul PD
 320139 St Paul PD
+320144 St Paul PD
 320146 St Paul PD
 320149 St Paul PD
 320152 St Paul PD
@@ -9692,6 +9718,7 @@
 320182 St Paul PD
 320183 St Paul PD
 320185 St Paul PD
+320186 St Paul PD
 320187 St Paul PD
 320191 St Paul PD
 320192 St Paul PD
@@ -9710,8 +9737,10 @@
 320228 St Paul PD
 320229 St Paul PD
 320230 St Paul PD
+320231 St Paul PD
 320235 St Paul PD
 320237 St Paul PD
+320241 St Paul PD
 320242 St Paul PD
 320243 St Paul PD
 320245 St Paul PD
@@ -9905,6 +9934,7 @@
 320547 St Paul PD
 320548 St Paul PD
 320553 St Paul PD
+320554 St Paul PD
 320555 St Paul PD
 320557 St Paul PD
 320558 St Paul PD
@@ -9933,6 +9963,7 @@
 320591 St Paul PD
 320592 St Paul PD
 320593 St Paul PD
+320594 St Paul PD
 320596 St Paul PD
 320597 St Paul PD
 320600 St Paul PD
@@ -10110,6 +10141,9 @@
 320896 St Paul PD
 320903 St Paul PD
 320932 St Paul PD
+320933 St Paul PD
+320936 St Paul PD
+320937 St Paul PD
 320953 St Paul PD
 320970 St Paul PD
 320976 St Paul PD
@@ -10117,6 +10151,7 @@
 320981 St Paul PD
 320985 St Paul PD
 320988 St Paul PD
+320991 St Paul PD
 320992 St Paul PD
 320993 St Paul PD
 320995 St Paul PD
@@ -10133,6 +10168,7 @@
 321020 St Paul PD
 321021 St Paul PD
 321023 St Paul PD
+321024 St Paul PD
 321027 St Paul PD
 321028 St Paul PD
 321031 St Paul PD
@@ -10163,6 +10199,7 @@
 321089 St Paul PD
 321090 St Paul PD
 321091 St Paul PD
+321102 St Paul PD
 321373 St Paul PD
 321375 St Paul PD
 321376 St Paul PD
@@ -11772,15 +11809,19 @@
 600108 State Patrol 545
 600110 State Patrol 226
 600112 State Patrol 192
+600117 State Patrol 404
 600121 State Patrol 291
+600125 State Patrol 138
 600126 State Patrol
 600127 State Patrol 2104
+600129 State Patrol 265
 600151 Radio Board Tech
 600220 State Patrol 290
 600222 State Patrol 544
 600225 State Patrol 265
 600254 State Patrol 463
 600255 State Patrol 557
+600259 State Patrol 233
 600266 State Patrol 70
 600268 State Patrol 404
 600271 State Patrol 451
@@ -11789,6 +11830,7 @@
 600292 State Patrol 2604
 600299 State Patrol 2603
 600301 State Patrol 351
+600306 State Patrol 1762
 600308 State Patrol 290
 600310 State Patrol 401
 600312 State Patrol 135
@@ -11797,13 +11839,15 @@
 600318 State Patrol 47
 600322 State Patrol 544
 600323 State Patrol 70
+600324 State Patrol 148
 600326 State Patrol 207
 600327 State Patrol 451
 600329 State Patrol 233
 600331 State Patrol 5
 600332 State Patrol 296
-600333 State Patrol 278
+600333 State Patrol 233
 600335 State Patrol 160
+600337 State Patrol 2604
 600503 State Patrol 494
 600515 DNR K377
 600525 State Patrol 1766
@@ -11825,9 +11869,12 @@
 600988 State Patrol 290
 601036 DOT Aiken
 601143 DOT Motley
+601152 State Patrol 225
 601185 State Patrol 47
 601211 State Patrol 20
+601223 State Patrol 579
 601238 State Patrol 463
+601257 State Patrol 544
 602014 MCF St Cloud
 605122 Stearns County SO
 605172 Stearns County ???
