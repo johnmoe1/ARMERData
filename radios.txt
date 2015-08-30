@@ -6892,6 +6892,15 @@
 300093 HCMC Security
 300094 HCMC Security
 300097 HCMC Security
+300104 Golden Valley PD
+300109 Golden Valley PD
+300118 Golden Valley PD
+300119 Golden Valley PD
+300121 Golden Valley PD
+300126 Golden Valley PD
+300131 Golden Valley PD
+300136 Golden Valley PD
+300139 Golden Valley PD
 300180 Hennepin County Water Rescue
 300197 Golden Valley Fire
 300204 Golden Valley Fire
@@ -6990,7 +6999,9 @@
 300535 Minnetrista PD
 300544 St Anthony PD
 300582 Crystal PD
+300594 Edina PD
 300600 Edina PD
+300604 Edina PD
 300611 Edina PD
 300614 Edina PD
 300615 Edina PD
@@ -7038,6 +7049,7 @@
 300922 Hennepin County SO
 300924 Hennepin County SO
 300942 South Lake Minnetonka PD
+300958 Hopkins PD
 300961 Hopkins PD
 300962 Hopkins PD
 300964 Hopkins PD
@@ -7308,6 +7320,7 @@
 301890 Medina PD
 301891 Medina PD
 301892 Medina PD
+301893 Medina PD
 301895 Medina PD
 301896 Medina PD
 301898 Medina PD
@@ -7348,6 +7361,7 @@
 301947 New Hope PD
 301948 New Hope PD
 301949 Crystal PD
+301950 New Hope PD
 301954 New Hope PD
 301958 West Hennepin Public Safety
 301959 West Hennepin Public Safety
@@ -7503,7 +7517,7 @@
 302282 Robbinsdale PD
 302283 Robbinsdale PD
 302292 Hennepin County SO
-302293 South Lake Minneonka PD
+302293 South Lake Minnetonka PD
 302294 South Lake Minneonka PD
 302295 South Lake Minneonka PD
 302296 South Lake Minneonka PD
@@ -7527,6 +7541,7 @@
 302332 Maple Grove PD
 302333 Maple Grove PD
 302334 Maple Grove PD
+302335 Maple Grove PD
 302337 Maple Grove PD
 302339 Maple Grove PD
 302340 Maple Grove PD
@@ -7617,6 +7632,7 @@
 302669 Brooklyn Park Fire
 302670 Brooklyn Park Fire Battalion 3
 302672 Long Lake Fire Station 2
+302674 Long Lake Fire
 302681 Excelsior Fire
 302684 Minnetonka Fire Engine 8
 302688 Minnetonka Fire Engine 5
@@ -7967,10 +7983,12 @@
 303921 Brooklyn Park PD
 303922 Brooklyn Park PD
 303923 Brooklyn Park PD
+303928 Brooklyn Park PD
 303929 Brooklyn Park PD
 303930 Brooklyn Park PD
 303931 Brooklyn Park PD
 303933 Brooklyn Park PD
+303934 Brooklyn Park PD
 303935 Brooklyn Park PD
 303936 Brooklyn Park PD
 303937 Brooklyn Park PD
@@ -8069,6 +8087,7 @@
 304317 Brooklyn Center PD
 304318 Brooklyn Center PD
 304319 Brooklyn Center PD
+304320 Brooklyn Center PD
 304321 Brooklyn Center PD
 304322 Brooklyn Center PD
 304323 Brooklyn Center PD
@@ -8106,6 +8125,7 @@
 304385 Brooklyn Center PD
 304387 Brooklyn Center PD
 304388 Brooklyn Center PD
+304389 Brooklyn Center PD
 304390 Brooklyn Center PD
 304391 Brooklyn Center PD
 304392 Brooklyn Center PD
@@ -8143,6 +8163,7 @@
 304816 Brooklyn Park Fire Chief 1
 304823 Orono PD
 304824 Brooklyn Center PD
+304825 Brooklyn Center PD
 304828 Brooklyn Center Fire Rescue 7
 304846 Airport Fire Station 1
 304868 St Louis Park Fire
@@ -8221,6 +8242,7 @@
 305089 Golden Valley PD
 305090 Golden Valley PD
 305092 Golden Valley PD
+305093 Golden Valley PD
 305095 Golden Valley PD
 305096 Golden Valley PD
 305097 Golden Valley PD
@@ -8281,8 +8303,8 @@
 305363 Richfield PD 2512
 305367 Richfield PD
 305369 Edina PD
-305370 Richfield PD 2515
-305378 Richfield PD 2513
+305370 Richfield PD
+305378 Richfield PD
 305381 Richfield PD (2511)
 305382 Richfield PD
 305383 Richfield PD
@@ -8358,6 +8380,8 @@
 305584 Hennepin County SO
 305604 Hennepin County SO
 305606 Hennepin County SO
+305618 Excelsior Fire
+305619 Excelsior Fire
 305623 Hennepin County SO
 305624 Hennepin County SO
 305626 Hennepin County SO
@@ -8377,7 +8401,7 @@
 305715 Rogers PD
 305717 Rogers PD
 305731 Edina PD
-305732 Richfield PD 2521
+305732 Richfield PD
 305733 St Louis Park Dispatch
 305738 Richfield PD (2513)
 305740 Richfield PD (2510)
@@ -8390,7 +8414,7 @@
 305751 Richfield PD
 305754 Richfield PD
 305755 Richfield PD
-305756 Richfield PD 2515
+305756 Richfield PD
 305761 HCMC 427 (or spare?)
 305766 HCMC 438
 305769 HCMC 422
@@ -8406,11 +8430,12 @@
 305800 Edina PD
 305801 Richfield PD 2523
 305802 Richfield PD
-305803 Richfield PD 2511
+305803 Richfield PD
 305804 Richfield PD
 305805 Richfield PD 2524
 305807 Richfield PD 2565
 305808 Richfield PD (2563)
+305813 Richfield PD
 305817 Rogers PD
 305825 Maple Grove Fire Chief 5
 305827 Maple Grove Fire
@@ -10339,6 +10364,7 @@
 329005 Bloomington PD
 329031 Bloomington Dispatch
 329041 Bloomington PD
+329044 Bloomington PD
 329072 Bloomington PD
 329074 Bloomington PD
 329081 Bloomington PD
@@ -10388,6 +10414,7 @@
 329229 Bloomington PD
 329231 Bloomington PD
 329232 Bloomington PD
+329233 Bloomington PD
 329235 Bloomington PD
 329237 Bloomington PD
 329239 Bloomington PD
@@ -10476,6 +10503,8 @@
 329834 Bloomington PD
 329835 Bloomington PD
 329836 Bloomington PD
+329837 Bloomington PD
+329838 Bloomington PD
 329840 Bloomington PD
 329841 Bloomington PD
 329842 Bloomington PD
@@ -10547,6 +10576,7 @@
 330101 Eden Prairie PD
 330102 Eden Prairie PD
 330103 Eden Prairie PD
+330105 Eden Prairie PD
 330106 Eden Prairie PD
 330108 Eden Prairie PD
 330110 Eden Prairie PD
@@ -10563,6 +10593,7 @@
 330125 Eden Prairie PD
 330126 Eden Prairie PD
 330127 Eden Prairie PD
+330198 Eden Prairie PD
 330208 Eden Prairie PD
 330214 Eden Prairie PD
 330219 Eden Prairie PD
