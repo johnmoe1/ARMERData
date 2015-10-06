@@ -5116,13 +5116,13 @@
 132981 Inver Grove Heights PD
 132982 Inver Grove Heights PD
 132983 Inver Grove Heights PD
-132985 Farmington PD?
+132985 Inver Grove Heights PD
 132986 Inver Grove Heights PD
 132987 Inver Grove Heights PD
 132988 Inver Grove Heights PD
 132989 Inver Grove Heights PD
 132991 Inver Grove Heights PD
-132992 Inver Grove Height PD
+132992 Inver Grove Heights PD
 132993 Inver Grove Heights PD
 132994 Inver Grove Heights PD
 132995 Inver Grove Heights PD
@@ -5618,7 +5618,7 @@
 134727 Dakota County Probation 9903
 134729 Dakota County Probation (9902)
 134730 Dakota County Probation (9904)
-134731 Dakota County Probation 9905 (Amanda)
+134731 Dakota County Probation 9905 ["Amanda"]
 134751 Burnsville Public Works
 134754 Burnsville Public Works
 134756 Burnsville Public Works
@@ -7194,6 +7194,7 @@
 300614 Edina PD
 300615 Edina PD
 300616 Edina PD
+300618 Edina PD
 300646 Hennepin County Court
 300654 Hennepin County Court
 300655 Hennepin County Court
@@ -7977,6 +7978,7 @@
 303216 Edina Medic 2
 303217 Edina Medic 2
 303218 Edina Medic
+303224 Edina Medic
 303230 Edina Medic 1
 303234 ???
 303240 Edina Medic
@@ -8001,10 +8003,10 @@
 303277 Edina PD
 303281 Edina Medic 1
 303286 Edina Fire Chief 1
-303290 St Louis Park Fire
+303290 Edina Fire Engine 81
 303291 Edina Fire
 303295 Edina Medic 1
-303296 Edina Medic 2
+303296 Edina Medic
 303297 Edina Medic 2
 303298 Edina Fire Marshal
 303415 Richfield Fire Rescue 1
@@ -12700,4 +12702,3 @@
 846050 Becker County Dispatch
 846051 Becker County Dispatch
 851999 Hubbard County Dispatch
-3100185 Hennepin County Dispatch
