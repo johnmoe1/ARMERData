@@ -19,13 +19,13 @@
 100063 DNR K351
 100068 Radio Board Tech
 100070 Radio Board Tech
-100074 Afton 891/898
+100074 Afton
 100075 Afton 892
 100076 Afton 894
 100077 Afton 892
 100078 Afton 893
 100079 Afton Base
-100080 Afton 899
+100080 Afton
 100123 Capitol Security
 100127 State Patrol 926
 100128 State Patrol 4601
@@ -792,6 +792,7 @@
 105256 North 151
 105258 North 104
 105260 North 104
+105261 North 103
 105265 North 121
 105272 North Dispatch
 105274 North Dispatch
@@ -1289,6 +1290,7 @@
 107590 Transit PD
 107652 Shop Truck
 107672 Bus Supervisor
+107682 Bus Supervisor
 107689 Transit PD
 107697 Transit PD
 107700 Transit PD
@@ -2045,6 +2047,7 @@
 114200 Minneapolis PD
 114205 Minneapolis PD
 114210 Minneapolis PD
+114211 Minneapolis PD
 114212 Minneapolis PD
 114214 Minneapolis PD
 114217 Minneapolis PD
@@ -4790,6 +4793,7 @@
 131821 Dakota County SO
 131822 Dakota County SO
 131826 Dakota County SO
+131832 Dakota County SO
 131835 Dakota County SO
 131836 Dakota County SO
 131838 Dakota County SO
@@ -4993,7 +4997,7 @@
 132329 Farmington Fire Engine 1
 132330 Farmington Fire Chief 1
 132331 Farmington Fire Engine 2
-132333 Farmington Fire Chief 3
+132333 Farmington Fire
 132334 Farmington Fire Brush 2
 132335 Farmington Fire Rescue 1
 132336 Farmington Fire Rescue 1
@@ -6192,6 +6196,7 @@
 146235 Braham PD
 146236 Braham PD
 146238 Braham PD
+146270 Isanti County SO
 146470 Cambridge Hospital
 146525 Isanti County Dispatch
 146526 Isanti County Dispatch
@@ -6200,6 +6205,7 @@
 146591 Isanti County Dispatch
 146615 Isanti County Dispatch
 146616 Isanti County Dispatch
+146700 Isanti County?
 151001 UMN Dispatch
 151002 UMN Dispatch
 151003 UMN Security Dispatch
@@ -6306,7 +6312,7 @@
 154108 Transit PD
 154109 Transit PD
 154110 Transit PD
-154111 Minneapolis PD
+154111 Minneapolis PD?Transit?
 154132 Transit PD
 154133 Transit PD
 154135 Transit PD
@@ -6323,12 +6329,14 @@
 154168 Transit PD
 154170 Transit PD
 154172 Transit PD
+154173 Transit PD
 154174 Transit PD
 154175 Transit PD
 154241 Metro Transit Dispatch
 154242 Metro Transit Dispatch
 154243 Metro Transit Dispatch
 154244 Metro Transit Dispatch
+154248 Metro Transit Dispatch
 154249 Metro Transit Dispatch
 154252 Metro Transit Dispatch
 154287 Metro Transit RCC
@@ -7316,6 +7324,7 @@
 300715 Hennepin County SO
 300717 Hennepin County SO
 300719 Hennepin County SO
+300720 Hennepin County SO
 300724 Hennepin County SO
 300725 Minneapolis PD
 300727 Hennepin County SO
@@ -7323,6 +7332,7 @@
 300730 Hennepin County SO
 300740 St Anthony Fire
 300789 Minnetonka PD
+300792 Hennepin County SO
 300798 Hennepin County Water Patrol
 300799 Hennepin County Water Patrol
 300804 HCMC 423
@@ -7342,6 +7352,7 @@
 300867 Hennepin County SO
 300880 Hennepin County SO
 300896 Hennepin County SO
+300916 Hennepin County SO
 300917 Hennepin County SO Warrant
 300918 Hennepin County SO
 300919 Hennepin County SO
@@ -7369,6 +7380,7 @@
 301030 Hennepin County SO
 301032 Minnetrista PD
 301044 Crystal PD
+301045 Hennepin County SO
 301046 Crystal PD
 301047 St Louis Park Fire Station 2
 301048 St Louis Park Fire Station 1
@@ -7690,6 +7702,7 @@
 301987 Orono PD?
 301988 New Hope PD
 301989 West Hennepin Public Safety
+301994 Crystal PD
 301996 Hamel Fire Chief
 301997 Crystal PD
 301998 Hamel Fire
@@ -7822,6 +7835,8 @@
 302281 Robbinsdale PD
 302282 Robbinsdale PD
 302283 Robbinsdale PD
+302286 Corcoran PD
+302290 Corcoran PD
 302292 Hennepin County SO
 302293 South Lake Minnetonka PD
 302294 South Lake Minneonka PD
@@ -8606,6 +8621,7 @@
 305233 Maple Grove Fire Engine 22
 305235 Hennepin County SO
 305239 Hennepin County SO
+305243 Hennepin County SO
 305252 Brooklyn Park Fire Rescue 31
 305253 Hennepin County SO Warrant
 305254 Hennepin County SO
@@ -8615,14 +8631,17 @@
 305259 Hennepin County SO
 305260 Hennepin County SO
 305262 Hennepin County SO
+305264 Hennepin County SO
 305268 Hennepin County SO
 305269 Hennepin County SO
 305270 Radio Board Tech
 305272 Hennepin County SO
 305274 Hennepin County SO
+305277 Hennepin County SO
 305279 Hennepin County SO 1310
 305282 Hennepin County SO
 305294 Hennepin 1311
+305298 Hennepin County SO
 305299 Hennepin County SO
 305303 Hennepin County Water Patrol
 305312 Brooklyn Park Fire Rescue 31
@@ -8716,6 +8735,7 @@
 305572 Hennepin County SO
 305576 Hennepin County SO
 305577 Brooklyn Park Fire Engine 21
+305583 Hennepin County SO
 305584 Hennepin County SO
 305604 Hennepin County SO
 305606 Hennepin County SO
@@ -9226,6 +9246,7 @@
 309098 Airport PD
 309100 Airport PD
 309103 Airport PD
+309114 Hennepin County SO
 309115 VAMC PD
 309117 VAMC PD
 309118 VAMC PD
@@ -9283,6 +9304,7 @@
 309547 Hennepin County SO
 309548 Corcoran PD
 309549 Corcoran PD
+309550 Corcoran PD
 309552 Medicine Lake Fire
 309554 Brooklyn Park PD
 309578 Mound Fire Engine 13
@@ -9329,6 +9351,7 @@
 309788 Brooklyn Park PD
 309789 Brooklyn Park PD
 309790 Brooklyn Park PD
+309791 Brooklyn Park PD
 309792 Brooklyn Park PD
 309793 Brooklyn Park PD
 309794 Brooklyn Park PD
@@ -9422,6 +9445,7 @@
 310116 Hennepin County Dispatch
 310119 Hennepin County Dispatch
 310128 Hennepin County SO
+310129 Hennepin County SO
 310130 Hennepin County SO
 310131 Hennepin County SO
 310132 Hennepin County SO (crime lab)
@@ -11275,7 +11299,7 @@
 500243 State Patrol 136
 500244 State Patrol 345
 500246 State Patrol 572
-500247 State Patrol 32
+500247 State Patrol 103
 500248 State Patrol 420
 500250 State Patrol 446
 500251 State Patrol 420
@@ -11325,6 +11349,8 @@
 500399 DOT Winona
 500400 DOT St Charles
 500407 DOT Winona 1
+500446 DOT
+500447 DOT
 500450 DOT Wabasha
 500451 DOT Wabasha
 500464 DOT 401
@@ -11334,6 +11360,7 @@
 500484 State Patrol 236
 500487 DNR?
 500488 State Patrol 521
+500490 DOT
 500492 Red Wing 17 (plow)
 500493 Red Wing 19 (plow)
 500494 Red Wing 110 (plow)
@@ -11523,6 +11550,7 @@
 504474 Olmsted County SO
 504476 Olmsted County SO
 504486 Olmsted County SO
+504489 Olmsted County SO
 504491 Rochester PD
 504504 Olmsted County SO
 504522 Olmsted County SO
@@ -11572,7 +11600,7 @@
 506817 Rochester Fire Chief 2
 506819 Rochester Fire Engine 5
 506820 Rochester Fire
-506827 Rochester Fire Engine ??
+506827 Rochester Fire
 506831 Rochester Fire ???
 506858 Rochester Fire Engine 1
 506859 Rochester Fire Engine 1
@@ -11596,6 +11624,7 @@
 506953 Olmsted County Dispatch
 506954 Olmsted County Dispatch
 506955 Olmsted County Dispatch
+506995 Rochester Fire
 506999 Rochester Fire Battalion 2
 507041 Dodge? 3107
 507043 Dodge County SO 3111
@@ -12738,6 +12767,8 @@
 672001 Otter Tail County Dispatch
 672010 Otter Tail County SO
 672029 Otter Tail County SO
+672066 Otter Tail 328?
+672070 Otter Tail 334?
 672206 Henning PD
 677953 Wadena County Dispatch
 681497 Grant County Dispatch
