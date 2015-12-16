@@ -78,17 +78,17 @@
 100209 State Patrol 1620
 100211 FIRST 8100
 100215 State Patrol 2406
-100218 State Patrol 1608
+100218 State Patrol CVI 1608
 100222 State Patrol 1638
 100223 State Patrol 199
-100224 State Patrol 1621
+100224 State Patrol CVI 1621
 100226 State Patrol 473
 100228 State Patrol 223
 100236 State Patrol 1620
 100240 State Patrol 156
 100241 State Patrol 299
 100245 State Patrol 1624
-100248 State Patrol 1756
+100248 State Patrol CVI 1756
 100249 State Patrol 1525
 100251 State Patrol 1759
 100252 State Patrol 215
@@ -141,7 +141,7 @@
 100340 State Patrol 106
 100341 State Patrol 256
 100342 State Patrol 337
-100346 State Patrol 310
+100346 State Patrol 73
 100347 State Patrol 318
 100348 State Patrol 312
 100350 State Patrol 487
@@ -191,7 +191,7 @@
 100420 State Patrol 74
 100423 State Patrol 545
 100425 State Patrol 452
-100426 State Patrol 251
+100426 State Patrol 256
 100427 State Patrol 479
 100432 State Patrol 149
 100433 State Patrol 147
@@ -321,6 +321,7 @@
 100755 State Patrol 193
 100762 State Patrol 598
 100794 Capitol Security
+100796 State Patrol 598
 100799 State Patrol 547
 100800 State Patrol 925 (air?)
 100812 FIRST 810x
@@ -348,6 +349,7 @@
 101006 State Patrol 82
 101007 State Patrol 402
 101012 State Patrol 198
+101014 Red Cross
 101015 State Patrol 473
 101021 State Patrol 515
 101022 State Patrol 227
@@ -363,7 +365,7 @@
 101042 State Patrol 321
 101044 State Patrol 312
 101045 State Patrol 221
-101049 State Patrol 1621
+101049 State Patrol CVI 1601
 101052 State Patrol 199
 101059 Capitol Security
 101062 Capitol Security
@@ -382,10 +384,13 @@
 101097 State Patrol 358
 101113 State Patrol 172
 101124 State Patrol 215
+101128 State Patrol 385
 101129 State Patrol 470
 101130 State Patrol 470
+101132 State Patrol 469
 101136 State Patrol 503
 101137 State Patrol 304
+101138 State Patrol 16
 101140 State Patrol 168
 101142 State Patrol 416
 101143 State Patrol 549
@@ -445,6 +450,8 @@
 101270 State Patrol 139
 101272 State Patrol 272
 101273 State Patrol 151
+101275 State Patrol 58
+101287 State Patrol 447
 101289 State Patrol 91
 101304 State Patrol 23
 101320 BCA
@@ -484,7 +491,7 @@
 101689 State Patrol 230
 101691 State Patrol 545
 101693 State Patrol 466
-101694 State Patrol 1752
+101694 State Patrol CVI 1752
 101697 State Patrol 77
 101702 DNR K32 (air?)
 101707 DNR K33 (air?)
@@ -526,6 +533,7 @@
 101855 State Patrol Air
 101917 State Fair Safety Team
 101921 State Fair Safety Team
+102042 State Patrol 398
 102045 State Patrol ?
 102053 State Patrol 1620
 102055 CVI 1625
@@ -572,7 +580,7 @@
 102328 William O'Brien
 102329 William O'Brien 493
 102330 William O'Brien
-102354 State Patrol ???
+102354 State Patrol 193
 102357 State Patrol 633
 102360 State Patrol 925
 102361 State Patrol Car 631
@@ -596,6 +604,7 @@
 102389 State Patrol 53
 102397 State Patrol 458
 102399 State Patrol 377
+102400 State Patrol 377
 103006 FIRST 810x
 103014 FIRST 810x
 103015 FIRST 810x
@@ -615,6 +624,7 @@
 103159 MN DOT
 103165 MN DOT
 103175 FIRST 810x
+103258 State Patrol 596
 103331 MN DOT
 103338 MN DOT
 103385 MN DOT
@@ -977,6 +987,7 @@
 105719 Allina 594
 105728 Allina 634
 105729 Allina
+105732 Allina 2xx
 105733 Allina 515
 105734 Allina 515
 105735 Allina 593
@@ -1084,8 +1095,9 @@
 106048 Allina
 106049 Allina 204
 106050 Allina 628
+106052 Allina 610
 106053 Allina 627
-106054 Allina 204
+106054 Allina 2xx
 106055 Allina 642/685
 106056 Allina 571
 106057 Allina
@@ -1780,6 +1792,7 @@
 113621 Minneapolis PD
 113623 Minneapolis PD
 113624 Minneapolis PD
+113626 Minneapolis PD
 113627 Minneapolis PD
 113630 Minneapolis Schools ["Thomas"]
 113635 Minneapolis PD
@@ -2122,6 +2135,7 @@
 114262 Minneapolis PD
 114265 Minneapolis PD
 114268 Minneapolis PD
+114269 Minneapolis PD
 114270 Minneapolis PD
 114272 Minneapolis PD
 114274 Minneapolis PD
@@ -2783,7 +2797,7 @@
 115887 Minneapolis PD
 115890 Minneapolis PD
 115893 Minneapolis PD
-115897 Minneapolis Ladder 10
+115897 Minneapolis Fire Ladder 10
 115898 Minneapolis Fire Engine 11
 115900 Minneapolis Fire 10-48/Inspector 1
 115901 Minneapolis Fire Ladder 7
@@ -3002,6 +3016,7 @@
 121790 FBI
 121832 BCA?
 121835 BCA?
+121952 Civil Air Patrol
 122000 UMN PD
 122003 UMN PD
 122012 UMN PD
@@ -3110,6 +3125,7 @@
 122482 Ham Lake Fire Grass 1
 122484 Ham Lake Fire
 122486 Ham Lake Fire
+122487 Ham Lake Fire
 122488 Ham Lake Fire
 122494 SPM Fire Chief 3
 122501 SBM Fire
@@ -3790,9 +3806,10 @@
 123804 Lino Lakes PD
 123805 Anoka PD
 123815 Anoka County SO
-123819 Ham Lake Fire
+123819 Ham Lake Fire Chief 2
 123832 Anoka County SO
 123834 Anoka County SO
+123835 Anoka County SO
 123844 Ramsey Fire Station 1
 123847 SBM Fire Chief 5
 123848 Coon Rapids PD
@@ -3905,6 +3922,8 @@
 124531 Blaine PD
 124538 Blaine PD
 124541 Blaine PD
+124547 Blaine PD
+124550 Fridley PD
 124555 Fridley PD
 124558 Fridley PD
 125001 Anoka County Dispatch
@@ -4142,6 +4161,7 @@
 126933 Cottage Grove PD
 126934 Cottage Grove PD
 126936 Cottage Grove PD
+126937 Cottage Grove PD
 126938 Cottage Grove PD
 126939 Cottage Grove PD
 126942 Cottage Grove PD
@@ -4251,6 +4271,7 @@
 128305 Newport PD
 128306 Newport PD
 128316 Newport PD
+128318 Newport PD
 128321 Newport PD
 128322 Newport PD
 128372 Newport Fire
@@ -4262,6 +4283,7 @@
 128451 Oak Park Heights PD (Office?)
 128452 Oak Park Heights PD
 128453 Oak Park Heights PD
+128454 Oak Park Heights PD
 128455 Oak Park Heights PD
 128461 Oak Park Heights PD
 128462 Oak Park Heights PD
@@ -4306,6 +4328,7 @@
 128611 Oakdale PD
 128612 Oakdale PD
 128616 Oakdale PD
+128619 Oakdale PD
 128659 Oakdale Fire
 128660 Oakdale Fire
 128664 Oakdale Fire
@@ -4418,6 +4441,8 @@
 129497 Woodbury PD
 129498 Woodbury PD
 129499 Woodbury PD
+129500 Woodbury PD
+129501 Woodbury PD
 129524 Woodbury PD
 129525 Woodbury PD
 129527 Woodbury PD
@@ -4427,6 +4452,7 @@
 129531 Woodbury PD
 129533 Woodbury PD
 129534 Woodbury PD
+129545 Woodbury PD
 129547 Woodbury PD
 129548 Woodbury PD
 129549 Woodbury PD
@@ -4435,6 +4461,7 @@
 129553 Woodbury PD
 129556 Woodbury PD
 129557 Woodbury PD
+129559 Woodbury PD
 129560 Woodbury PD
 129561 Woodbury PD
 129563 Woodbury PD
@@ -4453,6 +4480,7 @@
 129577 Woodbury PD
 129578 Woodbury PD
 129579 Woodbury PD
+129581 Woodbury PD
 129582 Woodbury PD
 129583 Woodbury PD?
 129584 Woodbury PD
@@ -4484,6 +4512,7 @@
 129610 Woodbury PD
 129611 Woodbury PD
 129615 Woodbury Medic
+129619 Woodbury PD
 129620 Woodbury PD
 129621 Woodbury PD
 129622 Woodbury PD
@@ -7273,7 +7302,7 @@
 160891 DOC Fugitive ["Mark"]
 160892 DOC Fugitive ["John"]
 160893 DOC Fugitive ["Doc"]
-160894 DOC Fugitive [?]
+160894 DOC Fugitive ["Sarah"]
 160897 DOC Fugitive ["Terry/Nutter"]
 161042 MCF Shakopee
 161057 MCF Shakopee
@@ -7337,6 +7366,7 @@
 300008 Hennepin County SO
 300059 Eden Prairie PD
 300070 HCMC Security
+300071 HCMC Security
 300074 HCMC Security
 300075 HCMC Security
 300077 HCMC Security
@@ -7351,6 +7381,7 @@
 300086 HCMC Security
 300087 HCMC Security
 300088 HCMC Security
+300090 HCMC Security
 300092 HCMC Security
 300093 HCMC Security
 300094 HCMC Security
@@ -8941,6 +8972,7 @@
 305657 Hennepin County SO
 305667 Hennepin County SO
 305668 Hennepin County SO
+305669 Hennepin County SO
 305677 Hennepin County SO
 305678 Hennepin County SO 1128
 305679 Hennepin County SO
@@ -9417,6 +9449,7 @@
 309034 VAMC PD
 309035 VAMC PD
 309037 Plymouth PD
+309040 St Anthony PD
 309041 St Anthony PD
 309044 Champlin PD
 309046 Dayton PD
@@ -9747,6 +9780,7 @@
 312984 Ramsey County Dispatch
 312985 Ramsey County Dispatch
 312986 Ramsey County Dispatch
+312987 Ramsey County Dispatch
 312988 Ramsey County Dispatch
 312989 Ramsey County Dispatch
 312992 Ramsey County Dispatch
@@ -9810,6 +9844,7 @@
 314646 Roseville PD
 314648 Roseville PD
 314652 Roseville PD
+314653 Roseville PD
 314654 Roseville PD
 314655 Roseville PD
 314656 Roseville PD
@@ -10948,6 +10983,7 @@
 321712 St Paul PD
 321713 St Paul PD
 322011 St Paul Fire Hazmat ?
+322049 St Paul Fire Engine 23
 322057 St Paul Fire Squad 3
 322062 St Paul Fire Engine 5
 322074 St Paul Fire Engine 8
@@ -11031,6 +11067,7 @@
 322379 St Paul Fire Medic 19
 322380 St Paul Fire Chief 3
 322393 St Paul Fire Engine 15
+322394 St Paul Fire Ladder 20
 322396 St Paul Fire Hazmat 1
 322404 St Paul Fire Medic 52
 322405 St Paul Fire Ambulance 51
@@ -11596,6 +11633,7 @@
 500611 DOT Winona 2
 500621 Rochester 1 (Maintenance?)
 500631 Cannon Falls? (plow?)
+500804 State Patrol 31
 500806 State Patrol 112
 500807 State Patrol 2201
 500812 State Patrol 507
@@ -11606,8 +11644,9 @@
 500823 State Patrol 112
 500892 DNR?
 500903 DNR K458
+500908 State Patrol 570?
 500909 State Patrol 590
-500910 State Patrol 448
+500910 State Patrol 395
 500914 State Patrol 552
 500915 State Patrol 145
 500917 State Patrol 407
@@ -11616,12 +11655,15 @@
 500940 State Patrol 134
 500941 State Patrol 317
 500963 State Patrol 105
+501003 State Patrol 563
 501012 State Patrol 578
 501015 State Patrol 142?
+501021 State Patrol 365
 501023 State Patrol 145
 501025 State Patrol 470
 501027 State Patrol 79
 501028 State Patrol 593
+501031 State Patrol 77
 501037 State Patrol 2202
 501038 State Patrol 2200
 501200 DOT Winona
@@ -12295,10 +12337,13 @@
 519081 Wabasha County SO
 519083 Wabasha County SO
 519119 Wabasha County Highway
+519120 Wabasha County Highway
 519121 Wabasha County Highway
 519122 Wabasha County Highway
+519123 Wabasha County Highway
 519124 Wabasha County Highway
 519125 Wabasha County Highway
+519127 Wabasha County Highway
 519128 Wabasha County Highway
 519130 Wabasha County Highway
 519133 Wabasha County Highway
@@ -12307,9 +12352,12 @@
 519138 Wabasha County Highway
 519139 Wabasha County Highway
 519141 Wabasha County Highway
+519142 Wabasha County Highway
+519143 Wabasha County Highway
 519144 Wabasha County Highway
 519145 Wabasha County Highway
 519146 Wabasha County Highway
+519147 Wabasha County Highway
 519148 Wabasha County Highway
 519149 Wabasha County Highway
 519162 Wabasha County SO
@@ -13045,12 +13093,22 @@
 700149 State Patrol 128
 700151 State Patrol 71
 700171 Radio Board Tech
+700173 State Patrol 2301
+700185 State Patrol 429
+700187 State Patrol 238
 700188 State Patrol 356
 700190 State Patrol 460
+700193 State Patrol 481
+700194 State Patrol 560
+700212 State Patrol 50
+700214 State Patrol 431?
+700219 State Patrol 76
+700220 State Patrol 429
 700228 State Patrol 450
 700235 State Patrol 511
 700236 State Patrol 1621
 700262 DNR? K540
+700273 State Patrol 212
 700571 Radio Board Tech
 701600 State Patrol Dispatch
 701601 State Patrol Dispatch
@@ -13083,6 +13141,7 @@
 770015 Radio Board Tech
 770016 Radio Board Tech
 770201 State Patrol 494
+770207 State Patrol 2300
 770232 "227"
 770233 "320"
 770235 "321"
@@ -13098,6 +13157,7 @@
 770266 State Patrol 542
 770268 State Patrol 415
 770272 State Patrol 2102
+770273 State Patrol 277
 770279 State Patrol 410
 770290 State Patrol 10
 770291 State Patrol 471
@@ -13237,7 +13297,9 @@
 831353 State Patrol 120
 831359 State Patrol 371
 831372 State Patrol 2104
+831412 State Patrol 317
 831421 State Patrol 134
+831524 State Patrol 354
 831659 Radio Board Tech
 840001 Border Patrol
 840028 Border Patrol
