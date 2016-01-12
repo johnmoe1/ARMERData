@@ -44,7 +44,7 @@
 100155 State Patrol 272
 100156 State Patrol 113
 100157 State Patrol 113
-100158 State Patrol 74
+100158 State Patrol 74/362
 100159 State Patrol 114
 100161 State Patrol 49
 100162 State Patrol 260
@@ -308,6 +308,7 @@
 100697 State Patrol 149
 100698 State Patrol 1624
 100700 MN DOT GPS?
+100702 State Patrol 176
 100704 State Patrol 19
 100705 State Patrol 379
 100706 State Patrol 261
@@ -317,6 +318,7 @@
 100728 Capitol Security
 100729 Capitol Security
 100740 State Patrol 2402
+100741 State Patrol 511
 100742 State Patrol 243
 100755 State Patrol 193
 100762 State Patrol 598
@@ -424,7 +426,7 @@
 101227 State Patrol 161
 101229 Radio Board Tech
 101230 MN DOT GPS?
-101233 State Patrol 282
+101233 State Patrol 282(283?)
 101235 State Patrol 156
 101238 State Patrol 469
 101239 State Patrol 120
@@ -454,6 +456,7 @@
 101287 State Patrol 447
 101289 State Patrol 91
 101304 State Patrol 23
+101313 State Patrol 2506
 101320 BCA
 101378 BCA?
 101413 BCA?
@@ -672,12 +675,14 @@
 105013 Air Care 1
 105014 Air Care 1
 105017 North 1148
+105022 North 750
 105024 North 737
 105025 North 750 (Sup)
 105026 North 755
 105027 North 715? 750
 105028 North 1131 (??)
 105030 North 750 (Sup)
+105040 North 711
 105048 North 271
 105049 North 802
 105054 North 603
@@ -913,7 +918,7 @@
 105594 Ridgeview Medical Center
 105600 Allina 660
 105601 Allina 651
-105603 Allina 515
+105603 Allina 517
 105604 Allina 682
 105607 Allina 571
 105608 Allina 599
@@ -1051,7 +1056,7 @@
 105871 Allina
 105872 Allina 515
 105874 Allina
-105875 Allina
+105875 Allina 594
 105876 Allina
 105877 Allina
 105878 Allina 694
@@ -1707,7 +1712,7 @@
 113184 Minneapolis Fire Engine 20
 113185 Minneapolis PD
 113186 Minneapolis Fire Engine 4
-113189 Minneapolis Fire Spare Chief Vehicle
+113189 Minneapolis Fire Chief 5
 113191 Minneapolis PD (49.)
 113192 Minneapolis Fire Salvage
 113194 Minneapolis PD
@@ -1727,7 +1732,7 @@
 113223 Minneapolis PD
 113226 Minneapolis PD
 113228 Minneapolis PD
-113240 Minneapolis Fire Rescue 9
+113240 Minneapolis Fire Ladder 10
 113259 Minneapolis Water
 113262 Minneapolis Water 4084
 113279 Minneapolis PD
@@ -1743,7 +1748,7 @@
 113353 Minneapolis PD
 113365 Minneapolis Water 40??
 113366 Minneapolis Water 4062
-113368 Minneapolis Fire Engine 5
+113368 Minneapolis Fire Engine 27
 113374 Minneapolis PD
 113395 Minneapolis Fire Ladder 7
 113410 Minneapolis Fire Chief 3
@@ -1936,6 +1941,7 @@
 113869 Minneapolis PD
 113871 Minneapolis PD
 113873 Minneapolis PD
+113879 Minneapolis PD (SRO)
 113880 Minneapolis PD
 113881 Minneapolis PD
 113885 Minneapolis PD
@@ -2007,6 +2013,7 @@
 114012 Minneapolis PD
 114017 Minneapolis PD
 114019 Minneapolis PD
+114020 Minneapolis PD
 114021 Minneapolis PD
 114023 Minneapolis PD
 114025 Minneapolis PD
@@ -2075,6 +2082,8 @@
 114136 Minneapolis PD
 114137 Minneapolis PD
 114138 Minneapolis PD
+114139 Minneapolis PD
+114140 Minneapolis PD
 114142 Minneapolis PD
 114143 Minneapolis PD
 114145 Minneapolis PD
@@ -2119,6 +2128,7 @@
 114199 Minneapolis PD
 114200 Minneapolis PD
 114205 Minneapolis PD
+114209 Minneapolis PD
 114210 Minneapolis PD
 114211 Minneapolis PD
 114212 Minneapolis PD
@@ -2197,7 +2207,10 @@
 114358 Minneapolis PD
 114359 Minneapolis PD
 114360 Minneapolis ???
+114363 Minneapolis PD
+114364 Minneapolis PD
 114365 Minneapolis PD
+114366 Minneapolis PD
 114367 Minneapolis PD
 114368 Minneapolis PD
 114373 Minneapolis PD
@@ -2556,7 +2569,7 @@
 115212 Minneapolis Fire Rescue 1
 115217 Minneapolis Fire Ladder 10
 115220 Minneapolis Fire 10-2
-115225 Minneapolis Fire Engine 1
+115225 Minneapolis Fire Engine 2
 115226 Minneapolis PD
 115227 Minneapolis PD
 115229 Minneapolis PD
@@ -2582,7 +2595,7 @@
 115266 Minneapolis Fire Engine 16
 115267 Minneapolis Fire Engine 2
 115268 Minneapolis Fire Engine 22
-115269 Minneapolis Fire Engine 6
+115269 Minneapolis Fire Engine 7
 115271 Minneapolis Fire Rescue 9
 115274 Minneapolis Fire Ladder 11
 115276 Minneapolis Fire Ladder 3
@@ -2788,6 +2801,8 @@
 115816 Minneapolis PD
 115820 Minneapolis PD
 115821 Minneapolis PD
+115829 Minneapolis PD
+115830 Minneapolis PD
 115833 Minneapolis PD
 115834 Minneapolis PD
 115837 Minneapolis PD
@@ -2810,6 +2825,7 @@
 115877 Minneapolis PD
 115879 Minneapolis PD
 115880 Minneapolis PD
+115881 Minneapolis PD
 115882 Minneapolis PD
 115884 Minneapolis PD
 115887 Minneapolis PD
@@ -2848,7 +2864,7 @@
 115989 Minneapolis Fire Engine 15
 115990 Minneapolis Fire Chief 4
 115991 Minneapolis Fire Engine 12
-115992 Minneapolis Fire ???
+115992 Minneapolis Fire Engine 11
 115993 Minneapolis Fire Mobile Command
 115994 Minneapolis Fire Rescue 1
 115995 Minneapolis Fire Ladder 3
@@ -2898,6 +2914,8 @@
 117298 Minneapolis Dispatch
 117301 Minneapolis Dispatch
 117308 Minneapolis Dispatch
+117343 Minneapolis Dispatch
+117345 Minneapolis Dispatch
 117347 Minneapolis Dispatch
 117348 Minneapolis Dispatch
 117349 Minneapolis Dispatch
@@ -3448,6 +3466,7 @@
 123021 Fridley Fire Engine 3
 123022 Fridley Fire
 123026 Fridley Fire Rescue 2
+123027 Fridley Fire
 123029 Fridley Fire
 123031 Fridley Fire Rescue 4
 123033 Fridley Fire
@@ -4070,6 +4089,7 @@
 126122 Washington County Jail
 126123 Washington County Jail
 126128 Washington County Jail
+126133 Radio Board Tech
 126154 Washington County Jail
 126155 Washington County Jail
 126156 Washington County Jail
@@ -4167,7 +4187,9 @@
 126890 Cottage Grove PD
 126891 Cottage Grove PD
 126892 Cottage Grove PD
+126893 Cottage Grove PD
 126894 Cottage Grove PD
+126895 Cottage Grove PD
 126896 Cottage Grove PD
 126901 Cottage Grove PD
 126926 Cottage Grove PD
@@ -4209,6 +4231,7 @@
 126970 Cottage Grove PD
 126975 Cottage Grove PD
 126978 Cottage Grove PD
+126981 Cottage Grove PD
 126982 Cottage Grove PD (4576)
 126984 Cottage Grove PD
 127006 Cottage Grove Fire Engine 3135
@@ -4216,6 +4239,7 @@
 127016 Cottage Grove Fire
 127021 Cottage Grove PD
 127025 Cottage Grove Fire Command Vehicle
+127027 Cottage Grove PD
 127028 Cottage Grove Medic
 127056 Cottage Grove Medic 831
 127062 Cottage Grove Fire
@@ -4258,6 +4282,9 @@
 127328 Forest Lake Fire
 127332 Forest Lake Fire
 127333 Forest Lake Fire
+127337 Forest Lake Fire
+127338 Forest Lake Fire
+127340 Forest Lake Fire
 127342 Forest Lake Fire
 127371 Forest Lake Fire
 127531 Hugo Fire Chief
@@ -4916,6 +4943,7 @@
 131732 Dakota County SO
 131733 Dakota County SO 1912
 131734 Dakota County SO
+131735 Dakota County SO
 131737 Dakota County SO
 131738 Dakota County SO
 131740 Dakota 1901
@@ -4972,6 +5000,7 @@
 131835 Dakota County SO
 131836 Dakota County SO
 131838 Dakota County SO
+131839 Dakota County SO
 131953 Dakota County Dispatch
 131954 Dakota County Dispatch
 131956 Dakota County Dispatch
@@ -6531,6 +6560,7 @@
 154243 Metro Transit Dispatch
 154244 Metro Transit Dispatch
 154245 Metro Transit Dispatch
+154247 Metro Transit Dispatch
 154248 Metro Transit Dispatch
 154249 Metro Transit Dispatch
 154252 Metro Transit Dispatch
@@ -6654,11 +6684,13 @@
 158984 North Dispatch
 158986 North Dispatch
 158993 North Air Dispatch
+159010 National Guard
 159015 National Guard
 159017 National Guard
 159024 National Guard
 159050 National Guard
 159080 National Guard
+159081 National Guard
 159138 National Guard?
 159140 National Guard?
 159144 National Guard?
@@ -7300,7 +7332,7 @@
 160851 DOC Fugitive ["Bruce/Meagher"]
 160852 DOC Fugitive ["Doc"]
 160853 DOC Fugitive ["Bruce/Meagher"]
-160854 DOC Fugitive ["Terry/Nutter"]
+160854 DOC Fugitive ["Sarah"]
 160855 DOC Fugitive ["?"]
 160857 DOC Fugitive ["??"]
 160859 DOC Fugitive ["Joyce", etc]
@@ -7380,9 +7412,11 @@
 169485 Metro Mobility
 170201 East MRCC
 170202 East MRCC
+170203 East MRCC
 170204 East MRCC
 170205 East MRCC
 170206 East MRCC
+170259 East MRCC
 299952 Radio Board Tech
 299958 Radio Board Tech
 299959 Radio Board Tech
@@ -7580,6 +7614,7 @@
 300857 Hennepin County
 300865 Hennepin County SO
 300867 Hennepin County SO
+300873 Hennepin County Water Patrol
 300880 Hennepin County SO
 300896 Hennepin County SO
 300916 Hennepin County SO
@@ -7896,6 +7931,7 @@
 301920 New Hope PD
 301921 New Hope PD
 301922 New Hope PD
+301923 New Hope PD
 301924 New Hope PD
 301925 New Hope PD
 301926 New Hope PD
@@ -8347,6 +8383,7 @@
 303217 Edina Medic 2
 303218 Edina Medic
 303224 Edina Medic
+303228 Edina Medic
 303230 Edina Medic 1
 303234 ???
 303240 Edina Medic
@@ -8510,6 +8547,7 @@
 303817 Hopkins PD
 303818 Hopkins PD
 303819 Hopkins PD
+303820 Hopkins PD
 303821 Hopkins PD
 303822 Hopkins PD
 303823 Hopkins PD
@@ -8962,6 +9000,7 @@
 305496 Rogers PD
 305497 Orono PD
 305499 Rogers Fire
+305501 Hennepin County SO
 305503 Hennepin County SO
 305505 Hennepin County SO
 305507 Hennepin County SO
@@ -8975,6 +9014,7 @@
 305533 Hennepin County SO
 305554 Hennepin County SO
 305555 Edina Dispatch
+305556 Hennepin County Water Patrol
 305557 Hennepin County SO
 305567 Hennepin County SO
 305569 Hennepin County SO
@@ -9500,6 +9540,7 @@
 309096 St Anthony PD
 309098 Airport PD
 309100 Airport PD
+309102 Airport PD
 309103 Airport PD
 309114 Hennepin County SO
 309115 VAMC PD
@@ -9813,9 +9854,10 @@
 312988 Ramsey County Dispatch
 312989 Ramsey County Dispatch
 312992 Ramsey County Dispatch
+312993 Ramsey County Dispatch
 312994 Ramsey County Dispatch
 312995 Ramsey County Dispatch
-312996 ??? Dispatch
+312996 Ramsey County Dispatch
 314502 Roseville PD
 314503 Roseville PD
 314504 Roseville PD
@@ -10703,6 +10745,7 @@
 320534 St Paul PD
 320535 St Paul PD
 320536 St Paul PD
+320537 St Paul PD
 320539 St Paul PD
 320542 St Paul PD
 320543 St Paul PD
@@ -11003,6 +11046,7 @@
 321387 St Paul PD
 321393 St Paul PD
 321396 St Paul PD
+321397 St Paul PD
 321398 St Paul PD
 321401 US Marshals
 321702 St Paul PD
@@ -11474,11 +11518,13 @@
 500003 State Patrol Dispatch
 500006 Radio Board Tech
 500007 Radio Board Tech
+500008 Radio Board Tech
 500009 Radio Board Tech
 500010 Radio Board Tech
 500015 Radio Board Tech
 500016 State Patrol Dispatch
 500018 Radio Board Tech
+500019 Radio Board Tech
 500020 Radio Board Tech
 500022 Radio Board Tech
 500024 Radio Board Tech
@@ -11486,6 +11532,7 @@
 500026 Radio Board Tech
 500027 Radio Board Tech
 500028 Radio Board Tech
+500029 Radio Board Tech
 500030 Radio Board Tech
 500060 State Patrol 32
 500061 State Patrol 2102
@@ -11497,6 +11544,7 @@
 500068 State Patrol 305
 500069 State Patrol 382
 500070 State Patrol 289
+500071 State Patrol 134
 500072 State Patrol 4104
 500098 State Patrol 601
 500102 DNR K456
@@ -11602,9 +11650,10 @@
 500257 State Patrol 367
 500258 State Patrol 214
 500260 State Patrol 125
-500261 State Patrol 482
+500261 State Patrol 464
 500262 State Patrol 115
 500263 State Patrol 132
+500265 Radio Board Tech
 500266 State Patrol 527
 500267 State Patrol 305
 500270 State Patrol 538
@@ -11614,7 +11663,7 @@
 500275 State Patrol 530
 500276 State Patrol 125
 500277 State Patrol 364
-500279 DNR K543
+500279 DNR K453
 500282 DOT Rochester 1
 500283 DOT Stewartville 1
 500284 DOT 428? Faribault?
@@ -11623,7 +11672,7 @@
 500297 DOT 421
 500318 State Patrol 344
 500320 State Patrol 1715
-500322 DOT
+500322 DOT Stewartville
 500340 DOT
 500353 DOT
 500355 DOT Winona 3
@@ -11647,8 +11696,10 @@
 500427 DOT
 500428 DOT
 500429 DOT
+500439 DOT Preston
 500440 DOT
 500441 DOT
+500443 DOT Chatfield
 500444 DOT
 500446 DOT
 500447 DOT
@@ -11675,9 +11726,16 @@
 500611 DOT Winona 2
 500621 Rochester 1 (Maintenance?)
 500631 Cannon Falls? (plow?)
+500742 DNR K451
+500765 Whitewater State Park
+500766 Whitewater State Park
+500769 Whitewater State Park
 500804 State Patrol 31
+500805 State Patrol 97
 500806 State Patrol 112
 500807 State Patrol 2201
+500809 State Patrol 142
+500811 State Patrol 441
 500812 State Patrol 507
 500813 State Patrol 316
 500815 State Patrol 201
@@ -11687,7 +11745,8 @@
 500823 State Patrol 112
 500892 DNR?
 500903 DNR K458
-500908 State Patrol 570?
+500906 State Patrol 170
+500908 State Patrol 570
 500909 State Patrol 590
 500910 State Patrol 395
 500914 State Patrol 552
@@ -11700,29 +11759,38 @@
 500941 State Patrol 317
 500962 State Patrol 439
 500963 State Patrol 105
+501000 State Patrol 279
 501003 State Patrol 563
+501009 State Patrol 437
 501010 State Patrol 283
 501012 State Patrol 578
 501015 State Patrol 142?
 501016 State Patrol 277
+501020 State Patrol 316
 501021 State Patrol 365
-501022 State Patrol
+501022 State Patrol 170
 501023 State Patrol 145
+501024 State Patrol 407
 501025 State Patrol 470
+501026 State Patrol 586
 501027 State Patrol 79
 501028 State Patrol 593
+501029 State Patrol 201
+501030 State Patrol ???
 501031 State Patrol 77
+501034 State Patrol 439
 501037 State Patrol 2202
 501038 State Patrol 2200
+501122 State Patrol 2201
 501200 DOT Winona
 501206 DOT Dresbach
-501207 DOT Preston 2
+501207 DOT Preston
 501208 DOT
 501209 DOT D6 Base
 501219 DOT Wabasha 5
 501224 State Patrol 214
-501225 DNR K395
-501226 DNR?
+501225 DNR K437
+501226 DNR K456
 501236 DOT Albert Lea
 501237 DOT Austin
 501239 DOT 402?
@@ -11739,9 +11807,15 @@
 502643 RPU
 502646 RPU 516
 502650 RPU
-502660 RPU 590
+502660 RPU 490
 502661 ??? 178
+502675 RPU
+502680 RPU
 502690 RPU Operations
+503008 Olmsted County SO 1554
+503011 Rochester Airport
+503012 Rochester Airport
+503015 Rochester Airport
 504004 Rochester PD
 504005 Rochester PD
 504006 Rochester PD
@@ -11769,9 +11843,12 @@
 504052 Rochester PD
 504056 Rochester PD
 504057 Rochester PD
+504058 Rochester PD
 504059 Rochester PD
 504061 Rochester PD
 504063 Rochester PD
+504064 Rochester PD
+504069 Rochester PD
 504070 Rochester PD
 504079 Rochester PD
 504080 Rochester PD
@@ -11779,6 +11856,7 @@
 504085 ? 2432
 504087 Rochester PD
 504088 Rochester PD
+504089 Rochester PD
 504091 Rochester PD
 504092 Rochester PD
 504093 Rochester PD
@@ -11806,6 +11884,7 @@
 504190 Rochester PD
 504198 Rochester PD (canine)
 504242 Olmsted County SO
+504294 RPU Generation
 504297 Radio Board Tech
 504299 Rochester PD
 504300 Rochester PD
@@ -11846,6 +11925,8 @@
 504372 Rochester PD
 504402 Olmsted County SO
 504403 Rochester Fire Engine 4
+504405 Rochester Airport
+504406 Rochester Airport
 504415 Olmsted County SO
 504417 Olmsted 1736
 504420 Olmsted County SO
@@ -11886,6 +11967,7 @@
 504571 Olmsted County SO
 504572 Olmsted County SO
 504578 Olmsted County SO
+504601 Olmsted County Jail
 504602 Olmsted County Jail
 504606 Olmsted County Jail
 504607 Olmsted County Jail
@@ -11895,15 +11977,18 @@
 504613 Olmsted County Jail
 504616 Olmsted County Jail
 504620 Olmsted County Jail
-504621 Rochester Airport Fire
-504624 Rochester Airport Fire
+504621 Rochester Airport
+504624 Rochester Airport
 504626 Olmsted County Jail
+504627 Olmsted County Jail
+504628 Olmsted County Jail
 504630 Olmsted County Jail
 504632 Olmsted County Jail
 504661 Olmsted County SO
 504807 Stewartville Fire
 504857 Stewartville Fire
 504859 Eyota Ambulance
+504865 Eyota Fire?
 504884 Byron First Responders
 504908 Byron Fire
 504909 Byron Fire
@@ -11920,6 +12005,7 @@
 505128 Olmsted County SO
 505129 Olmsted Medical Center
 505134 Olmsted County Highway
+505136 RPU Generation
 505154 Olmsted County Highway
 505184 Olmsted County SO
 505187 Olmsted County Highway
@@ -11931,18 +12017,39 @@
 505280 Olmsted County Highway
 505284 Olmsted County SO 1501?
 505289 was Dodge Center Ambulance (3339)
+505299 RPU Generation
 505325 Olmsted County Highway
 505335 Olmsted County SO
 505371 Olmsted County Highway
+505400 RPU Generation
+505401 RPU Generation
+505403 RPU Generation
+505404 RPU Generation
+505405 RPU Generation
+505407 RPU Generation
+505409 RPU Generation
+505412 RPU Generation
+505414 RPU Generation
+505415 RPU Generation
+505417 RPU Generation
+505418 RPU Generation
+505420 RPU Generation
+505422 RPU Generation
+505424 RPU Generation
+505425 RPU Generation
+505427 RPU Generation
 505433 Rochester Fire Engine 16
 505434 Rochester Fire Engine 16
 505435 Rochester Fire Engine 16
 505436 Rochester Fire Engine 16
 505437 Rochester Fire Engine 16
+506298 Dover Fire
 506344 Olmsted County Jail
 506364 Olmsted County SO
 506516 La Crosse Weather
+506530 Rochester Airport
 506546 Olmsted County SO
+506812 Eyota Fire
 506816 Rochester Fire Chief 2
 506817 Rochester Fire Chief 2
 506819 Rochester Fire Engine 5
@@ -11953,6 +12060,7 @@
 506831 Rochester Fire ???
 506832 Rochester Fire Chief 1
 506835 Rochester Fire Chief 2
+506848 Rochester Fire Truck 12
 506850 Rochester Fire
 506858 Rochester Fire Engine 1
 506859 Rochester Fire Engine 1
@@ -11960,6 +12068,7 @@
 506869 Rochester Fire Engine 2
 506873 Rochester Fire Engine 11
 506878 Rochester Fire Engine 3
+506879 Rochester Fire Engine 3
 506883 Rochester Fire Engine 1
 506888 Rochester Fire Engine 5
 506889 Rochester Fire Station 4
@@ -11985,8 +12094,14 @@
 506954 Olmsted County Dispatch
 506955 Olmsted County Dispatch
 506956 Olmsted County Jail
+506983 Rochester Airport
+506984 Rochester Airport
+506986 Rochester Airport
+506987 Rochester Airport
+506988 Rochester Airport
+506989 Rochester Airport
 506995 Rochester Fire
-506999 Rochester Fire Battalion 2
+506999 Rochester Fire Battalion 3
 507041 Dodge? 3107
 507043 Dodge County SO 3111
 507044 Dodge? 3111
@@ -11996,6 +12111,7 @@
 507071 Dodge? 3312
 507081 Dodge County SO
 507212 Dodge County ???
+507219 Hayfield Ambulance
 507302 Dodge? 3134
 507303 Dodge? 31xx
 507305 Dodge County SO 3162
@@ -12198,6 +12314,7 @@
 508852 MCF OPH
 509040 WISCONSIN (Comm Trailer)
 511001 Fillmore County Dispatch
+511513 Preston Ambulance
 511514 Preston Ambulance
 513073 Radio Board Tech
 515006 Prairie Island PD
@@ -12305,13 +12422,13 @@
 515290 Red Wing Ambulance
 515307 Red Wing Fire
 515308 Red Wing Medic 1
-515309 Red Wing Fire
+515309 Red Wing Medic 4
 515310 Red Wing Fire
 515311 Red Wing Fire
-515316 Red Wing Fire
+515316 Red Wing Medic 2
 515318 Red Wing Fire
 515320 Red Wing Fire Engine 11
-515321 Red Wing Medic 3
+515321 Red Wing Medic 4
 515330 Red Wing Fire Engine 11
 515331 Red Wing Fire "900"
 515334 Red Wing Fire
@@ -12433,8 +12550,10 @@
 519074 Wabasha County SO
 519075 Wabasha County SO
 519076 Wabasha County SO
+519078 Wabasha County SO
 519081 Wabasha County SO
 519083 Wabasha County SO
+519085 Wabasha County SO
 519119 Wabasha County Highway
 519120 Wabasha County Highway
 519121 Wabasha County Highway
@@ -12500,70 +12619,133 @@
 519821 Wabasha Ambulance
 519822 Wabasha Fire
 519901 Wabasha Hospital
+523011 Winona County SO 502
 523016 Dakota Fire Rescue
+523036 Winona Court Security
+523060 Winona County SO 548
+523064 Winona County SO 549
 523068 St Charles PD 603
+523072 St Charles PD
+523073 St Charles PD
+523074 Lewiston PD
+523077 St Charles PD
 523079 Winona County SO 552
-523080 Winona? 803
+523080 Lewiston PD
 523082 Winona County SO 557
+523083 Winona County SO 545
+523087 Winona Fire Engine 4
+523100 Winona Hospital
 523103 Winona Fire?
+523109 Winona County SO 508
+523117 Wilson Fire
+523119 Altura Ambulance
 523120 Winona County SO 517
-523129 Winona County SO 543
+523123 Rollingstone First Responders
+523126 Winona Fire Engine 4
+523128 Wilson Fire
+523129 Winona County SO 545
+523141 Goodview First Responders
 523146 Winona County SO 506
+523147 St Charles Ambulance
+523151 Nodine First Responders
+523160 Lewiston Ambulance
+523164 Winona County SO 501
 523167 Winona County SO 514
+523170 Wilson Fire
 523175 Winona County SO 544
+523179 St Charles Ambulance
 523184 Winona County SO 563
-523186 Lewiston PD? 803
+523186 Lewiston PD
 523187 Winona County SO
 523190 Winona County SO 525
 523191 Winona County SO 511
-523192 St Charles PD 604
-523199 Winona County SO 544
-523200 Winona County SO 540
+523192 St Charles PD
+523193 Winona County SO 510
+523198 Winona County SO 504
+523199 Winona County SO 552
+523200 Winona County SO 550
+523201 Winona County SO 549
 523209 Winona PD
+523212 Lewiston PD
+523213 Winona County SO 507
 523214 Winona County SO 513
 523215 Winona County SO 511
+523216 St Charles PD
 523220 St Charles PD 603
+523222 St Charles PD
 523223 Winona County SO 512 (canine)
+523224 Winona County SO 502
 523225 Winona County SO 510
 523226 Winona County SO 557
+523313 Nodine First Responders
 523314 Dakota Fire Rescue
+523322 Nodine First Responders
+523335 Goodview First Responders
 523356 Rollingstone Fire
 523365 Winona Ambulance?
+523368 Rollingstone First Responders
+523435 Wilson Fire
+523445 Winona Fire Engine 2
 523557 Dakota Fire Engine
+523604 Altura Ambulance
 523631 Minnesota City First Responders
+523700 Winona County SO 501
 523701 Winona County SO (525)
 523702 Winona County SO
 523703 Winona County SO 512 (canine)
-523705 Winona?
+523705 Winona County SO 517
+523708 Winona County SO 504
 523709 Winona County SO 511
+523710 Winona County SO 514
 523711 Winona County SO 522
 523715 Winona County Dispatch
 523716 Winona County Dispatch
 523717 Winona County Dispatch
+523721 Winona PD
+523722 Winona PD
 523723 Winona PD
 523724 Winona PD
+523725 Winona PD
 523726 Winona PD
+523727 Winona PD
 523728 Winona PD
+523729 Winona PD
 523731 Winona PD
+523732 Winona PD
 523733 Winona PD
 523734 Winona PD
 523735 Winona PD
+523738 Winona PD
 523739 Winona PD
+523740 Winona PD
 523743 Winona PD
+523750 Winona PD
+523751 Winona PD? 23x
 523752 Winona PD
+523753 Winona PD? 233
+523757 Winona PD
 523767 Winona PD
+523768 Winona PD
 523771 Winona PD
+523775 Winona PD
 523777 Winona PD
 523778 Winona PD
 523780 Winona PD
-523781 Winona PD
+523781 Winona PD? 23x
+523782 Winona PD 428?
 523783 Winona PD
 523784 Winona PD
 523785 Winona PD
 523887 Winona Ambulance
+523890 Winona Ambulance
 523894 Winona County SO 513
 523895 Winona County SO
+523896 Winona County SO 506
+523901 Lewiston Ambulance
 523904 St Charles PD 604
+523910 Winona Ambulance
+523911 Winona Ambulance
+523928 Winona County SO 501
 523933 Winona Ambulance Base?
 523936 Winona County SO 522
 527011 Freeborn County Dispatch
@@ -12571,18 +12753,60 @@
 527313 Freeborn? 2414?
 527375 Freeborn? 2424
 531001 Houston? 2812
+531063 Houston? 103
+531071 Houston? 103
+531263 Houston? 502
 531311 Houston? 2805
+531316 Houston? 2811
+531324 Houston? 2806
+531327 Houston? 2809
+531329 Houston? 2811
 531489 Medlink Air
 531600 Houston County Dispatch
 531601 Houston County Dispatch
 531609 La Crosse County Dispatch
 531611 Allamakee County Dispatch
+535020 Adams Fire 5291
 535027 Mower? 5024
 535028 Mower?
+535030 Mower? 5022
 535031 Mower? 5023
-535097 Mower? 5023
-535098 Mower? 5024
-535154 Mower? 103
+535035 Mower County SO?
+535038 Mower County SO?
+535041 Mower? 5020
+535042 Mower? 5021
+535088 Mower? 5502
+535095 Mower? 5022
+535096 Mower? 5020
+535097 Mower? 5025
+535098 Mower? 5021
+535101 Mower County SO? 5015
+535135 Austin Fire
+535153 Austin PD
+535154 Austin PD
+535157 Austin PD
+535161 Austin PD
+535162 Austin PD
+535164 Austin PD
+535172 Austin PD
+535173 Austin PD
+535182 Mower? (5701)
+535183 Austin PD
+535195 Austin PD
+535237 Austin Fire
+535238 Austin Fire
+535250 Adams Fire 5291
+535256 Austin PD
+535259 Austin PD
+535263 Austin PD
+535265 Austin PD
+535271 Austin PD
+535272 Austin PD
+535273 Austin PD
+535274 Austin PD
+535277 Austin PD
+535281 Mower? 55xx
+535287 Mower County SO? (5701)
 535307 Leroy Fire?
 536997 Mower County Dispatch
 536998 Mower County Dispatch
@@ -12612,6 +12836,7 @@
 539429 Steele County SO 7145
 539606 Owatonna Fire
 539641 Steele County SO
+539651 Steele? 7607
 543015 Rice County SO
 543016 Rice County SO
 543024 Rice County SO
@@ -12750,6 +12975,8 @@
 549565 Gold Cross 661
 549567 Mayo 1
 549570 Mayo 2
+549573 Mayo 3
+549576 South Crane
 549581 Mayo 3
 549583 Mayo 3
 549586 Mayo Dispatch
@@ -12758,6 +12985,7 @@
 549593 Mayo 2
 549594 Mayo 3
 549595 Mayo 1
+549596 Gold Cross ?52
 549597 Gold Cross 647
 549601 Gold Cross 679
 549605 Gold Cross 64x
@@ -12793,6 +13021,8 @@
 549692 Gold Cross 651
 549724 Gold Cross 682
 549725 Gold Cross 681 (Mankato)
+549726 Gold Cross 683
+549744 Gold Cross 671
 549745 Gold Cross 601
 549746 Gold Cross 603
 557019 McLeod County SO
@@ -12885,6 +13115,7 @@
 600026 State Patrol Dispatch
 600029 State Patrol Dispatch
 600036 State Patrol Dispatch (2600)
+600085 State Patrol 70
 600099 Radio Board Tech
 600101 State Patrol 288
 600102 State Patrol 524
@@ -12954,6 +13185,7 @@
 600529 State Patrol 65
 600530 State Patrol 517
 600532 State Patrol 132
+600536 State Patrol 60
 600552 DNR K25
 600649 Radio Board Tech
 600724 DOT Metro
@@ -13184,7 +13416,7 @@
 624001 Meeker County Dispatch
 624002 Meeker County Dispatch
 629066 Willmar Ambulance 7251
-629068 ??? 7253 [Kandiyohi County]
+629068 Willmar Ambulance
 629081 Benson Ambulance
 629356 Kandiyohi ???
 629543 Kandiyohi County
@@ -13228,6 +13460,8 @@
 665902 Mille Lacs County Dispatch
 665903 Millelacs County Dispatch
 668009 Wilken County Dispatch
+668010 Wilkin County Dispatch
+668025 Wilkin County SO 812
 672000 Otter Tail County Dispatch
 672001 Otter Tail County Dispatch
 672010 Otter Tail County SO
@@ -13240,28 +13474,67 @@
 684004 Douglas County Dispatch
 700010 Radio Board Tech
 700011 Radio Board Tech
+700115 State Patrol 599
 700120 Radio Board Tech
+700122 State Patrol 213
 700131 DNR K419
 700149 State Patrol 128
 700151 State Patrol 71
 700171 Radio Board Tech
+700172 State Patrol 219
 700173 State Patrol 2301
+700174 State Patrol 307
+700175 State Patrol 488
+700179 State Patrol 597
+700181 State Patrol 548
+700182 State Patrol 50
+700183 State Patrol 2302
+700184 State Patrol 444
 700185 State Patrol 429
+700186 State Patrol 87
 700187 State Patrol 238
 700188 State Patrol 356
 700190 State Patrol 460
 700193 State Patrol 481
 700194 State Patrol 560
+700195 State Patrol 472
+700198 State Patrol 309
+700199 State Patrol 83
+700201 State Patrol 1768
+700205 State Patrol 1634
+700207 State Patrol 309
+700208 State Patrol 2301
+700210 State Patrol 488
 700212 State Patrol 50
 700214 State Patrol 431
+700216 State Patrol 548
+700217 State Patrol 189
+700218 State Patrol 2302
 700219 State Patrol 76
 700220 State Patrol 429
+700224 State Patrol 1642
+700225 State Patrol 1714
+700226 State Patrol 1736
+700227 State Patrol 219
 700228 State Patrol 450
+700229 State Patrol 560
+700231 State Patrol 597
 700235 State Patrol 511
 700236 State Patrol 1621
+700240 State Patrol 87
+700245 State Patrol 122
+700246 State Patrol 391
+700248 State Patrol 122
+700249 State Patrol 602
 700251 State Patrol 76
 700262 DNR? K540
+700272 State Patrol 602
 700273 State Patrol 212
+700282 State Patrol 163
+700531 State Patrol 166
+700533 State Patrol 238
+700535 State Patrol 599
+700537 State Patrol 444
 700571 Radio Board Tech
 701600 State Patrol Dispatch
 701601 State Patrol Dispatch
@@ -13317,6 +13590,7 @@
 770293 State Patrol 585?
 770310 State Patrol 2800
 770311 State Patrol 69
+770312 DNR K393
 770313 State Patrol 286
 770314 State Patrol 369
 770315 State Patrol 2801
@@ -13445,14 +13719,17 @@
 830021 State Patrol Dispatch
 830022 State Patrol Dispatch
 830100 Radio Board Tech
+830145 State Patrol 279
 831106 State Patrol 421
-831109 State Patrol 4707
+831109 State Patrol 472
 831117 State Patrol 503
 831353 State Patrol 120
 831359 State Patrol 371
 831372 State Patrol 2104
 831412 State Patrol 317
 831421 State Patrol 134
+831455 State Patrol 6? 60?
+831483 State Patrol 566
 831524 State Patrol 354
 831659 Radio Board Tech
 840001 Border Patrol
