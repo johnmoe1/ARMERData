@@ -43,6 +43,44 @@
 ]},
 
 {
+"talkgroups":[3016],
+"patterns":[
+{"name":"Medical", "pattern":[{"frequency":880.734, "duration":0.32}, {"frequency":1103.45, "duration":0.32}, {"frequency":880.734, "duration":0.32}, {"frequency":1103.45, "duration":0.32}]},
+{"name":"Beep", "pattern":[{"frequency":1010.53, "duration":0.5}]},
+{"name":"Fire", "pattern":[{"frequency":1103.45, "duration":0.32}, {"frequency":0, "duration":0.32}, {"frequency":1103.45, "duration":0.32}]}
+]},
+
+{
+"talkgroups":[21402],
+"patterns":[
+{"name":"County Dive Rescue", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":1438.2, "duration":3.0}] },
+{"name":"Elba", "pattern":[{"frequency": 1185.19, "duration":1.0},{"frequency":1406.59, "duration":3.0}] },
+{"name":"Goodview", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":1129.41, "duration":3.0}] },
+{"name":"Hidden Valley", "pattern":[{"frequency": 659.794, "duration":1.0},{"frequency":849.558, "duration":3.0}] },
+
+{"name":"Minnesota City", "pattern":[{"frequency": 1010.53, "duration":1.0},{"frequency":1292.93, "duration":3.0}] },
+{"name":"Pickwick Fire", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":1292.93, "duration":3.0}] },
+
+{"name":"Ridgeway", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":1406.59, "duration":3.0}] },
+{"name":"Wilson", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":1010.53, "duration":3.0}] },
+{"name":"Rollingstone", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":1219.05, "duration":3.0}] },
+{"name":"Winona", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":1319.59, "duration":3.0}] },
+
+{"name":"St Charles Fire", "pattern":[{"frequency": 1156.63, "duration":1.0},{"frequency":1185.19, "duration":3.0}] },
+{"name":"St Charles Ambulance", "pattern":[{"frequency": 1185.19, "duration":1.0},{"frequency":1156.63, "duration":3.0}] },
+{"name":"Stockton", "pattern":[{"frequency": 566.372, "duration":1.0},{"frequency":1156.63, "duration":3.0}] },
+
+{"name":"Dakota?/Nodine?", "pattern":[{"frequency": 1292.93, "duration":1.0},{"frequency":1219.05, "duration":3.0}] },
+{"name":"Nodine?/Dakota?", "pattern":[{"frequency": 1347.37, "duration":1.0},{"frequency":1219.05, "duration":3.0}] },
+
+{"name":"Altura Ambulance", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":1185.19, "duration":3.0}] },
+{"name":"Lewiston Ambulance", "pattern":[{"frequency": 969.697, "duration":1.0},{"frequency":1156.63, "duration":3.0}] }
+
+
+]},
+
+
+{
 "talkgroups":[3750],
 "patterns":[
 {"name":"Woodbury", "pattern":[{"frequency": 376.471, "duration":1.0},{"frequency":719.101, "duration":3.0}] },
