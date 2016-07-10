@@ -161,6 +161,32 @@
 ]},
 
 {
+"talkgroups":[10040],
+"_name":"Hennepin Fire",
+"patterns":[
+{"name":"Brooklyn Park Duty Crew", "pattern":[{"frequency": 344.086, "duration":1.0},{"frequency":376.471, "duration":3.0}] },
+{"name":"St Anthony All?", "pattern":[{"frequency": 344.086, "duration":1.0},{"frequency":528.926, "duration":3.0}] },
+{"name":"X", "pattern":[{"frequency": 344.086, "duration":1.0},{"frequency":790.123, "duration":3.0}] },
+
+{"name":"Dayton", "pattern":[{"frequency": 376.471, "duration":1.0},{"frequency":435.374, "duration":3.0}] },
+{"name":"Mound", "pattern":[{"frequency": 376.471, "duration":1.0},{"frequency":719.101, "duration":3.0}] },
+{"name":"Osseo", "pattern":[{"frequency": 376.471, "duration":1.0},{"frequency":790.123, "duration":3.0}] },
+
+{"name":"Brooklyn Center Duty Crew", "pattern":[{"frequency": 435.374, "duration":1.0},{"frequency":528.926, "duration":3.0}] },
+
+{"name":"St Anthony", "pattern":[{"frequency": 467.153, "duration":1.0},{"frequency":528.926, "duration":3.0}] },
+{"name":"Plymouth", "pattern":[{"frequency": 467.153, "duration":1.0},{"frequency":719.101, "duration":3.0}] },
+
+{"name":"Hanover", "pattern":[{"frequency": 598.131, "duration":4.0}] },
+
+{"name":"Hopkins", "pattern":[{"frequency": 752.941, "duration":1.0},{"frequency":932.039, "duration":3.0}] },
+
+{"name":"West Metro Station 1", "pattern":[{"frequency": 1219.05, "duration":1.0},{"frequency":659.794, "duration":3.0}] },
+{"name":"Robbinsdale", "pattern":[{"frequency": 1219.05, "duration":1.0},{"frequency":790.123, "duration":3.0}] }
+]},
+
+
+{
 "talkgroups":[22621],
 "_name":"Rice Co Fire",
 "patterns":[
