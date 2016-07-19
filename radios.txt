@@ -477,6 +477,7 @@
 101275 State Patrol 58
 101277 State Patrol 543
 101278 State Patrol 425
+101280 State Patrol 931
 101286 State Patrol 2501
 101287 State Patrol 447
 101289 State Patrol 91?
@@ -488,6 +489,7 @@
 101323 State Patrol 479
 101324 State Patrol 921
 101325 Trooper 9
+101327 BCA
 101328 State Patrol 553
 101329 State Patrol 157
 101330 State Patrol 73
@@ -497,7 +499,9 @@
 101393 State Patrol 503
 101398 State Patrol 247
 101413 BCA?
+101414 BCA
 101436 BCA
+101440 BCA
 101463 BCA
 101465 BCA?
 101473 BCA?
@@ -515,7 +519,12 @@
 101540 BCA ("")
 101544 BCA ("")
 101548 BCA?
+101561 BCA
+101576 BCA
 101584 BCA
+101592 BCA
+101593 BCA
+101595 BCA
 101597 BCA ("")
 101601 FIRST 810x
 101602 FIRST 810x
@@ -625,6 +634,7 @@
 102317 State Patrol 176
 102318 William O'Brien 492
 102320 DNR K277
+102321 DNR K335
 102325 Trooper 7
 102326 Trooper 7
 102328 William O'Brien
@@ -735,6 +745,8 @@
 104022 State Patrol Dispatch
 104037 DOT
 104038 MN DOT Dispatch (?)
+104046 BCA
+104051 BCA [1378 Mobile]
 104098 Traffic Management Center
 104099 Traffic Management Center
 104106 Traffic Management Center
@@ -1811,6 +1823,7 @@
 113057 Minneapolis PD
 113059 Minneapolis PD
 113061 Minneapolis PD
+113062 Minneapolis PD
 113063 Minneapolis Animal Control 33
 113065 Minneapolis PD
 113066 Minneapolis PD
@@ -1955,6 +1968,7 @@
 113630 Minneapolis Schools ["Thomas"]
 113635 Minneapolis PD
 113636 Minneapolis PD
+113638 Minneapolis PD
 113639 Minneapolis PD
 113640 Minneapolis PD
 113641 Minneapolis PD
@@ -2158,6 +2172,7 @@
 114009 Minneapolis PD
 114012 Minneapolis PD
 114017 Minneapolis PD
+114018 Minneapolis PD
 114019 Minneapolis PD
 114020 Minneapolis PD
 114021 Minneapolis PD
@@ -2308,6 +2323,7 @@
 114258 Minneapolis PD
 114260 Minneapolis PD
 114262 Minneapolis PD
+114264 Minneapolis PD
 114265 Minneapolis PD
 114268 Minneapolis PD
 114269 Minneapolis PD
@@ -2373,6 +2389,7 @@
 114367 Minneapolis PD
 114368 Minneapolis PD
 114369 Minneapolis PD
+114370 Minneapolis PD
 114373 Minneapolis PD
 114378 Minneapolis PD
 114379 Minneapolis PD
@@ -2391,6 +2408,7 @@
 114401 Minneapolis PD
 114402 Minneapolis PD
 114404 Minneapolis PD
+114405 Minneapolis PD
 114406 Minneapolis PD
 114410 Minneapolis PD
 114411 Minneapolis PD
@@ -2417,7 +2435,7 @@
 114451 Minneapolis PD
 114454 Minneapolis PD
 114455 Minneapolis PD
-114458 Minneapolis Schools ["Jackie/Bob/Doug/Chuck"]
+114458 Minneapolis PD?
 114461 Minneapolis PD
 114463 Minneapolis PD
 114464 Minneapolis PD
@@ -2439,6 +2457,7 @@
 114490 Minneapolis PD
 114491 Minneapolis PD
 114492 Minneapolis PD
+114493 Minneapolis PD
 114495 Minneapolis PD
 114497 Minneapolis PD
 114499 Minneapolis PD
@@ -2777,7 +2796,7 @@
 115266 Minneapolis Fire Engine 16
 115267 Minneapolis Fire Engine 2
 115268 Minneapolis Fire Engine 22
-115269 Minneapolis Fire Engine 21
+115269 Minneapolis Fire Engine 6
 115271 Minneapolis Fire Rescue 9
 115274 Minneapolis Fire Ladder 11
 115276 Minneapolis Fire Ladder 3
@@ -2793,6 +2812,7 @@
 115291 Minneapolis Fire Rescue 9
 115292 Minneapolis Fire Rescue 9
 115293 Minneapolis Fire Rescue 9
+115294 Minneapolis Fire
 115295 Minneapolis Fire Ladder 4
 115296 Minneapolis Fire Engine 11
 115297 Minneapolis Fire
@@ -2842,6 +2862,7 @@
 115368 Minneapolis Fire Deputy
 115370 Minneapolis Fire
 115372 Minneapolis Fire Deputy
+115375 Minneapolis PD
 115376 Minneapolis PD
 115377 Minneapolis PD
 115378 Minneapolis PD
@@ -2933,6 +2954,7 @@
 115646 Minneapolis PD
 115648 Minneapolis PD
 115650 Minneapolis PD
+115653 Minneapolis PD
 115654 Minneapolis PD
 115657 Minneapolis PD
 115664 Minneapolis PD
@@ -3366,6 +3388,7 @@
 122304 Andover Fire Chief 5
 122308 Andover Fire Station 1
 122316 Andover Fire Rescue 11
+122319 Andover Fire
 122320 Andover Fire Rescue 31
 122326 Andover Fire
 122329 Andover Fire Station 1
@@ -4008,6 +4031,7 @@
 123561 St Francis PD
 123562 St Francis PD
 123564 St Francis PD
+123565 Andover Fire Chief 4
 123567 Andover Fire Engine 11
 123572 Andover Fire Station 1
 123574 Andover Fire Station 3
@@ -4231,6 +4255,7 @@
 124555 Fridley PD
 124557 Fridley PD
 124558 Fridley PD
+124572 Andover Fire Grass 31
 124583 Blaine PD
 124586 Blaine PD
 125001 Anoka County Dispatch
@@ -4311,6 +4336,7 @@
 126050 Washington County SO
 126054 Washington County SO
 126056 Washington County SO
+126058 Washington County SO
 126059 Washington County SO
 126060 Washington County SO
 126061 Washington County SO
@@ -4319,6 +4345,7 @@
 126067 Washington County SO
 126068 Washington County SO
 126069 Washington County SO
+126070 Washington County SO
 126071 Washington County SO
 126072 Washington County SO
 126073 Washington County SO
@@ -4392,11 +4419,13 @@
 126225 Washington County SO
 126229 Washington County SO
 126236 Washington County SO
+126237 Washington County SO
 126238 Washington County SO
 126240 Washington County SO
 126241 Washington County SO
 126242 Washington County SO
 126243 Washington County SO
+126247 Washington County SO
 126248 Washington County SO
 126253 Washington County SO
 126254 Washington County SO
@@ -4562,6 +4591,7 @@
 127280 Forest Lake PD
 127281 Forest Lake PD
 127282 Forest Lake PD
+127326 Forest Lake Fire
 127327 Forest Lake Fire
 127328 Forest Lake Fire
 127332 Forest Lake Fire
@@ -4574,6 +4604,7 @@
 127368 Forest Lake Fire
 127371 Forest Lake Fire
 127372 Forest Lake Fire
+127379 Forest Lake Fire
 127388 Forest Lake Fire
 127531 Hugo Fire Chief
 127534 Hugo Fire Chief
@@ -4674,6 +4705,7 @@
 128614 Oakdale PD
 128615 Oakdale PD
 128616 Oakdale PD
+128617 Oakdale PD
 128619 Oakdale PD
 128659 Oakdale Fire
 128660 Oakdale Fire
@@ -5904,6 +5936,7 @@
 133234 Lakeville PD
 133235 Lakeville PD
 133236 Lakeville PD
+133237 Lakeville PD
 133238 Lakeville PD
 133239 Lakeville PD
 133240 Lakeville PD
@@ -5921,6 +5954,7 @@
 133255 Lakeville PD (or DTF?)
 133257 Lakeville PD
 133258 Lakeville PD
+133259 Lakeville PD
 133260 Lakeville PD
 133261 Lakeville PD
 133262 Lakeville PD
@@ -5935,6 +5969,7 @@
 133273 Lakeville PD
 133274 Lakeville PD
 133275 Dakota 1903
+133276 Lakeville PD
 133351 Inver Grove Heights Public Works
 133352 Inver Grove Heights Public Works
 133353 Inver Grove Heights Public Works
@@ -6367,6 +6402,7 @@
 136027 Medfire? Medic 1
 136032 ??? Medic 1
 136066 Medfire
+136070 Mdewakanton PD
 136192 Carver County Bus
 136194 Carver County Bus
 136195 Carver County Bus
@@ -6495,6 +6531,7 @@
 138420 Savage PD
 138505 Savage Fire
 138803 New Prague PD
+138895 New Prague PD
 138896 New Prague PD
 138897 New Prague PD
 138903 Scott County SO
@@ -7777,7 +7814,7 @@
 161062 DOC Fugitive ["John"]
 161063 DOC Fugitive ["Troy"]
 161064 DOC Fugitive ["Nate"]
-161065 DOC Fugitive ["Ryan?"]
+161065 DOC Fugitive ["Ryan"]
 161071 DOC Fugitive ["Caroline"]
 161521 Health Dept
 161550 MN National Guard
@@ -8143,9 +8180,10 @@
 301184 New Hope PD
 301191 New Hope PD
 301193 St Anthony PD
+301194 St Anthony Fire Engine 11
 301195 St Anthony Fire Engine 12
 301196 St Anthony Fire
-301197 St Anthony Fire
+301197 St Anthony Fire Utility 11
 301198 St Anthony Fire Rescue 11
 301199 Wayzata Fire Tower 11
 301200 Wayzata Fire Engine 11
@@ -8335,14 +8373,15 @@
 301680 Excelsior Fire Chief 3
 301684 Three Rivers Park PD
 301706 Brooklyn Park PD
-301714 St Anthony Fire
-301715 St Anthony Fire
+301714 St Anthony Fire Chief 1
+301715 St Anthony Fire Chief 2
 301716 St Anthony Fire
 301717 St Anthony Fire
 301718 St Anthony Fire
 301719 St Anthony Fire
 301721 St Anthony Fire
 301723 St Anthony Fire
+301724 St Anthony Fire Engine 12
 301734 Hennepin County SO
 301775 Box Alarm
 301782 Orono PD
@@ -9446,6 +9485,7 @@
 305258 Hennepin County SO
 305259 Hennepin County SO
 305260 Hennepin County SO
+305261 Hennepin County SO
 305262 Hennepin County SO
 305264 Hennepin County SO
 305268 Hennepin County SO
@@ -10084,13 +10124,17 @@
 308976 HCMC Spare 10
 308977 St Anthony PD
 308978 St Anthony PD
-308980 Minneapolis Downtown Library 101
-308983 Minneapolis Downtown Library 105
+308980 Minneapolis Downtown Library
+308982 Minneapolis Downtown Library
+308983 Minneapolis Downtown Library
 308985 Minneapolis Downtown Library 108
+308986 Minneapolis Downtown Library
+308988 Minneapolis Downtown Library
 308989 Minneapolis Downtown Library
 308990 Minneapolis Downtown Library
-308991 Minneapolis Downtown Library I Desk
+308991 Minneapolis Downtown Library
 308992 Minneapolis Downtown Library Janitor
+308993 Minneapolis Downtown Library
 308994 Minneapolis Downtown Library
 309013 Maple Grove PD
 309014 Maple Grove PD
@@ -10192,6 +10236,7 @@
 309552 Medicine Lake Fire
 309554 Brooklyn Park PD
 309578 Mound Fire Engine 13
+309644 St Anthony PD?
 309676 HCMC Security
 309679 HCMC Security
 309688 Hennepin County SO
@@ -10552,6 +10597,7 @@
 315067 Radio Board Tech
 315077 Ramsey County Dispatch
 315079 Ramsey County Dispatch
+315093 Ramsey County Dispatch
 315213 Ramsey County Automated Dispatch
 315246 Radio Board Tech
 315247 Radio Board Tech
@@ -10652,6 +10698,7 @@
 316257 Ramsey County Jail
 316258 Ramsey County Jail
 316259 Ramsey County Jail
+316260 Ramsey County Jail
 316261 Ramsey County Jail
 316262 Ramsey County Jail
 316263 Ramsey County Jail
@@ -10675,6 +10722,7 @@
 316291 Ramsey County Jail
 316293 Ramsey County Jail
 316294 Ramsey County Jail
+316295 Ramsey County Jail
 316297 Ramsey County Jail
 316298 Ramsey County Jail
 316299 Ramsey County Jail
@@ -10708,6 +10756,7 @@
 316373 Ramsey County Jail
 316374 Ramsey County Jail
 316380 Ramsey County Jail
+316381 Ramsey County Jail
 316388 Ramsey County Jail
 316396 Ramsey County Jail
 316397 Ramsey County Jail
@@ -11120,6 +11169,7 @@
 320130 St Paul PD
 320131 St Paul PD
 320133 St Paul PD
+320137 St Paul PD
 320139 St Paul PD
 320143 St Paul PD
 320144 St Paul PD
@@ -11127,6 +11177,7 @@
 320148 St Paul PD
 320149 St Paul PD
 320150 St Paul PD
+320151 St Paul PD
 320152 St Paul PD
 320153 St Paul PD
 320154 St Paul PD
@@ -11190,6 +11241,7 @@
 320254 St Paul PD
 320256 St Paul PD
 320257 St Paul PD
+320262 St Paul PD
 320263 St Paul PD
 320267 St Paul PD
 320268 St Paul PD
@@ -11256,6 +11308,7 @@
 320356 St Paul PD
 320357 St Paul PD
 320358 St Paul PD
+320359 St Paul PD
 320360 St Paul PD
 320361 St Paul PD
 320362 St Paul PD
@@ -11364,6 +11417,7 @@
 320503 St Paul PD
 320504 St Paul PD
 320505 St Paul PD
+320506 St Paul PD
 320507 St Paul PD
 320508 St Paul PD
 320509 St Paul PD
@@ -11731,6 +11785,7 @@
 321711 St Paul PD
 321712 St Paul PD
 321713 St Paul PD
+321714 St Paul PD
 321716 St Paul PD
 322011 St Paul Fire Hazmat ?
 322028 St Paul Fire Ladder 10
@@ -13079,7 +13134,7 @@
 507319 Dodge County SO
 507320 Dodge County SO
 507323 Dodge? 31xx
-507324 Dodge County SO 3118
+507324 Dodge County SO 3103
 507325 Dodge County SO 3126
 507326 Dodge? 3171
 507329 Kasson PD? 3312
@@ -14539,6 +14594,7 @@
 612388 Benton County SO
 612507 Sauk Rapids PD
 613003 Sauk Rapids PD
+614005 BCA
 616001 Sherburne County Dispatch
 616002 Sherburne County Dispatch
 616003 Sherburne County Dispatch
